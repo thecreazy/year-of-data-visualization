@@ -16,6 +16,8 @@
     "@nivo/bar": "^0.84.0",
     "@nivo/radar": "^0.84.0",
     "@nivo/radial-bar": "^0.84.0",
+    "@nivo/sankey": "^0.84.0",
+    "@tanstack/react-table": "^8.10.7",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18"

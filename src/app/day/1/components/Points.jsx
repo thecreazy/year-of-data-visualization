@@ -36,7 +36,7 @@ const MyResponsiveBar = ({ data }) => {
         tickRotation: 0,
         legendPosition: 'middle',
         legendOffset: 32,
-        truncateTickAt: 0,
+        truncateTickAt: 1,
       }}
       axisLeft={{
         tickSize: 5,
@@ -53,6 +53,12 @@ const MyResponsiveBar = ({ data }) => {
         modifiers: [['darker', 12]],
       }}
       legends={[]}
+      theme={{
+        text: {
+          fill: '#393939',
+          fontWeight: 600,
+        },
+      }}
       role='application'
       barAriaLabel={(e) => e.id + ': ' + e.formattedValue + ': ' + e.indexValue}
     />

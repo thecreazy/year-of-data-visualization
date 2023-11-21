@@ -1,9 +1,9 @@
 export default function DayLayout(props) {
   const { children } = props;
   return (
-    <section
+    <main
       id={`data-${children.props.childPropSegment}`}
-      className='relative min-h-screen'
+      className='relative min-h-screen px-[32px]'
     >
       <div className='container mx-auto py-8'>
         <h2 className='py-2 text-3xl font-bold'>
@@ -11,6 +11,6 @@ export default function DayLayout(props) {
         </h2>
         {children}
       </div>
-    </section>
+    </main>
   );
 }

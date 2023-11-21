@@ -24,7 +24,16 @@ const MyResponsiveRadar = ({ data }) => {
       dotSize={8}
       dotColor={{ theme: 'background' }}
       dotBorderWidth={1}
-      colors={['#FDB927', 'red', 'blue']}
+      colors={['#E56BAA', '#EED2EE', '#FDB927']}
+      theme={{
+        text: {
+          fill: '#393939',
+          fontWeight: 600,
+        },
+        tooltip: {
+          container: { color: '#393939' },
+        },
+      }}
       motionConfig='wobbly'
       legends={[]}
       maxValue={100}

@@ -21,7 +21,7 @@ const MyResponsiveRadialBar = ({ data, max, percentage = 0 }) => (
       endAngle={180}
       cornerRadius={11}
       colors={['#FDB927']}
-      tracksColor='#fdb9272b'
+      tracksColor='#552583'
       borderWidth={0}
       enableRadialGrid={false}
       enableCircularGrid={false}
@@ -31,8 +31,8 @@ const MyResponsiveRadialBar = ({ data, max, percentage = 0 }) => (
       motionConfig='wobbly'
       legends={[]}
     />
-    <div className='percentage-number absolute inset-y-2/4 text-lg'>
-      <span>{percentage}%</span>
+    <div className='percentage-number color-[#fff] absolute inset-y-2/4 w-full text-center text-lg text-xl'>
+      {percentage}%
     </div>
   </div>
 );
