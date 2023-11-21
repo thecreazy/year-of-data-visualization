@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+#data-1{
+    --main-bg-color: #552583;
+    --main-text-color: #FDB927;
+    --gradient-text-color: #CC8F00;
+    background-color: var(--main-bg-color);
+}
+
+#data-1 h2 {
+    font-family: 'Dancing Script', cursive;
+}
+
+#data-1 h2, #data-1 h1, #data-1 span, #data-1 h3{
+    color: var(--main-text-color);
+}
+
+#data-1 h1,  #data-1 h3{
+    color: transparent;
+    background: linear-gradient(to left, var(--main-text-color), var(--gradient-text-color));
+    background-size: 1000px 100%;
+    animation: bg 15s linear infinite;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+#data-1 .stats-percentage{
+    height: 250px;
+}
+
+#data-1 .stats-radar{
+  height: 500px;
+}
+
+
+#data-1 .background {
+  position: fixed;
+  top: -1000px;
+  left: -519px;
+  right: 0;
+  bottom: 0;
+  font-family: Cabin Sketch;
+  font-size: 120px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100vh;
+  width: 150vw;
+  opacity: 0.1;
+  transform: rotate(327deg);
+}
+
+@keyframes bg {
+    0% {
+      background-position-x: 0;
+    }
+    100% {
+      background-position-x: 10000px;
+    }
+  }
+@-webkit-keyframes  bg {
+    0% {
+      background-position-x: 0;
+    }
+    100% {
+      background-position-x: 10000px;
+    }
+  }
