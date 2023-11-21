@@ -10,7 +10,8 @@
     "format": "prettier --check --ignore-path .gitignore .",
     "format:fix": "prettier --write --ignore-path .gitignore .",
     "prepare": "husky install",
-    "lint-staged": "lint-staged"
+    "lint-staged": "lint-staged",
+    "serve": "serve out"
   },
   "dependencies": {
     "@nivo/bar": "^0.84.0",
@@ -32,6 +33,7 @@
     "postcss": "^8",
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.7",
+    "serve": "^14.2.1",
     "tailwindcss": "^3.3.0"
   },
   "lint-staged": {

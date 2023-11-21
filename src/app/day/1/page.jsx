@@ -145,6 +145,18 @@ const Page1 = () => {
           <Sankey dt1={seasonData} dt2={playoffData} />
         </div>
       </section>
+      <Ball />
+      <p className='text-center text-xs'>
+        All data are updated at the end of the 2023 and taken from the{' '}
+        <a
+          className='text-[#552583]'
+          href='https://www.nba.com/stats/player/977/career'
+          rel='noopener noreferrer'
+          target='_blank'
+        >
+          offical NBA stats
+        </a>
+      </p>
     </>
   );
 };

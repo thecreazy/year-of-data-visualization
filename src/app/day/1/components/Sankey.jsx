@@ -102,8 +102,8 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
       colors={[
         ...new Array(20).fill('rgb(255, 194, 8)'),
         'rgb(252, 82, 117)',
-        '#7A58AB',
-        '#B9BBE6',
+        'rgb(122,88,171)',
+        'rgb(185,187,230)',
       ]}
     />
   );
