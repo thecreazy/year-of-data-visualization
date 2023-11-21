@@ -19,15 +19,38 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
       nodeColor: '#FDB927',
     },
     {
+      id: 'Cleveland',
+      nodeColor: '#FDB927',
+    },
+    {
+      id: 'Miami',
+      nodeColor: '#FDB927',
+    },
+    {
+      id: 'Lakers',
+      nodeColor: '#FDB927',
+    },
+    {
       id: 'Total Scored',
       nodeColor: '#FDB927',
     },
   ];
 
-  let totalSeasons = 0;
-  let totalPlayoff = 0;
+  let totalSeasons = {
+    total: 0,
+    CLE: 0,
+    MIA: 0,
+    LAL: 0,
+  };
+  let totalPlayoff = {
+    total: 0,
+    CLE: 0,
+    MIA: 0,
+    LAL: 0,
+  };
   const seasonLinks = dt1.map((el) => {
-    totalSeasons += Number(el.points);
+    totalSeasons.total += Number(el.points);
+    totalSeasons[el.team] += Number(el.points);
     return {
       source: el.season,
       target: 'Season',
@@ -36,7 +59,8 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
   });
 
   const playoffLinks = dt2.map((el) => {
-    totalPlayoff += Number(el.points);
+    totalPlayoff.total += Number(el.points);
+    totalPlayoff[el.team] += Number(el.points);
     return {
       source: el.season,
       target: 'Playoff',
@@ -49,13 +73,48 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
     ...playoffLinks,
     {
       source: 'Season',
-      target: 'Total Scored',
-      value: totalSeasons,
+      target: 'Cleveland',
+      value: totalSeasons.CLE,
+    },
+    {
+      source: 'Season',
+      target: 'Miami',
+      value: totalSeasons.MIA,
+    },
+    {
+      source: 'Season',
+      target: 'Lakers',
+      value: totalSeasons.LAL,
     },
     {
       source: 'Playoff',
+      target: 'Cleveland',
+      value: totalPlayoff.CLE,
+    },
+    {
+      source: 'Playoff',
+      target: 'Miami',
+      value: totalPlayoff.MIA,
+    },
+    {
+      source: 'Playoff',
+      target: 'Lakers',
+      value: totalPlayoff.LAL,
+    },
+    {
+      source: 'Cleveland',
       target: 'Total Scored',
-      value: totalPlayoff,
+      value: totalPlayoff.CLE + totalSeasons.CLE,
+    },
+    {
+      source: 'Miami',
+      target: 'Total Scored',
+      value: totalPlayoff.MIA + totalSeasons.MIA,
+    },
+    {
+      source: 'Lakers',
+      target: 'Total Scored',
+      value: totalPlayoff.LAL + totalSeasons.LAL,
     },
   ];
 
@@ -102,6 +161,9 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
         ...new Array(21).fill('rgb(255, 194, 8)'),
         'rgb(122,88,171)',
         'rgb(185,187,230)',
+        '#860038',
+        '#98002E',
+        '#552583',
       ]}
     />
   );
