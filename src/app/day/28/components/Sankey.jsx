@@ -75,7 +75,6 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
       value: Number(el.points),
     };
   });
-  console.log(seasonLinks);
 
   const playoffLinks = dt2.map((el) => {
     totalPlayoff.total += Number(el.points);
