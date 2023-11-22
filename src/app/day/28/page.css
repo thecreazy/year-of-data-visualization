@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
 
-#data-11 {
+#data-28 {
   --main-color: #393939;
   --main-text-color: #552583;
   --gradient-text-color: #9e71c8;
@@ -10,27 +10,27 @@
   background: linear-gradient(184deg, #f7f7f7 0%, #f5ebff 100%);
 }
 
-#data-11 {
+#data-28 {
   color: var(--main-color);
 }
 
-#data-11 h2 {
+#data-28 h2 {
   font-family: 'Dancing Script', cursive;
 }
 
-#data-11 h2,
-#data-11 h1,
-#data-11 span,
-#data-11 h3 {
+#data-28 h2,
+#data-28 h1,
+#data-28 span,
+#data-28 h3 {
   color: var(--main-text-color);
 }
 
-#data-11 span {
+#data-28 span {
   font-weight: 600;
 }
 
-#data-11 h1,
-#data-11 h3 {
+#data-28 h1,
+#data-28 h3 {
   color: transparent;
   background: linear-gradient(
     to left,
@@ -43,15 +43,15 @@
   -webkit-background-clip: text;
 }
 
-#data-11 .stats-percentage {
+#data-28 .stats-percentage {
   height: 250px;
 }
 
-#data-11 .stats-radar {
+#data-28 .stats-radar {
   height: 500px;
 }
 
-#data-11 .background {
+#data-28 .background {
   position: fixed;
   top: -1000px;
   left: -519px;
@@ -66,6 +66,13 @@
   width: 150vw;
   opacity: 0.1;
   transform: rotate(327deg);
+}
+
+#data-28 .logo-background {
+  background: url('/nba/big/lal.svg') no-repeat;
+  position: fixed;
+  top: 0;
+  opacity: 0.1;
 }
 
 @keyframes bg {
