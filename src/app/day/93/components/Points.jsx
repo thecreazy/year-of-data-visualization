@@ -13,8 +13,6 @@ const MyResponsiveBar = ({ data }) => {
   const keys = Object.keys(showData[0]);
   keys.shift();
 
-  console.log(showData);
-
   return (
     <ResponsiveBar
       data={showData}

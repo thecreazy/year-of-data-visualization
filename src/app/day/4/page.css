@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+#data-4 {
+  --main-color: #393939;
+  --main-text-color: #cc0000;
+  --gradient-text-color: #f11435;
+  --gradient-bg-color: #250247;
+  background-color: #f7f7f7;
+  color: var(--main-color);
+  background: linear-gradient(184deg, #f7f7f7 0%, #fbeaec 100%);
+}
+
+#data-4 {
+  color: var(--main-color);
+}
+
+#data-4 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-4 h2,
+#data-4 h1,
+#data-4 h3 {
+  color: var(--main-text-color);
+}
+
+#data-4 h1,
+#data-4 h3 {
+  color: transparent;
+  background: linear-gradient(
+    to left,
+    var(--main-text-color),
+    var(--gradient-text-color)
+  );
+  background-size: 1000px 100%;
+  animation: bg 15s linear infinite;
+  background-clip: text;
+  -webkit-background-clip: text;
+}

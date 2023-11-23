@@ -1,22 +1,28 @@
 'use client';
 import { ResponsiveRadialBar } from '@nivo/radial-bar';
+import { useIntersectionObserver } from '@uidotdev/usehooks';
 import { useEffect, useState } from 'react';
-import useIsInViewport from 'use-is-in-viewport';
 
 const MyResponsiveRadialBar = ({ data, max, percentage = 0 }) => {
   const [chartData, setChartData] = useState(0);
-  const [isInViewport, targetRef] = useIsInViewport({ threshold: 50 });
+
+  const [ref, entry] = useIntersectionObserver({
+    threshold: 0.5,
+    root: null,
+    rootMargin: '0px',
+  });
+
   useEffect(() => {
-    if (isInViewport) {
+    if (entry?.isIntersecting) {
       let animation = setTimeout(() => setChartData(data), 300);
       return () => {
         clearTimeout(animation);
       };
     }
-  }, [isInViewport, data]);
+  }, [entry, data]);
 
   return (
-    <div className='relative h-full w-full' ref={targetRef}>
+    <div className='relative h-full w-full' ref={ref}>
       <ResponsiveRadialBar
         data={[
           {
