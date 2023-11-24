@@ -63,20 +63,3 @@
   opacity: 0.1;
   transform: rotate(327deg);
 }
-
-@keyframes bg {
-  0% {
-    background-position-x: 0;
-  }
-  100% {
-    background-position-x: 10000px;
-  }
-}
-@-webkit-keyframes bg {
-  0% {
-    background-position-x: 0;
-  }
-  100% {
-    background-position-x: 10000px;
-  }
-}
