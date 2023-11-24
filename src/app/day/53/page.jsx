@@ -5,23 +5,23 @@ import dayjs from 'dayjs';
 import { searchData } from './data/search';
 import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
 import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
-import messiData from './data/messi';
-import ronaldoData from './data/ronaldo';
+import arancinaData from './data/arancina';
+import arancinoData from './data/arancino';
 import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
 
-const Page35 = () => {
+const Page53 = () => {
   const emptyValue = [
-    { label: 'Lionel Messi', data: [] },
-    { label: 'Cristiano Ronaldo', data: [] },
+    { label: 'Arancina', data: [] },
+    { label: 'Arancino', data: [] },
   ];
   const lineData = searchData.reduce((acc, curr) => {
     acc[0].data.push({
       date: dayjs(dayjs(curr.date, 'YYYY-MM')).toDate(),
-      value: curr['Lionel Messi'],
+      value: curr['Arancina'],
     });
     acc[1].data.push({
       date: dayjs(dayjs(curr.date, 'YYYY-MM')).toDate(),
-      value: curr['Cristiano Ronaldo'],
+      value: curr['Arancino'],
     });
     return acc;
   }, emptyValue);
@@ -30,18 +30,24 @@ const Page35 = () => {
     <>
       <section id='infos'>
         <h1 className='py-2 text-center font-mono text-5xl font-bold'>
-          Lionel Messi vs. Cristiano Ronaldo
+          Arancina vs. Arancino
         </h1>
         <div className='flex justify-center py-4'>
           <img
             className='rounded-2xl'
-            src='/gtrend/messivsronaldo.jpg'
-            alt='messi vs ronaldo image'
+            src='/gtrend/arancinavsarancino.jpg'
+            alt='arancina vs arancino image'
           />
         </div>
         <p className='text-center font-mono text-xs'>
-          Image credit: Messi vs. Cristiano en la versión cómic del Mundial
-          según Marvel y ESPN. Twitter/ESPN
+          Image credit:{' '}
+          <a
+            href='https://www.youtube.com/watch?app=desktop&v=p0sZIJuXGqk'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            Sicily&apos;s Journey Youtube Channel
+          </a>
         </p>
         <h3 className='py-4 text-center font-mono text-3xl'>
           Global comparison between Google searches from 2004 to today
@@ -52,7 +58,7 @@ const Page35 = () => {
           <ReactChartsLine
             data={lineData}
             initialHeight={400}
-            colors={['#43A1D5', '#DA291C']}
+            colors={['#f4b6b9', '#01ae9b']}
             width='100%'
           />
         </div>
@@ -69,19 +75,19 @@ const Page35 = () => {
       </h4>
       <div className='mb-[50px] mt-[30px] flex h-[400px] w-full justify-center'>
         <NivoGeoMap
-          data1={messiData}
-          data2={ronaldoData}
-          colors={['#43A1D5', '#DA291C', '#A8515A']}
+          data1={arancinaData}
+          data2={arancinoData}
+          colors={['#f4b6b9', '#01ae9b', '#A3B3AF']}
         />
       </div>
       <section id='global'>
-        <h4 className='py-4 pt-8 text-center font-mono text-3xl text-[#43A1D5]'>
-          Lionel Messi
+        <h4 className='py-4 pt-8 text-center font-mono text-3xl text-[#f4b6b9]'>
+          Arancina
         </h4>
         <div className='mb-[20px] flex h-[400px] w-full justify-center'>
           <NivoChoropleth
-            data={messiData}
-            colors={['#4FC1FF', '#4AB6F0', '#43A1D5', '#3E99C9', '#3A8FBD']}
+            data={arancinaData}
+            colors={['#FFC8C2', '#FFC3C2', '#f4b6b9', '#EDB2B5', '#E6ACAF']}
             valueFormat='.2s'
           />
         </div>
@@ -95,13 +101,13 @@ const Page35 = () => {
         </p>
       </section>
       <section id='global'>
-        <h4 className='py-4 pt-8 text-center font-mono text-3xl text-[#DA291C]'>
-          Cristiano Ronaldo
+        <h4 className='py-4 pt-8 text-center font-mono text-3xl text-[#01ae9b]'>
+          Arancino
         </h4>
         <div className='mb-[20px] flex h-[400px] w-full justify-center'>
           <NivoChoropleth
-            data={ronaldoData}
-            colors={['#FF3021', '#E62B1E', '#DA291C', '#C9261A', '#B82318']}
+            data={arancinoData}
+            colors={['#02E6CB', '#02C4AE', '#01ae9b', '#02A390', '#019483']}
             valueFormat='.2s'
           />
         </div>
@@ -117,8 +123,8 @@ const Page35 = () => {
       <p className='pt-[30px] text-center text-xs'>
         All data are updated at the end of the 2023 and taken from{' '}
         <a
-          className='text-[#43A1D5]'
-          href='https://trends.google.com/trends/explore?date=all&q=%2Fm%2F06qjgc,%2Fm%2F02xt6q'
+          className='text-[#f4b6b9]'
+          href='https://trends.google.com/trends/explore?date=all&q=arancina,arancino&hl=en'
           rel='noopener noreferrer'
           target='_blank'
         >
@@ -129,4 +135,4 @@ const Page35 = () => {
   );
 };
 
-export default Page35;
+export default Page53;
