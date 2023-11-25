@@ -20,17 +20,18 @@ const Page28 = () => {
       <div className='logo-background h-[50vw] w-[50vw]' />
       <section id='infos'>
         <h1 className='py-2 font-mono text-4xl font-bold'>
-          Shaquille O'Neal Statistics data
+          Shaquille O&apos;Neal Statistics data
         </h1>
         <p className='py-2 font-mono text-lg'>
-          Shaquille O'Neal played <span>19</span> seasons for <span>6</span>{' '}
-          teams, including the Lakers and Heat. He averaged <span>23.7</span>{' '}
-          points, <span>10.9</span> rebounds, <span>2.5</span>assists and{' '}
-          <span>2.3</span> blocks in <span>1,207</span> regular-season games. He
-          was selected to play in <span>15</span> All-Star games. He won the
-          Rookie of the Year award, <span>1</span> MVP award, <span>3</span>{' '}
-          Finals MVP awards and <span>4</span> NBA championships. He was
-          inducted into the Hall of Fame in <span>2016</span>.
+          Shaquille O&apos;Neal played <span>19</span> seasons for{' '}
+          <span>6</span> teams, including the Lakers and Heat. He averaged{' '}
+          <span>23.7</span> points, <span>10.9</span> rebounds, <span>2.5</span>
+          assists and <span>2.3</span> blocks in <span>1,207</span>{' '}
+          regular-season games. He was selected to play in <span>15</span>{' '}
+          All-Star games. He won the Rookie of the Year award, <span>1</span>{' '}
+          MVP award, <span>3</span> Finals MVP awards and <span>4</span> NBA
+          championships. He was inducted into the Hall of Fame in{' '}
+          <span>2016</span>.
         </p>
         <p className='py-2 font-mono text-lg font-bold'>
           <span>Awards:</span>
