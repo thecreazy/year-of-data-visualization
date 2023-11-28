@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+#data-195 {
+  --main-text-color: #393939;
+  --gradient-text-color: #f11435;
+  --bg-color: #fde9eb;
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-195 h2 {
+  font-family: 'Dancing Script', cursive;
+}
