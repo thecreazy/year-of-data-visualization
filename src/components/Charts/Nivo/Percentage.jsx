@@ -3,7 +3,7 @@ import { ResponsiveRadialBar } from '@nivo/radial-bar';
 import { useIntersectionObserver } from '@uidotdev/usehooks';
 import { useEffect, useState } from 'react';
 
-const MyResponsiveRadialBar = ({ data, max, percentage = 0 }) => {
+const NivoPercentage = ({ data, max, percentage = 0, colors, tracksColor }) => {
   const [chartData, setChartData] = useState(0);
 
   const [ref, entry] = useIntersectionObserver({
@@ -40,8 +40,8 @@ const MyResponsiveRadialBar = ({ data, max, percentage = 0 }) => {
         startAngle={-180}
         endAngle={180}
         cornerRadius={11}
-        colors={['#ED174C']}
-        tracksColor='#006BB6'
+        colors={colors}
+        tracksColor={tracksColor}
         borderWidth={0}
         enableRadialGrid={false}
         enableCircularGrid={false}
@@ -51,11 +51,11 @@ const MyResponsiveRadialBar = ({ data, max, percentage = 0 }) => {
         motionConfig='wobbly'
         legends={[]}
       />
-      <div className='percentage-number color-[#fff] absolute inset-y-2/4 w-full text-center text-lg text-xl'>
+      <div className='percentage-number color-[#fff] absolute inset-y-2/4 w-full text-center text-2xl'>
         {percentage}%
       </div>
     </div>
   );
 };
 
-export default MyResponsiveRadialBar;
+export default NivoPercentage;

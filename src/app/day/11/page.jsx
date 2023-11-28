@@ -6,10 +6,8 @@ import Table from './components/Table';
 import './page.css';
 import seasonData from './data/season';
 import playoffData from './data/playoff';
+import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
 
-const Percentage = dynamic(() => import('./components/Percentage'), {
-  ssr: false,
-});
 const Radar = dynamic(() => import('./components/Radar'), { ssr: false });
 const Points = dynamic(() => import('./components/Points'), { ssr: false });
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
@@ -56,27 +54,47 @@ const Page11 = () => {
         <h4 className='text-center font-mono text-xl'>STATISTICS</h4>
         <div className='flex flex-row py-16 max-md:h-fit max-md:flex-wrap max-md:py-4'>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
-            <Percentage data={50.5} max={100} percentage={50.5} />
+            <NivoPercentage
+              data={50.5}
+              max={100}
+              percentage={50.5}
+              colors={['#FDB927']}
+              tracksColor='#552583'
+            />
             <p className='text-center font-mono text-lg'>
               Field Goal Percentage
             </p>
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
-            <Percentage data={73.5} max={100} percentage={73.5} />
+            <NivoPercentage
+              data={73.5}
+              max={100}
+              percentage={73.5}
+              colors={['#FDB927']}
+              tracksColor='#552583'
+            />
 
             <p className='text-center font-mono text-lg'>
               Free Throw Percentage
             </p>
           </div>
           <div className='stats-percentage basis-1/4  max-md:basis-full max-md:pb-10'>
-            <Percentage data={34.5} max={100} percentage={34.5} />
+            <NivoPercentage
+              data={34.5}
+              max={100}
+              percentage={34.5}
+              colors={['#FDB927']}
+              tracksColor='#552583'
+            />
             <p className='text-center font-mono text-lg'>3-Point Percentage</p>
           </div>
           <div className='stats-percentage basis-1/4  max-md:basis-full max-md:pb-10'>
-            <Percentage
+            <NivoPercentage
               data={38995}
               max={38995}
               percentage={((38995 / 38995) * 100).toFixed(1)}
+              colors={['#FDB927']}
+              tracksColor='#552583'
             />
             <p className='text-center font-mono text-lg'>
               Points scored <span>(record)</span>
@@ -102,28 +120,48 @@ const Page11 = () => {
         <h4 className='text-center font-mono text-xl'>STATISTICS</h4>
         <div className='flex flex-row py-16 max-md:h-fit max-md:flex-wrap max-md:py-4'>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
-            <Percentage data={49.5} max={100} percentage={49.5} />
+            <NivoPercentage
+              data={49.5}
+              max={100}
+              percentage={49.5}
+              colors={['#FDB927']}
+              tracksColor='#552583'
+            />
             <p className='text-center font-mono text-lg '>
               Field Goal Percentage
             </p>
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
-            <Percentage data={74.1} max={100} percentage={74.1} />
+            <NivoPercentage
+              data={74.1}
+              max={100}
+              percentage={74.1}
+              colors={['#FDB927']}
+              tracksColor='#552583'
+            />
             <p className='text-center font-mono text-lg'>
               Free Throw Percentage
             </p>
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
-            <Percentage data={33.1} max={100} percentage={33.1} />
+            <NivoPercentage
+              data={33.1}
+              max={100}
+              percentage={33.1}
+              colors={['#FDB927']}
+              tracksColor='#552583'
+            />
             <p className='text-center font-mono text-lg max-md:basis-full'>
               3-Point Percentage
             </p>
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
-            <Percentage
+            <NivoPercentage
               data={8023}
               max={8023}
               percentage={((8023 / 8023) * 100).toFixed(1)}
+              colors={['#FDB927']}
+              tracksColor='#552583'
             />
             <p className='text-center font-mono text-lg'>
               Points scored <span>(record)</span>
