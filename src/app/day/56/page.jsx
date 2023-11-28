@@ -8,9 +8,6 @@ import seasonData from './data/season';
 import playoffData from './data/playoff';
 import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
 
-const Percentage = dynamic(() => import('./components/Percentage'), {
-  ssr: false,
-});
 const Radar = dynamic(() => import('./components/Radar'), { ssr: false });
 const Points = dynamic(() => import('./components/Points'), { ssr: false });
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
