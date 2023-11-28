@@ -10,15 +10,15 @@ import {
 import NivoBoxPlot from '@internal/components/Charts/Nivo/BoxPlot';
 import NivoHeatMapCanvas from '@internal/components/Charts/Nivo/HeatMapCanvas';
 
-const Page4 = () => {
+const Page46 = () => {
   return (
     <>
       <section id='infos'>
         <h1 className='py-2 text-center font-mono text-5xl font-bold max-md:text-4xl'>
-          Italian&apos;s Historical temperatures
+          Spanish&apos;s Historical temperatures
         </h1>
         <h3 className='max-md:text-md py-2 text-center font-mono text-xl font-bold'>
-          Historical Italian data from 1979 to 2022 on max temperatures
+          Historical Spanish data from 1979 to 2022 on max temperatures
           calculated from 3 different locations
         </h3>
       </section>
@@ -59,9 +59,9 @@ const Page4 = () => {
             className='text-bold text-[#cc0000]'
             rel='noopener noreferrer'
             target='_blank'
-            href='https://www.google.com/maps/place/Monte+Cimone/@43.9208703,10.4208565,6.88z/data=!4m6!3m5!1s0x132a9f56d64ef4a1:0x1532fbb50301da3c!8m2!3d44.1938129!4d10.7014529!16s%2Fm%2F03h5zym?entry=ttu'
+            href='https://www.google.com/maps/place/42291+Izana,+Soria,+Spain/@40.9757204,-4.6563201,6.24z/data=!4m6!3m5!1s0xd44cf67df6f781f:0xebb14a7055a554e4!8m2!3d41.6727869!4d-2.6091593!16s%2Fg%2F122914ws?entry=ttu'
           >
-            Monte Cimone (2165mt)
+            IZANA (2371mt)
           </a>
         </p>
         <div className='flex h-[9000px] flex-row py-12 max-xl:h-[6000px]  max-md:h-[3500px]'>
@@ -104,4 +104,4 @@ const Page4 = () => {
   );
 };
 
-export default Page4;
+export default Page46;
