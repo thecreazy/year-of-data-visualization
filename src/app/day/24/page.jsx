@@ -11,12 +11,12 @@ import {
   zoneTotalData,
 } from './utils/getFormattedData';
 
-const Page5 = () => {
+const Page24 = () => {
   return (
     <>
       <section id='infos'>
         <h1 className='py-2 text-center font-mono text-5xl font-bold max-md:text-4xl'>
-          Italia Median households income
+          Italian Median households income
         </h1>
         <h3 className='max-md:text-md py-2 text-center font-mono text-xl font-bold'>
           Statistics of annual median households income from 2003 to 2021
@@ -85,7 +85,7 @@ const Page5 = () => {
       <p className='pt-[30px] text-center text-xs '>
         All data are updated at the end of the 2023 and taken from{' '}
         <a
-          className='text-bold text-[#2b2a4c]'
+          className='font-bold text-[#2b2a4c]'
           href='https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,HOU,1.0/HOU_INCOME/DCCV_REDNETFAMFONTERED/IT1,32_292_DF_DCCV_REDNETFAMFONTERED_2,1.0'
           rel='noopener noreferrer'
           target='_blank'
@@ -97,4 +97,4 @@ const Page5 = () => {
   );
 };
 
-export default Page5;
+export default Page24;

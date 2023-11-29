@@ -56,7 +56,7 @@ const Page46 = () => {
         <p className='text-center'>
           Data from{' '}
           <a
-            className='text-bold text-[#cc0000]'
+            className='font-bold text-[#cc0000]'
             rel='noopener noreferrer'
             target='_blank'
             href='https://www.google.com/maps/place/42291+Izana,+Soria,+Spain/@40.9757204,-4.6563201,6.24z/data=!4m6!3m5!1s0xd44cf67df6f781f:0xebb14a7055a554e4!8m2!3d41.6727869!4d-2.6091593!16s%2Fg%2F122914ws?entry=ttu'

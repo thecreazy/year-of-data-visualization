@@ -56,7 +56,7 @@ const Page195 = () => {
         <p className='text-center'>
           Data from{' '}
           <a
-            className='text-bold text-[#cc0000]'
+            className='font-bold text-[#cc0000]'
             rel='noopener noreferrer'
             target='_blank'
             href='https://www.google.com/maps/place/Omu/@45.5213671,25.3104692,9.93z/data=!4m6!3m5!1s0x40b33f1b8a72d7c3:0x75f181f89b9e0be2!8m2!3d45.4458609!4d25.4564381!16s%2Fg%2F121p63mc?entry=ttu'

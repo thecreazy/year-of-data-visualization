@@ -56,7 +56,7 @@ const Page244 = () => {
         <p className='text-center'>
           Data from{' '}
           <a
-            className='text-bold text-[#cc0000]'
+            className='font-bold text-[#cc0000]'
             rel='noopener noreferrer'
             target='_blank'
             href='https://www.google.com/maps/place/840+32+Kl%C3%B6vsj%C3%B6,+Sweden/@63.008617,-3.907807,5z/data=!4m6!3m5!1s0x466f182af2b398a7:0xa03450954ed8e30!8m2!3d62.5282992!4d14.1944191!16s%2Fm%2F05zy82d?entry=ttu'

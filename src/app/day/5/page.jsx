@@ -86,7 +86,7 @@ const Page5 = () => {
       <p className='pt-[30px] text-center text-xs '>
         All data are updated at the end of the 2022 and taken from{' '}
         <a
-          className='text-bold text-[#2b2a4c]'
+          className='font-bold text-[#2b2a4c]'
           href='https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_BIRTHFERT/DCIS_NATI2/IT1,25_74_DF_DCIS_NATI2_1,1.0'
           rel='noopener noreferrer'
           target='_blank'

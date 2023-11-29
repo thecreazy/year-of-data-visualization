@@ -56,7 +56,7 @@ const Page2 = () => {
         <p className='text-center'>
           Data from{' '}
           <a
-            className='text-bold text-[#cc0000]'
+            className='font-bold text-[#cc0000]'
             rel='noopener noreferrer'
             target='_blank'
             href='https://www.google.com/maps/place/Monte+Cimone/@43.9208703,10.4208565,6.88z/data=!4m6!3m5!1s0x132a9f56d64ef4a1:0x1532fbb50301da3c!8m2!3d44.1938129!4d10.7014529!16s%2Fm%2F03h5zym?entry=ttu'

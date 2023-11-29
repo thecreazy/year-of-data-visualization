@@ -56,7 +56,7 @@ const Page90 = () => {
         <p className='text-center'>
           Data from{' '}
           <a
-            className='text-bold text-[#cc0000]'
+            className='font-bold text-[#cc0000]'
             rel='noopener noreferrer'
             target='_blank'
             href='https://www.google.com/maps/place/Alwen+Reservoir/@53.0775733,-3.6028027,14z/data=!3m1!4b1!4m6!3m5!1s0x48653958048d5699:0xee9a970e486d6b5!8m2!3d53.0689688!4d-3.5733007!16zL20vMGM1cGo3?entry=ttu'
