@@ -13,6 +13,7 @@ const MyResponsiveRadar = ({ data }) => {
   });
   const keys = Object.keys(showData[0]);
   keys.shift();
+  console.log(showData);
 
   return (
     <ResponsiveRadar
