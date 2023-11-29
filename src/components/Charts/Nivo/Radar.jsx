@@ -4,7 +4,7 @@ import { ResponsiveRadar } from '@nivo/radar';
 
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
-const NivoRadar = ({ data, keys, indexBy, colors, maxValue }) => {
+const NivoRadar = ({ data, keys, indexBy, colors, maxValue, theme }) => {
   const { isSmallScreen } = useScreenDetect();
   return (
     <ResponsiveRadar
@@ -22,15 +22,19 @@ const NivoRadar = ({ data, keys, indexBy, colors, maxValue }) => {
       dotColor={{ theme: 'background' }}
       dotBorderWidth={1}
       colors={colors}
-      theme={{
-        text: {
-          fill: '#393939',
-          fontWeight: 600,
-        },
-        tooltip: {
-          container: { color: '#393939' },
-        },
-      }}
+      theme={
+        theme
+          ? theme
+          : {
+              text: {
+                fill: '#393939',
+                fontWeight: 600,
+              },
+              tooltip: {
+                container: { color: '#393939' },
+              },
+            }
+      }
       motionConfig='wobbly'
       legends={[]}
       maxValue={maxValue}

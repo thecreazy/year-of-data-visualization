@@ -5,16 +5,21 @@ import './page.css';
 import Ball from '@internal/components/Ball';
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
 import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
+import NivoRadar from '@internal/components/Charts/Nivo/Radar';
+import { getBasketData } from '@internal/utils/getBasketData';
 
 import Table from './components/Table';
 import playoffData from './data/playoff';
 import seasonData from './data/season';
-import { getData } from './utils/getData';
 
-const Radar = dynamic(() => import('./components/Radar'), { ssr: false });
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
 
-const { pointsSesonData, pointsPlayoffData } = getData(seasonData, playoffData);
+const {
+  pointsSesonData,
+  pointsPlayoffData,
+  radarSeasonData,
+  radarPlayoffData,
+} = getBasketData(seasonData, playoffData);
 
 const Page1 = () => {
   return (
@@ -105,7 +110,13 @@ const Page1 = () => {
         <div className='flex flex-row py-16 max-md:h-fit max-md:flex-wrap max-md:py-4'>
           <div className='stats-radar basis-1/2 max-md:basis-full'>
             <p className='text-center font-mono text-lg'>Main stats per year</p>
-            <Radar data={seasonData} />
+            <NivoRadar
+              data={radarSeasonData}
+              keys={Object.keys(radarSeasonData[0]).slice(1)}
+              colors={['#E56BAA', '#9e71c8', '#FDB927']}
+              indexBy='season'
+              maxValue={100}
+            />
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full '>
             <p className='text-center font-mono text-lg'>Points per year</p>
@@ -180,7 +191,13 @@ const Page1 = () => {
         <div className='flex flex-row py-16 max-md:h-fit max-md:flex-wrap max-md:py-4'>
           <div className='stats-radar basis-1/2 max-md:basis-full'>
             <p className='text-center font-mono text-lg'>Main stats per year</p>
-            <Radar data={playoffData} />
+            <NivoRadar
+              data={radarPlayoffData}
+              keys={Object.keys(radarPlayoffData[0]).slice(1)}
+              colors={['#E56BAA', '#9e71c8', '#FDB927']}
+              indexBy='season'
+              maxValue={100}
+            />
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full'>
             <p className='text-center font-mono text-lg'>Points per year</p>
