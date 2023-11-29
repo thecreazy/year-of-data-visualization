@@ -1,4 +1,5 @@
 'use client';
+
 import { ResponsiveRadialBar } from '@nivo/radial-bar';
 import { useIntersectionObserver } from '@uidotdev/usehooks';
 import { useEffect, useState } from 'react';

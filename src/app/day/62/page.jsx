@@ -1,13 +1,14 @@
-import './page.css';
-
 import dayjs from 'dayjs';
 
-import { searchData } from './data/search';
-import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+import './page.css';
+
 import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
-import risottoData from './data/risotto';
-import paellaData from './data/paella';
 import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
+import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+
+import paellaData from './data/paella';
+import risottoData from './data/risotto';
+import { searchData } from './data/search';
 
 const Page62 = () => {
   const emptyValue = [

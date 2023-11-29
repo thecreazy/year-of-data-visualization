@@ -1,4 +1,5 @@
 'use client';
+
 import { ResponsiveHeatMapCanvas } from '@nivo/heatmap';
 
 const NivoHeatMapCanvas = ({ data, colors }) => {

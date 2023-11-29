@@ -1,4 +1,5 @@
 'use client';
+
 import { ResponsiveSankey } from '@nivo/sankey';
 
 const MyResponsiveSankey = ({ dt1, dt2 }) => {

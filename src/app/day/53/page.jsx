@@ -1,13 +1,14 @@
-import './page.css';
-
 import dayjs from 'dayjs';
 
-import { searchData } from './data/search';
-import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+import './page.css';
+
 import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
+import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
+import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+
 import arancinaData from './data/arancina';
 import arancinoData from './data/arancino';
-import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
+import { searchData } from './data/search';
 
 const Page53 = () => {
   const emptyValue = [

@@ -1,14 +1,15 @@
+import './page.css';
+
+import NivoBar from '@internal/components/Charts/Nivo/Bar';
+import NivoItalyChoropleth from '@internal/components/Charts/Nivo/ItalianChrorepleth';
 import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
 
-import './page.css';
 import {
   italyTotalData,
-  zoneTotalData,
-  lastYearDataByRegion,
   lastYearComparisonDataByRegion,
+  lastYearDataByRegion,
+  zoneTotalData,
 } from './utils/getFormattedData';
-import NivoItalyChoropleth from '@internal/components/Charts/Nivo/ItalianChrorepleth';
-import NivoBar from '@internal/components/Charts/Nivo/Bar';
 
 const Page5 = () => {
   return (

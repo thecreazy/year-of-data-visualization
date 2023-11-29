@@ -1,14 +1,15 @@
-import './page.css';
-
 import dayjs from 'dayjs';
 
-import { searchData } from './data/search';
-import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+import './page.css';
+
 import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
-import elettricData from './data/elettric';
-import dieselData from './data/diesel';
-import petrolData from './data/petrol';
 import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
+import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+
+import dieselData from './data/diesel';
+import elettricData from './data/elettric';
+import petrolData from './data/petrol';
+import { searchData } from './data/search';
 
 const Page73 = () => {
   const emptyValue = [

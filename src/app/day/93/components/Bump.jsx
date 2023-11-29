@@ -1,4 +1,5 @@
 'use client';
+
 import { ResponsiveBump } from '@nivo/bump';
 
 const MyResponsiveAreaBump = ({ data }) => {

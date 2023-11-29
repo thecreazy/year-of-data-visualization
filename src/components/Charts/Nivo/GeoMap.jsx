@@ -1,5 +1,7 @@
 'use client';
+
 import { ResponsiveGeoMap } from '@nivo/geo';
+
 import countries from '../../../utils/geojson/countries.json';
 
 const NivoGeoMap = ({

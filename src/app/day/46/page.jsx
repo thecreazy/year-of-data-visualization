@@ -1,14 +1,14 @@
 import './page.css';
 
+import NivoBoxPlot from '@internal/components/Charts/Nivo/BoxPlot';
 import NivoCalendar from '@internal/components/Charts/Nivo/Calendar';
+import NivoHeatMapCanvas from '@internal/components/Charts/Nivo/HeatMapCanvas';
 
 import {
   historical,
-  lastYearData,
   lastFiveYearsData,
+  lastYearData,
 } from './utils/getFormattedData';
-import NivoBoxPlot from '@internal/components/Charts/Nivo/BoxPlot';
-import NivoHeatMapCanvas from '@internal/components/Charts/Nivo/HeatMapCanvas';
 
 const Page46 = () => {
   return (

@@ -1,15 +1,16 @@
 import dynamic from 'next/dynamic';
 
-import Ball from '@internal/components/Ball';
-import Table from './components/Table';
-
 import './page.css';
-import seasonData from './data/season';
-import playoffData from './data/playoff';
-import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
-import NivoBar from '@internal/components/Charts/Nivo/Bar';
 
+import Ball from '@internal/components/Ball';
+import NivoBar from '@internal/components/Charts/Nivo/Bar';
+import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
+
+import Table from './components/Table';
+import playoffData from './data/playoff';
+import seasonData from './data/season';
 import { getData } from './utils/getData';
+
 const { pointsSesonData, pointsPlayoffData } = getData(seasonData, playoffData);
 
 const Radar = dynamic(() => import('./components/Radar'), { ssr: false });

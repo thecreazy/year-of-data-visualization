@@ -1,13 +1,14 @@
-import './page.css';
-
 import dayjs from 'dayjs';
 
-import { searchData } from './data/search';
-import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+import './page.css';
+
 import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
-import elonMuskData from './data/musk';
-import zuckData from './data/zuck';
 import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
+import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+
+import elonMuskData from './data/musk';
+import { searchData } from './data/search';
+import zuckData from './data/zuck';
 
 const Page4 = () => {
   const emptyValue = [

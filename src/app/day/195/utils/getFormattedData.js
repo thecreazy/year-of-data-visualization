@@ -1,10 +1,11 @@
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
 
-import montain from '../data/montain.json';
-import hill from '../data/hill.json';
-import seaLevel from '../data/seaLevel.json';
 import filterHistoricalDataPerYear from '@internal/utils/filterHistoricalDataPerYear';
+
+import hill from '../data/hill.json';
+import montain from '../data/montain.json';
+import seaLevel from '../data/seaLevel.json';
 
 dayjs.extend(customParseFormat);
 

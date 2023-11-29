@@ -1,7 +1,10 @@
 'use client';
+
 import { ResponsiveChoropleth } from '@nivo/geo';
-import countries from '../../../utils/geojson/italy.json';
+
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
+
+import countries from '../../../utils/geojson/italy.json';
 
 const NivoItalyChoropleth = ({ data, colors, valueFormat, domain }) => {
   const { isSmallScreen } = useScreenDetect();

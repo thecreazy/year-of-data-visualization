@@ -1,8 +1,10 @@
 'use client';
-import { useScreenDetect } from '@internal/hooks/useScreenDetect';
+
 import { ResponsiveBoxPlot } from '@nivo/boxplot';
 import { useIntersectionObserver } from '@uidotdev/usehooks';
 import { useEffect, useState } from 'react';
+
+import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
 const NivoBoxPlot = ({ data, colors }) => {
   const [chartData, setChartData] = useState([]);

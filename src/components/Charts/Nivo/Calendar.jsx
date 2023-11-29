@@ -1,4 +1,5 @@
 'use client';
+
 import { ResponsiveCalendarCanvas } from '@nivo/calendar';
 import { useEffect, useState } from 'react';
 

@@ -1,6 +1,8 @@
 'use client';
-import { useScreenDetect } from '@internal/hooks/useScreenDetect';
+
 import { ResponsiveBar } from '@nivo/bar';
+
+import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
 const NivoBar = ({
   data,

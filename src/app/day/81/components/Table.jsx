@@ -1,13 +1,14 @@
 'use client';
+
 import {
+  createColumnHelper,
   flexRender,
   getCoreRowModel,
-  useReactTable,
   getSortedRowModel,
-  createColumnHelper,
+  useReactTable,
 } from '@tanstack/react-table';
-import { useState } from 'react';
 import Image from 'next/image';
+import { useState } from 'react';
 
 const Table = ({ data }) => {
   const [sorting, setSorting] = useState([]);

@@ -1,5 +1,7 @@
 'use client';
+
 import { ResponsiveChoropleth } from '@nivo/geo';
+
 import countries from '../../../utils/geojson/countries.json';
 
 const NivoChoropleth = ({ data, colors, valueFormat }) => {

@@ -1,4 +1,5 @@
 'use client';
+
 import { ResponsiveRadar } from '@nivo/radar';
 
 const MyResponsiveRadar = ({ data }) => {
