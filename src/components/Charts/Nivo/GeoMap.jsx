@@ -1,6 +1,6 @@
 'use client';
 import { ResponsiveGeoMap } from '@nivo/geo';
-import countries from '../../../utils/countries.json';
+import countries from '../../../utils/geojson/countries.json';
 
 const NivoGeoMap = ({
   data1,
@@ -45,12 +45,6 @@ const NivoGeoMap = ({
       return colors[3];
     }
     if (dt1.value === dt2.value && dt2.value === dt3.value) return colors[3];
-    console.log(
-      dt1.value,
-      dt2.value,
-      dt3.value,
-      Math.max(dt1.value, dt2.value, dt3.value)
-    );
     const maxValue = Math.max(dt1.value, dt2.value, dt3.value);
     const indexes = [dt1.value, dt2.value, dt3.value].reduce((a, e, i) => {
       if (e === maxValue) a.push(i);

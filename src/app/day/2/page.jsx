@@ -10,7 +10,7 @@ import {
 import NivoBoxPlot from '@internal/components/Charts/Nivo/BoxPlot';
 import NivoHeatMapCanvas from '@internal/components/Charts/Nivo/HeatMapCanvas';
 
-const Page4 = () => {
+const Page2 = () => {
   return (
     <>
       <section id='infos'>
@@ -104,4 +104,4 @@ const Page4 = () => {
   );
 };
 
-export default Page4;
+export default Page2;

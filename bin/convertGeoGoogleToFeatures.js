@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const countries = require('../src/utils/countries.json');
+const countries = require('../src/utils/geojson/countries.json');
 const data = require('./data.json');
 
 const fixedName = (country) => {

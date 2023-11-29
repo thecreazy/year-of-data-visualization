@@ -1,11 +1,10 @@
-#data-90 {
-  --main-text-color: #393939;
-  --gradient-text-color: #f11435;
-  --bg-color: #fde9eb;
+#data-5 {
+  --main-text-color: #2b2a4c;
+  --bg-color: #eee2de;
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }
 
-#data-90 h2 {
+#data-5 h2 {
   font-family: 'Dancing Script', cursive;
 }
