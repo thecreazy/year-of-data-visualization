@@ -2,7 +2,14 @@
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 import { ResponsiveBar } from '@nivo/bar';
 
-const NivoBar = ({ data, keys, margin, colors, mobileMargin }) => {
+const NivoBar = ({
+  data,
+  keys,
+  margin,
+  colors,
+  mobileMargin,
+  labelTextColor,
+}) => {
   const { isSmallScreen } = useScreenDetect();
   return (
     <ResponsiveBar
@@ -39,10 +46,14 @@ const NivoBar = ({ data, keys, margin, colors, mobileMargin }) => {
       }}
       labelSkipWidth={12}
       labelSkipHeight={12}
-      labelTextColor={{
-        from: 'color',
-        modifiers: [['brighter', 1.6]],
-      }}
+      labelTextColor={
+        labelTextColor
+          ? labelTextColor
+          : {
+              from: 'color',
+              modifiers: [['brighter', 1.6]],
+            }
+      }
       legends={[]}
     />
   );

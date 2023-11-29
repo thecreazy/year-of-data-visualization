@@ -1,16 +1,21 @@
 import dynamic from 'next/dynamic';
 
 import Ball from '@internal/components/Ball';
+import NivoBar from '@internal/components/Charts/Nivo/Bar';
+import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
+
 import Table from './components/Table';
 
 import './page.css';
 import seasonData from './data/season';
 import playoffData from './data/playoff';
-import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
+
+import { getData } from './utils/getData';
 
 const Radar = dynamic(() => import('./components/Radar'), { ssr: false });
-const Points = dynamic(() => import('./components/Points'), { ssr: false });
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
+
+const { pointsSesonData, pointsPlayoffData } = getData(seasonData, playoffData);
 
 const Page1 = () => {
   return (
@@ -24,7 +29,7 @@ const Page1 = () => {
           <span>25.0</span> points, <span>5.2</span> rebounds and{' '}
           <span>4.7</span> assists in <span>1,346</span> regular-season games.
           He was selected to play in <span>18</span> All-Star games. He won{' '}
-          <snap>1</snap> MVP award, <span>2</span> Finals MVP awards and{' '}
+          <span>1</span> MVP award, <span>2</span> Finals MVP awards and{' '}
           <span>5</span> NBA championships. He was inducted into the Hall of
           Fame in <span>2020</span>.
         </p>
@@ -105,7 +110,17 @@ const Page1 = () => {
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full '>
             <p className='text-center font-mono text-lg'>Points per year</p>
-            <Points data={seasonData} />
+            <NivoBar
+              data={pointsSesonData}
+              keys={['Points']}
+              margin={{ top: 30, bottom: 50, left: 100 }}
+              mobileMargin={{ top: 30, bottom: 50, left: 30 }}
+              colors={['#FDB927']}
+              labelTextColor={{
+                from: 'color',
+                modifiers: [['darker', 12]],
+              }}
+            />
           </div>
         </div>
         <div className='h-data flex flex-row py-16 max-lg:overflow-scroll'>
@@ -170,7 +185,17 @@ const Page1 = () => {
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full'>
             <p className='text-center font-mono text-lg'>Points per year</p>
-            <Points data={playoffData} />
+            <NivoBar
+              data={pointsPlayoffData}
+              keys={['Points']}
+              margin={{ top: 30, bottom: 50, left: 100 }}
+              mobileMargin={{ top: 30, bottom: 50, left: 30 }}
+              colors={['#FDB927']}
+              labelTextColor={{
+                from: 'color',
+                modifiers: [['darker', 12]],
+              }}
+            />
           </div>
         </div>
         <div className='flex h-auto flex-row py-16 max-lg:overflow-scroll'>

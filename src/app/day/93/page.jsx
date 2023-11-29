@@ -8,9 +8,12 @@ import seasonData from './data/season';
 import playoffData from './data/playoff';
 import { Flag } from './components/Flag';
 import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
+import NivoBar from '@internal/components/Charts/Nivo/Bar';
+
+import { getData } from './utils/getData';
+const { pointsSesonData, pointsPlayoffData } = getData(seasonData, playoffData);
 
 const Radar = dynamic(() => import('./components/Radar'), { ssr: false });
-const Points = dynamic(() => import('./components/Points'), { ssr: false });
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
 const Bump = dynamic(() => import('./components/Bump'), { ssr: false });
 
@@ -106,7 +109,14 @@ const Page93 = () => {
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full '>
             <p className='text-center font-mono text-lg'>Points per year</p>
-            <Points data={seasonData} />
+            <NivoBar
+              data={pointsSesonData}
+              keys={['Points']}
+              margin={{ top: 30, bottom: 50, left: 100 }}
+              mobileMargin={{ top: 30, bottom: 50, left: 30 }}
+              colors={['#ED174C']}
+              labelTextColor='white'
+            />
           </div>
         </div>
         <div className='flex flex-row py-16 max-md:hidden max-md:h-fit max-md:flex-wrap  max-md:py-4'>
@@ -177,7 +187,14 @@ const Page93 = () => {
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full'>
             <p className='text-center font-mono text-lg'>Points per year</p>
-            <Points data={playoffData} />
+            <NivoBar
+              data={pointsPlayoffData}
+              keys={['Points']}
+              margin={{ top: 30, bottom: 50, left: 100 }}
+              mobileMargin={{ top: 30, bottom: 50, left: 30 }}
+              colors={['#ED174C']}
+              labelTextColor='white'
+            />
           </div>
         </div>
         <div className='flex flex-row py-16 max-md:hidden max-md:h-fit max-md:flex-wrap  max-md:py-4'>

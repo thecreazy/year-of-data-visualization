@@ -7,9 +7,12 @@ import './page.css';
 import seasonData from './data/season';
 import playoffData from './data/playoff';
 import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
+import NivoBar from '@internal/components/Charts/Nivo/Bar';
+
+import { getData } from './utils/getData';
+const { pointsSesonData, pointsPlayoffData } = getData(seasonData, playoffData);
 
 const Radar = dynamic(() => import('./components/Radar'), { ssr: false });
-const Points = dynamic(() => import('./components/Points'), { ssr: false });
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
 
 const Page28 = () => {
@@ -75,7 +78,6 @@ const Page28 = () => {
               colors={['#FDB927']}
               tracksColor='#552583'
             />
-
             <p className='text-center font-mono text-lg'>
               Free Throw Percentage
             </p>
@@ -110,7 +112,17 @@ const Page28 = () => {
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full '>
             <p className='text-center font-mono text-lg'>Points per year</p>
-            <Points data={seasonData} />
+            <NivoBar
+              data={pointsSesonData}
+              keys={['Points']}
+              margin={{ top: 30, bottom: 50, left: 100 }}
+              mobileMargin={{ top: 30, bottom: 50, left: 30 }}
+              colors={['#FDB927']}
+              labelTextColor={{
+                from: 'color',
+                modifiers: [['darker', 12]],
+              }}
+            />
           </div>
         </div>
         <div className='h-data flex flex-row py-16 max-lg:overflow-scroll'>
@@ -177,7 +189,17 @@ const Page28 = () => {
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full'>
             <p className='text-center font-mono text-lg'>Points per year</p>
-            <Points data={playoffData} />
+            <NivoBar
+              data={pointsPlayoffData}
+              keys={['Points']}
+              margin={{ top: 30, bottom: 50, left: 100 }}
+              mobileMargin={{ top: 30, bottom: 50, left: 30 }}
+              colors={['#FDB927']}
+              labelTextColor={{
+                from: 'color',
+                modifiers: [['darker', 12]],
+              }}
+            />
           </div>
         </div>
         <div className='flex h-auto flex-row py-16 max-lg:overflow-scroll'>
