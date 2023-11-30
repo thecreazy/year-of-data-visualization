@@ -1,7 +1,12 @@
+import dynamic from 'next/dynamic';
 import Image from 'next/image';
 
-import { BackgroundAnimation } from '@internal/components/Home/BackgroundAnimation';
 import Links from '@internal/components/Home/Links';
+
+const BackgroundAnimation = dynamic(
+  () => import('../components/Home/BackgroundAnimation'),
+  { ssr: false }
+);
 
 export default function Home() {
   return (

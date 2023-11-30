@@ -15,12 +15,13 @@ let parameters = {
 let guiHue;
 
 class World {
-  constructor(width, height, container) {
+  constructor(width, height, container, context) {
     this.renderer = new THREE.WebGLRenderer({
       alpha: true,
       antialias: true,
     });
-    this.renderer.setPixelRatio(window.devicePixelRatio);
+    this.context = context;
+    this.renderer.setPixelRatio(context.devicePixelRatio);
     this.renderer.setSize(width, height);
     this.container = container;
     this.scene = new THREE.Scene();
@@ -99,7 +100,7 @@ class World {
   }
 }
 
-export const BackgroundAnimation = () => {
+const BackgroundAnimation = () => {
   let mousePos = { x: 0, y: 0, px: 0, py: 0 };
   let world;
   let gui = new dat.GUI();
@@ -156,24 +157,22 @@ export const BackgroundAnimation = () => {
     world.plane.material.uniforms.uDisplacement.value = parameters.displacement;
   }
 
-  function handleWindowResize() {
-    world.updateSize(window.innerWidth, window.innerHeight);
-  }
-
-  function handleMouseMove(e) {
-    mousePos.x = e.clientX;
-    mousePos.y = e.clientY;
-    mousePos.px = mousePos.x / window.innerWidth;
-    mousePos.py = 1.0 - mousePos.y / window.innerHeight;
-    world.mouseMove(mousePos);
-  }
-
   useEffect(() => {
-    console.log('entro');
+    function handleWindowResize() {
+      world.updateSize(window.innerWidth, window.innerHeight);
+    }
+    function handleMouseMove(e) {
+      mousePos.x = e.clientX;
+      mousePos.y = e.clientY;
+      mousePos.px = mousePos.x / window.innerWidth;
+      mousePos.py = 1.0 - mousePos.y / window.innerHeight;
+      world.mouseMove(mousePos);
+    }
     world = new World(
       window.innerWidth,
       window.innerHeight,
-      document.getElementById('backgroud')
+      document.getElementById('backgroud'),
+      window
     );
     window.addEventListener('resize', handleWindowResize, false);
     document.addEventListener('mousemove', handleMouseMove, false);
@@ -189,3 +188,5 @@ export const BackgroundAnimation = () => {
     <div id='backgroud' className='fixed w-full h-full top-0 left-0'></div>
   );
 };
+
+export default BackgroundAnimation;

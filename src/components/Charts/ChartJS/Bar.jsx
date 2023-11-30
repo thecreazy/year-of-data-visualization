@@ -20,8 +20,6 @@ ChartJS.register(
   Legend
 );
 
-const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
-
 const ChartJSBar = ({ labels, data }) => {
   const { isSmallScreen } = useScreenDetect();
   const dataSet = {
@@ -41,7 +39,7 @@ const ChartJSBar = ({ labels, data }) => {
   };
   return (
     <Bar
-      height={isSmallScreen ? '500px' : null}
+      height={isSmallScreen ? '500px' : undefined}
       options={options}
       data={dataSet}
     />

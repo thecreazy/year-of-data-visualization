@@ -1,9 +1,9 @@
 'use client';
 
+import dynamic from 'next/dynamic';
+
 import './page.css';
 
-import AnimatedNumber from '@internal/components/AnimatedNumber/AnimatedNumber';
-import ChartJSBar from '@internal/components/Charts/ChartJS/Bar';
 import ResponsiveTable from '@internal/components/ResponsiveTable/ResponsiveTable';
 
 import './utils/getFormattedData';
@@ -14,6 +14,16 @@ import {
   tableData,
   totals,
 } from './utils/getFormattedData';
+
+const AnimatedNumber = dynamic(
+  () => import('../../../components/AnimatedNumber/AnimatedNumber'),
+  { ssr: false }
+);
+
+const ChartJSBar = dynamic(
+  () => import('../../../components/Charts/ChartJS/Bar'),
+  { ssr: false }
+);
 
 const Page24 = () => {
   return (
