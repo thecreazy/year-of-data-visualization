@@ -46,7 +46,7 @@ const Page9 = () => {
           />
         </div>
       </section>
-      <section id='per-year' className='mt-10'>
+      <section id='per-country' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
           Percentage per country:
           <Select
