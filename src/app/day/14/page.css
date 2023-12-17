@@ -1,0 +1,21 @@
+#data-14 {
+  --main-text-color: #173e69;
+  --title-text-color: #43a1d5;
+  --middle-text-color: #d5b048;
+  --bg-color: #ffffff;
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-14 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-14 .li-title,
+#data-14 .page-title {
+  color: var(--title-text-color);
+}
+
+#data-14 .middle-title {
+  color: var(--middle-text-color);
+}
