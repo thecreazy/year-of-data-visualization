@@ -1,3 +1,5 @@
+import dayjs from 'dayjs';
+import dayOfYear from 'dayjs/plugin/dayOfYear';
 import Link from 'next/link';
 
 import { metadata as metadata1 } from '../../app/day/1/layout';
@@ -44,11 +46,15 @@ const metadata = {
   244: metadata244,
 };
 
+dayjs.extend(dayOfYear);
+
 export default function Links() {
+  const todayDay = dayjs().dayOfYear();
   return (
     <ul className='text-center text-2xl'>
       {Object.keys(metadata).map((day) => {
         if (!metadata[day]) return null;
+        if (Number(day) > todayDay) return null;
         return (
           <li key={`day-${day}`} className='pb-4'>
             <Link
