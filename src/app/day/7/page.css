@@ -1,10 +1,21 @@
 #data-7 {
-  --main-text-color: #2b2a4c;
-  --bg-color: #eee2de;
+  --main-text-color: #002d72;
+  --title-text-color: #046a38;
+  --middle-text-color: #da291c;
+  --bg-color: #f0ece5;
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }
 
 #data-7 h2 {
   font-family: 'Dancing Script', cursive;
+}
+
+#data-7 .li-title,
+#data-7 .page-title {
+  color: var(--title-text-color);
+}
+
+#data-7 .middle-title {
+  color: var(--middle-text-color);
 }

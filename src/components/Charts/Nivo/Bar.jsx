@@ -11,6 +11,9 @@ const NivoBar = ({
   colors,
   mobileMargin,
   labelTextColor,
+  groupMode = 'grouped',
+  layout = 'horizontal',
+  mobileLayout = 'vertical',
 }) => {
   const { isSmallScreen } = useScreenDetect();
   return (
@@ -20,8 +23,8 @@ const NivoBar = ({
       indexBy='id'
       margin={isSmallScreen ? mobileMargin : margin}
       padding={0.3}
-      groupMode='grouped'
-      layout={isSmallScreen ? 'vertical' : 'horizontal'}
+      groupMode={groupMode}
+      layout={isSmallScreen ? mobileLayout : layout}
       valueScale={{ type: 'linear' }}
       colors={colors}
       borderColor={{

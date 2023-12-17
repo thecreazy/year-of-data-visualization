@@ -48,23 +48,28 @@ const ResponsiveTable = ({
   };
 
   return (
-    <Table className='w-full table-auto'>
-      <Thead>{getHead()}</Thead>
-      <Tbody>
-        {table.getRowModel().rows.map((row) => (
-          <Tr
-            key={row.id}
-            className={`border-b border-black  hover:bg-[${hoverColor}]`}
-          >
-            {row.getVisibleCells().map((cell) => (
-              <Td key={cell.id} className={`p-2 text-[${bodyColor}] font-bold`}>
-                {flexRender(cell.column.columnDef.cell, cell.getContext())}
-              </Td>
-            ))}
-          </Tr>
-        ))}
-      </Tbody>
-    </Table>
+    <div className='max-lg:overflow-scroll'>
+      <Table className='w-full table-auto'>
+        <Thead>{getHead()}</Thead>
+        <Tbody>
+          {table.getRowModel().rows.map((row) => (
+            <Tr
+              key={row.id}
+              className={`border-b border-black hover:bg-[${hoverColor}]`}
+            >
+              {row.getVisibleCells().map((cell) => (
+                <Td
+                  key={cell.id}
+                  className={`p-2 text-[${bodyColor}] font-bold`}
+                >
+                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                </Td>
+              ))}
+            </Tr>
+          ))}
+        </Tbody>
+      </Table>
+    </div>
   );
 };
 

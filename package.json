@@ -17,6 +17,7 @@
     "@ant-design/charts": "^2.0.1",
     "@nivo/bar": "^0.84.0",
     "@nivo/boxplot": "^0.84.0",
+    "@nivo/bullet": "^0.84.0",
     "@nivo/bump": "^0.84.0",
     "@nivo/calendar": "^0.84.0",
     "@nivo/geo": "^0.84.0",

@@ -1,5 +1,5 @@
 export const infos = {
-  title: `Cristiano Ronaldo Statistics data`,
+  title: `Cristiano Ronaldo Statistics`,
   description: `Cristiano Ronaldo is one of the greatest football players in history, known for his exceptional skill, athleticism, and goal-scoring prowess. Born on February 5, 1985, in Madeira, Portugal, Ronaldo has had an illustrious career playing for top clubs like Sporting Lisbon, Manchester United, Real Madrid, and Juventus.`,
   awards: [
     {
