@@ -16,6 +16,7 @@ const NivoBar = ({
   mobileLayout = 'vertical',
   indexBy = 'id',
   xAxis = false,
+  legend = [],
 }) => {
   const { isSmallScreen } = useScreenDetect();
   const xAxisDetail = {
@@ -62,7 +63,13 @@ const NivoBar = ({
               modifiers: [['brighter', 1.6]],
             }
       }
-      legends={[]}
+      legends={legend}
+      theme={{
+        text: {
+          fontWeight: 600,
+          fontSize: isSmallScreen ? 8 : null,
+        },
+      }}
     />
   );
 };

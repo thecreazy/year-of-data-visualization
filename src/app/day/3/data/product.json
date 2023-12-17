@@ -1,0 +1,282 @@
+[
+  {
+    "time": "Q2 15",
+    "iphone": "40.28",
+    "ipad": "5.42",
+    "mac": "5.6",
+    "other hardware": "1.6",
+    "services": "4.9"
+  },
+  {
+    "time": "Q3 15",
+    "iphone": "31.36",
+    "ipad": "4.53",
+    "mac": "6",
+    "other hardware": "2.6",
+    "services": "5"
+  },
+  {
+    "time": "Q4 15",
+    "iphone": "32.2",
+    "ipad": "4.27",
+    "mac": "6.8",
+    "other hardware": "3",
+    "services": "5"
+  },
+  {
+    "time": "Q1 16",
+    "iphone": "51.63",
+    "ipad": "7.08",
+    "mac": "6.7",
+    "other hardware": "4.3",
+    "services": "6"
+  },
+  {
+    "time": "Q2 16",
+    "iphone": "32.85",
+    "ipad": "4.41",
+    "mac": "5.1",
+    "other hardware": "2.1",
+    "services": "5.9"
+  },
+  {
+    "time": "Q3 16",
+    "iphone": "24.04",
+    "ipad": "4.87",
+    "mac": "5.2",
+    "other hardware": "2.2",
+    "services": "5.9"
+  },
+  {
+    "time": "Q4 16",
+    "iphone": "28.16",
+    "ipad": "4.25",
+    "mac": "5.7",
+    "other hardware": "2.3",
+    "services": "6.3"
+  },
+  {
+    "time": "Q1 17",
+    "iphone": "54.37",
+    "ipad": "5.53",
+    "mac": "7.2",
+    "other hardware": "4",
+    "services": "7.1"
+  },
+  {
+    "time": "Q2 17",
+    "iphone": "33.24",
+    "ipad": "3.88",
+    "mac": "5.8",
+    "other hardware": "2.8",
+    "services": "7"
+  },
+  {
+    "time": "Q3 17",
+    "iphone": "24.84",
+    "ipad": "4.96",
+    "mac": "5.5",
+    "other hardware": "2.7",
+    "services": "7.2"
+  },
+  {
+    "time": "Q4 17",
+    "iphone": "28.84",
+    "ipad": "4.83",
+    "mac": "7.1",
+    "other hardware": "3.2",
+    "services": "8.5"
+  },
+  {
+    "time": "Q1 18",
+    "iphone": "61.57",
+    "ipad": "5.86",
+    "mac": "6.8",
+    "other hardware": "5.4",
+    "services": "8.4"
+  },
+  {
+    "time": "Q2 18",
+    "iphone": "38.03",
+    "ipad": "4.11",
+    "mac": "5.8",
+    "other hardware": "3.9",
+    "services": "9.1"
+  },
+  {
+    "time": "Q3 18",
+    "iphone": "29.9",
+    "ipad": "4.74",
+    "mac": "5.3",
+    "other hardware": "3.7",
+    "services": "9.5"
+  },
+  {
+    "time": "Q4 18",
+    "iphone": "36.75",
+    "ipad": "3.98",
+    "mac": "7.3",
+    "other hardware": "4.2",
+    "services": "9.9"
+  },
+  {
+    "time": "Q1 19",
+    "iphone": "51.98",
+    "ipad": "6.72",
+    "mac": "6.8",
+    "other hardware": "7.3",
+    "services": "10.8"
+  },
+  {
+    "time": "Q2 19",
+    "iphone": "31.05",
+    "ipad": "4.87",
+    "mac": "5.8",
+    "other hardware": "5.1",
+    "services": "11.4"
+  },
+  {
+    "time": "Q3 19",
+    "iphone": "25.98",
+    "ipad": "5.02",
+    "mac": "5.2",
+    "other hardware": "5.5",
+    "services": "11.4"
+  },
+  {
+    "time": "Q4 19",
+    "iphone": "33.36",
+    "ipad": "4.65",
+    "mac": "6.9",
+    "other hardware": "6.5",
+    "services": "12.5"
+  },
+  {
+    "time": "Q1 20",
+    "iphone": "55.95",
+    "ipad": "5.97",
+    "mac": "7.1",
+    "other hardware": "10",
+    "services": "12.7"
+  },
+  {
+    "time": "Q2 20",
+    "iphone": "28.96",
+    "ipad": "4.36",
+    "mac": "5.3",
+    "other hardware": "6.2",
+    "services": "13.3"
+  },
+  {
+    "time": "Q3 20",
+    "iphone": "26.41",
+    "ipad": "6.58",
+    "mac": "7",
+    "other hardware": "6.4",
+    "services": "13.1"
+  },
+  {
+    "time": "Q4 20",
+    "iphone": "26.44",
+    "ipad": "6.79",
+    "mac": "9",
+    "other hardware": "7.8",
+    "services": "14.5"
+  },
+  {
+    "time": "Q1 21",
+    "iphone": "65.61",
+    "ipad": "8.44",
+    "mac": "8.6",
+    "other hardware": "12.9",
+    "services": "15.7"
+  },
+  {
+    "time": "Q2 21",
+    "iphone": "47.93",
+    "ipad": "7.8",
+    "mac": "9.1",
+    "other hardware": "7.8",
+    "services": "16.9"
+  },
+  {
+    "time": "Q3 21",
+    "iphone": "39.57",
+    "ipad": "7.3",
+    "mac": "8.2",
+    "other hardware": "8.7",
+    "services": "17.4"
+  },
+  {
+    "time": "Q4 21",
+    "iphone": "38.86",
+    "ipad": "8.2",
+    "mac": "8.2",
+    "other hardware": "8.78",
+    "services": "18.2"
+  },
+  {
+    "time": "Q1 22",
+    "iphone": "71.62",
+    "ipad": "7.24",
+    "mac": "10.8",
+    "other hardware": "14.7",
+    "services": "19.5"
+  },
+  {
+    "time": "Q2 22",
+    "iphone": "50.57",
+    "ipad": "7.64",
+    "mac": "10.4",
+    "other hardware": "8.8",
+    "services": "19.8"
+  },
+  {
+    "time": "Q3 22",
+    "iphone": "40.66",
+    "ipad": "7.22",
+    "mac": "7.3",
+    "other hardware": "8.08",
+    "services": "19.6"
+  },
+  {
+    "time": "Q4 22",
+    "iphone": "42.62",
+    "ipad": "7.17",
+    "mac": "11.5",
+    "other hardware": "9.6",
+    "services": "19.1"
+  },
+  {
+    "time": "Q1 23",
+    "iphone": "65.77",
+    "ipad": "9.39",
+    "mac": "7.7",
+    "other hardware": "13.4",
+    "services": "20.7"
+  },
+  {
+    "time": "Q2 23",
+    "iphone": "51.33",
+    "ipad": "6.67",
+    "mac": "7.1",
+    "other hardware": "8.7",
+    "services": "20.9"
+  },
+  {
+    "time": "Q3 23",
+    "iphone": "39.6",
+    "ipad": "5.79",
+    "mac": "6.84",
+    "other hardware": "8.28",
+    "services": "21.2"
+  },
+  {
+    "time": "Q4 23",
+    "iphone": "43.8",
+    "ipad": "6.44",
+    "mac": "7.6",
+    "other hardware": "9.3",
+    "services": "22.3"
+  }
+]

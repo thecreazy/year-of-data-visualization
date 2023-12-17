@@ -1,0 +1,74 @@
+[
+  {
+    "Year": "2015",
+    "Americas": "93.8",
+    "Europe": "50.3",
+    "China": "58.7",
+    "Japan": "15.7",
+    "Rest of Asia Pacific": "15"
+  },
+  {
+    "Year": "2016",
+    "Americas": "86.6",
+    "Europe": "49.8",
+    "China": "48.5",
+    "Japan": "16.9",
+    "Rest of Asia Pacific": "13.6"
+  },
+  {
+    "Year": "2017",
+    "Americas": "96.6",
+    "Europe": "54.9",
+    "China": "51.6",
+    "Japan": "15.3",
+    "Rest of Asia Pacific": "14.1"
+  },
+  {
+    "Year": "2018",
+    "Americas": "112",
+    "Europe": "62.4",
+    "China": "51.9",
+    "Japan": "21.7",
+    "Rest of Asia Pacific": "17.4"
+  },
+  {
+    "Year": "2019",
+    "Americas": "116.9",
+    "Europe": "60.2",
+    "China": "43.6",
+    "Japan": "21.5",
+    "Rest of Asia Pacific": "17.8"
+  },
+  {
+    "Year": "2020",
+    "Americas": "124.5",
+    "Europe": "68.6",
+    "China": "40.3",
+    "Japan": "21.4",
+    "Rest of Asia Pacific": "19.6"
+  },
+  {
+    "Year": "2021",
+    "Americas": "153.3",
+    "Europe": "89.3",
+    "China": "68.3",
+    "Japan": "28.4",
+    "Rest of Asia Pacific": "26.3"
+  },
+  {
+    "Year": "2022",
+    "Americas": "169.6",
+    "Europe": "95.1",
+    "China": "74.2",
+    "Japan": "25.9",
+    "Rest of Asia Pacific": "29.3"
+  },
+  {
+    "Year": "2023",
+    "Americas": "162.5",
+    "Europe": "94.2",
+    "China": "72.5",
+    "Japan": "24.2",
+    "Rest of Asia Pacific": "29.6"
+  }
+]

@@ -4,6 +4,7 @@ import Link from 'next/link';
 
 import { metadata as metadata1 } from '../../app/day/1/layout';
 import { metadata as metadata2 } from '../../app/day/2/layout';
+import { metadata as metadata3 } from '../../app/day/3/layout';
 import { metadata as metadata4 } from '../../app/day/4/layout';
 import { metadata as metadata5 } from '../../app/day/5/layout';
 import { metadata as metadata7 } from '../../app/day/7/layout';
@@ -29,6 +30,7 @@ import { metadata as metadata244 } from '../../app/day/244/layout';
 const metadata = {
   1: metadata1,
   2: metadata2,
+  3: metadata3,
   4: metadata4,
   5: metadata5,
   7: metadata7,
@@ -66,6 +68,7 @@ export default function Links() {
             <Link
               className='font-mono hover:text-neutral-400'
               href={`/day/${day}`}
+              data-image-url={`/public/screen/${day}.png`}
             >
               {metadata[day].title}
             </Link>
