@@ -17,8 +17,15 @@ const NivoBar = ({
   indexBy = 'id',
   xAxis = false,
   legend = [],
+  yFormat,
+  theme = {
+    text: {
+      fontWeight: 600,
+    },
+  },
 }) => {
   const { isSmallScreen } = useScreenDetect();
+  theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
   const xAxisDetail = {
     tickSize: 5,
     tickPadding: 5,
@@ -27,9 +34,12 @@ const NivoBar = ({
     legendOffset: 32,
     truncateTickAt: 0,
   };
+  let formatY = undefined;
+  if (yFormat === 'b') formatY = (value) => `${value}B$`;
   return (
     <ResponsiveBar
       data={data}
+      valueFormat={formatY}
       keys={keys}
       indexBy={indexBy}
       margin={isSmallScreen ? mobileMargin : margin}
@@ -52,6 +62,7 @@ const NivoBar = ({
         legendPosition: 'middle',
         legendOffset: -40,
         truncateTickAt: 0,
+        format: yFormat === 'b' ? (value) => `${value}B$` : undefined,
       }}
       labelSkipWidth={12}
       labelSkipHeight={12}
@@ -64,12 +75,7 @@ const NivoBar = ({
             }
       }
       legends={legend}
-      theme={{
-        text: {
-          fontWeight: 600,
-          fontSize: isSmallScreen ? 8 : null,
-        },
-      }}
+      theme={theme}
     />
   );
 };

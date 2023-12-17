@@ -2,12 +2,20 @@ import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
 import NivoLine from '@internal/components/Charts/Nivo/Line';
-import NivoStream from '@internal/components/Charts/Nivo/Stream';
+import ResponsiveTable from '@internal/components/ResponsiveTable/ResponsiveTable';
 
 import { infos } from './config';
-import { lineData, productData, revenueData } from './utils/getFormattedData';
+import {
+  countriesData,
+  countryData,
+  lineData,
+  revenueData,
+  revenuesData,
+  tableColumns,
+  tableColumnsCountry,
+} from './utils/getFormattedData';
 
-const Page3 = () => {
+const Page12 = () => {
   return (
     <>
       <section id='infos'>
@@ -43,7 +51,7 @@ const Page3 = () => {
               legendPosition: 'middle',
             }}
             xFormat='time:%Y-%m-%d'
-            colors={['#2d6a4f']}
+            colors={['#FF5A5F']}
             margin={{ top: 20, right: 0, bottom: 70, left: 30 }}
             mobileMargin={{ top: 20, right: 0, bottom: 100, left: 30 }}
             enablePoints={false}
@@ -52,20 +60,20 @@ const Page3 = () => {
       </section>
       <section id='revenues-by-region' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Apple revenue by region 2015 to 2023 ($bn)
+          Airbnb Revenues vs Profit
         </h3>
         <div className='mb-[20px] flex h-[570px] w-full justify-center max-md:h-[300px] max-xl:h-[400px]'>
           <NivoBar
             data={revenueData}
             keys={Object.keys(revenueData[0]).slice(1)}
             indexBy='year'
-            colors={['#ee9b00', '#ca6702', '#bb3e03', '#ae2012', '#9b2226']}
+            colors={['#00A699', '#FF5A5F']}
             labelTextColor='#fff'
-            margin={{ left: 30, bottom: 50, top: 70 }}
+            margin={{ left: 70, bottom: 50, top: 70 }}
             mobileMargin={{ left: 30, bottom: 50 }}
             mobileLayout='vertical'
+            yFormat='b'
             layout='vertical'
-            groupMode='stacked'
             legend={[
               {
                 dataFrom: 'keys',
@@ -83,48 +91,77 @@ const Page3 = () => {
             ]}
           />
         </div>
+        <p className='font-mono text-lg'>Stats</p>
+        <ResponsiveTable
+          columns={tableColumns}
+          data={revenuesData}
+          headerColor='#FF5A5F'
+          bodyColor='#173e69'
+          hoverColor='#e1e1e0'
+        />
       </section>
-      <section id='revenues-by-product' className='mt-10'>
+      <section id='revenues-by-country' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Apple revenue by product (%)
+          Airbnb Gross Revenue By Country
         </h3>
         <div className='mb-[20px] flex h-[570px] w-full justify-center max-md:h-[300px] max-xl:h-[400px]'>
-          <NivoStream
-            data={productData}
-            keys={Object.keys(productData[0]).slice(1)}
-            margin={{ top: 50, right: 0, bottom: 90, left: 40 }}
-            mobileMargin={{ top: 10, right: 0, bottom: 50, left: 40 }}
+          <NivoBar
+            data={countryData}
+            keys={Object.keys(countryData[0]).slice(1)}
+            indexBy='country'
+            colors={['#00A699', '#FF5A5F']}
+            labelTextColor='#fff'
+            margin={{ left: 70, bottom: 50, top: 70 }}
+            mobileMargin={{ left: 30, bottom: 50 }}
+            mobileLayout='vertical'
+            yFormat='b'
+            layout='vertical'
             legend={[
               {
-                anchor: 'bottom',
+                dataFrom: 'keys',
+                anchor: 'top',
                 direction: 'row',
-                translateY: 70,
-                itemWidth: 120,
+                justify: false,
+                translateX: 0,
+                translateY: -50,
+                itemsSpacing: 2,
+                itemWidth: 100,
                 itemHeight: 20,
-                itemTextColor: 'black',
-                symbolSize: 12,
-                symbolShape: 'circle',
+                itemDirection: 'left-to-right',
+                symbolSize: 20,
               },
             ]}
-            valueFormat='%'
-            indexBy='time'
-            colors={['#ee9b00', '#ca6702', '#bb3e03', '#ae2012', '#9b2226']}
+            theme={{
+              text: {
+                fontWeight: 600,
+                fontSize: 12,
+              },
+            }}
           />
         </div>
+        <p className='font-mono text-lg'>Stats</p>
+        <ResponsiveTable
+          columns={tableColumnsCountry}
+          data={countriesData}
+          headerColor='#FF5A5F'
+          bodyColor='#173e69'
+          hoverColor='#e1e1e0'
+        />
       </section>
-      <p className='text-center text-xs'>
+      <p className='text-center text-xs mt-10'>
         All data are updated at the end of the 2023 and taken from{' '}
         <a
-          className='text-[#1b4332] font-bold'
-          href='https://finance.yahoo.com/quote/AAPL/history?period1=1545004800&period2=1702771200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true'
+          className='text-[#484848] font-bold'
+          href='https://finance.yahoo.com/quote/ABNB/analysis?p=ABNB'
           rel='noopener noreferrer'
           target='_blank'
         >
           Yahoo finance
         </a>
       </p>
+      <div className='text-[#FF5A5F]' />
     </>
   );
 };
 
-export default Page3;
+export default Page12;
