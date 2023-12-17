@@ -35,7 +35,7 @@ const ResponsiveTable = dynamic(
   { ssr: false }
 );
 
-const Page7 = () => {
+const Page14 = () => {
   return (
     <>
       <section id='infos'>
@@ -261,4 +261,4 @@ const Page7 = () => {
   );
 };
 
-export default Page7;
+export default Page14;

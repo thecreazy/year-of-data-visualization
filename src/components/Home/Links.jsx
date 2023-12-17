@@ -7,6 +7,7 @@ import { metadata as metadata2 } from '../../app/day/2/layout';
 import { metadata as metadata4 } from '../../app/day/4/layout';
 import { metadata as metadata5 } from '../../app/day/5/layout';
 import { metadata as metadata7 } from '../../app/day/7/layout';
+import { metadata as metadata9 } from '../../app/day/9/layout';
 import { metadata as metadata11 } from '../../app/day/11/layout';
 import { metadata as metadata14 } from '../../app/day/14/layout';
 import { metadata as metadata24 } from '../../app/day/24/layout';
@@ -30,6 +31,7 @@ const metadata = {
   4: metadata4,
   5: metadata5,
   7: metadata7,
+  9: metadata9,
   11: metadata11,
   14: metadata14,
   24: metadata24,

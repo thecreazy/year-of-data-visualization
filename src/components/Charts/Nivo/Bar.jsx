@@ -14,13 +14,23 @@ const NivoBar = ({
   groupMode = 'grouped',
   layout = 'horizontal',
   mobileLayout = 'vertical',
+  indexBy = 'id',
+  xAxis = false,
 }) => {
   const { isSmallScreen } = useScreenDetect();
+  const xAxisDetail = {
+    tickSize: 5,
+    tickPadding: 5,
+    tickRotation: isSmallScreen ? 90 : 0,
+    legendPosition: 'middle',
+    legendOffset: 32,
+    truncateTickAt: 0,
+  };
   return (
     <ResponsiveBar
       data={data}
       keys={keys}
-      indexBy='id'
+      indexBy={indexBy}
       margin={isSmallScreen ? mobileMargin : margin}
       padding={0.3}
       groupMode={groupMode}
@@ -31,16 +41,9 @@ const NivoBar = ({
         from: 'color',
         modifiers: [['darker', 1.6]],
       }}
-      axisTop={null}
+      axisTop={xAxis ? xAxisDetail : null}
       axisRight={null}
-      axisBottom={{
-        tickSize: 5,
-        tickPadding: 5,
-        tickRotation: isSmallScreen ? 90 : 0,
-        legendPosition: 'middle',
-        legendOffset: 32,
-        truncateTickAt: 0,
-      }}
+      axisBottom={xAxisDetail}
       axisLeft={{
         tickSize: 5,
         tickPadding: 5,
