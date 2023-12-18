@@ -18,6 +18,8 @@ const NivoBar = ({
   xAxis = false,
   legend = [],
   yFormat,
+  xFormat,
+  truncateTickAt = 0,
   theme = {
     text: {
       fontWeight: 600,
@@ -36,6 +38,12 @@ const NivoBar = ({
   };
   let formatY = undefined;
   if (yFormat === 'b') formatY = (value) => `${value}B$`;
+
+  if (xFormat === 'm/') {
+    xAxisDetail.format = (value) => `${value / 1000000}M$`;
+    formatY = (value) => `${(value / 1000000).toFixed(1)}M$`;
+  }
+
   return (
     <ResponsiveBar
       data={data}
@@ -61,7 +69,7 @@ const NivoBar = ({
         tickRotation: 0,
         legendPosition: 'middle',
         legendOffset: -40,
-        truncateTickAt: 0,
+        truncateTickAt: truncateTickAt,
         format: yFormat === 'b' ? (value) => `${value}B$` : undefined,
       }}
       labelSkipWidth={12}

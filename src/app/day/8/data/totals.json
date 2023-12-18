@@ -1,0 +1,74 @@
+[
+  {
+    "year": 2023,
+    "prizeMoney": 181155329.71,
+    "tournaments": 3627,
+    "players": 24482
+  },
+  {
+    "year": 2022,
+    "prizeMoney": 241083724.06,
+    "tournaments": 5581,
+    "players": 32265
+  },
+  {
+    "year": 2021,
+    "prizeMoney": 257152078.65,
+    "tournaments": 6254,
+    "players": 32759
+  },
+  {
+    "year": 2020,
+    "prizeMoney": 148171941.83,
+    "tournaments": 5980,
+    "players": 30976
+  },
+  {
+    "year": 2019,
+    "prizeMoney": 254445606.63,
+    "tournaments": 6335,
+    "players": 32202
+  },
+  {
+    "year": 2018,
+    "prizeMoney": 171260572.67,
+    "tournaments": 5089,
+    "players": 24852
+  },
+  {
+    "year": 2017,
+    "prizeMoney": 119917579.19,
+    "tournaments": 5125,
+    "players": 20340
+  },
+  {
+    "year": 2016,
+    "prizeMoney": 99525516.17,
+    "tournaments": 4926,
+    "players": 16850
+  },
+  {
+    "year": 2015,
+    "prizeMoney": 67873027.28,
+    "tournaments": 5311,
+    "players": 14321
+  },
+  {
+    "year": 2014,
+    "prizeMoney": 38068426.6,
+    "tournaments": 3184,
+    "players": 8370
+  },
+  {
+    "year": 2013,
+    "prizeMoney": 22818020.01,
+    "tournaments": 2362,
+    "players": 6163
+  },
+  {
+    "year": 2012,
+    "prizeMoney": 14570576.4,
+    "tournaments": 2040,
+    "players": 5109
+  }
+]

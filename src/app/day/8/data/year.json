@@ -1,0 +1,782 @@
+[
+  {
+    "year": 2023,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 30689147.85,
+        "players": 976,
+        "tournaments": 117
+      },
+      {
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+        "prizes": 19862128.95,
+        "players": 1455,
+        "tournaments": 59
+      },
+      {
+        "name": "Fortnite",
+        "prizes": 19314545.16,
+        "players": 3086,
+        "tournaments": 422
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 15000557.63,
+        "players": 2171,
+        "tournaments": 243
+      },
+      {
+        "name": "Rainbow Six Siege",
+        "prizes": 8902671.41,
+        "players": 476,
+        "tournaments": 22
+      },
+      {
+        "name": "VALORANT",
+        "prizes": 8686040.82,
+        "players": 2953,
+        "tournaments": 214
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 8665299.54,
+        "players": 543,
+        "tournaments": 18
+      },
+      {
+        "name": "Rocket League",
+        "prizes": 8525419.16,
+        "players": 1275,
+        "tournaments": 360
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 7670559.32,
+        "players": 1373,
+        "tournaments": 109
+      },
+      {
+        "name": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+        "prizes": 7002324.73,
+        "players": 473,
+        "tournaments": 32
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 32954188.52,
+        "players": 1080,
+        "tournaments": 125
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 28962272.13,
+        "players": 752,
+        "tournaments": 92
+      },
+      {
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+        "prizes": 23686766.92,
+        "players": 1657,
+        "tournaments": 79
+      },
+      {
+        "name": "Fortnite",
+        "prizes": 18653068.05,
+        "players": 1689,
+        "tournaments": 402
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 17401971.24,
+        "players": 3067,
+        "tournaments": 516
+      },
+      {
+        "name": "League of Legends: Wild Rift",
+        "prizes": 13719403.67,
+        "players": 796,
+        "tournaments": 129
+      },
+      {
+        "name": "Rocket League",
+        "prizes": 9608564.95,
+        "players": 1891,
+        "tournaments": 578
+      },
+      {
+        "name": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+        "prizes": 8495763.82,
+        "players": 889,
+        "tournaments": 69
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 8218863.49,
+        "players": 1499,
+        "tournaments": 102
+      },
+      {
+        "name": "1Rainbow Six Siege",
+        "prizes": 8044806.87,
+        "players": 684,
+        "tournaments": 72
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 47962064.37,
+        "players": 1073,
+        "tournaments": 100
+      },
+      {
+        "name": "Fortnite",
+        "prizes": 22730443.3,
+        "players": 1383,
+        "tournaments": 193
+      },
+      {
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+        "prizes": 21904037.55,
+        "players": 1821,
+        "tournaments": 87
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 21853035.04,
+        "players": 3482,
+        "tournaments": 567
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 17929947.25,
+        "players": 514,
+        "tournaments": 20
+      },
+      {
+        "name": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+        "prizes": 16271759.6,
+        "players": 892,
+        "tournaments": 79
+      },
+      {
+        "name": "Rainbow Six Siege",
+        "prizes": 9257505.05,
+        "players": 1025,
+        "tournaments": 101
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 8371299.16,
+        "players": 1629,
+        "tournaments": 109
+      },
+      {
+        "name": "VALORANT",
+        "prizes": 7058864.35,
+        "players": 2795,
+        "tournaments": 396
+      },
+      {
+        "name": "1Call of Duty: Warzone",
+        "prizes": 6156202.01,
+        "players": 808,
+        "tournaments": 189
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "data": [
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 16088293.07,
+        "players": 3285,
+        "tournaments": 630
+      },
+      {
+        "name": "Fortnite",
+        "prizes": 15572612.74,
+        "players": 2512,
+        "tournaments": 352
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 10195179.42,
+        "players": 426,
+        "tournaments": 22
+      },
+      {
+        "name": "Dota 2",
+        "prizes": 10126576.47,
+        "players": 1096,
+        "tournaments": 174
+      },
+      {
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+        "prizes": 8907777.68,
+        "players": 1171,
+        "tournaments": 39
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 8767906.04,
+        "players": 1943,
+        "tournaments": 123
+      },
+      {
+        "name": "Call of Duty: Modern Warfare",
+        "prizes": 7152172.0,
+        "players": 348,
+        "tournaments": 71
+      },
+      {
+        "name": "Overwatch",
+        "prizes": 7078521.0,
+        "players": 750,
+        "tournaments": 48
+      },
+      {
+        "name": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+        "prizes": 6735110.94,
+        "players": 1293,
+        "tournaments": 122
+      },
+      {
+        "name": "1Rainbow Six Siege",
+        "prizes": 6666964.75,
+        "players": 1150,
+        "tournaments": 100
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "data": [
+      {
+        "name": "Fortnite",
+        "prizes": 80649279.01,
+        "players": 3473,
+        "tournaments": 502
+      },
+      {
+        "name": "Dota 2",
+        "prizes": 47087217,
+        "players": 1415,
+        "tournaments": 232
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 22302043.71,
+        "players": 4013,
+        "tournaments": 955
+      },
+      {
+        "name": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+        "prizes": 11603431.56,
+        "players": 1705,
+        "tournaments": 148
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 10707780.12,
+        "players": 597,
+        "tournaments": 28
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 10412069.35,
+        "players": 2176,
+        "tournaments": 210
+      },
+      {
+        "name": "Overwatch",
+        "prizes": 9593646.85,
+        "players": 1258,
+        "tournaments": 62
+      },
+      {
+        "name": "Call of Duty: Black Ops 4",
+        "prizes": 6391689,
+        "players": 343,
+        "tournaments": 45
+      },
+      {
+        "name": "Rainbow Six Siege",
+        "prizes": 5151238.68,
+        "players": 1190,
+        "tournaments": 122
+      },
+      {
+        "name": "1Hearthstone",
+        "prizes": 4506089.61,
+        "players": 649,
+        "tournaments": 108
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 41536790.86,
+        "players": 1179,
+        "tournaments": 181
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 23319746.08,
+        "players": 4686,
+        "tournaments": 1024
+      },
+      {
+        "name": "Fortnite",
+        "prizes": 19933737,
+        "players": 1444,
+        "tournaments": 179
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 14689124.99,
+        "players": 1977,
+        "tournaments": 195
+      },
+      {
+        "name": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+        "prizes": 8455745.36,
+        "players": 1607,
+        "tournaments": 135
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 7066038.18,
+        "players": 663,
+        "tournaments": 29
+      },
+      {
+        "name": "Overwatch",
+        "prizes": 6615546.33,
+        "players": 1547,
+        "tournaments": 120
+      },
+      {
+        "name": "Heroes of the Storm",
+        "prizes": 5277279.76,
+        "players": 368,
+        "tournaments": 34
+      },
+      {
+        "name": "Hearthstone",
+        "prizes": 4741874.75,
+        "players": 875,
+        "tournaments": 152
+      },
+      {
+        "name": "1Call of Duty: WWII",
+        "prizes": 4302666.69,
+        "players": 270,
+        "tournaments": 51
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 38074599.32,
+        "players": 1057,
+        "tournaments": 167
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 19295990.9,
+        "players": 4838,
+        "tournaments": 915
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 12261870.43,
+        "players": 1973,
+        "tournaments": 193
+      },
+      {
+        "name": "Heroes of the Storm",
+        "prizes": 5444449.54,
+        "players": 441,
+        "tournaments": 41
+      },
+      {
+        "name": "Call of Duty: Infinite Warfare",
+        "prizes": 4041684.07,
+        "players": 323,
+        "tournaments": 80
+      },
+      {
+        "name": "Overwatch",
+        "prizes": 3489158.01,
+        "players": 1608,
+        "tournaments": 285
+      },
+      {
+        "name": "Hearthstone",
+        "prizes": 3485766.58,
+        "players": 705,
+        "tournaments": 131
+      },
+      {
+        "name": "StarCraft II",
+        "prizes": 3416343.85,
+        "players": 391,
+        "tournaments": 654
+      },
+      {
+        "name": "Arena of Valor",
+        "prizes": 2197021.33,
+        "players": 360,
+        "tournaments": 15
+      },
+      {
+        "name": "1CrossFire",
+        "prizes": 1983752.34,
+        "players": 241,
+        "tournaments": 40
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 37464037.33,
+        "players": 896,
+        "tournaments": 153
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 17268045.48,
+        "players": 4408,
+        "tournaments": 863
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 10519032.01,
+        "players": 1664,
+        "tournaments": 182
+      },
+      {
+        "name": "Heroes of the Storm",
+        "prizes": 4664349.1,
+        "players": 394,
+        "tournaments": 69
+      },
+      {
+        "name": "Call of Duty: Black Ops III",
+        "prizes": 3862185.84,
+        "players": 371,
+        "tournaments": 55
+      },
+      {
+        "name": "Hearthstone",
+        "prizes": 3485977.29,
+        "players": 645,
+        "tournaments": 143
+      },
+      {
+        "name": "Halo 5: Guardians",
+        "prizes": 3412490.03,
+        "players": 176,
+        "tournaments": 36
+      },
+      {
+        "name": "StarCraft II",
+        "prizes": 3182718.35,
+        "players": 413,
+        "tournaments": 650
+      },
+      {
+        "name": "Overwatch",
+        "prizes": 2018742.37,
+        "players": 1240,
+        "tournaments": 268
+      },
+      {
+        "name": "1SMITE",
+        "prizes": 1638242.04,
+        "players": 316,
+        "tournaments": 21
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 31036820.46,
+        "players": 982,
+        "tournaments": 227
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 7719111.53,
+        "players": 1943,
+        "tournaments": 311
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 6297500.42,
+        "players": 3038,
+        "tournaments": 721
+      },
+      {
+        "name": "SMITE",
+        "prizes": 3709088.73,
+        "players": 252,
+        "tournaments": 42
+      },
+      {
+        "name": "StarCraft II",
+        "prizes": 3017759.24,
+        "players": 501,
+        "tournaments": 690
+      },
+      {
+        "name": "Call of Duty: Advanced Warfare",
+        "prizes": 2484861.12,
+        "players": 758,
+        "tournaments": 365
+      },
+      {
+        "name": "Heroes of the Storm",
+        "prizes": 2456969.68,
+        "players": 666,
+        "tournaments": 289
+      },
+      {
+        "name": "Hearthstone",
+        "prizes": 2372583.73,
+        "players": 563,
+        "tournaments": 251
+      },
+      {
+        "name": "World of Tanks",
+        "prizes": 1203054.52,
+        "players": 246,
+        "tournaments": 20
+      },
+      {
+        "name": "1CrossFire",
+        "prizes": 897724.18,
+        "players": 182,
+        "tournaments": 76
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "data": [
+      {
+        "name": "Dota 2",
+        "prizes": 16608180.59,
+        "players": 676,
+        "tournaments": 150
+      },
+      {
+        "name": "League of Legends",
+        "prizes": 8084767.21,
+        "players": 1678,
+        "tournaments": 429
+      },
+      {
+        "name": "StarCraft II",
+        "prizes": 3473756.9,
+        "players": 500,
+        "tournaments": 611
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 1962515.01,
+        "players": 1415,
+        "tournaments": 279
+      },
+      {
+        "name": "Call of Duty: Ghosts",
+        "prizes": 1525435.95,
+        "players": 182,
+        "tournaments": 62
+      },
+      {
+        "name": "Hearthstone",
+        "prizes": 1123245.18,
+        "players": 309,
+        "tournaments": 178
+      },
+      {
+        "name": "World of Tanks",
+        "prizes": 892436.68,
+        "players": 65,
+        "tournaments": 7
+      },
+      {
+        "name": "CrossFire",
+        "prizes": 585374.93,
+        "players": 215,
+        "tournaments": 49
+      },
+      {
+        "name": "Heroes of Newerth",
+        "prizes": 542744.26,
+        "players": 270,
+        "tournaments": 94
+      },
+      {
+        "name": "1SMITE",
+        "prizes": 497909.6,
+        "players": 81,
+        "tournaments": 10
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "data": [
+      {
+        "name": "League of Legends",
+        "prizes": 6242561.99,
+        "players": 1265,
+        "tournaments": 375
+      },
+      {
+        "name": "Dota 2",
+        "prizes": 4548280.98,
+        "players": 470,
+        "tournaments": 134
+      },
+      {
+        "name": "StarCraft II",
+        "prizes": 3848829.06,
+        "players": 619,
+        "tournaments": 502
+      },
+      {
+        "name": "Call of Duty: Black Ops 2",
+        "prizes": 1432141.3,
+        "players": 181,
+        "tournaments": 48
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 1211869.54,
+        "players": 1007,
+        "tournaments": 199
+      },
+      {
+        "name": "Turbo Racing League",
+        "prizes": 1000000,
+        "players": 16,
+        "tournaments": 9
+      },
+      {
+        "name": "Heroes of Newerth",
+        "prizes": 657399.93,
+        "players": 327,
+        "tournaments": 101
+      },
+      {
+        "name": "CrossFire",
+        "prizes": 544185.52,
+        "players": 224,
+        "tournaments": 70
+      },
+      {
+        "name": "FIFA 13",
+        "prizes": 441304.55,
+        "players": 44,
+        "tournaments": 44
+      },
+      {
+        "name": "World of Tanks",
+        "prizes": 429000,
+        "players": 64,
+        "tournaments": 7
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "data": [
+      {
+        "name": "League of Legends",
+        "prizes": 4287289.1,
+        "players": 935,
+        "tournaments": 391
+      },
+      {
+        "name": "StarCraft II",
+        "prizes": 4215299.5,
+        "players": 673,
+        "tournaments": 702
+      },
+      {
+        "name": "Dota 2",
+        "prizes": 2087094.85,
+        "players": 258,
+        "tournaments": 96
+      },
+      {
+        "name": "Counter-Strike",
+        "prizes": 547584.85,
+        "players": 535,
+        "tournaments": 65
+      },
+      {
+        "name": "CrossFire",
+        "prizes": 361230.36,
+        "players": 166,
+        "tournaments": 24
+      },
+      {
+        "name": "Heroes of Newerth",
+        "prizes": 341962.28,
+        "players": 313,
+        "tournaments": 63
+      },
+      {
+        "name": "World of WarCraft",
+        "prizes": 228000,
+        "players": 15,
+        "tournaments": 3
+      },
+      {
+        "name": "Counter-Strike: Global Offensive",
+        "prizes": 222538.77,
+        "players": 311,
+        "tournaments": 48
+      },
+      {
+        "name": "Counter-Strike: Source",
+        "prizes": 214637.92,
+        "players": 290,
+        "tournaments": 35
+      },
+      {
+        "name": "1Defense of the Ancients",
+        "prizes": 205438.37,
+        "players": 113,
+        "tournaments": 11
+      }
+    ]
+  }
+]
