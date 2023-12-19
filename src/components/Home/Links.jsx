@@ -1,34 +1,36 @@
+'use client';
+
 import dayjs from 'dayjs';
 import dayOfYear from 'dayjs/plugin/dayOfYear';
 import Link from 'next/link';
 
-import { metadata as metadata1 } from '../../app/day/1/layout';
-import { metadata as metadata2 } from '../../app/day/2/layout';
-import { metadata as metadata3 } from '../../app/day/3/layout';
-import { metadata as metadata4 } from '../../app/day/4/layout';
-import { metadata as metadata5 } from '../../app/day/5/layout';
-import { metadata as metadata6 } from '../../app/day/6/layout';
-import { metadata as metadata7 } from '../../app/day/7/layout';
-import { metadata as metadata8 } from '../../app/day/8/layout';
-import { metadata as metadata9 } from '../../app/day/9/layout';
-import { metadata as metadata11 } from '../../app/day/11/layout';
-import { metadata as metadata12 } from '../../app/day/12/layout';
-import { metadata as metadata13 } from '../../app/day/13/layout';
-import { metadata as metadata14 } from '../../app/day/14/layout';
-import { metadata as metadata24 } from '../../app/day/24/layout';
-import { metadata as metadata28 } from '../../app/day/28/layout';
-import { metadata as metadata35 } from '../../app/day/35/layout';
-import { metadata as metadata43 } from '../../app/day/43/layout';
-import { metadata as metadata46 } from '../../app/day/46/layout';
-import { metadata as metadata53 } from '../../app/day/53/layout';
-import { metadata as metadata56 } from '../../app/day/56/layout';
-import { metadata as metadata62 } from '../../app/day/62/layout';
-import { metadata as metadata73 } from '../../app/day/73/layout';
-import { metadata as metadata81 } from '../../app/day/81/layout';
-import { metadata as metadata90 } from '../../app/day/90/layout';
-import { metadata as metadata93 } from '../../app/day/93/layout';
-import { metadata as metadata195 } from '../../app/day/195/layout';
-import { metadata as metadata244 } from '../../app/day/244/layout';
+import { infos as metadata1 } from '../../app/day/1/config';
+import { infos as metadata2 } from '../../app/day/2/config';
+import { infos as metadata3 } from '../../app/day/3/config';
+import { infos as metadata4 } from '../../app/day/4/config';
+import { infos as metadata5 } from '../../app/day/5/config';
+import { infos as metadata6 } from '../../app/day/6/config';
+import { infos as metadata7 } from '../../app/day/7/config';
+import { infos as metadata8 } from '../../app/day/8/config';
+import { infos as metadata9 } from '../../app/day/9/config';
+import { infos as metadata11 } from '../../app/day/11/config';
+import { infos as metadata12 } from '../../app/day/12/config';
+import { infos as metadata13 } from '../../app/day/13/config';
+import { infos as metadata14 } from '../../app/day/14/config';
+import { infos as metadata24 } from '../../app/day/24/config';
+import { infos as metadata28 } from '../../app/day/28/config';
+import { infos as metadata35 } from '../../app/day/35/config';
+import { infos as metadata43 } from '../../app/day/43/config';
+import { infos as metadata46 } from '../../app/day/46/config';
+import { infos as metadata53 } from '../../app/day/53/config';
+import { infos as metadata56 } from '../../app/day/56/config';
+import { infos as metadata62 } from '../../app/day/62/config';
+import { infos as metadata73 } from '../../app/day/73/config';
+import { infos as metadata81 } from '../../app/day/81/config';
+import { infos as metadata90 } from '../../app/day/90/config';
+import { infos as metadata93 } from '../../app/day/93/config';
+import { infos as metadata195 } from '../../app/day/195/config';
+import { infos as metadata244 } from '../../app/day/244/config';
 
 const metadata = {
   1: metadata1,
@@ -66,17 +68,17 @@ export default function Links() {
   const todayDay = dayjs().dayOfYear();
   return (
     <ul className='text-center text-2xl'>
-      {Object.keys(metadata).map((day) => {
+      {Object.keys(metadata).map((day, index) => {
         if (!metadata[day]) return null;
         if (Number(day) > todayDay) return null;
         return (
-          <li key={`day-${day}`} className='pb-4'>
+          <li key={`day-${day}`} className='pb-4 li-link'>
             <Link
               className='font-mono hover:text-neutral-400'
               href={`/day/${day}`}
               data-image-url={`/public/screen/${day}.png`}
             >
-              {metadata[day].title}
+              Day {index + 1} | {metadata[day].title}
             </Link>
           </li>
         );
