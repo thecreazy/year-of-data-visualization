@@ -1,0 +1,37 @@
+{
+  "wordwide": [
+    { "time": "Q3'22", "value": 9.41 },
+    { "time": "Q4'22", "value": 10.86 },
+    { "time": "Q1'23", "value": 9.62 },
+    { "time": "Q2'23", "value": 10.63 },
+    { "time": "Q3'23", "value": 11.23 }
+  ],
+  "usa": [
+    { "time": "Q3'22", "value": 49.13 },
+    { "time": "Q4'22", "value": 58.77 },
+    { "time": "Q1'23", "value": 48.85 },
+    { "time": "Q2'23", "value": 53.53 },
+    { "time": "Q3'23", "value": 56.11 }
+  ],
+  "europe": [
+    { "time": "Q3'22", "value": 14.23 },
+    { "time": "Q4'22", "value": 17.29 },
+    { "time": "Q1'23", "value": 15.51 },
+    { "time": "Q2'23", "value": 17.88 },
+    { "time": "Q3'23", "value": 19.04 }
+  ],
+  "asia": [
+    { "time": "Q3'22", "value": 4.42 },
+    { "time": "Q4'22", "value": 4.61 },
+    { "time": "Q1'23", "value": 4.52 },
+    { "time": "Q2'23", "value": 4.88 },
+    { "time": "Q3'23", "value": 5.12 }
+  ],
+  "rest": [
+    { "time": "Q3'22", "value": 3.21 },
+    { "time": "Q4'22", "value": 3.52 },
+    { "time": "Q1'23", "value": 3.35 },
+    { "time": "Q2'23", "value": 3.76 },
+    { "time": "Q3'23", "value": 4.22 }
+  ]
+}

@@ -36,8 +36,29 @@ const NivoBar = ({
     legendOffset: 32,
     truncateTickAt: 0,
   };
+
+  const yAxisDetail = {
+    tickSize: 5,
+    tickPadding: 5,
+    tickRotation: 0,
+    legendPosition: 'middle',
+    legendOffset: -40,
+    truncateTickAt: truncateTickAt,
+  };
+
   let formatY = undefined;
-  if (yFormat === 'b') formatY = (value) => `${value}B$`;
+  if (yFormat === 'b') {
+    formatY = (value) => `${value}B$`;
+    yAxisDetail.format = (value) => `${value}B$`;
+  }
+  if (yFormat === 'm') {
+    formatY = (value) => `${value}MM`;
+    yAxisDetail.format = (value) => `${value}MM`;
+  }
+  if (yFormat === '$') {
+    formatY = (value) => `${value}$`;
+    yAxisDetail.format = (value) => `${value}$`;
+  }
 
   if (xFormat === 'm/') {
     xAxisDetail.format = (value) => `${value / 1000000}M$`;
@@ -63,15 +84,7 @@ const NivoBar = ({
       axisTop={xAxis ? xAxisDetail : null}
       axisRight={null}
       axisBottom={xAxisDetail}
-      axisLeft={{
-        tickSize: 5,
-        tickPadding: 5,
-        tickRotation: 0,
-        legendPosition: 'middle',
-        legendOffset: -40,
-        truncateTickAt: truncateTickAt,
-        format: yFormat === 'b' ? (value) => `${value}B$` : undefined,
-      }}
+      axisLeft={yAxisDetail}
       labelSkipWidth={12}
       labelSkipHeight={12}
       labelTextColor={

@@ -17,6 +17,8 @@ const NivoStream = ({
   const { isSmallScreen } = useScreenDetect();
   let formatFunction = null;
   if (valueFormat === '%') formatFunction = (value) => `${Number(value)}%`;
+  if (valueFormat === '.%m') formatFunction = (value) => `${Number(value)}MM`;
+  if (valueFormat === '.%m$') formatFunction = (value) => `${Number(value)}MM$`;
   return (
     <ResponsiveStream
       data={data}
@@ -45,6 +47,8 @@ const NivoStream = ({
         legendOffset: -40,
         format: (val) => {
           if (valueFormat === '%') return `${val * 100}%`;
+          if (valueFormat === '.%m') return `${val * 100}%`;
+          if (valueFormat === '.%m$') return `${val * 100}%`;
           return val;
         },
       }}

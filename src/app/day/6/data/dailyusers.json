@@ -1,0 +1,65 @@
+[
+  {
+    "time": "Q3'21",
+    "usa": 196,
+    "europe": 308,
+    "asia": 805,
+    "rest": 622
+  },
+  {
+    "time": "Q4'21",
+    "usa": 195,
+    "europe": 309,
+    "asia": 806,
+    "rest": 619
+  },
+  {
+    "time": "Q1'22",
+    "usa": 196,
+    "europe": 307,
+    "asia": 827,
+    "rest": 629
+  },
+  {
+    "time": "Q2'22",
+    "usa": 197,
+    "europe": 303,
+    "asia": 836,
+    "rest": 631
+  },
+  {
+    "time": "Q3'22",
+    "usa": 197,
+    "europe": 303,
+    "asia": 845,
+    "rest": 638
+  },
+  {
+    "time": "Q4'22",
+    "usa": 199,
+    "europe": 304,
+    "asia": 854,
+    "rest": 643
+  },
+  {
+    "time": "Q1'23",
+    "usa": 200,
+    "europe": 307,
+    "asia": 873,
+    "rest": 657
+  },
+  {
+    "time": "Q2'23",
+    "usa": 202,
+    "europe": 307,
+    "asia": 891,
+    "rest": 665
+  },
+  {
+    "time": "Q3'23",
+    "usa": 203,
+    "europe": 307,
+    "asia": 899,
+    "rest": 676
+  }
+]
