@@ -103,59 +103,6 @@ class World {
 const BackgroundAnimation = () => {
   let mousePos = { x: 0, y: 0, px: 0, py: 0 };
   let world;
-  let gui = new dat.GUI();
-
-  function initGui() {
-    gui.width = 250;
-    const guiSpeed = gui
-      .add(parameters, 'speed')
-      .min(0.1)
-      .max(1)
-      .step(0.01)
-      .name('speed');
-    guiHue = gui.add(parameters, 'hue').min(0).max(1).step(0.01).name('hue');
-    const guiVariation = gui
-      .add(parameters, 'hueVariation')
-      .min(0)
-      .max(1)
-      .step(0.01)
-      .name('hue variation');
-    const guiDensity = gui
-      .add(parameters, 'density')
-      .min(0)
-      .max(1)
-      .step(0.01)
-      .name('density');
-    const guiDisp = gui
-      .add(parameters, 'displacement')
-      .min(0)
-      .max(1)
-      .step(0.01)
-      .name('displacement');
-
-    guiHue.onChange(function (value) {
-      updateParameters();
-    });
-
-    guiVariation.onChange(function (value) {
-      updateParameters();
-    });
-    guiDensity.onChange(function (value) {
-      updateParameters();
-    });
-
-    guiDisp.onChange(function (value) {
-      updateParameters();
-    });
-    updateParameters();
-  }
-
-  function updateParameters() {
-    world.plane.material.uniforms.uHue.value = parameters.hue;
-    world.plane.material.uniforms.uHueVariation.value = parameters.hueVariation;
-    world.plane.material.uniforms.uDensity.value = parameters.density;
-    world.plane.material.uniforms.uDisplacement.value = parameters.displacement;
-  }
 
   useEffect(() => {
     function handleWindowResize() {
@@ -178,7 +125,6 @@ const BackgroundAnimation = () => {
     document.addEventListener('mousemove', handleMouseMove, false);
     handleWindowResize();
     world.loop();
-    initGui();
     return () => {
       const canvas = document.getElementsByTagName('canvas')[0];
       if (canvas) canvas.remove();
