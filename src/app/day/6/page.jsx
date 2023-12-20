@@ -21,7 +21,7 @@ const Page6 = () => {
         </h1>
         <p className='py-2 font-mono text-lg'>{infos.description}</p>
       </section>
-      <section id='per-year' className='mt-10'>
+      <section id='daily-user' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-end'>
           Facebook Daily Active Users
           <span className='text-sm'>(In Millions)</span>
@@ -65,7 +65,7 @@ const Page6 = () => {
           />
         </div>
       </section>
-      <section id='per-year' className='mt-10'>
+      <section id='monthly-user' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-end'>
           Facebook Monthly Active Users{' '}
           <span className='text-sm'>(In Millions)</span>
@@ -109,7 +109,7 @@ const Page6 = () => {
           />
         </div>
       </section>
-      <section id='detail-dota2' className='mt-10'>
+      <section id='arpu' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
           Facebook Average Revenue per User (ARPU)
         </h3>
@@ -211,7 +211,7 @@ const Page6 = () => {
           />
         </div>
       </section>
-      <section id='detail-dota2' className='mt-10'>
+      <section id='weighted-arpu' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-end'>
           Facebook active users weighted by ARPU{' '}
           <span className='text-sm'>(In Millions$)</span>

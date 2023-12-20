@@ -19,7 +19,9 @@ const NivoBar = ({
   legend = [],
   yFormat,
   xFormat,
+  noX = false,
   truncateTickAt = 0,
+  valueScale = { type: 'linear' },
   theme = {
     text: {
       fontWeight: 600,
@@ -28,14 +30,16 @@ const NivoBar = ({
 }) => {
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
-  const xAxisDetail = {
-    tickSize: 5,
-    tickPadding: 5,
-    tickRotation: isSmallScreen ? 90 : 0,
-    legendPosition: 'middle',
-    legendOffset: 32,
-    truncateTickAt: 0,
-  };
+  const xAxisDetail = noX
+    ? null
+    : {
+        tickSize: 5,
+        tickPadding: 5,
+        tickRotation: isSmallScreen ? 90 : 0,
+        legendPosition: 'middle',
+        legendOffset: 32,
+        truncateTickAt: 0,
+      };
 
   const yAxisDetail = {
     tickSize: 5,
@@ -54,6 +58,9 @@ const NivoBar = ({
   if (yFormat === 'm') {
     formatY = (value) => `${value}MM`;
     yAxisDetail.format = (value) => `${value}MM`;
+  }
+  if (yFormat === 'k/') {
+    formatY = (value) => `${Number(value / 1000).toFixed(0)}K`;
   }
   if (yFormat === '$') {
     formatY = (value) => `${value}$`;
@@ -75,7 +82,7 @@ const NivoBar = ({
       padding={0.3}
       groupMode={groupMode}
       layout={isSmallScreen ? mobileLayout : layout}
-      valueScale={{ type: 'linear' }}
+      valueScale={valueScale}
       colors={colors}
       borderColor={{
         from: 'color',

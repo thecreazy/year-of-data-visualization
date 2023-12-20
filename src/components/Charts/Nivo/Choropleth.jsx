@@ -4,7 +4,13 @@ import { ResponsiveChoropleth } from '@nivo/geo';
 
 import countries from '../../../utils/geojson/countries.json';
 
-const NivoChoropleth = ({ data, colors, valueFormat, domain = [0, 100] }) => {
+const NivoChoropleth = ({
+  data,
+  colors,
+  valueFormat,
+  domain = [0, 100],
+  unknownColor = '#666666',
+}) => {
   return (
     <ResponsiveChoropleth
       data={data}
@@ -12,7 +18,7 @@ const NivoChoropleth = ({ data, colors, valueFormat, domain = [0, 100] }) => {
       margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
       colors={colors}
       domain={domain}
-      unknownColor='#666666'
+      unknownColor={unknownColor}
       label='properties.name'
       valueFormat={valueFormat}
       projectionTranslation={[0.5, 0.5]}

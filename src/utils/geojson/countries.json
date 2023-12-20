@@ -259,7 +259,8 @@
       "type": "Feature",
       "properties": {
         "name": "Argentina",
-        "id": "ARG"
+        "id": "ARG",
+        "other_name": "argentina"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1425,7 +1426,8 @@
       "type": "Feature",
       "properties": {
         "name": "Austria",
-        "id": "AUT"
+        "id": "AUT",
+        "other_name": "austria"
       },
       "geometry": {
         "type": "Polygon",
@@ -1570,7 +1572,8 @@
       "type": "Feature",
       "properties": {
         "name": "Belgium",
-        "id": "BEL"
+        "id": "BEL",
+        "other_name": "belgium"
       },
       "geometry": {
         "type": "Polygon",
@@ -2040,7 +2043,8 @@
       "type": "Feature",
       "properties": {
         "name": "Brazil",
-        "id": "BRA"
+        "id": "BRA",
+        "other_name": "brazil"
       },
       "geometry": {
         "type": "Polygon",
@@ -2441,7 +2445,8 @@
       "type": "Feature",
       "properties": {
         "name": "Canada",
-        "id": "CAN"
+        "id": "CAN",
+        "other_name": "canada"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3543,7 +3548,8 @@
       "type": "Feature",
       "properties": {
         "name": "China",
-        "id": "CHN"
+        "id": "CHN",
+        "other_name": "china"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4426,7 +4432,8 @@
       "type": "Feature",
       "properties": {
         "name": "Czech Republic",
-        "id": "CZE"
+        "id": "CZE",
+        "other_name": "czech republic"
       },
       "geometry": {
         "type": "Polygon",
@@ -4476,7 +4483,8 @@
       "type": "Feature",
       "properties": {
         "name": "Germany",
-        "id": "DEU"
+        "id": "DEU",
+        "other_name": "germany"
       },
       "geometry": {
         "type": "Polygon",
@@ -5062,7 +5070,8 @@
       "type": "Feature",
       "properties": {
         "name": "Finland",
-        "id": "FIN"
+        "id": "FIN",
+        "other_name": "finland"
       },
       "geometry": {
         "type": "Polygon",
@@ -5187,7 +5196,8 @@
       "type": "Feature",
       "properties": {
         "name": "France",
-        "id": "FRA"
+        "id": "FRA",
+        "other_name": "france"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5332,7 +5342,8 @@
       "type": "Feature",
       "properties": {
         "name": "UK",
-        "id": "GBR"
+        "id": "GBR",
+        "other_name": "United Kindom"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6152,7 +6163,8 @@
       "type": "Feature",
       "properties": {
         "name": "Hungary",
-        "id": "HUN"
+        "id": "HUN",
+        "other_name": "hungary"
       },
       "geometry": {
         "type": "Polygon",
@@ -6198,7 +6210,8 @@
       "type": "Feature",
       "properties": {
         "name": "Indonesia",
-        "id": "IDN"
+        "id": "IDN",
+        "other_name": "indonesia"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6513,7 +6526,8 @@
       "type": "Feature",
       "properties": {
         "name": "India",
-        "id": "IND"
+        "id": "IND",
+        "other_name": "india"
       },
       "geometry": {
         "type": "Polygon",
@@ -6900,7 +6914,8 @@
       "type": "Feature",
       "properties": {
         "name": "Italy",
-        "id": "ITA"
+        "id": "ITA",
+        "other_name": "italy"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7072,7 +7087,8 @@
       "type": "Feature",
       "properties": {
         "name": "Japan",
-        "id": "JPN"
+        "id": "JPN",
+        "other_name": "japan"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7162,7 +7178,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kazakhstan",
-        "id": "KAZ"
+        "id": "KAZ",
+        "other_name": "kazakhstan"
       },
       "geometry": {
         "type": "Polygon",
@@ -7819,7 +7836,8 @@
       "type": "Feature",
       "properties": {
         "name": "Morocco",
-        "id": "MAR"
+        "id": "MAR",
+        "other_name": "marocco"
       },
       "geometry": {
         "type": "Polygon",
@@ -8004,7 +8022,8 @@
       "type": "Feature",
       "properties": {
         "name": "Mexico",
-        "id": "MEX"
+        "id": "MEX",
+        "other_name": "mexico"
       },
       "geometry": {
         "type": "Polygon",
@@ -8709,7 +8728,8 @@
       "type": "Feature",
       "properties": {
         "name": "Malaysia",
-        "id": "MYS"
+        "id": "MYS",
+        "other_name": "malaysia"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9931,7 +9951,8 @@
       "type": "Feature",
       "properties": {
         "name": "Poland",
-        "id": "POL"
+        "id": "POL",
+        "other_name": "poland"
       },
       "geometry": {
         "type": "Polygon",
@@ -12561,7 +12582,8 @@
       "type": "Feature",
       "properties": {
         "name": "USA",
-        "id": "USA"
+        "id": "USA",
+        "other_name": "Usa"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13648,7 +13670,8 @@
       "type": "Feature",
       "properties": {
         "name": "Korea",
-        "id": "KOR"
+        "id": "KOR",
+        "other_name": "South Korea"
       },
       "geometry": {
         "type": "Polygon",

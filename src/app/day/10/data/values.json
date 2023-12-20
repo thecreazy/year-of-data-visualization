@@ -1,0 +1,3147 @@
+[
+  {
+    "year": 2022,
+    "data": [
+      {
+        "COUNTRY/REGION": "ARGENTINA",
+        "CARS": "257505",
+        "COMMERCIAL VEHICLES": "279388",
+        "TOTAL": "536893",
+        "% CHANGE": "24%"
+      },
+      {
+        "COUNTRY/REGION": "AUSTRIA",
+        "CARS": "107500",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "107500",
+        "% CHANGE": "-21%"
+      },
+      {
+        "COUNTRY/REGION": "BELGIUM",
+        "CARS": "232100",
+        "COMMERCIAL VEHICLES": "44454",
+        "TOTAL": "276554",
+        "% CHANGE": "6%"
+      },
+      {
+        "COUNTRY/REGION": "BRAZIL",
+        "CARS": "1824833",
+        "COMMERCIAL VEHICLES": "544936",
+        "TOTAL": "2369769",
+        "% CHANGE": "5%"
+      },
+      {
+        "COUNTRY/REGION": "CANADA",
+        "CARS": "289371",
+        "COMMERCIAL VEHICLES": "939364",
+        "TOTAL": "1228735",
+        "% CHANGE": "10%"
+      },
+      {
+        "COUNTRY/REGION": "CHINA",
+        "CARS": "23836083",
+        "COMMERCIAL VEHICLES": "3184532",
+        "TOTAL": "27020615",
+        "% CHANGE": "3%"
+      },
+      {
+        "COUNTRY/REGION": "CZECH REPUBLIC",
+        "CARS": "1217787",
+        "COMMERCIAL VEHICLES": "6669",
+        "TOTAL": "1224456",
+        "% CHANGE": "10%"
+      },
+      {
+        "COUNTRY/REGION": "FINLAND",
+        "CARS": "73044",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "73044",
+        "% CHANGE": "-15%"
+      },
+      {
+        "COUNTRY/REGION": "FRANCE",
+        "CARS": "1010466",
+        "COMMERCIAL VEHICLES": "372707",
+        "TOTAL": "1383173",
+        "% CHANGE": "2%"
+      },
+      {
+        "COUNTRY/REGION": "GERMANY",
+        "CARS": "3480357",
+        "COMMERCIAL VEHICLES": "197463",
+        "TOTAL": "3677820",
+        "% CHANGE": "11%"
+      },
+      {
+        "COUNTRY/REGION": "HUNGARY",
+        "CARS": "441729",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "441729",
+        "% CHANGE": "6%"
+      },
+      {
+        "COUNTRY/REGION": "INDIA",
+        "CARS": "4439039",
+        "COMMERCIAL VEHICLES": "1017818",
+        "TOTAL": "5456857",
+        "% CHANGE": "24%"
+      },
+      {
+        "COUNTRY/REGION": "INDONESIA",
+        "CARS": "1214250",
+        "COMMERCIAL VEHICLES": "255896",
+        "TOTAL": "1470146",
+        "% CHANGE": "31%"
+      },
+      {
+        "COUNTRY/REGION": "ITALY",
+        "CARS": "473194",
+        "COMMERCIAL VEHICLES": "323200",
+        "TOTAL": "796394",
+        "% CHANGE": "0%"
+      },
+      {
+        "COUNTRY/REGION": "JAPAN",
+        "CARS": "6566356",
+        "COMMERCIAL VEHICLES": "1269163",
+        "TOTAL": "7835519",
+        "% CHANGE": "0%"
+      },
+      {
+        "COUNTRY/REGION": "KAZAKHSTAN",
+        "CARS": "103345",
+        "COMMERCIAL VEHICLES": "9195",
+        "TOTAL": "112540",
+        "% CHANGE": "22%"
+      },
+      {
+        "COUNTRY/REGION": "MALAYSIA",
+        "CARS": "650190",
+        "COMMERCIAL VEHICLES": "52085",
+        "TOTAL": "702275",
+        "% CHANGE": "46%"
+      },
+      {
+        "COUNTRY/REGION": "MOROCCO",
+        "CARS": "404742",
+        "COMMERCIAL VEHICLES": "60122",
+        "TOTAL": "464864",
+        "% CHANGE": "15%"
+      },
+      {
+        "COUNTRY/REGION": "MEXICO",
+        "CARS": "658001",
+        "COMMERCIAL VEHICLES": "2851071",
+        "TOTAL": "3509072",
+        "% CHANGE": "10%"
+      },
+      {
+        "COUNTRY/REGION": "POLAND",
+        "CARS": "255100",
+        "COMMERCIAL VEHICLES": "228740",
+        "TOTAL": "483840",
+        "% CHANGE": "10%"
+      },
+      {
+        "COUNTRY/REGION": "PORTUGAL",
+        "CARS": "256018",
+        "COMMERCIAL VEHICLES": "66386",
+        "TOTAL": "322404",
+        "% CHANGE": "11%"
+      },
+      {
+        "COUNTRY/REGION": "ROMANIA",
+        "CARS": "509465",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "509465",
+        "% CHANGE": "21%"
+      },
+      {
+        "COUNTRY/REGION": "RUSSIA",
+        "CARS": "448897",
+        "COMMERCIAL VEHICLES": "159563",
+        "TOTAL": "608460",
+        "% CHANGE": "-61%"
+      },
+      {
+        "COUNTRY/REGION": "SERBIA",
+        "CARS": "4358",
+        "COMMERCIAL VEHICLES": "140",
+        "TOTAL": "4498",
+        "% CHANGE": "-79%"
+      },
+      {
+        "COUNTRY/REGION": "SLOVAKIA",
+        "CARS": "1000000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1000000",
+        "% CHANGE": "-3%"
+      },
+      {
+        "COUNTRY/REGION": "SLOVENIA",
+        "CARS": "68130",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "68130",
+        "% CHANGE": "-29%"
+      },
+      {
+        "COUNTRY/REGION": "SOUTH AFRICA",
+        "CARS": "309423",
+        "COMMERCIAL VEHICLES": "246466",
+        "TOTAL": "555889",
+        "% CHANGE": "11%"
+      },
+      {
+        "COUNTRY/REGION": "SOUTH KOREA",
+        "CARS": "3438355",
+        "COMMERCIAL VEHICLES": "318694",
+        "TOTAL": "3757049",
+        "% CHANGE": "9%"
+      },
+      {
+        "COUNTRY/REGION": "SPAIN",
+        "CARS": "1785432",
+        "COMMERCIAL VEHICLES": "434030",
+        "TOTAL": "2219462",
+        "% CHANGE": "6%"
+      },
+      {
+        "COUNTRY/REGION": "TAIWAN",
+        "CARS": "191409",
+        "COMMERCIAL VEHICLES": "69854",
+        "TOTAL": "261263",
+        "% CHANGE": "-2%"
+      },
+      {
+        "COUNTRY/REGION": "THAILAND",
+        "CARS": "594057",
+        "COMMERCIAL VEHICLES": "1289458",
+        "TOTAL": "1883515",
+        "% CHANGE": "12%"
+      },
+      {
+        "COUNTRY/REGION": "TURKEY",
+        "CARS": "810889",
+        "COMMERCIAL VEHICLES": "541759",
+        "TOTAL": "1352648",
+        "% CHANGE": "6%"
+      },
+      {
+        "COUNTRY/REGION": "UKRAINE",
+        "CARS": "1490",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1490",
+        "% CHANGE": "-82%"
+      },
+      {
+        "COUNTRY/REGION": "UNITED KINGDOM",
+        "CARS": "775014",
+        "COMMERCIAL VEHICLES": "101600",
+        "TOTAL": "876614",
+        "% CHANGE": "-6%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "1751736",
+        "COMMERCIAL VEHICLES": "8308603",
+        "TOTAL": "10060339",
+        "% CHANGE": "10%"
+      },
+      {
+        "COUNTRY/REGION": "UZBEKISTAN",
+        "CARS": "328118",
+        "COMMERCIAL VEHICLES": "5451",
+        "TOTAL": "333569",
+        "% CHANGE": "38%"
+      },
+      {
+        "COUNTRY/REGION": "OTHERS",
+        "CARS": "1790867",
+        "COMMERCIAL VEHICLES": "239271",
+        "TOTAL": "2030138"
+      },
+      {
+        "COUNTRY/REGION": "TOTAL",
+        "CARS": "61598650",
+        "COMMERCIAL VEHICLES": "23418078",
+        "TOTAL": "85016728",
+        "% CHANGE": "6%"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "data": [
+      {
+        "COUNTRY/REGION": "ARGENTINA",
+        "CARS": "184106",
+        "COMMERCIAL VEHICLES": "250647",
+        "TOTAL": "434753",
+        "% CHANGE": "69%"
+      },
+      {
+        "COUNTRY/REGION": "AUSTRIA",
+        "CARS": "124700",
+        "COMMERCIAL VEHICLES": "12000",
+        "TOTAL": "136700",
+        "% CHANGE": "9%"
+      },
+      {
+        "COUNTRY/REGION": "BELGIUM",
+        "CARS": "224180",
+        "COMMERCIAL VEHICLES": "36858",
+        "TOTAL": "261038",
+        "% CHANGE": "-2%"
+      },
+      {
+        "COUNTRY/REGION": "BRAZIL",
+        "CARS": "1707851",
+        "COMMERCIAL VEHICLES": "540402",
+        "TOTAL": "2248253",
+        "% CHANGE": "12%"
+      },
+      {
+        "COUNTRY/REGION": "CANADA",
+        "CARS": "288 235",
+        "COMMERCIAL VEHICLES": "826767",
+        "TOTAL": "1115002",
+        "% CHANGE": "-19%"
+      },
+      {
+        "COUNTRY/REGION": "CHINA",
+        "CARS": "21407962",
+        "COMMERCIAL VEHICLES": "4674258",
+        "TOTAL": "26082220",
+        "% CHANGE": "3%"
+      },
+      {
+        "COUNTRY/REGION": "CZECH REPUBLIC",
+        "CARS": "1 105 223",
+        "COMMERCIAL VEHICLES": "6209",
+        "TOTAL": "1111432",
+        "% CHANGE": "-4%"
+      },
+      {
+        "COUNTRY/REGION": "EGYPT",
+        "CARS": "23754",
+        "COMMERCIAL VEHICLES": "23754",
+        "TOTAL": "0%"
+      },
+      {
+        "COUNTRY/REGION": "FINLAND",
+        "CARS": "93172",
+        "COMMERCIAL VEHICLES": "93172",
+        "TOTAL": "8%"
+      },
+      {
+        "COUNTRY/REGION": "FRANCE",
+        "CARS": "917907",
+        "COMMERCIAL VEHICLES": "433401",
+        "TOTAL": "1351308",
+        "% CHANGE": "3%"
+      },
+      {
+        "COUNTRY/REGION": "GERMANY",
+        "CARS": "3096165",
+        "COMMERCIAL VEHICLES": "212527",
+        "TOTAL": "3308692",
+        "% CHANGE": "-12%"
+      },
+      {
+        "COUNTRY/REGION": "HUNGARY",
+        "CARS": "394302",
+        "COMMERCIAL VEHICLES": "394302",
+        "TOTAL": "-3%"
+      },
+      {
+        "COUNTRY/REGION": "INDIA",
+        "CARS": "3631095",
+        "COMMERCIAL VEHICLES": "768017",
+        "TOTAL": "4399112",
+        "% CHANGE": "30%"
+      },
+      {
+        "COUNTRY/REGION": "INDONESIA",
+        "CARS": "889756",
+        "COMMERCIAL VEHICLES": "232211",
+        "TOTAL": "1121967",
+        "% CHANGE": "63%"
+      },
+      {
+        "COUNTRY/REGION": "ITALY",
+        "CARS": "442432",
+        "COMMERCIAL VEHICLES": "353424",
+        "TOTAL": "795856",
+        "% CHANGE": "2%"
+      },
+      {
+        "COUNTRY/REGION": "JAPAN",
+        "CARS": "6619242",
+        "COMMERCIAL VEHICLES": "1227713",
+        "TOTAL": "7846955",
+        "% CHANGE": "-3%"
+      },
+      {
+        "COUNTRY/REGION": "KAZAKHSTAN",
+        "CARS": "80679",
+        "COMMERCIAL VEHICLES": "11738",
+        "TOTAL": "92417",
+        "% CHANGE": "24%"
+      },
+      {
+        "COUNTRY/REGION": "MALAYSIA",
+        "CARS": "446431",
+        "COMMERCIAL VEHICLES": "35220",
+        "TOTAL": "481651",
+        "% CHANGE": "-1%"
+      },
+      {
+        "COUNTRY/REGION": "MOROCCO",
+        "CARS": "338339",
+        "COMMERCIAL VEHICLES": "64668",
+        "TOTAL": "403007",
+        "% CHANGE": "23%"
+      },
+      {
+        "COUNTRY/REGION": "MEXICO",
+        "CARS": "708242",
+        "COMMERCIAL VEHICLES": "2437411",
+        "TOTAL": "3145653",
+        "% CHANGE": "-1%"
+      },
+      {
+        "COUNTRY/REGION": "POLAND",
+        "CARS": "260800",
+        "COMMERCIAL VEHICLES": "178621",
+        "TOTAL": "439421",
+        "% CHANGE": "-3%"
+      },
+      {
+        "COUNTRY/REGION": "PORTUGAL",
+        "CARS": "229221",
+        "COMMERCIAL VEHICLES": "60733",
+        "TOTAL": "289954",
+        "% CHANGE": "10%"
+      },
+      {
+        "COUNTRY/REGION": "ROMANIA",
+        "CARS": "420755",
+        "COMMERCIAL VEHICLES": "420755",
+        "TOTAL": "-4%"
+      },
+      {
+        "COUNTRY/REGION": "RUSSIA",
+        "CARS": "1352740",
+        "COMMERCIAL VEHICLES": "213577",
+        "TOTAL": "1566317",
+        "% CHANGE": "9%"
+      },
+      {
+        "COUNTRY/REGION": "SERBIA",
+        "CARS": "21109",
+        "COMMERCIAL VEHICLES": "154",
+        "TOTAL": "21263",
+        "% CHANGE": "-9%"
+      },
+      {
+        "COUNTRY/REGION": "SLOVAKIA",
+        "CARS": "1000000",
+        "COMMERCIAL VEHICLES": "1000000",
+        "TOTAL": "1%"
+      },
+      {
+        "COUNTRY/REGION": "SLOVENIA",
+        "CARS": "95797",
+        "COMMERCIAL VEHICLES": "95797",
+        "TOTAL": "-32%"
+      },
+      {
+        "COUNTRY/REGION": "SOUTH AFRICA",
+        "CARS": "239267",
+        "COMMERCIAL VEHICLES": "259820",
+        "TOTAL": "499087",
+        "% CHANGE": "12%"
+      },
+      {
+        "COUNTRY/REGION": "SOUTH KOREA",
+        "CARS": "3162727",
+        "COMMERCIAL VEHICLES": "299677",
+        "TOTAL": "3462404",
+        "% CHANGE": "-1%"
+      },
+      {
+        "COUNTRY/REGION": "SPAIN",
+        "CARS": "1662174",
+        "COMMERCIAL VEHICLES": "435959",
+        "TOTAL": "2098133",
+        "% CHANGE": "-8%"
+      },
+      {
+        "COUNTRY/REGION": "TAIWAN",
+        "CARS": "196749",
+        "COMMERCIAL VEHICLES": "68571",
+        "TOTAL": "265320",
+        "% CHANGE": "8%"
+      },
+      {
+        "COUNTRY/REGION": "THAILAND",
+        "CARS": "594690",
+        "COMMERCIAL VEHICLES": "1091015",
+        "TOTAL": "1685705",
+        "% CHANGE": "18%"
+      },
+      {
+        "COUNTRY/REGION": "TURKEY",
+        "CARS": "782835",
+        "COMMERCIAL VEHICLES": "493305",
+        "TOTAL": "1276140",
+        "% CHANGE": "-2%"
+      },
+      {
+        "COUNTRY/REGION": "UKRAINE",
+        "CARS": "7342",
+        "COMMERCIAL VEHICLES": "811",
+        "TOTAL": "8153",
+        "% CHANGE": "65%"
+      },
+      {
+        "COUNTRY/REGION": "UNITED KINGDOM",
+        "CARS": "859575",
+        "COMMERCIAL VEHICLES": "72913",
+        "TOTAL": "932488",
+        "% CHANGE": "-6%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "1563060",
+        "COMMERCIAL VEHICLES": "7604154",
+        "TOTAL": "9167214",
+        "% CHANGE": "4%"
+      },
+      {
+        "COUNTRY/REGION": "UZBEKISTAN",
+        "CARS": "236 667",
+        "COMMERCIAL VEHICLES": "4982",
+        "TOTAL": "241649",
+        "% CHANGE": "-15%"
+      },
+      {
+        "COUNTRY/REGION": "OTHERS",
+        "CARS": "1645014",
+        "COMMERCIAL VEHICLES": "183930",
+        "TOTAL": "1828944"
+      },
+      {
+        "COUNTRY/REGION": "TOTAL",
+        "CARS": "57054295",
+        "COMMERCIAL VEHICLES": "23091693",
+        "TOTAL": "80145988",
+        "% CHANGE": "3%"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "93001",
+        "COMMERCIAL VEHICLES": "164186",
+        "TOTAL": "257187",
+        "% CHANGE": "-18%"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "104544",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "104544",
+        "% CHANGE": "-42%"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "237057",
+        "COMMERCIAL VEHICLES": "30403",
+        "TOTAL": "267460",
+        "% CHANGE": "-6%"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "1608870",
+        "COMMERCIAL VEHICLES": "405185",
+        "TOTAL": "2014055",
+        "% CHANGE": "-32%"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "327681",
+        "COMMERCIAL VEHICLES": "1048942",
+        "TOTAL": "1376623",
+        "% CHANGE": "-28%"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "19994081",
+        "COMMERCIAL VEHICLES": "5231161",
+        "TOTAL": "25225242",
+        "% CHANGE": "-2%"
+      },
+      {
+        "COUNTRY/REGION": "Czech Republic",
+        "CARS": "1152901",
+        "COMMERCIAL VEHICLES": "6250",
+        "TOTAL": "1159151",
+        "% CHANGE": "-19%"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "23754",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "23754",
+        "% CHANGE": "28%"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "86270",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "86270",
+        "% CHANGE": "-25%"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "927718",
+        "COMMERCIAL VEHICLES": "388653",
+        "TOTAL": "1316371",
+        "% CHANGE": "-39%"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "3515372",
+        "COMMERCIAL VEHICLES": "227082",
+        "TOTAL": "3742454",
+        "% CHANGE": "-24%"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "406497",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "406497",
+        "% CHANGE": "-18%"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "2851268",
+        "COMMERCIAL VEHICLES": "543178",
+        "TOTAL": "3394446",
+        "% CHANGE": "-25%"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "551400",
+        "COMMERCIAL VEHICLES": "139886",
+        "TOTAL": "691286",
+        "% CHANGE": "-46%"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "826210",
+        "COMMERCIAL VEHICLES": "54787",
+        "TOTAL": "880997",
+        "% CHANGE": "7%"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "451826",
+        "COMMERCIAL VEHICLES": "325339",
+        "TOTAL": "777165",
+        "% CHANGE": "-15%"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "6960025",
+        "COMMERCIAL VEHICLES": "1107532",
+        "TOTAL": "8067557",
+        "% CHANGE": "-17%"
+      },
+      {
+        "COUNTRY/REGION": "Kazakhstan",
+        "CARS": "64790",
+        "COMMERCIAL VEHICLES": "10041",
+        "TOTAL": "74831",
+        "% CHANGE": "51%"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "457755",
+        "COMMERCIAL VEHICLES": "27431",
+        "TOTAL": "485186",
+        "% CHANGE": "-15%"
+      },
+      {
+        "COUNTRY/REGION": "Morocco",
+        "CARS": "221299",
+        "COMMERCIAL VEHICLES": "27131",
+        "TOTAL": "248430",
+        "% CHANGE": "-38%"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "967479",
+        "COMMERCIAL VEHICLES": "2209121",
+        "TOTAL": "3176600",
+        "% CHANGE": "-21%"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "278900",
+        "COMMERCIAL VEHICLES": "172482",
+        "TOTAL": "451382",
+        "% CHANGE": "-31%"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "211281",
+        "COMMERCIAL VEHICLES": "52955",
+        "TOTAL": "264236",
+        "% CHANGE": "-24%"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "438107",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "438107",
+        "% CHANGE": "-11%"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1260517",
+        "COMMERCIAL VEHICLES": "174818",
+        "TOTAL": "1435335",
+        "% CHANGE": "-17%"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "23272",
+        "COMMERCIAL VEHICLES": "103",
+        "TOTAL": "23375",
+        "% CHANGE": "-33%"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "985000",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "985000",
+        "% CHANGE": "-11%"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "141714",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "141714",
+        "% CHANGE": "-29%"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "238216",
+        "COMMERCIAL VEHICLES": "209002",
+        "TOTAL": "447218",
+        "% CHANGE": "-29%"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "3211706",
+        "COMMERCIAL VEHICLES": "295068",
+        "TOTAL": "3506774",
+        "% CHANGE": "-11%"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "1800664",
+        "COMMERCIAL VEHICLES": "467521",
+        "TOTAL": "2268185",
+        "% CHANGE": "-20%"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "180967",
+        "COMMERCIAL VEHICLES": "64648",
+        "TOTAL": "245615",
+        "% CHANGE": "-2%"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "537633",
+        "COMMERCIAL VEHICLES": "889441",
+        "TOTAL": "1427074",
+        "% CHANGE": "-29%"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "855043",
+        "COMMERCIAL VEHICLES": "442835",
+        "TOTAL": "1297878",
+        "% CHANGE": "-11%"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "4202",
+        "COMMERCIAL VEHICLES": "750",
+        "TOTAL": "4952",
+        "% CHANGE": "-32%"
+      },
+      {
+        "COUNTRY/REGION": "United Kingdom",
+        "CARS": "920928",
+        "COMMERCIAL VEHICLES": "66116",
+        "TOTAL": "987044",
+        "% CHANGE": "-29%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "1926795",
+        "COMMERCIAL VEHICLES": "6895604",
+        "TOTAL": "8822399",
+        "% CHANGE": "-19%"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "280080",
+        "COMMERCIAL VEHICLES": "-",
+        "TOTAL": "280080",
+        "% CHANGE": "3%"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "709633",
+        "COMMERCIAL VEHICLES": "109475",
+        "TOTAL": "819108"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "55834456",
+        "COMMERCIAL VEHICLES": "21787126",
+        "TOTAL": "77621582",
+        "% CHANGE": "-16%"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "108364",
+        "COMMERCIAL VEHICLES": "206423",
+        "TOTAL": "314787",
+        "% CHANGE": "-32,5"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "158 400",
+        "COMMERCIAL VEHICLES": "21000",
+        "TOTAL": "179400",
+        "% CHANGE": "8,8"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "247020",
+        "COMMERCIAL VEHICLES": "38777",
+        "TOTAL": "285797",
+        "% CHANGE": "-7,4"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2448490",
+        "COMMERCIAL VEHICLES": "496498",
+        "TOTAL": "2944988",
+        "% CHANGE": "2,2"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "461370",
+        "COMMERCIAL VEHICLES": "1455215",
+        "TOTAL": "1916585",
+        "% CHANGE": "-5,4"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "21360193",
+        "COMMERCIAL VEHICLES": "4360472",
+        "TOTAL": "25720665",
+        "% CHANGE": "-7,5"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1427563",
+        "COMMERCIAL VEHICLES": "6400",
+        "TOTAL": "1433963",
+        "% CHANGE": "-0,6"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "18500",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "18500",
+        "% CHANGE": "0"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "114785",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "114785",
+        "% CHANGE": "2,5"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1675198",
+        "COMMERCIAL VEHICLES": "527262",
+        "TOTAL": "2202460",
+        "% CHANGE": "-2,9"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "4661328",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "4661328",
+        "% CHANGE": "-9"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "498158",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "498158",
+        "% CHANGE": "7,6"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3623335",
+        "COMMERCIAL VEHICLES": "892682",
+        "TOTAL": "4516017",
+        "% CHANGE": "-12,2"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "1045666",
+        "COMMERCIAL VEHICLES": "241182",
+        "TOTAL": "1286848",
+        "% CHANGE": "-4,2"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "770000",
+        "COMMERCIAL VEHICLES": "51060",
+        "TOTAL": "821060",
+        "% CHANGE": "-25"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "542007",
+        "COMMERCIAL VEHICLES": "373298",
+        "TOTAL": "915305",
+        "% CHANGE": "-13,8"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "8328756",
+        "COMMERCIAL VEHICLES": "1355542",
+        "TOTAL": "9684298",
+        "% CHANGE": "-0,5"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "534115",
+        "COMMERCIAL VEHICLES": "37517",
+        "TOTAL": "571632",
+        "% CHANGE": "1,2"
+      },
+      {
+        "COUNTRY/REGION": "Morocco",
+        "CARS": "360110",
+        "COMMERCIAL VEHICLES": "34542",
+        "TOTAL": "394652",
+        "% CHANGE": "-1,8"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1382714",
+        "COMMERCIAL VEHICLES": "2604080",
+        "TOTAL": "3986794",
+        "% CHANGE": "-2,8"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "434700",
+        "COMMERCIAL VEHICLES": "215164",
+        "TOTAL": "649864",
+        "% CHANGE": "-1,5"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "282142",
+        "COMMERCIAL VEHICLES": "63562",
+        "TOTAL": "345704",
+        "% CHANGE": "17,4"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "490412",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "490412",
+        "% CHANGE": "2,9"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1523594",
+        "COMMERCIAL VEHICLES": "196190",
+        "TOTAL": "1719784",
+        "% CHANGE": "-2,8"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "34985",
+        "COMMERCIAL VEHICLES": "130",
+        "TOTAL": "35115",
+        "% CHANGE": "-37,8"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "1100000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1100000",
+        "% CHANGE": "0,6"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "199102",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "199102",
+        "% CHANGE": "-4,9"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "348665",
+        "COMMERCIAL VEHICLES": "283318",
+        "TOTAL": "631983",
+        "% CHANGE": "3,5"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "3612587",
+        "COMMERCIAL VEHICLES": "338030",
+        "TOTAL": "3950617",
+        "% CHANGE": "-1,9"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "2248019",
+        "COMMERCIAL VEHICLES": "574336",
+        "TOTAL": "2822355",
+        "% CHANGE": "0,1"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "189549",
+        "COMMERCIAL VEHICLES": "61755",
+        "TOTAL": "251304",
+        "% CHANGE": "-0,8"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "795254",
+        "COMMERCIAL VEHICLES": "1218456",
+        "TOTAL": "2013710",
+        "% CHANGE": "-7,1"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "982642",
+        "COMMERCIAL VEHICLES": "478602",
+        "TOTAL": "1461244",
+        "% CHANGE": "-5,7"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "6254",
+        "COMMERCIAL VEHICLES": "1011",
+        "TOTAL": "7265",
+        "% CHANGE": "9,7"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1303135",
+        "COMMERCIAL VEHICLES": "78270",
+        "TOTAL": "1381405",
+        "% CHANGE": "-13,9"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "2512780",
+        "COMMERCIAL VEHICLES": "8367239",
+        "TOTAL": "10880019",
+        "% CHANGE": "-3,7"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "271113",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "271113",
+        "% CHANGE": "22,9"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "1048191",
+        "COMMERCIAL VEHICLES": "59652",
+        "TOTAL": "1108503"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "67149196",
+        "COMMERCIAL VEHICLES": "24637665",
+        "TOTAL": "91786861",
+        "% CHANGE": "-5,2"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "208573",
+        "COMMERCIAL VEHICLES": "258076",
+        "TOTAL": "466649",
+        "% CHANGE": "-1.4"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "144500",
+        "COMMERCIAL VEHICLES": "20400",
+        "TOTAL": "164900",
+        "% CHANGE": "69.7"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "265958",
+        "COMMERCIAL VEHICLES": "42535",
+        "TOTAL": "308493",
+        "% CHANGE": "-18.2"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2386758",
+        "COMMERCIAL VEHICLES": "493051",
+        "TOTAL": "2879809",
+        "% CHANGE": "5.2"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "655896",
+        "COMMERCIAL VEHICLES": "1364944",
+        "TOTAL": "2020840",
+        "% CHANGE": "-7.9"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "23529423",
+        "COMMERCIAL VEHICLES": "4279773",
+        "TOTAL": "27809196",
+        "% CHANGE": "-4.2"
+      },
+      {
+        "COUNTRY/REGION": "Colombia",
+        "CARS": "69000",
+        "COMMERCIAL VEHICLES": "3800",
+        "TOTAL": "72800",
+        "% CHANGE": "-5.5"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1345041",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1345041",
+        "% CHANGE": "3"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "19500",
+        "COMMERCIAL VEHICLES": "52100",
+        "TOTAL": "71600",
+        "% CHANGE": "95"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "112104",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "112104",
+        "% CHANGE": "3"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1763000",
+        "COMMERCIAL VEHICLES": "507000",
+        "TOTAL": "2270000",
+        "% CHANGE": "2.0"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5120409",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "5120409",
+        "% CHANGE": "-9.3"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "430988",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "430988",
+        "% CHANGE": "3.0"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "4064774",
+        "COMMERCIAL VEHICLES": "1109871",
+        "TOTAL": "5174645",
+        "% CHANGE": "8.0"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "1055774",
+        "COMMERCIAL VEHICLES": "287940",
+        "TOTAL": "1343714",
+        "% CHANGE": "10.3"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "1027313",
+        "COMMERCIAL VEHICLES": "68213",
+        "TOTAL": "1095526",
+        "% CHANGE": "-40"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "670932",
+        "COMMERCIAL VEHICLES": "389136",
+        "TOTAL": "1060068",
+        "% CHANGE": "-7.2"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "8358220",
+        "COMMERCIAL VEHICLES": "1370308",
+        "TOTAL": "9728528",
+        "% CHANGE": "0.4"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "522000",
+        "COMMERCIAL VEHICLES": "42800",
+        "TOTAL": "564800",
+        "% CHANGE": "12.2"
+      },
+      {
+        "COUNTRY/REGION": "Morocco",
+        "CARS": "368601",
+        "COMMERCIAL VEHICLES": "33484",
+        "TOTAL": "402085",
+        "% CHANGE": "17.6"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1575808",
+        "COMMERCIAL VEHICLES": "2524717",
+        "TOTAL": "4100525",
+        "% CHANGE": "0.1"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "451600",
+        "COMMERCIAL VEHICLES": "208046",
+        "TOTAL": "659646",
+        "% CHANGE": "-4.4"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "234151",
+        "COMMERCIAL VEHICLES": "60215",
+        "TOTAL": "294366",
+        "% CHANGE": "67.7"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "476769",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "476769",
+        "% CHANGE": "31.1"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1563572",
+        "COMMERCIAL VEHICLES": "204102",
+        "TOTAL": "1767674",
+        "% CHANGE": "13.9"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "56303",
+        "COMMERCIAL VEHICLES": "146",
+        "TOTAL": "56449",
+        "% CHANGE": "-28.5"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "1090000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1090000",
+        "% CHANGE": "5.6"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "209378",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "209378",
+        "% CHANGE": "10.2"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "321097",
+        "COMMERCIAL VEHICLES": "289757",
+        "TOTAL": "610854",
+        "% CHANGE": "3.5"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "3661730",
+        "COMMERCIAL VEHICLES": "367104",
+        "TOTAL": "4028834",
+        "% CHANGE": "-2.1"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "2267396",
+        "COMMERCIAL VEHICLES": "552169",
+        "TOTAL": "2819565",
+        "% CHANGE": "-1.0"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "190052",
+        "COMMERCIAL VEHICLES": "63189",
+        "TOTAL": "253241",
+        "% CHANGE": "-13.1"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "877015",
+        "COMMERCIAL VEHICLES": "1290679",
+        "TOTAL": "2167694",
+        "% CHANGE": "9.0"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "1026461",
+        "COMMERCIAL VEHICLES": "523689",
+        "TOTAL": "1550150",
+        "% CHANGE": "-8.6"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "5660",
+        "COMMERCIAL VEHICLES": "963",
+        "TOTAL": "6623",
+        "% CHANGE": "-22.9"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1519440",
+        "COMMERCIAL VEHICLES": "84888",
+        "TOTAL": "1604328",
+        "% CHANGE": "-8.3"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "2795971",
+        "COMMERCIAL VEHICLES": "8518734",
+        "TOTAL": "11314705",
+        "% CHANGE": "1.1"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "220667",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "220667",
+        "% CHANGE": "57.3"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "341554",
+        "COMMERCIAL VEHICLES": "152230",
+        "TOTAL": "493784"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "70498388",
+        "COMMERCIAL VEHICLES": "25136912",
+        "TOTAL": "95634593",
+        "% CHANGE": "-1.1"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "203700",
+        "COMMERCIAL VEHICLES": "268458",
+        "TOTAL": "472158",
+        "% CHANGE": "-0.13"
+      },
+      {
+        "COUNTRY/REGION": "Australia",
+        "CARS": "88195",
+        "COMMERCIAL VEHICLES": "10437",
+        "TOTAL": "98632",
+        "% CHANGE": "-38.85"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "81000",
+        "COMMERCIAL VEHICLES": "18880",
+        "TOTAL": "99880",
+        "% CHANGE": "-8.98"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "336000",
+        "COMMERCIAL VEHICLES": "43140",
+        "TOTAL": "379140",
+        "% CHANGE": "-5.08"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2269468",
+        "COMMERCIAL VEHICLES": "430204",
+        "TOTAL": "2699672",
+        "% CHANGE": "25.2"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "749458",
+        "COMMERCIAL VEHICLES": "1450331",
+        "TOTAL": "2199789",
+        "% CHANGE": "-7.21"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "24806687",
+        "COMMERCIAL VEHICLES": "4208747",
+        "TOTAL": "29015434",
+        "% CHANGE": "3.19"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1413881",
+        "COMMERCIAL VEHICLES": "6112",
+        "TOTAL": "1419993",
+        "% CHANGE": "0"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "9970",
+        "COMMERCIAL VEHICLES": "26670",
+        "TOTAL": "36640",
+        "% CHANGE": "1.13"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "91598",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "91598",
+        "% CHANGE": "90.83"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1748000",
+        "COMMERCIAL VEHICLES": "479000",
+        "TOTAL": "2227000",
+        "% CHANGE": "6.54"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5645581",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "5645581",
+        "% CHANGE": "-1.76"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "502000",
+        "COMMERCIAL VEHICLES": "3400",
+        "TOTAL": "505400",
+        "% CHANGE": "-4.01"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3952550",
+        "COMMERCIAL VEHICLES": "830346",
+        "TOTAL": "4782896",
+        "% CHANGE": "5.83"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "982356",
+        "COMMERCIAL VEHICLES": "234259",
+        "TOTAL": "1216615",
+        "% CHANGE": "3.3"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "1418550",
+        "COMMERCIAL VEHICLES": "96846",
+        "TOTAL": "1515396",
+        "% CHANGE": "18.19"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "742642",
+        "COMMERCIAL VEHICLES": "399568",
+        "TOTAL": "1142210",
+        "% CHANGE": "3.53"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "8347836",
+        "COMMERCIAL VEHICLES": "1345910",
+        "TOTAL": "9693746",
+        "% CHANGE": "5.31"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "424880",
+        "COMMERCIAL VEHICLES": "35260",
+        "TOTAL": "460140",
+        "% CHANGE": "-15.62"
+      },
+      {
+        "COUNTRY/REGION": "Morocco",
+        "CARS": "341802",
+        "COMMERCIAL VEHICLES": "34484",
+        "TOTAL": "376826",
+        "% CHANGE": "9"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1900029",
+        "COMMERCIAL VEHICLES": "2168386",
+        "TOTAL": "4068415",
+        "% CHANGE": "13"
+      },
+      {
+        "COUNTRY/REGION": "Netherlands",
+        "CARS": "155000",
+        "COMMERCIAL VEHICLES": "2280",
+        "TOTAL": "157280",
+        "% CHANGE": "74.97"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "514700",
+        "COMMERCIAL VEHICLES": "175029",
+        "TOTAL": "689729",
+        "% CHANGE": "1.16"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "126426",
+        "COMMERCIAL VEHICLES": "49118",
+        "TOTAL": "175544",
+        "% CHANGE": "22.68"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "359240",
+        "COMMERCIAL VEHICLES": "10",
+        "TOTAL": "359250",
+        "% CHANGE": "-0.02"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1348029",
+        "COMMERCIAL VEHICLES": "203264",
+        "TOTAL": "1551293",
+        "% CHANGE": "19.01"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "79360",
+        "COMMERCIAL VEHICLES": "552",
+        "TOTAL": "79912",
+        "% CHANGE": "-0.51"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "1001520",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1001520",
+        "% CHANGE": "-3.7"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "189852",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "189852",
+        "% CHANGE": "42"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "321358",
+        "COMMERCIAL VEHICLES": "268593",
+        "TOTAL": "589951",
+        "% CHANGE": "-1.51"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "3735399",
+        "COMMERCIAL VEHICLES": "379514",
+        "TOTAL": "4114913",
+        "% CHANGE": "-2.69"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "2291492",
+        "COMMERCIAL VEHICLES": "556843",
+        "TOTAL": "2848335",
+        "% CHANGE": "-1.3"
+      },
+      {
+        "COUNTRY/REGION": "Sweden",
+        "CARS": "226000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "226000",
+        "% CHANGE": "10.04"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "230356",
+        "COMMERCIAL VEHICLES": "61207",
+        "TOTAL": "291563",
+        "% CHANGE": "-5.8"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "818440",
+        "COMMERCIAL VEHICLES": "1170383",
+        "TOTAL": "1988823",
+        "% CHANGE": "2.28"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "1142906",
+        "COMMERCIAL VEHICLES": "552825",
+        "TOTAL": "1695731",
+        "% CHANGE": "14.12"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "7296",
+        "COMMERCIAL VEHICLES": "2246",
+        "TOTAL": "9542",
+        "% CHANGE": "81.27"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1671166",
+        "COMMERCIAL VEHICLES": "78219",
+        "TOTAL": "1749385",
+        "% CHANGE": "-3.70"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "3033216",
+        "COMMERCIAL VEHICLES": "8156769",
+        "TOTAL": "11189985",
+        "% CHANGE": "-8.13"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "140247",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "140247",
+        "% CHANGE": "59.10"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "536725",
+        "COMMERCIAL VEHICLES": "221947",
+        "TOTAL": "758672",
+        "% CHANGE": "16"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "73456531",
+        "COMMERCIAL VEHICLES": "23846003",
+        "TOTAL": "97302534",
+        "% CHANGE": "2.36"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "241,315",
+        "COMMERCIAL VEHICLES": "231,461",
+        "TOTAL": "472,776",
+        "% CHANGE": "-10.2%"
+      },
+      {
+        "COUNTRY/REGION": "Australia",
+        "CARS": "149,000",
+        "COMMERCIAL VEHICLES": "12,294",
+        "TOTAL": "161,294",
+        "% CHANGE": "-6.8%"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "90,000",
+        "COMMERCIAL VEHICLES": "18,000",
+        "TOTAL": "108,000",
+        "% CHANGE": "-10.9%"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "354,003",
+        "COMMERCIAL VEHICLES": "45,424",
+        "TOTAL": "399,427",
+        "% CHANGE": "-2.4%"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "1,778,464",
+        "COMMERCIAL VEHICLES": "377,892",
+        "TOTAL": "2,156,356",
+        "% CHANGE": "-11.2%"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "802,057",
+        "COMMERCIAL VEHICLES": "1,568,214",
+        "TOTAL": "2,370,271",
+        "% CHANGE": "3.8%"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "24,420,744",
+        "COMMERCIAL VEHICLES": "3,698,050",
+        "TOTAL": "28,118,794",
+        "% CHANGE": "14.5%"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1,344,182",
+        "COMMERCIAL VEHICLES": "5,714",
+        "TOTAL": "1,349,896",
+        "% CHANGE": "8.3%"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "10,930",
+        "COMMERCIAL VEHICLES": "25,300",
+        "TOTAL": "36,230",
+        "% CHANGE": "0.6%"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "55,280",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "55,280",
+        "% CHANGE": "-19.9%"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1,626,000",
+        "COMMERCIAL VEHICLES": "456,000",
+        "TOTAL": "2,082,000",
+        "% CHANGE": "5.6%"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5,746,808",
+        "COMMERCIAL VEHICLES": "315,754",
+        "TOTAL": "6,062,562",
+        "% CHANGE": "0.5%"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "472,000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "472,000",
+        "% CHANGE": "-4.7%"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3,677,605",
+        "COMMERCIAL VEHICLES": "811,360",
+        "TOTAL": "4,488,965",
+        "% CHANGE": "7.9%"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "968,101",
+        "COMMERCIAL VEHICLES": "209,288",
+        "TOTAL": "1,177,389",
+        "% CHANGE": "7.2%"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "1,074,000",
+        "COMMERCIAL VEHICLES": "90,710",
+        "TOTAL": "1,164,710",
+        "% CHANGE": "18.6%"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "713,182",
+        "COMMERCIAL VEHICLES": "390,334",
+        "TOTAL": "1,103,516",
+        "% CHANGE": "8.8%"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "7,873,886",
+        "COMMERCIAL VEHICLES": "1,330,704",
+        "TOTAL": "9,204,590",
+        "% CHANGE": "-0.8%"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "469,720",
+        "COMMERCIAL VEHICLES": "43,725",
+        "TOTAL": "513,445",
+        "% CHANGE": "-16.5%"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1,993,168",
+        "COMMERCIAL VEHICLES": "1,604,294",
+        "TOTAL": "3,597,462",
+        "% CHANGE": "0.9%"
+      },
+      {
+        "COUNTRY/REGION": "Netherlands",
+        "CARS": "42,150",
+        "COMMERCIAL VEHICLES": "2,280",
+        "TOTAL": "44,430",
+        "% CHANGE": "0.7%"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "554,600",
+        "COMMERCIAL VEHICLES": "127,237",
+        "TOTAL": "681,837",
+        "% CHANGE": "3.2%"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "99,200",
+        "COMMERCIAL VEHICLES": "43,896",
+        "TOTAL": "143,096",
+        "% CHANGE": "-8.6%"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "358,861",
+        "COMMERCIAL VEHICLES": "445",
+        "TOTAL": "359,306",
+        "% CHANGE": "-7.2%"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1,124,774",
+        "COMMERCIAL VEHICLES": "179,215",
+        "TOTAL": "1,303,989",
+        "% CHANGE": "-5.4%"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "79,360",
+        "COMMERCIAL VEHICLES": "960",
+        "TOTAL": "80,320",
+        "% CHANGE": "-4.0%"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "1,040,000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1,040,000",
+        "% CHANGE": "0.1%"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "133,702",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "133,702",
+        "% CHANGE": "0.5%"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "335,539",
+        "COMMERCIAL VEHICLES": "263,465",
+        "TOTAL": "599,004",
+        "% CHANGE": "-2.7%"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "3,859,991",
+        "COMMERCIAL VEHICLES": "368,518",
+        "TOTAL": "4,228,509",
+        "% CHANGE": "-7.2%"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "2,354,117",
+        "COMMERCIAL VEHICLES": "531,805",
+        "TOTAL": "2,885,922",
+        "% CHANGE": "5.6%"
+      },
+      {
+        "COUNTRY/REGION": "Sweden",
+        "CARS": "205,374",
+        "COMMERCIAL VEHICLES": "N.A.",
+        "TOTAL": "205,374",
+        "% CHANGE": "8.7%"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "251,096",
+        "COMMERCIAL VEHICLES": "58,435",
+        "TOTAL": "309,531",
+        "% CHANGE": "-11.8%"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "805,033",
+        "COMMERCIAL VEHICLES": "1,139,384",
+        "TOTAL": "1,944,417",
+        "% CHANGE": "1.8%"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "950,888",
+        "COMMERCIAL VEHICLES": "535,039",
+        "TOTAL": "1,485,927",
+        "% CHANGE": "9.4%"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "4,340",
+        "COMMERCIAL VEHICLES": "924",
+        "TOTAL": "5,264",
+        "% CHANGE": "-36.1%"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1,722,698",
+        "COMMERCIAL VEHICLES": "93,924",
+        "TOTAL": "1,816,622",
+        "% CHANGE": "8.0%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "3,934,357",
+        "COMMERCIAL VEHICLES": "8,263,780",
+        "TOTAL": "12,198,137",
+        "% CHANGE": "0.8%"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "88,152",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "88,152",
+        "% CHANGE": "-52.5%"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "781,708",
+        "COMMERCIAL VEHICLES": "138,454",
+        "TOTAL": "920,162",
+        "% CHANGE": "10.6%"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "72,105,435",
+        "COMMERCIAL VEHICLES": "22,871,134",
+        "TOTAL": "94,976,569",
+        "% CHANGE": "4.5%"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "308,756",
+        "COMMERCIAL VEHICLES": "224,927",
+        "TOTAL": "533,683",
+        "% CHANGE": "-13.5%"
+      },
+      {
+        "COUNTRY/REGION": "Australia",
+        "CARS": "159,872",
+        "COMMERCIAL VEHICLES": "13,137",
+        "TOTAL": "173,009",
+        "% CHANGE": "-4.0%"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "109,000",
+        "COMMERCIAL VEHICLES": "16,500",
+        "TOTAL": "125,500",
+        "% CHANGE": "-17.4%"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "369,172",
+        "COMMERCIAL VEHICLES": "40,168",
+        "TOTAL": "409,340",
+        "% CHANGE": "-20.8%"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2,018,954",
+        "COMMERCIAL VEHICLES": "410,509",
+        "TOTAL": "2,429,463",
+        "% CHANGE": "-22.8%"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "888,565",
+        "COMMERCIAL VEHICLES": "1,394,909",
+        "TOTAL": "2,283,474",
+        "% CHANGE": "-4.6%"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "21,079,427",
+        "COMMERCIAL VEHICLES": "3,423,899",
+        "TOTAL": "24,503,326",
+        "% CHANGE": "3.3%"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1,298,236",
+        "COMMERCIAL VEHICLES": "5,367",
+        "TOTAL": "1,303,603",
+        "% CHANGE": "4.2%"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "12,000",
+        "COMMERCIAL VEHICLES": "24,000",
+        "TOTAL": "36,000",
+        "% CHANGE": "-15.3%"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "69,000",
+        "COMMERCIAL VEHICLES": "53",
+        "TOTAL": "69,053",
+        "% CHANGE": "53.3%"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1,553,800",
+        "COMMERCIAL VEHICLES": "416,200",
+        "TOTAL": "1,970,000",
+        "% CHANGE": "8.2%"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5,707,938",
+        "COMMERCIAL VEHICLES": "325,226",
+        "TOTAL": "6,033,164",
+        "% CHANGE": "2.1%"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "491,720",
+        "COMMERCIAL VEHICLES": "3,650",
+        "TOTAL": "495,370",
+        "% CHANGE": "13.2%"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3,378,063",
+        "COMMERCIAL VEHICLES": "747,681",
+        "TOTAL": "4,125,744",
+        "% CHANGE": "7.3%"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "824,445",
+        "COMMERCIAL VEHICLES": "274,335",
+        "TOTAL": "1,098,780",
+        "% CHANGE": "-15.4%"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "884,866",
+        "COMMERCIAL VEHICLES": "97,471",
+        "TOTAL": "982,337",
+        "% CHANGE": "-9.9%"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "663,139",
+        "COMMERCIAL VEHICLES": "351,084",
+        "TOTAL": "1,014,223",
+        "% CHANGE": "45.3%"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "7,830,722",
+        "COMMERCIAL VEHICLES": "1,447,516",
+        "TOTAL": "9,278,238",
+        "% CHANGE": "-5.1%"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "558,324",
+        "COMMERCIAL VEHICLES": "56,347",
+        "TOTAL": "614,671",
+        "% CHANGE": "3.3%"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1,968,054",
+        "COMMERCIAL VEHICLES": "1,597,415",
+        "TOTAL": "3,565,469",
+        "% CHANGE": "5.9%"
+      },
+      {
+        "COUNTRY/REGION": "Netherlands",
+        "CARS": "41,870",
+        "COMMERCIAL VEHICLES": "2,252",
+        "TOTAL": "44,122",
+        "% CHANGE": "40.4%"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "534,700",
+        "COMMERCIAL VEHICLES": "125,903",
+        "TOTAL": "660,603",
+        "% CHANGE": "11.3%"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "115,468",
+        "COMMERCIAL VEHICLES": "41,158",
+        "TOTAL": "156,626",
+        "% CHANGE": "-3.0%"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "387,171",
+        "COMMERCIAL VEHICLES": "6",
+        "TOTAL": "387,177",
+        "% CHANGE": "-1.1%"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1,214,849",
+        "COMMERCIAL VEHICLES": "169,550",
+        "TOTAL": "1,384,399",
+        "% CHANGE": "-26.6%"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "82,400",
+        "COMMERCIAL VEHICLES": "1,230",
+        "TOTAL": "83,630",
+        "% CHANGE": "-18.9%"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "1,000,001",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "1,000,001",
+        "% CHANGE": "3.0%"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "133,092",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "133,092",
+        "% CHANGE": "12.2%"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "341,025",
+        "COMMERCIAL VEHICLES": "274,633",
+        "TOTAL": "615,658",
+        "% CHANGE": "8.8%"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "4,135,108",
+        "COMMERCIAL VEHICLES": "420,849",
+        "TOTAL": "4,555,957",
+        "% CHANGE": "0.7%"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "2,218,980",
+        "COMMERCIAL VEHICLES": "514,221",
+        "TOTAL": "2,733,201",
+        "% CHANGE": "13.7%"
+      },
+      {
+        "COUNTRY/REGION": "Sweden",
+        "CARS": "188,987",
+        "COMMERCIAL VEHICLES": "N.A.",
+        "TOTAL": "188,987",
+        "% CHANGE": "22.6%"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "298,418",
+        "COMMERCIAL VEHICLES": "52,667",
+        "TOTAL": "351,085",
+        "% CHANGE": "-7.4%"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "772,250",
+        "COMMERCIAL VEHICLES": "1,143,170",
+        "TOTAL": "1,915,420",
+        "% CHANGE": "1.9%"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "791,027",
+        "COMMERCIAL VEHICLES": "567,769",
+        "TOTAL": "1,358,796",
+        "% CHANGE": "16.1%"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "5,654",
+        "COMMERCIAL VEHICLES": "2,590",
+        "TOTAL": "8,244",
+        "% CHANGE": "-71.3%"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1,587,677",
+        "COMMERCIAL VEHICLES": "94,479",
+        "TOTAL": "1,682,156",
+        "% CHANGE": "5.2%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "4,163,679",
+        "COMMERCIAL VEHICLES": "7,936,416",
+        "TOTAL": "12,100,095",
+        "% CHANGE": "3.8%"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "185,400",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "185,400",
+        "% CHANGE": "-24.5%"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "693,817",
+        "COMMERCIAL VEHICLES": "138,866",
+        "TOTAL": "832,683",
+        "% CHANGE": "19.1%"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "68,539,516",
+        "COMMERCIAL VEHICLES": "22,241,067",
+        "TOTAL": "90,780,583",
+        "% CHANGE": "1.1%"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "363,711",
+        "COMMERCIAL VEHICLES": "253,618",
+        "TOTAL": "617,329",
+        "% CHANGE": "-22.0%"
+      },
+      {
+        "COUNTRY/REGION": "Australia",
+        "CARS": "166,933",
+        "COMMERCIAL VEHICLES": "13,378",
+        "TOTAL": "180,311",
+        "% CHANGE": "-16.5%"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "136,000",
+        "COMMERCIAL VEHICLES": "18,340",
+        "TOTAL": "152,000",
+        "% CHANGE": "-8.7%"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "481,636",
+        "COMMERCIAL VEHICLES": "35,195",
+        "TOTAL": "516,831",
+        "% CHANGE": "2.6%"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2,502,293",
+        "COMMERCIAL VEHICLES": "644,093",
+        "TOTAL": "3,146,386",
+        "% CHANGE": "-15.2%"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "913,533",
+        "COMMERCIAL VEHICLES": "1,480,621",
+        "TOTAL": "2,394,154",
+        "% CHANGE": "0.6%"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "19,928,505",
+        "COMMERCIAL VEHICLES": "3,803,095",
+        "TOTAL": "23,731,600",
+        "% CHANGE": "7.3%"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1,246,506",
+        "COMMERCIAL VEHICLES": "4,714",
+        "TOTAL": "1,251,220",
+        "% CHANGE": "10.4%"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "17,542",
+        "COMMERCIAL VEHICLES": "9,190",
+        "TOTAL": "42,515",
+        "% CHANGE": "-38.0%"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "45,000",
+        "COMMERCIAL VEHICLES": "35",
+        "TOTAL": "45,035",
+        "% CHANGE": "484.6%"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1,499,464",
+        "COMMERCIAL VEHICLES": "322,000",
+        "TOTAL": "1,821,464",
+        "% CHANGE": "4.7%"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5,604,026",
+        "COMMERCIAL VEHICLES": "303,522",
+        "TOTAL": "5,907,548",
+        "% CHANGE": "3.3%"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "434,069",
+        "COMMERCIAL VEHICLES": "2,400",
+        "TOTAL": "437,599",
+        "% CHANGE": "36.2%"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3,162,372",
+        "COMMERCIAL VEHICLES": "682,485",
+        "TOTAL": "3,844,857",
+        "% CHANGE": "-1.4%"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "1,013,172",
+        "COMMERCIAL VEHICLES": "285,351",
+        "TOTAL": "1,298,523",
+        "% CHANGE": "7.6%"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "925,975",
+        "COMMERCIAL VEHICLES": "164,871",
+        "TOTAL": "1,090,846",
+        "% CHANGE": "46.7%"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "401,317",
+        "COMMERCIAL VEHICLES": "296,547",
+        "TOTAL": "697,864",
+        "% CHANGE": "6.0%"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "8,277,070",
+        "COMMERCIAL VEHICLES": "1,497,488",
+        "TOTAL": "9,774,665",
+        "% CHANGE": "1.5%"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "545,122",
+        "COMMERCIAL VEHICLES": "50,012",
+        "TOTAL": "595,134",
+        "% CHANGE": "-1.0%"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1,915,709",
+        "COMMERCIAL VEHICLES": "1,452,301",
+        "TOTAL": "3,368,010",
+        "% CHANGE": "10.3%"
+      },
+      {
+        "COUNTRY/REGION": "Netherlands",
+        "CARS": "29,196",
+        "COMMERCIAL VEHICLES": "2,232",
+        "TOTAL": "31,428",
+        "% CHANGE": "7.7%"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "472,600",
+        "COMMERCIAL VEHICLES": "120,904",
+        "TOTAL": "593,504",
+        "% CHANGE": "0.6%"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "117,744",
+        "COMMERCIAL VEHICLES": "43,765",
+        "TOTAL": "161,509",
+        "% CHANGE": "4.9%"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "391,422",
+        "COMMERCIAL VEHICLES": "12",
+        "TOTAL": "391,434",
+        "% CHANGE": "-4.8%"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1,682,921",
+        "COMMERCIAL VEHICLES": "204,272",
+        "TOTAL": "1,887,193",
+        "% CHANGE": "-23.0%"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "101,576",
+        "COMMERCIAL VEHICLES": "695",
+        "TOTAL": "103,150",
+        "% CHANGE": "-9.4%"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "971,160",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "971,160",
+        "% CHANGE": "-0.4%"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "118,533",
+        "COMMERCIAL VEHICLES": "58",
+        "TOTAL": "118,591",
+        "% CHANGE": "26.5%"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "277,491",
+        "COMMERCIAL VEHICLES": "288,592",
+        "TOTAL": "566,083",
+        "% CHANGE": "3.7%"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "4,124,116",
+        "COMMERCIAL VEHICLES": "400,816",
+        "TOTAL": "4,524,932",
+        "% CHANGE": "0.1%"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "1,898,342",
+        "COMMERCIAL VEHICLES": "504,636",
+        "TOTAL": "2,402,978",
+        "% CHANGE": "11.1%"
+      },
+      {
+        "COUNTRY/REGION": "Sweden",
+        "CARS": "154,174",
+        "COMMERCIAL VEHICLES": "N.A.",
+        "TOTAL": "154,174",
+        "% CHANGE": "-4.3%"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "332,629",
+        "COMMERCIAL VEHICLES": "46,594",
+        "TOTAL": "379,223",
+        "% CHANGE": "12.0%"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "743,258",
+        "COMMERCIAL VEHICLES": "1,137,329",
+        "TOTAL": "1,880,587",
+        "% CHANGE": "-23.5%"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "733,439",
+        "COMMERCIAL VEHICLES": "437,006",
+        "TOTAL": "1,170,445",
+        "% CHANGE": "4.0%"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "25,941",
+        "COMMERCIAL VEHICLES": "2,810",
+        "TOTAL": "28,751",
+        "% CHANGE": "-43.0%"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1,528,148",
+        "COMMERCIAL VEHICLES": "70,731",
+        "TOTAL": "1,598,879",
+        "% CHANGE": "0.1%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "4,253,098",
+        "COMMERCIAL VEHICLES": "7,407,604",
+        "TOTAL": "11,660,702",
+        "% CHANGE": "5.4%"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "245,660",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "245,660",
+        "% CHANGE": "-0.4%"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "584,144",
+        "COMMERCIAL VEHICLES": "114,998",
+        "TOTAL": "699,142",
+        "% CHANGE": "8.7%"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "67,782,035",
+        "COMMERCIAL VEHICLES": "21,994,430",
+        "TOTAL": "89,776,465",
+        "% CHANGE": "2.5%"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "506,539",
+        "COMMERCIAL VEHICLES": "284,468",
+        "TOTAL": "791,007",
+        "% CHANGE": "3.5%"
+      },
+      {
+        "COUNTRY/REGION": "Australia",
+        "CARS": "170,808",
+        "COMMERCIAL VEHICLES": "45,118",
+        "TOTAL": "215,926",
+        "% CHANGE": "-4.7%"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "146,566",
+        "COMMERCIAL VEHICLES": "19,862",
+        "TOTAL": "166,428",
+        "% CHANGE": "16.3%"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "465,504",
+        "COMMERCIAL VEHICLES": "38,000",
+        "TOTAL": "503,504",
+        "% CHANGE": "-6.6%"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2,722,979",
+        "COMMERCIAL VEHICLES": "989,401",
+        "TOTAL": "3,712,380",
+        "% CHANGE": "9.1%"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "965,191",
+        "COMMERCIAL VEHICLES": "1,414,615",
+        "TOTAL": "2,379,834",
+        "% CHANGE": "-3.4%"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "18,084,169",
+        "COMMERCIAL VEHICLES": "4,032,656",
+        "TOTAL": "22,116,825",
+        "% CHANGE": "14.8%"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1,128,473",
+        "COMMERCIAL VEHICLES": "4,458",
+        "TOTAL": "1,132,931",
+        "% CHANGE": "-3.9%"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "13,777",
+        "COMMERCIAL VEHICLES": "17,027",
+        "TOTAL": "30,804",
+        "% CHANGE": "-45.5%"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "7,600",
+        "COMMERCIAL VEHICLES": "103",
+        "TOTAL": "7,703",
+        "% CHANGE": "-11.3%"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1,458,220",
+        "COMMERCIAL VEHICLES": "282,000",
+        "TOTAL": "1,740,220",
+        "% CHANGE": "-11.6%"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5,439,904",
+        "COMMERCIAL VEHICLES": "278,318",
+        "TOTAL": "5,718,222",
+        "% CHANGE": "1.2%"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "317,857",
+        "COMMERCIAL VEHICLES": "3,430",
+        "TOTAL": "321,287",
+        "% CHANGE": "47.5%"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3,155,694",
+        "COMMERCIAL VEHICLES": "742,731",
+        "TOTAL": "3,898,425",
+        "% CHANGE": "-6.6%"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "924,753",
+        "COMMERCIAL VEHICLES": "281,615",
+        "TOTAL": "1,206,368",
+        "% CHANGE": "14.6%"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "630,639",
+        "COMMERCIAL VEHICLES": "113,041",
+        "TOTAL": "743,680",
+        "% CHANGE": "-25.6%"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "388,465",
+        "COMMERCIAL VEHICLES": "269,741",
+        "TOTAL": "658,206",
+        "% CHANGE": "-2.0%"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "8,189,323",
+        "COMMERCIAL VEHICLES": "1,440,858",
+        "TOTAL": "9,630,181",
+        "% CHANGE": "-3.1%"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "543,892",
+        "COMMERCIAL VEHICLES": "57,515",
+        "TOTAL": "601,407",
+        "% CHANGE": "5.6%"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1,771,987",
+        "COMMERCIAL VEHICLES": "1,282,862",
+        "TOTAL": "3,054,849",
+        "% CHANGE": "1.8%"
+      },
+      {
+        "COUNTRY/REGION": "Netherlands",
+        "CARS": "0",
+        "COMMERCIAL VEHICLES": "29,183",
+        "TOTAL": "29,183",
+        "% CHANGE": "-47.5%"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "475,000",
+        "COMMERCIAL VEHICLES": "115,159",
+        "TOTAL": "590,159",
+        "% CHANGE": "-9.9%"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "109,698",
+        "COMMERCIAL VEHICLES": "44,318",
+        "TOTAL": "154,016",
+        "% CHANGE": "-5.8%"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "410,959",
+        "COMMERCIAL VEHICLES": "38",
+        "TOTAL": "410,997",
+        "% CHANGE": "21.7%"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1,927,578",
+        "COMMERCIAL VEHICLES": "264,667",
+        "TOTAL": "2,192,245",
+        "% CHANGE": "-1.8%"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "113,487",
+        "COMMERCIAL VEHICLES": "805",
+        "TOTAL": "113,878",
+        "% CHANGE": "932.3%"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "975,000",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "975,000",
+        "% CHANGE": "5.2%"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "89,395",
+        "COMMERCIAL VEHICLES": "4,339",
+        "TOTAL": "93,734",
+        "% CHANGE": "-28.4%"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "265,257",
+        "COMMERCIAL VEHICLES": "280,656",
+        "TOTAL": "545,913",
+        "% CHANGE": "1.2%"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "4,122,604",
+        "COMMERCIAL VEHICLES": "398,825",
+        "TOTAL": "4,521,429",
+        "% CHANGE": "-0.9%"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "1,754,668",
+        "COMMERCIAL VEHICLES": "408,670",
+        "TOTAL": "2,163,338",
+        "% CHANGE": "9.3%"
+      },
+      {
+        "COUNTRY/REGION": "Sweden",
+        "CARS": "161,080",
+        "COMMERCIAL VEHICLES": "N.A.",
+        "TOTAL": "161,080",
+        "% CHANGE": "-1.1%"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "291,037",
+        "COMMERCIAL VEHICLES": "47,683",
+        "TOTAL": "338,720",
+        "% CHANGE": "-0.1%"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "1,071,076",
+        "COMMERCIAL VEHICLES": "1,385,981",
+        "TOTAL": "2,457,057",
+        "% CHANGE": "1.1%"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "633,604",
+        "COMMERCIAL VEHICLES": "491,930",
+        "TOTAL": "1,125,534",
+        "% CHANGE": "4.9%"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "45,758",
+        "COMMERCIAL VEHICLES": "4,691",
+        "TOTAL": "50,449",
+        "% CHANGE": "-33.9%"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1,509,762",
+        "COMMERCIAL VEHICLES": "88,110",
+        "TOTAL": "1,597,872",
+        "% CHANGE": "1.3%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "4,368,835",
+        "COMMERCIAL VEHICLES": "6,697,597",
+        "TOTAL": "11,066,432",
+        "% CHANGE": "7.1%"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "246,641",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "246,641",
+        "% CHANGE": "50.2%"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "523,679",
+        "COMMERCIAL VEHICLES": "119,936",
+        "TOTAL": "643,615",
+        "% CHANGE": "7.3%"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "65,745,403",
+        "COMMERCIAL VEHICLES": "21,850,595",
+        "TOTAL": "87,595,998",
+        "% CHANGE": "4.0%"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "data": [
+      {
+        "COUNTRY/REGION": "Argentina",
+        "CARS": "497,376",
+        "COMMERCIAL VEHICLES": "267,119",
+        "TOTAL": "764,495",
+        "% CHANGE": "-7.8%"
+      },
+      {
+        "COUNTRY/REGION": "Australia",
+        "CARS": "189,949",
+        "COMMERCIAL VEHICLES": "36,553",
+        "TOTAL": "226,502",
+        "% CHANGE": "-1.0%"
+      },
+      {
+        "COUNTRY/REGION": "Austria",
+        "CARS": "123,602",
+        "COMMERCIAL VEHICLES": "19,487",
+        "TOTAL": "143,089",
+        "% CHANGE": "-6.2%"
+      },
+      {
+        "COUNTRY/REGION": "Belgium",
+        "CARS": "504,616",
+        "COMMERCIAL VEHICLES": "34,232",
+        "TOTAL": "538,848",
+        "% CHANGE": "-9.5%"
+      },
+      {
+        "COUNTRY/REGION": "Brazil",
+        "CARS": "2,589,236",
+        "COMMERCIAL VEHICLES": "813,272",
+        "TOTAL": "3,402,508",
+        "% CHANGE": "-0.2%"
+      },
+      {
+        "COUNTRY/REGION": "Canada",
+        "CARS": "1,040,298",
+        "COMMERCIAL VEHICLES": "1,423,066",
+        "TOTAL": "2,463,364",
+        "% CHANGE": "15.4%"
+      },
+      {
+        "COUNTRY/REGION": "China",
+        "CARS": "15,523,658",
+        "COMMERCIAL VEHICLES": "3,748,150",
+        "TOTAL": "19,271,808",
+        "% CHANGE": "4.6%"
+      },
+      {
+        "COUNTRY/REGION": "Czech Rep.",
+        "CARS": "1,171,774",
+        "COMMERCIAL VEHICLES": "7,221",
+        "TOTAL": "1,178,995",
+        "% CHANGE": "-1.7%"
+      },
+      {
+        "COUNTRY/REGION": "Egypt",
+        "CARS": "36,880",
+        "COMMERCIAL VEHICLES": "19,600",
+        "TOTAL": "56,480",
+        "% CHANGE": "-30.9%"
+      },
+      {
+        "COUNTRY/REGION": "Finland",
+        "CARS": "8,600",
+        "COMMERCIAL VEHICLES": "88",
+        "TOTAL": "8,688",
+        "% CHANGE": "245.5%"
+      },
+      {
+        "COUNTRY/REGION": "France",
+        "CARS": "1,682,814",
+        "COMMERCIAL VEHICLES": "284,951",
+        "TOTAL": "1,967,765",
+        "% CHANGE": "-12.3%"
+      },
+      {
+        "COUNTRY/REGION": "Germany",
+        "CARS": "5,388,459",
+        "COMMERCIAL VEHICLES": "260,801",
+        "TOTAL": "5,649,260",
+        "% CHANGE": "-8.1%"
+      },
+      {
+        "COUNTRY/REGION": "Hungary",
+        "CARS": "215,440",
+        "COMMERCIAL VEHICLES": "2,400",
+        "TOTAL": "217,840",
+        "% CHANGE": "2.0%"
+      },
+      {
+        "COUNTRY/REGION": "India",
+        "CARS": "3,296,240",
+        "COMMERCIAL VEHICLES": "878,473",
+        "TOTAL": "4,174,713",
+        "% CHANGE": "6.3%"
+      },
+      {
+        "COUNTRY/REGION": "Indonesia",
+        "CARS": "745,144",
+        "COMMERCIAL VEHICLES": "307,751",
+        "TOTAL": "1,052,895",
+        "% CHANGE": "25.6%"
+      },
+      {
+        "COUNTRY/REGION": "Iran",
+        "CARS": "856,927",
+        "COMMERCIAL VEHICLES": "143,162",
+        "TOTAL": "1,000,089",
+        "% CHANGE": "-39.3%"
+      },
+      {
+        "COUNTRY/REGION": "Italy",
+        "CARS": "396,817",
+        "COMMERCIAL VEHICLES": "274,951",
+        "TOTAL": "671,768",
+        "% CHANGE": "-15.0%"
+      },
+      {
+        "COUNTRY/REGION": "Japan",
+        "CARS": "8,554,503",
+        "COMMERCIAL VEHICLES": "1,388,574",
+        "TOTAL": "9,943,077",
+        "% CHANGE": "18.4%"
+      },
+      {
+        "COUNTRY/REGION": "Malaysia",
+        "CARS": "509,621",
+        "COMMERCIAL VEHICLES": "59,999",
+        "TOTAL": "569,620",
+        "% CHANGE": "6.7%"
+      },
+      {
+        "COUNTRY/REGION": "Mexico",
+        "CARS": "1,810,007",
+        "COMMERCIAL VEHICLES": "1,191,807",
+        "TOTAL": "3,001,814",
+        "% CHANGE": "12.0%"
+      },
+      {
+        "COUNTRY/REGION": "Netherlands",
+        "CARS": "24,895",
+        "COMMERCIAL VEHICLES": "30,744",
+        "TOTAL": "55,639",
+        "% CHANGE": "-23.9%"
+      },
+      {
+        "COUNTRY/REGION": "Poland",
+        "CARS": "539,671",
+        "COMMERCIAL VEHICLES": "115085",
+        "TOTAL": "654,756",
+        "% CHANGE": "-21.9%"
+      },
+      {
+        "COUNTRY/REGION": "Portugal",
+        "CARS": "115,735",
+        "COMMERCIAL VEHICLES": "47,826",
+        "TOTAL": "163,561",
+        "% CHANGE": "-14.9%"
+      },
+      {
+        "COUNTRY/REGION": "Romania",
+        "CARS": "326,556",
+        "COMMERCIAL VEHICLES": "11,209",
+        "TOTAL": "337,765",
+        "% CHANGE": "0.8%"
+      },
+      {
+        "COUNTRY/REGION": "Russia",
+        "CARS": "1,970,087",
+        "COMMERCIAL VEHICLES": "263,016",
+        "TOTAL": "2,233,103",
+        "% CHANGE": "12.2%"
+      },
+      {
+        "COUNTRY/REGION": "Serbia",
+        "CARS": "10,227",
+        "COMMERCIAL VEHICLES": "805",
+        "TOTAL": "11,032",
+        "% CHANGE": "0.1%"
+      },
+      {
+        "COUNTRY/REGION": "Slovakia",
+        "CARS": "926,555",
+        "COMMERCIAL VEHICLES": "0",
+        "TOTAL": "926,555",
+        "% CHANGE": "44.8%"
+      },
+      {
+        "COUNTRY/REGION": "Slovenia",
+        "CARS": "126,836",
+        "COMMERCIAL VEHICLES": "4,113",
+        "TOTAL": "130,949",
+        "% CHANGE": "-24.8%"
+      },
+      {
+        "COUNTRY/REGION": "South Africa",
+        "CARS": "274,873",
+        "COMMERCIAL VEHICLES": "264,551",
+        "TOTAL": "539,424",
+        "% CHANGE": "1.3%"
+      },
+      {
+        "COUNTRY/REGION": "South Korea",
+        "CARS": "4,167,089",
+        "COMMERCIAL VEHICLES": "394,677",
+        "TOTAL": "4,561,766",
+        "% CHANGE": "-2.0%"
+      },
+      {
+        "COUNTRY/REGION": "Spain",
+        "CARS": "1,539,680",
+        "COMMERCIAL VEHICLES": "439,499",
+        "TOTAL": "1,979,179",
+        "% CHANGE": "-16.6%"
+      },
+      {
+        "COUNTRY/REGION": "Sweden",
+        "CARS": "162,814",
+        "COMMERCIAL VEHICLES": "N.A.",
+        "TOTAL": "162,814",
+        "% CHANGE": "-13.8%"
+      },
+      {
+        "COUNTRY/REGION": "Taiwan",
+        "CARS": "278,043",
+        "COMMERCIAL VEHICLES": "60,995",
+        "TOTAL": "339,038",
+        "% CHANGE": "-1.2%"
+      },
+      {
+        "COUNTRY/REGION": "Thailand",
+        "CARS": "945,100",
+        "COMMERCIAL VEHICLES": "1,484,042",
+        "TOTAL": "2,429,142",
+        "% CHANGE": "66.6%"
+      },
+      {
+        "COUNTRY/REGION": "Turkey",
+        "CARS": "577,296",
+        "COMMERCIAL VEHICLES": "495,682",
+        "TOTAL": "1,072,978",
+        "% CHANGE": "-9.8%"
+      },
+      {
+        "COUNTRY/REGION": "Ukraine",
+        "CARS": "69,687",
+        "COMMERCIAL VEHICLES": "6,594",
+        "TOTAL": "76,281",
+        "% CHANGE": "-27.1%"
+      },
+      {
+        "COUNTRY/REGION": "UK",
+        "CARS": "1,464,906",
+        "COMMERCIAL VEHICLES": "112,039",
+        "TOTAL": "1,576,945",
+        "% CHANGE": "7.7%"
+      },
+      {
+        "COUNTRY/REGION": "USA",
+        "CARS": "4,109,013",
+        "COMMERCIAL VEHICLES": "6,226,752",
+        "TOTAL": "10,335,765",
+        "% CHANGE": "19.3%"
+      },
+      {
+        "COUNTRY/REGION": "Uzbekistan",
+        "CARS": "144,980",
+        "COMMERCIAL VEHICLES": "19,200",
+        "TOTAL": "164,180",
+        "% CHANGE": "-8.6%"
+      },
+      {
+        "COUNTRY/REGION": "Others",
+        "CARS": "463,990",
+        "COMMERCIAL VEHICLES": "135,652",
+        "TOTAL": "599,642",
+        "% CHANGE": "22.0%"
+      },
+      {
+        "COUNTRY/REGION": "Total",
+        "CARS": "63,081,024",
+        "COMMERCIAL VEHICLES": "21,155,147",
+        "TOTAL": "84,236,171",
+        "% CHANGE": "5.5%"
+      }
+    ]
+  }
+]
