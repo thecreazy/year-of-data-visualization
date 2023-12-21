@@ -1,0 +1,21 @@
+#data-15 {
+  --main-text-color: #221f1f;
+  --bg-color: #f5f5f1;
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-15 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-15 .ant-table {
+  background: transparent;
+}
+#data-15 .ant-table-cell {
+  font-weight: 500;
+}
+
+#data-15 .ant-table-row-expand-icon {
+  background: transparent;
+}

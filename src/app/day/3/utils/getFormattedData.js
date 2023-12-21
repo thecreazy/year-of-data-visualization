@@ -1,6 +1,6 @@
 import dayjs from 'dayjs';
 
-import rawData from '../data/AAPL.json';
+import rawData from '../data/aapl.json';
 import rawProduct from '../data/product.json';
 import rawRevenuesData from '../data/revenues.json';
 

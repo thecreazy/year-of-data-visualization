@@ -1,0 +1,82 @@
+{
+  "UCAN": [
+    {
+      "year": 2020,
+      "revenues": 11455396,
+      "membership": 71689,
+      "avgPayment": 13.32
+    },
+    {
+      "year": 2021,
+      "revenues": 12972100,
+      "membership": 74234,
+      "avgPayment": 14.56
+    },
+    {
+      "year": 2022,
+      "revenues": 14084643,
+      "membership": 74001,
+      "avgPayment": 15.86
+    }
+  ],
+  "EMEA": [
+    {
+      "year": 2020,
+      "revenues": 7772252,
+      "membership": 60425,
+      "avgPayment": 10.72
+    },
+    {
+      "year": 2021,
+      "revenues": 9699819,
+      "membership": 69518,
+      "avgPayment": 11.63
+    },
+    {
+      "year": 2022,
+      "revenues": 9745015,
+      "membership": 73904,
+      "avgPayment": 10.99
+    }
+  ],
+  "LATAM": [
+    {
+      "year": 2020,
+      "revenues": 3156727,
+      "membership": 35297,
+      "avgPayment": 7.45
+    },
+    {
+      "year": 2021,
+      "revenues": 3576976,
+      "membership": 38573,
+      "avgPayment": 7.73
+    },
+    {
+      "year": 2022,
+      "revenues": 4069973,
+      "membership": 40000,
+      "avgPayment": 8.48
+    }
+  ],
+  "APAC": [
+    {
+      "year": 2020,
+      "revenues": 2372300,
+      "membership": 21674,
+      "avgPayment": 9.12
+    },
+    {
+      "year": 2021,
+      "revenues": 3266601,
+      "membership": 28461,
+      "avgPayment": 9.56
+    },
+    {
+      "year": 2022,
+      "revenues": 3570221,
+      "membership": 35019,
+      "avgPayment": 8.5
+    }
+  ]
+}

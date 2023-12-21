@@ -1,0 +1,26 @@
+[
+  {
+    "year": 2020,
+    "streaming": 24756675,
+    "dvd": 239381,
+    "total": 24996056,
+    "membership": 189083,
+    "avgPayment": 10.91
+  },
+  {
+    "year": 2021,
+    "streaming": 29515496,
+    "dvd": 182348,
+    "total": 29697844,
+    "membership": 210784,
+    "avgPayment": 11.67
+  },
+  {
+    "year": 2022,
+    "streaming": 31469852,
+    "dvd": 145698,
+    "total": 31615550,
+    "membership": 222924,
+    "avgPayment": 11.76
+  }
+]

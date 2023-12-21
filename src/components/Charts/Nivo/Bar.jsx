@@ -71,6 +71,9 @@ const NivoBar = ({
     xAxisDetail.format = (value) => `${value / 1000000}M$`;
     formatY = (value) => `${(value / 1000000).toFixed(1)}M$`;
   }
+  if (xFormat === '$') {
+    formatY = (value) => `${value}$`;
+  }
 
   return (
     <ResponsiveBar
