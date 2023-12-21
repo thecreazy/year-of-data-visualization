@@ -8,6 +8,7 @@ import { infos } from './config';
 import { lineData, productData, revenueData } from './utils/getFormattedData';
 
 const Page3 = () => {
+  console.log(lineData);
   return (
     <>
       <section id='infos'>
