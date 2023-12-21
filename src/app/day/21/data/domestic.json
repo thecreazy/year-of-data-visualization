@@ -1,0 +1,30 @@
+[
+  {
+    "year": "2014-2015",
+    "team": "Roma",
+    "country": "it ITA",
+    "competition": "Coppa Italia",
+    "mp": "2",
+    "minutes": "138",
+    "goals": "0",
+    "assist": "0",
+    "penality": "0",
+    "penalityTried": "0",
+    "yellow": "0",
+    "red": "0"
+  },
+  {
+    "year": "2016-2017",
+    "team": "Roma",
+    "country": "it ITA",
+    "competition": "Coppa Italia",
+    "mp": "4",
+    "minutes": "134",
+    "goals": "1",
+    "assist": "0",
+    "penality": "1",
+    "penalityTried": "1",
+    "yellow": "0",
+    "red": "0"
+  }
+]
