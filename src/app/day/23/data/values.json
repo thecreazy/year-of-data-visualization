@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "I22b614cb",
+    "country": "Afghanistan",
+    "isocode": "AFG",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "6.452"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Albania",
+    "isocode": "ALB",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "56.25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Algeria",
+    "isocode": "DZA",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "14.706"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Andorra",
+    "isocode": "AND",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "50"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Angola",
+    "isocode": "AGO",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "31.818"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Antigua and Barbuda",
+    "isocode": "ATG",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "15.385"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Argentina",
+    "isocode": "ARG",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "18.182"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Armenia",
+    "isocode": "ARM",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "0"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Australia",
+    "isocode": "AUS",
+    "region": "Australia and New Zealand",
+    "year": "2,020",
+    "value": "26.667"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Austria",
+    "isocode": "AUT",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "57.143"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Azerbaijan",
+    "isocode": "AZE",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "0"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bahamas",
+    "isocode": "BHS",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "6.667"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bahrain",
+    "isocode": "BHR",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "4.545"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bangladesh",
+    "isocode": "BGD",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "7.692"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Barbados",
+    "isocode": "BRB",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "31.579"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Belarus",
+    "isocode": "BLR",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "3.571"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Belgium",
+    "isocode": "BEL",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "57.143"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Belize",
+    "isocode": "BLZ",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "11.111"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Benin",
+    "isocode": "BEN",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "20.833"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bhutan",
+    "isocode": "BTN",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "10"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bolivia (Plurinational State of)",
+    "isocode": "BOL",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "22.222"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bosnia and Herzegovina",
+    "isocode": "BIH",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "18.75"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Botswana",
+    "isocode": "BWA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "15.789"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Brazil",
+    "isocode": "BRA",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "10.526"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Bulgaria",
+    "isocode": "BGR",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "38.889"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Burkina Faso",
+    "isocode": "BFA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "15.385"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Burundi",
+    "isocode": "BDI",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "37.5"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Cabo Verde",
+    "isocode": "CPV",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "14.286"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Cambodia",
+    "isocode": "KHM",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "9.375"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Cameroon",
+    "isocode": "CMR",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "14.894"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Canada",
+    "isocode": "CAN",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "51.429"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Central African Republic",
+    "isocode": "CAF",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "20.69"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Chad",
+    "isocode": "TCD",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "20"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Chile",
+    "isocode": "CHL",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "30.435"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "China",
+    "isocode": "CHN",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "3.226"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Colombia",
+    "isocode": "COL",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "36.842"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Comoros",
+    "isocode": "COM",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "10"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Congo",
+    "isocode": "COG",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "21.212"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Costa Rica",
+    "isocode": "CRI",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "52"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Côte d'Ivoire",
+    "isocode": "CIV",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "12.766"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Croatia",
+    "isocode": "HRV",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "23.529"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Cuba",
+    "isocode": "CUB",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "22.581"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Cyprus",
+    "isocode": "CYP",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "27.273"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Czechia",
+    "isocode": "CZE",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "30.769"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Denmark",
+    "isocode": "DNK",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "31.579"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Djibouti",
+    "isocode": "DJI",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "13.043"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Dominica",
+    "isocode": "DMA",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "31.25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Dominican Republic",
+    "isocode": "DOM",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "17.391"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Ecuador",
+    "isocode": "ECU",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "32"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Egypt",
+    "isocode": "EGY",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "24.242"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "El Salvador",
+    "isocode": "SLV",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "43.75"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Equatorial Guinea",
+    "isocode": "GNQ",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "10.714"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Eritrea",
+    "isocode": "ERI",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "17.647"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Estonia",
+    "isocode": "EST",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "14.286"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Eswatini",
+    "isocode": "SWZ",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "31.579"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Ethiopia",
+    "isocode": "ETH",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "40"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Fiji",
+    "isocode": "FJI",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "23.077"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Finland",
+    "isocode": "FIN",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "50"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "France",
+    "isocode": "FRA",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "50"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Gabon",
+    "isocode": "GAB",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "23.077"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Gambia",
+    "isocode": "GMB",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Georgia",
+    "isocode": "GEO",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "36.364"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Germany",
+    "isocode": "DEU",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "40"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Ghana",
+    "isocode": "GHA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Greece",
+    "isocode": "GRC",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "10.526"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Grenada",
+    "isocode": "GRD",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "33.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Guatemala",
+    "isocode": "GTM",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "13.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Guinea",
+    "isocode": "GIN",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "27.778"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Guinea-Bissau",
+    "isocode": "GNB",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "50"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Guyana",
+    "isocode": "GUY",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "31.818"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Haiti",
+    "isocode": "HTI",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Honduras",
+    "isocode": "HND",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "28"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Hungary",
+    "isocode": "HUN",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "21.429"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Iceland",
+    "isocode": "ISL",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "40"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "India",
+    "isocode": "IND",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "9.091"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Indonesia",
+    "isocode": "IDN",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "17.143"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Iran (Islamic Republic of)",
+    "isocode": "IRN",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "6.667"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Iraq",
+    "isocode": "IRQ",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "9.091"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Ireland",
+    "isocode": "IRL",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "28.571"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Israel",
+    "isocode": "ISR",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Italy",
+    "isocode": "ITA",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "36.364"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Jamaica",
+    "isocode": "JAM",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "16.667"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Japan",
+    "isocode": "JPN",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "10"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Jordan",
+    "isocode": "JOR",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "9.375"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Kazakhstan",
+    "isocode": "KAZ",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "9.524"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Kenya",
+    "isocode": "KEN",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "30.435"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Kiribati",
+    "isocode": "KIR",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "7.143"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Kuwait",
+    "isocode": "KWT",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "6.667"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Kyrgyzstan",
+    "isocode": "KGZ",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "10.526"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Lao People's Democratic Republic",
+    "isocode": "LAO",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "10.345"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Latvia",
+    "isocode": "LVA",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "23.077"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Lebanon",
+    "isocode": "LBN",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "31.579"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Lesotho",
+    "isocode": "LSO",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "22.222"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Liberia",
+    "isocode": "LBR",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "22.222"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Libya",
+    "isocode": "LBY",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "5.556"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Liechtenstein",
+    "isocode": "LIE",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "40"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Lithuania",
+    "isocode": "LTU",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "42.857"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Luxembourg",
+    "isocode": "LUX",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "29.412"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Madagascar",
+    "isocode": "MDG",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "34.783"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Malawi",
+    "isocode": "MWI",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "17.391"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Malaysia",
+    "isocode": "MYS",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "16.129"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Maldives",
+    "isocode": "MDV",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "30"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Mali",
+    "isocode": "MLI",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "16"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Malta",
+    "isocode": "MLT",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "15"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Marshall Islands",
+    "isocode": "MHL",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "10"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Mauritania",
+    "isocode": "MRT",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "21.739"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Mauritius",
+    "isocode": "MUS",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "13.043"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Mexico",
+    "isocode": "MEX",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "42.105"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Micronesia (Federated States of)",
+    "isocode": "FSM",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "18.182"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Monaco",
+    "isocode": "MCO",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "20"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Mongolia",
+    "isocode": "MNG",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "18.75"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Montenegro",
+    "isocode": "MNE",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "30.769"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Morocco",
+    "isocode": "MAR",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "15.789"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Mozambique",
+    "isocode": "MOZ",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "45.455"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Myanmar",
+    "isocode": "MMR",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "4"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Namibia",
+    "isocode": "NAM",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "39.13"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Nauru",
+    "isocode": "NRU",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "16.667"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Nepal",
+    "isocode": "NPL",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "13.636"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Netherlands",
+    "isocode": "NLD",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "47.059"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "New Zealand",
+    "isocode": "NZL",
+    "region": "Australia and New Zealand",
+    "year": "2,020",
+    "value": "40"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Nicaragua",
+    "isocode": "NIC",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "58.824"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Niger",
+    "isocode": "NER",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "15.789"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Nigeria",
+    "isocode": "NGA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "10.345"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "North Macedonia",
+    "isocode": "MKD",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "21.053"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Norway",
+    "isocode": "NOR",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "38.889"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Oman",
+    "isocode": "OMN",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "12"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Pakistan",
+    "isocode": "PAK",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "10.714"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Palau",
+    "isocode": "PLW",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "22.222"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Panama",
+    "isocode": "PAN",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "31.25"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Paraguay",
+    "isocode": "PRY",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "30.556"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Peru",
+    "isocode": "PER",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "42.105"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Philippines",
+    "isocode": "PHL",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "13.043"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Poland",
+    "isocode": "POL",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "4.762"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Portugal",
+    "isocode": "PRT",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "42.105"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Qatar",
+    "isocode": "QAT",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "7.143"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Republic of Korea",
+    "isocode": "KOR",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "27.778"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Republic of Moldova",
+    "isocode": "MDA",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "40"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Romania",
+    "isocode": "ROU",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "5"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Russian Federation",
+    "isocode": "RUS",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "9.677"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Rwanda",
+    "isocode": "RWA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "54.839"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Saint Kitts and Nevis",
+    "isocode": "KNA",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "18.182"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Saint Lucia",
+    "isocode": "LCA",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "28.571"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Samoa",
+    "isocode": "WSM",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "9.091"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "San Marino",
+    "isocode": "SMR",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "10"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Sao Tome and Principe",
+    "isocode": "STP",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "33.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Saudi Arabia",
+    "isocode": "SAU",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "0"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Senegal",
+    "isocode": "SEN",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "21.875"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Serbia",
+    "isocode": "SRB",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "43.478"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Seychelles",
+    "isocode": "SYC",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "33.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Sierra Leone",
+    "isocode": "SLE",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "13.793"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Singapore",
+    "isocode": "SGP",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "15.789"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Slovakia",
+    "isocode": "SVK",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "20"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Slovenia",
+    "isocode": "SVN",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "18.75"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Solomon Islands",
+    "isocode": "SLB",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "10.526"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Somalia",
+    "isocode": "SOM",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "18.519"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "South Africa",
+    "isocode": "ZAF",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "48.276"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "South Sudan",
+    "isocode": "SSD",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "33.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Spain",
+    "isocode": "ESP",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "50"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Sri Lanka",
+    "isocode": "LKA",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "3.704"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Sudan",
+    "isocode": "SDN",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "20"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Suriname",
+    "isocode": "SUR",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "33.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Sweden",
+    "isocode": "SWE",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "57.143"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Switzerland",
+    "isocode": "CHE",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "42.857"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Syrian Arab Republic",
+    "isocode": "SYR",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "10.345"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Tajikistan",
+    "isocode": "TJK",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "5.882"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Thailand",
+    "isocode": "THA",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "0"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Timor-Leste",
+    "isocode": "TLS",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "15"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Togo",
+    "isocode": "TGO",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "31.034"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Tonga",
+    "isocode": "TON",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "5.882"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Trinidad and Tobago",
+    "isocode": "TTO",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "33.333"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Tunisia",
+    "isocode": "TUN",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "29.167"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Turkey",
+    "isocode": "TUR",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "11.765"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Turkmenistan",
+    "isocode": "TKM",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "3.704"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Tuvalu",
+    "isocode": "TUV",
+    "region": "Oceania, exc. Australia and New Zealand",
+    "year": "2,020",
+    "value": "0"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Uganda",
+    "isocode": "UGA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "34.483"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Ukraine",
+    "isocode": "UKR",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "13.636"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "United Arab Emirates",
+    "isocode": "ARE",
+    "region": "Northern Africa and Western Asia",
+    "year": "2,020",
+    "value": "27.273"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "isocode": "GBR",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "23.81"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "United Republic of Tanzania",
+    "isocode": "TZA",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "18.182"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "United States of America",
+    "isocode": "USA",
+    "region": "Europe and Northern America",
+    "year": "2,020",
+    "value": "46.154"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Uruguay",
+    "isocode": "URY",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "14.286"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Uzbekistan",
+    "isocode": "UZB",
+    "region": "Central and Southern Asia",
+    "year": "2,020",
+    "value": "3.448"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Venezuela (Bolivarian Republic of)",
+    "isocode": "VEN",
+    "region": "Latin America and the Caribbean",
+    "year": "2,020",
+    "value": "31.034"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Viet Nam",
+    "isocode": "VNM",
+    "region": "Eastern and South-Eastern Asia",
+    "year": "2,020",
+    "value": "0"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Zambia",
+    "isocode": "ZMB",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "32.258"
+  },
+  {
+    "id": "I22b614cb",
+    "country": "Zimbabwe",
+    "isocode": "ZWE",
+    "region": "Sub-Saharan Africa",
+    "year": "2,020",
+    "value": "20.833"
+  }
+]

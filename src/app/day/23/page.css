@@ -1,0 +1,31 @@
+#data-23 {
+  --main-text-color: #1f1717;
+  --bg-color: #fcf5ed;
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-23 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-23 .select_transparent__control {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+#data-23 .select_transparent__single-value {
+  color: var(--main-text-color);
+  font-weight: bold;
+}
+
+#data-23 .select_transparent__dropdown-indicator {
+  color: var(--main-text-color);
+}
+
+#data-23 .select_transparent__option {
+  font-size: 20px;
+}
