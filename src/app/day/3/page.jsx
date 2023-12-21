@@ -21,7 +21,7 @@ const Page3 = () => {
           Last 5 year stock price
         </h3>
         {JSON.stringify(lineData)}
-        {/* <div className='mb-[20px] flex h-[550px] w-full justify-center max-md:h-[300px] max-xl:h-[500px]'>
+        <div className='mb-[20px] flex h-[550px] w-full justify-center max-md:h-[300px] max-xl:h-[500px]'>
           <NivoLine
             data={lineData}
             xScale={{
@@ -49,7 +49,7 @@ const Page3 = () => {
             mobileMargin={{ top: 20, right: 0, bottom: 100, left: 30 }}
             enablePoints={false}
           />
-        </div> */}
+        </div>
       </section>
       <section id='revenues-by-region' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>

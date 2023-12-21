@@ -8,7 +8,7 @@ export const lineData = [
   {
     id: 'price',
     data: rawData.map((el) => ({
-      x: new Date(dayjs(`${el.Date}`, 'YYYY-DD-MM', true)),
+      x: new Date(dayjs(`${el.Date}`, 'YYYY-MM-DD', true)),
       y: el.Close,
     })),
   },
