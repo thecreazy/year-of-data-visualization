@@ -1,0 +1,10 @@
+#data-16 {
+  --main-text-color: #3f6f76;
+  --bg-color: #ffffff;
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-16 h2 {
+  font-family: 'Dancing Script', cursive;
+}
