@@ -243,3 +243,23 @@ export const byRegionAndAge = {
     }, [])
     .reverse(),
 };
+
+export const byCountry = rawValues.reduce((acc, curr) => {
+  if (curr.age === 'Total') return acc;
+  const foundEntry = acc.findIndex((el) => el.id === curr.isocode);
+  if (foundEntry !== -1) {
+    acc[foundEntry].value += Math.round(
+      Number(curr.value ? `${curr.value}`.replace(/[,]/g, '.') : 0)
+    );
+  } else {
+    const newEntry = {
+      id: curr.isocode,
+      value: Math.round(
+        Number(curr.value ? `${curr.value}`.replace(/[,]/g, '.') : 0)
+      ),
+      label: curr.country,
+    };
+    acc.push(newEntry);
+  }
+  return acc;
+}, []);

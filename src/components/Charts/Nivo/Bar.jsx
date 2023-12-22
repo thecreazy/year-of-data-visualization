@@ -28,7 +28,6 @@ const NivoBar = ({
     },
   },
 }) => {
-  console.log(data);
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
   const xAxisDetail = noX

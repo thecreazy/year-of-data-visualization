@@ -1,12 +1,14 @@
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
+import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
 import NivoLine from '@internal/components/Charts/Nivo/Line';
 import NivoPie from '@internal/components/Charts/Nivo/Pie';
 
 import { infos } from './config';
 import {
   byAge,
+  byCountry,
   byRegion,
   byRegionAndAge,
   bySex,
@@ -25,7 +27,7 @@ const Page16 = () => {
       </section>
       <section id='total' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Last 10 year victims
+          Last 10 year Victims
         </h3>
         <div className='mb-[20px] flex h-[550px] w-full justify-center max-md:h-[300px] max-xl:h-[500px]'>
           <NivoLine
@@ -321,6 +323,19 @@ const Page16 = () => {
               ]}
             />
           </div>
+        </div>
+      </section>
+      <section id='map' className='mt-10'>
+        <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mb-20'>
+          Victims per country
+        </h3>
+        <div className='mb-[20px] flex h-[400px] w-full justify-center'>
+          <NivoChoropleth
+            data={byCountry}
+            colors={['#94422F', '#AD4D37', '#C65840', '#E06448', '#FA6F50']}
+            valueFormat='.2s'
+            domain={[0, 150000]}
+          />
         </div>
       </section>
       <p className='text-center text-xs'>
