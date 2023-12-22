@@ -87,7 +87,7 @@ const Page16 = () => {
           />
         </div>
       </section>
-      <section id='by-region' className='mt-10'>
+      <section id='by-age' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
           Victims by age
         </h3>
