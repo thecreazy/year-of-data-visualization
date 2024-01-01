@@ -44,8 +44,8 @@ const Page19 = () => {
               legendPosition: 'middle',
             }}
             colors={['#C65840']}
-            margin={{ top: 20, right: 20, bottom: 70, left: 30 }}
-            mobileMargin={{ top: 20, right: 20, bottom: 100, left: 30 }}
+            margin={{ top: 20, right: 20, bottom: 70, left: 40 }}
+            mobileMargin={{ top: 20, right: 20, bottom: 100, left: 40 }}
             enablePoints={false}
           />
         </div>

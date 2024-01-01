@@ -20,7 +20,7 @@ import { infos as metadata13 } from '../../app/day/13/config';
 import { infos as metadata14 } from '../../app/day/14/config';
 import { infos as metadata15 } from '../../app/day/15/config';
 import { infos as metadata16 } from '../../app/day/16/config';
-import { infos as metadata19 } from '../../app/day/16/config';
+import { infos as metadata19 } from '../../app/day/19/config';
 import { infos as metadata21 } from '../../app/day/21/config';
 import { infos as metadata24 } from '../../app/day/24/config';
 import { infos as metadata28 } from '../../app/day/28/config';
