@@ -30,7 +30,7 @@ const Page13 = () => {
               '#665D65',
             ].reverse()}
             valueFormat='.2s'
-            domain={[0, 50]}
+            domain={[0, 36]}
           />
         </div>
       </section>
