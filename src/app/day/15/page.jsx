@@ -34,8 +34,8 @@ const Page10 = () => {
             indexBy='year'
             colors={['#db0000', '#831010', '#564d4d']}
             labelTextColor='#fff'
-            margin={{ left: 120, bottom: 20, top: 100 }}
-            mobileMargin={{ left: 50, bottom: 20 }}
+            margin={{ left: 120, bottom: 25, top: 100 }}
+            mobileMargin={{ left: 50, bottom: 25 }}
             mobileLayout='vertical'
             layout='vertical'
             legend={[
@@ -64,8 +64,8 @@ const Page10 = () => {
               indexBy='year'
               colors={['#db0000']}
               labelTextColor='#fff'
-              margin={{ left: 120, bottom: 20 }}
-              mobileMargin={{ left: 50, bottom: 20 }}
+              margin={{ left: 120, bottom: 25 }}
+              mobileMargin={{ left: 50, bottom: 25 }}
               mobileLayout='vertical'
               layout='vertical'
               groupMode='stacked'
@@ -79,8 +79,8 @@ const Page10 = () => {
               indexBy='year'
               colors={['#db0000']}
               labelTextColor='#fff'
-              margin={{ left: 120, bottom: 20 }}
-              mobileMargin={{ left: 50, bottom: 20 }}
+              margin={{ left: 120, bottom: 25 }}
+              mobileMargin={{ left: 50, bottom: 25 }}
               mobileLayout='vertical'
               layout='vertical'
               groupMode='stacked'
@@ -100,8 +100,8 @@ const Page10 = () => {
             indexBy='year'
             colors={['#db0000', '#831010', '#564d4d', '#0b0000']}
             labelTextColor='#fff'
-            margin={{ left: 120, bottom: 20, top: 100 }}
-            mobileMargin={{ left: 50, bottom: 20 }}
+            margin={{ left: 120, bottom: 25, top: 100 }}
+            mobileMargin={{ left: 50, bottom: 25 }}
             mobileLayout='vertical'
             layout='vertical'
             legend={[
@@ -130,8 +130,8 @@ const Page10 = () => {
               indexBy='year'
               colors={['#db0000', '#831010', '#564d4d', '#0b0000']}
               labelTextColor='#fff'
-              margin={{ left: 120, bottom: 20 }}
-              mobileMargin={{ left: 50, bottom: 20 }}
+              margin={{ left: 120, bottom: 25 }}
+              mobileMargin={{ left: 50, bottom: 25 }}
               mobileLayout='vertical'
               layout='vertical'
             />
@@ -144,8 +144,8 @@ const Page10 = () => {
               indexBy='year'
               colors={['#db0000', '#831010', '#564d4d', '#0b0000']}
               labelTextColor='#fff'
-              margin={{ left: 120, bottom: 20 }}
-              mobileMargin={{ left: 50, bottom: 20 }}
+              margin={{ left: 120, bottom: 25 }}
+              mobileMargin={{ left: 50, bottom: 25 }}
               mobileLayout='vertical'
               layout='vertical'
               xFormat='$'
