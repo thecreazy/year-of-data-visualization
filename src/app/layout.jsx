@@ -9,6 +9,13 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata = {
   title: 'Year of dava visualization',
   description: 'A one year project by @thecrz',
+  openGraph: {
+    images: [
+      {
+        url: 'https://yodv.canellariccardo.it/screen/home.png',
+      },
+    ],
+  },
 };
 
 export default function RootLayout({ children }) {
