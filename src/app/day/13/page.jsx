@@ -22,7 +22,13 @@ const Page13 = () => {
         <div className='mb-[20px] flex h-[400px] w-full justify-center'>
           <NivoChoropleth
             data={mapData}
-            colors={['#CCBAC9', '#B3A2B0', '#9A8C98', '#80747E', '#665D65']}
+            colors={[
+              '#CCBAC9',
+              '#B3A2B0',
+              '#9A8C98',
+              '#80747E',
+              '#665D65',
+            ].reverse()}
             valueFormat='.2s'
             domain={[0, 50]}
           />
