@@ -46,7 +46,6 @@ const Page10 = () => {
             layout='horizontal'
             groupMode='stacked'
             yFormat='k/'
-            xFormat='$'
             noX
             valueScale={{ type: 'band' }}
           />

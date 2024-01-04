@@ -60,7 +60,7 @@ const NivoBar = ({
     yAxisDetail.format = (value) => `${value}MM`;
   }
   if (yFormat === 'k/') {
-    formatY = (value) => `${Number(value / 1000).toFixed(0)}K`;
+    formatY = (value) => `${Number(value / 1000).toFixed(1)}K`;
   }
   if (yFormat === '$') {
     formatY = (value) => `${value}$`;
