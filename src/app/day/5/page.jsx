@@ -3,6 +3,7 @@ import './page.css';
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
 import NivoItalyChoropleth from '@internal/components/Charts/Nivo/ItalianChrorepleth';
 import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
+import Legend from '@internal/components/Legend/Legend';
 
 import {
   italyTotalData,
@@ -47,7 +48,14 @@ const Page5 = () => {
             width='100%'
           />
         </div>
-        <p>legend</p>
+        <Legend
+          options={[
+            { color: '#B31212', label: 'Nord' },
+            { color: '#56B324', label: 'Center' },
+            { color: '#00B398', label: 'Sud' },
+            { color: '#B3471B', label: 'Islands' },
+          ]}
+        />
       </section>
       <section id='last-year-by-region' className='mt-10'>
         <h4 className='mb-16 text-center font-mono text-2xl font-bold'>
