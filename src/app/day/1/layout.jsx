@@ -4,6 +4,13 @@ export const metadata = {
     He was selected to play in 18 All-Star games. 
     He won 1 MVP award, 2 Finals MVP awards and 5 NBA championships. 
     He was inducted into the Hall of Fame in 2020.`,
+  openGraph: {
+    images: [
+      {
+        url: 'https://yodv.canellariccardo.it/screen/1.png',
+      },
+    ],
+  },
 };
 
 export default function PageLayout({ children }) {
