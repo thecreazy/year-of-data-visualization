@@ -1,0 +1,14 @@
+#data-17 {
+  --main-text-color: #231942;
+  --bg-color: #f8f7ff;
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-17 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-17 .top {
+  z-index: 1;
+}
