@@ -47,7 +47,6 @@ export const weightedYearByStream = rawValues.reduce((acc, curr) => {
 export const byReleaseMonth = rawValues
   .reduce((acc, curr) => {
     const month = dayjs(`2023-${curr.released_month}-25`).format('MMMM');
-    console.log(month);
     const foundEntry = acc.findIndex((el) => el.month === month);
     if (foundEntry !== -1) {
       acc[foundEntry].Total += 1;

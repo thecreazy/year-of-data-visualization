@@ -22,7 +22,12 @@ ChartJS.register(
   Legend
 );
 
-const ChartJSLine = ({ labels, data, legend = false }) => {
+const ChartJSLine = ({
+  labels,
+  data,
+  legend = false,
+  noAspectRation = false,
+}) => {
   const dataSet = {
     labels,
     datasets: data,
@@ -32,7 +37,7 @@ const ChartJSLine = ({ labels, data, legend = false }) => {
     plugins: {
       legend: legend
         ? {
-            position: 'top',
+            position: typeof legend === 'string' ? legend : 'top',
           }
         : null,
       title: {
@@ -40,6 +45,10 @@ const ChartJSLine = ({ labels, data, legend = false }) => {
       },
     },
   };
+  if (noAspectRation) {
+    options.maintainAspectRatio = false;
+    options.aspectRatio = 0;
+  }
   return <Line options={options} data={dataSet} />;
 };
 
