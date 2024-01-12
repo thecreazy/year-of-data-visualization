@@ -20,7 +20,7 @@ ChartJS.register(
   Legend
 );
 
-const ChartJSBar = ({ labels, data }) => {
+const ChartJSBar = ({ labels, data, scales }) => {
   const { isSmallScreen } = useScreenDetect();
   const dataSet = {
     labels,
@@ -36,6 +36,7 @@ const ChartJSBar = ({ labels, data }) => {
         display: false,
       },
     },
+    scales: scales,
   };
   return (
     <Bar
