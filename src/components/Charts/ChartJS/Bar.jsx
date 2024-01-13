@@ -20,7 +20,13 @@ ChartJS.register(
   Legend
 );
 
-const ChartJSBar = ({ labels, data, scales }) => {
+const ChartJSBar = ({
+  labels,
+  data,
+  scales,
+  legend,
+  noAspectRation = false,
+}) => {
   const { isSmallScreen } = useScreenDetect();
   const dataSet = {
     labels,
@@ -29,15 +35,21 @@ const ChartJSBar = ({ labels, data, scales }) => {
   const options = {
     responsive: true,
     plugins: {
-      legend: {
-        position: 'top',
-      },
+      legend: legend
+        ? legend
+        : {
+            position: 'top',
+          },
       title: {
         display: false,
       },
     },
     scales: scales,
   };
+  if (noAspectRation) {
+    options.maintainAspectRatio = false;
+    options.aspectRatio = 0;
+  }
   return (
     <Bar
       height={isSmallScreen ? '500px' : undefined}
