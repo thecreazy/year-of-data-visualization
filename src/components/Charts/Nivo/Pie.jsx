@@ -26,7 +26,14 @@ const CenteredMetric = ({ dataWithArc, centerX, centerY }) => {
   );
 };
 
-const NivoPie = ({ data, margin, mobileMargin, showTotal = false, colors }) => {
+const NivoPie = ({
+  data,
+  margin,
+  mobileMargin,
+  showTotal = false,
+  colors,
+  arcLabelsTextColor,
+}) => {
   const { isSmallScreen } = useScreenDetect();
   return (
     <ResponsivePie
@@ -48,10 +55,14 @@ const NivoPie = ({ data, margin, mobileMargin, showTotal = false, colors }) => {
       arcLinkLabelsColor={{ from: 'color' }}
       arcLabelsRadiusOffset={0.55}
       arcLabelsSkipAngle={24}
-      arcLabelsTextColor={{
-        from: 'color',
-        modifiers: [['darker', 2]],
-      }}
+      arcLabelsTextColor={
+        arcLabelsTextColor
+          ? arcLabelsTextColor
+          : {
+              from: 'color',
+              modifiers: [['darker', 2]],
+            }
+      }
       legends={[]}
       layers={
         showTotal
