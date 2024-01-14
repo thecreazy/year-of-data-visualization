@@ -4,7 +4,6 @@ import NivoBar from '@internal/components/Charts/Nivo/Bar';
 import NivoPie from '@internal/components/Charts/Nivo/Pie';
 
 import { infos } from './config';
-import './utils/getParsedData';
 import {
   averageTurnoverByIndusty,
   byIndustry,

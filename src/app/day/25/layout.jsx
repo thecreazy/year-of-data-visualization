@@ -1,6 +1,6 @@
 export const metadata = {
   title: `Day 25 | Detainees present in the Milanese Prison System`,
-  description: `Point layer of companies based in Brno with 5 or more employees.`,
+  description: `Number of detainees present in the Casa Circondariale S. Vittore, in the House of Reclusion of Bollate and in the House of Reclusion of Opera.`,
   openGraph: {
     images: [
       {

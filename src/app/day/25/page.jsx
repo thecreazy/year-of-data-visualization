@@ -6,8 +6,6 @@ import ChartJSBar from '@internal/components/Charts/ChartJS/Bar';
 import NivoLine from '@internal/components/Charts/Nivo/Line';
 
 import { infos } from './config';
-import './utils/getParsedData';
-import './utils/getParsedData';
 import { splitByRegionAndPrison, totalByYear } from './utils/getParsedData';
 
 const Page25 = () => {

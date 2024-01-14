@@ -27,6 +27,7 @@ const NivoBar = ({
       fontWeight: 600,
     },
   },
+  xtickRotation = 0,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
@@ -35,7 +36,7 @@ const NivoBar = ({
     : {
         tickSize: 5,
         tickPadding: 5,
-        tickRotation: isSmallScreen ? 90 : 0,
+        tickRotation: isSmallScreen ? 90 : xtickRotation,
         legendPosition: 'middle',
         legendOffset: 32,
         truncateTickAt: 0,
