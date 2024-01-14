@@ -75,16 +75,16 @@ export const topViewedShow = {
 };
 
 const colors = [
+  '#001219',
+  '#005f73',
+  '#0a9396',
+  '#9d0208',
+  '#ca6702',
+  '#bb3e03',
+  '#ae2012',
+  '#9b2226',
   '#03071e',
   '#370617',
-  '#6a040f',
-  '#9d0208',
-  '#d00000',
-  '#dc2f02',
-  '#e85d04',
-  '#f48c06',
-  '#faa307',
-  '#ffba08',
 ];
 
 export const cloudTag = rawValues
