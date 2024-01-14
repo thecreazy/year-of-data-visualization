@@ -45,6 +45,7 @@
     "react-dom": "^18",
     "react-select": "^5.8.0",
     "react-super-responsive-table": "^5.2.2",
+    "react-tagcloud": "^2.3.3",
     "three": "^0.159.0",
     "vivus": "^0.4.6"
   },

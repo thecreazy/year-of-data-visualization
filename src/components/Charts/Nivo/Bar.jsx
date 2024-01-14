@@ -28,6 +28,7 @@ const NivoBar = ({
     },
   },
   xtickRotation = 0,
+  enableLabel = true,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
@@ -110,6 +111,7 @@ const NivoBar = ({
               modifiers: [['brighter', 1.6]],
             }
       }
+      enableLabel={enableLabel}
       legends={legend}
       theme={theme}
     />

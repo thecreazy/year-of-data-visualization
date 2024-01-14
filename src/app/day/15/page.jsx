@@ -2,7 +2,6 @@ import './page.css';
 
 import AntdTable from '@internal/components/Antd/Table';
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
-import ResponsiveTable from '@internal/components/ResponsiveTable/ResponsiveTable';
 
 import { infos } from './config';
 import {
