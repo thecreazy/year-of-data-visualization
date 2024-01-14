@@ -1,3 +1,5 @@
+import dynamic from 'next/dynamic';
+
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
@@ -14,7 +16,14 @@ import {
   executedByCounty,
   executedByRace,
   executedByYear,
+  totalActual,
+  totalExecuted,
 } from './utils/getParsedData';
+
+const AnimatedNumber = dynamic(
+  () => import('../../../components/AnimatedNumber/AnimatedNumber'),
+  { ssr: false }
+);
 
 const Page26 = () => {
   return (
@@ -25,6 +34,18 @@ const Page26 = () => {
         </h1>
         <p className='py-2 font-mono text-lg'>{infos.description}</p>
       </section>
+      <div className='flex flex-row py-16 max-xl:h-fit max-xl:flex-wrap max-xl:py-4'>
+        <div className='stats-radar basis-full'>
+          <p className='text-center font-mono text-3xl'>
+            Actual inmates on the texan Death Row
+          </p>
+          <AnimatedNumber
+            number={totalActual}
+            className='font-mono w-full text-[#d00000] justify-center'
+            size={80}
+          />
+        </div>
+      </div>
       <section id='inmated-on-death-row' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
           Stats of the actual inmates on death row
@@ -93,6 +114,18 @@ const Page26 = () => {
           </div>
         </div>
       </section>
+      <div className='flex flex-row py-16 max-xl:h-fit max-xl:flex-wrap max-xl:py-4'>
+        <div className='stats-radar basis-full'>
+          <p className='text-center font-mono text-3xl'>
+            Total inmates executed by the Texas State
+          </p>
+          <AnimatedNumber
+            number={totalExecuted}
+            className='font-mono w-full text-[#d00000] justify-center'
+            size={80}
+          />
+        </div>
+      </div>
       <section id='total-execution-per-year' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
           Total execution per year

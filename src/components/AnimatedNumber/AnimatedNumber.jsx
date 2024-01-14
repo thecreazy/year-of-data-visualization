@@ -2,7 +2,7 @@
 
 import AnimatedNumbers from 'react-animated-numbers';
 
-const AnimatedNumber = ({ number, className = '' }) => {
+const AnimatedNumber = ({ number, className = '', size = 50 }) => {
   return (
     <AnimatedNumbers
       includeComma
@@ -13,7 +13,7 @@ const AnimatedNumber = ({ number, className = '' }) => {
       })}
       animateToNumber={number}
       fontStyle={{
-        fontSize: 50,
+        fontSize: size,
         textAlign: 'center',
       }}
     />

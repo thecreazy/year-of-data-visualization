@@ -3,6 +3,9 @@ import dayjs from 'dayjs';
 import rawExecuted from '../data/executed.json';
 import rawValues from '../data/values.json';
 
+export const totalExecuted = rawExecuted.length;
+export const totalActual = rawValues.length;
+
 export const byGender = rawValues.reduce((acc, curr) => {
   const foundEntry = acc.findIndex((el) => el.id === curr.Gender);
   if (foundEntry !== -1) {
