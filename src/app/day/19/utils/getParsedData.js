@@ -19,31 +19,28 @@ export const totalData = [
         }
         return acc;
       }, [])
-      .map((el) => ({ x: el.x, y: Math.round(el.y) }))
-      .reverse(),
+      .map((el) => ({ x: el.x, y: Math.round(el.y) })),
   },
 ];
 
-export const byRegion = rawValues
-  .reduce((acc, curr) => {
-    const foundYear = acc.findIndex((el) => el.year === curr.year);
-    if (foundYear !== -1) {
-      if (!acc[foundYear][curr.region]) acc[foundYear][curr.region] = 0;
-      acc[foundYear][curr.region] += Math.round(
+export const byRegion = rawValues.reduce((acc, curr) => {
+  const foundYear = acc.findIndex((el) => el.year === curr.year);
+  if (foundYear !== -1) {
+    if (!acc[foundYear][curr.region]) acc[foundYear][curr.region] = 0;
+    acc[foundYear][curr.region] += Math.round(
+      Number(curr.value ? `${curr.value}`.replace(/[,]/g, '.') : 0)
+    );
+  } else {
+    const newYear = {
+      year: curr.year,
+      [curr.region]: Math.round(
         Number(curr.value ? `${curr.value}`.replace(/[,]/g, '.') : 0)
-      );
-    } else {
-      const newYear = {
-        year: curr.year,
-        [curr.region]: Math.round(
-          Number(curr.value ? `${curr.value}`.replace(/[,]/g, '.') : 0)
-        ),
-      };
-      acc.push(newYear);
-    }
-    return acc;
-  }, [])
-  .reverse();
+      ),
+    };
+    acc.push(newYear);
+  }
+  return acc;
+}, []);
 
 export const totalByRegion = rawValues.reduce((acc, curr) => {
   const foundEntry = acc.findIndex((el) => el.region === curr.region);
