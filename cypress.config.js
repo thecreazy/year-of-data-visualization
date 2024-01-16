@@ -14,5 +14,6 @@ module.exports = defineConfig({
   videosFolder: './public/videos',
   e2e: {
     setupNodeEvents(on, config) {},
+    baseUrl: 'http://localhost:3000',
   },
 });

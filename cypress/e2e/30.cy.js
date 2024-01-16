@@ -1,6 +1,6 @@
-describe('template spec', () => {
+describe('30 page video', () => {
   it('passes', () => {
-    cy.visit('https://yodv.canellariccardo.it/day/30');
+    cy.visit('/day/30');
     cy.wait(3000);
     cy.scrollTo(0, 700, { duration: 2000 });
     cy.wait(1000);
