@@ -1,8 +1,10 @@
-#data-21 {
+:root {
   --main-text-color: #000000;
   --title-text-color: #970a2c;
   --middle-text-color: #fbba00;
   --bg-color: #f0ece5;
+}
+#data-21 {
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }

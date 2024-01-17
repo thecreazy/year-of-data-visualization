@@ -1,9 +1,13 @@
-#data-4 {
+:root {
   --main-color: #393939;
   --main-text-color: #cc0000;
   --gradient-text-color: #f11435;
   --gradient-bg-color: #250247;
-  background-color: #f7f7f7;
+  --bg-color: #fbeaec;
+}
+
+#data-4 {
+  background-color: var(--bg-color);
   color: var(--main-color);
   background: linear-gradient(184deg, #f7f7f7 0%, #fbeaec 100%);
 }

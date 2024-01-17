@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
-
-#data-81 {
+:root {
   --main-color: #393939;
   --main-text-color: #1d1160;
   --gradient-text-color: #3924b3;
-  background-color: #f7f7f7;
+  --bg-color: #edeafe;
+}
+#data-81 {
+  background-color: var(--bg-color);
   color: var(--main-color);
   background: linear-gradient(184deg, #f7f7f7 0%, #edeafe 100%);
 }

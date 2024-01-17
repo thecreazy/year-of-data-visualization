@@ -3,6 +3,8 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import { Inter } from 'next/font/google';
 import Script from 'next/script';
 
+import Footer from '@internal/components/Footer/Footer';
+
 import './globals.css';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -110,6 +112,7 @@ export default function RootLayout({ children }) {
         {children}
         <Analytics />
         <SpeedInsights />
+        <Footer />
       </body>
     </html>
   );

@@ -1,6 +1,8 @@
-#data-8 {
+:root {
   --main-text-color: #084c61;
   --bg-color: #f0efeb;
+}
+#data-8 {
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }

@@ -1,6 +1,8 @@
-#data-12 {
+:root {
   --main-text-color: #484848;
   --bg-color: #f8f9fa;
+}
+#data-12 {
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }

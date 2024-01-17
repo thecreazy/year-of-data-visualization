@@ -1,6 +1,8 @@
-#data-22 {
+:root {
   --main-text-color: #679436;
   --bg-color: #eef3f9;
+}
+#data-22 {
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }

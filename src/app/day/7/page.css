@@ -1,8 +1,10 @@
-#data-7 {
+:root {
   --main-text-color: #002d72;
   --title-text-color: #046a38;
   --middle-text-color: #da291c;
   --bg-color: #f0ece5;
+}
+#data-7 {
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }

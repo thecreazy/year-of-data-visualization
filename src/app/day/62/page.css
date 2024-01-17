@@ -1,9 +1,12 @@
-#data-62 {
+:root {
   --main-color: #393939;
   --main-text-color: #364f6b;
   --gradient-text-color: #4e749e;
   --gradient-bg-color: #250247;
-  background-color: #f5f5f5;
+  --bg-color: #e9feff;
+}
+#data-62 {
+  background-color: var(--bg-color);
   color: var(--main-color);
   background: linear-gradient(184deg, #f5f5f5 0%, #e9feff 100%);
 }

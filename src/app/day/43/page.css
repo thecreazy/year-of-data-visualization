@@ -1,6 +1,8 @@
-#data-43 {
+:root {
   --main-text-color: #bc4749;
   --bg-color: #f2e8cf;
+}
+#data-43 {
   background-color: var(--bg-color);
   color: var(--main-text-color);
 }
