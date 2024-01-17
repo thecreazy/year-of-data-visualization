@@ -2,3 +2,15 @@ footer .bg-primary {
   background-color: var(--bg-color);
   box-shadow: 0px 1px 1px #181818;
 }
+
+footer .f-container {
+  background-color: #191919;
+}
+
+footer .infos {
+  background-color: #191919;
+}
+
+footer .infos p a {
+  color: var(--bg-color);
+}
