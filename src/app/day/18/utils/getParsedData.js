@@ -26,8 +26,27 @@ export const splitByQuarter = rawValues.reduce((acc, curr) => {
   return acc;
 }, []);
 
+const labels = [
+  '2018 - Q1',
+  '2018 - Q2',
+  '2018 - Q3',
+  '2018 - Q4',
+  '2019 - Q1',
+  '2019 - Q2',
+  '2019 - Q3',
+  '2019 - Q4',
+  '2020 - Q1',
+  '2020 - Q2',
+  '2020 - Q3',
+  '2020 - Q4',
+  '2021 - Q1',
+  '2021 - Q2',
+  '2021 - Q3',
+  '2021 - Q4',
+];
+
 export const valuesPerCategory = {
-  labels: new Set(rawValues.map((el) => el.q)).values(),
+  labels,
   data: [
     {
       label: '0km-10km',
@@ -123,7 +142,7 @@ export const valuesPerCategory = {
 };
 
 export const totalData = {
-  labels: new Set(rawValues.map((el) => el.q)).values(),
+  labels: labels,
   data: [
     {
       label: 'Employees',

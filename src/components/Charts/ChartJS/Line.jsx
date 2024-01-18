@@ -10,6 +10,7 @@ import {
   Title,
   Tooltip,
 } from 'chart.js';
+import { useEffect, useState } from 'react';
 import { Line } from 'react-chartjs-2';
 
 ChartJS.register(
@@ -28,6 +29,10 @@ const ChartJSLine = ({
   legend = false,
   noAspectRation = false,
 }) => {
+  const [updated, setUpdate] = useState(false);
+  useEffect(() => {
+    setUpdate(true);
+  }, []);
   const dataSet = {
     labels,
     datasets: data,
@@ -49,7 +54,8 @@ const ChartJSLine = ({
     options.maintainAspectRatio = false;
     options.aspectRatio = 0;
   }
-  return <Line options={options} data={dataSet} />;
+
+  return <Line options={options} data={dataSet} redraw={updated} />;
 };
 
 export default ChartJSLine;
