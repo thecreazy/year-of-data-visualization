@@ -52,7 +52,7 @@ export const byCounty = rawValues.reduce((acc, curr) => {
 
 export const executedByYear = rawExecuted
   .reduce((acc, curr) => {
-    const year = dayjs(`${curr.date}`, 'M/D/YYYY', true).format('YYYY');
+    const year = dayjs(`${curr.date}`, 'MM/DD/YYYY', true).format('YYYY');
     const foundEntry = acc.findIndex((el) => el.year === year);
     if (foundEntry !== -1) {
       acc[foundEntry].inmates += 1;
