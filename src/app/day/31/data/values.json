@@ -1,0 +1,402 @@
+[
+  {
+    "Rank": 1,
+    "City": "Celaya (AM) ",
+    "Country": "Mexico ",
+    "Homicides": 699,
+    "Population": "639,052 ",
+    "Homicides per 100000": 109.38
+  },
+  {
+    "Rank": 2,
+    "City": "Tijuana (AM) ",
+    "Country": "Mexico ",
+    "Homicides": "2,155 ",
+    "Population": "2,049,413 ",
+    "Homicides per 100000": 105.15
+  },
+  {
+    "Rank": 3,
+    "City": "Juarez ",
+    "Country": "Mexico ",
+    "Homicides": "1,567 ",
+    "Population": "1,512,450 ",
+    "Homicides per 100000": 103.61
+  },
+  {
+    "Rank": 4,
+    "City": "Ciudad Obregon ",
+    "Country": "Mexico ",
+    "Homicides": 309,
+    "Population": "305,539 ",
+    "Homicides per 100000": 101.13
+  },
+  {
+    "Rank": 5,
+    "City": "Irapuato (AM) ",
+    "Country": "Mexico ",
+    "Homicides": 823,
+    "Population": "866,370 ",
+    "Homicides per 100000": 94.99
+  },
+  {
+    "Rank": 6,
+    "City": "Ensenada ",
+    "Country": "Mexico ",
+    "Homicides": 402,
+    "Population": "443,807 ",
+    "Homicides per 100000": 90.58
+  },
+  {
+    "Rank": 7,
+    "City": "St. Louis ",
+    "Country": "United States ",
+    "Homicides": 264,
+    "Population": "300,576 ",
+    "Homicides per 100000": 87.83
+  },
+  {
+    "Rank": 8,
+    "City": "Uruapan ",
+    "Country": "Mexico ",
+    "Homicides": 259,
+    "Population": "356,786 ",
+    "Homicides per 100000": 72.59
+  },
+  {
+    "Rank": 9,
+    "City": "Feira de Santana ",
+    "Country": "Brazil ",
+    "Homicides": 418,
+    "Population": "619,609 ",
+    "Homicides per 100000": 67.46
+  },
+  {
+    "Rank": 10,
+    "City": "Cape Town ",
+    "Country": "South Africa ",
+    "Homicides": "2,947 ",
+    "Population": "4,604,986 ",
+    "Homicides per 100000": 64
+  },
+  {
+    "Rank": 11,
+    "City": "Cumana ",
+    "Country": "Venezuela ",
+    "Homicides": 225,
+    "Population": "360,436 ",
+    "Homicides per 100000": 62.42
+  },
+  {
+    "Rank": 12,
+    "City": "Fortaleza ",
+    "Country": "Brazil ",
+    "Homicides": "2,491 ",
+    "Population": "3,999,930 ",
+    "Homicides per 100000": 62.28
+  },
+  {
+    "Rank": 13,
+    "City": "Mossoro ",
+    "Country": "Brazil ",
+    "Homicides": 187,
+    "Population": "300,618 ",
+    "Homicides per 100000": 62.21
+  },
+  {
+    "Rank": 14,
+    "City": "Guayana ",
+    "Country": "Venezuela ",
+    "Homicides": 471,
+    "Population": "758,490 ",
+    "Homicides per 100000": 62.1
+  },
+  {
+    "Rank": 15,
+    "City": "Zacatecas ",
+    "Country": "Mexico ",
+    "Homicides": 214,
+    "Population": "361,347 ",
+    "Homicides per 100000": 59.22
+  },
+  {
+    "Rank": 16,
+    "City": "Baltimore ",
+    "Country": "United States ",
+    "Homicides": 335,
+    "Population": "593,490 ",
+    "Homicides per 100000": 56.45
+  },
+  {
+    "Rank": 17,
+    "City": "Kingston (AM) ",
+    "Country": "Jamaica ",
+    "Homicides": 643,
+    "Population": "1,180,771 ",
+    "Homicides per 100000": 54.46
+  },
+  {
+    "Rank": 18,
+    "City": "Acapulco ",
+    "Country": "Mexico ",
+    "Homicides": 422,
+    "Population": "779,566 ",
+    "Homicides per 100000": 54.13
+  },
+  {
+    "Rank": 19,
+    "City": "Caracas ",
+    "Country": "Venezuela ",
+    "Homicides": "1,417 ",
+    "Population": "2,682,801 ",
+    "Homicides per 100000": 52.82
+  },
+  {
+    "Rank": 20,
+    "City": "Vitoria da Conquista ",
+    "Country": "Brazil ",
+    "Homicides": 179,
+    "Population": "341,128 ",
+    "Homicides per 100000": 52.47
+  },
+  {
+    "Rank": 21,
+    "City": "New Orleans ",
+    "Country": "United States ",
+    "Homicides": 202,
+    "Population": "390,144 ",
+    "Homicides per 100000": 51.78
+  },
+  {
+    "Rank": 22,
+    "City": "Mandela Bay ",
+    "Country": "South Africa ",
+    "Homicides": 621,
+    "Population": "1,213,060 ",
+    "Homicides per 100000": 51.19
+  },
+  {
+    "Rank": 23,
+    "City": "Maturin ",
+    "Country": "Venezuela ",
+    "Homicides": 254,
+    "Population": "497,723 ",
+    "Homicides per 100000": 51.03
+  },
+  {
+    "Rank": 24,
+    "City": "Memphis ",
+    "Country": "United States ",
+    "Homicides": 332,
+    "Population": "654,073 ",
+    "Homicides per 100000": 50.99
+  },
+  {
+    "Rank": 25,
+    "City": "Culiacan ",
+    "Country": "Mexico ",
+    "Homicides": 472,
+    "Population": "955,340 ",
+    "Homicides per 100000": 49.41
+  },
+  {
+    "Rank": 26,
+    "City": "Cuemavaca (AM) ",
+    "Country": "Mexico ",
+    "Homicides": 436,
+    "Population": "896,688 ",
+    "Homicides per 100000": 48.62
+  },
+  {
+    "Rank": 27,
+    "City": "Morelia ",
+    "Country": "Mexico ",
+    "Homicides": 403,
+    "Population": "849,053 ",
+    "Homicides per 100000": 47.46
+  },
+  {
+    "Rank": 28,
+    "City": "Salvador (AM) ",
+    "Country": "Brazil ",
+    "Homicides": "1,852 ",
+    "Population": "3,957,566 ",
+    "Homicides per 100000": 46.8
+  },
+  {
+    "Rank": 29,
+    "City": "Detroit ",
+    "Country": "United States ",
+    "Homicides": 327,
+    "Population": "713,898 ",
+    "Homicides per 100000": 45.8
+  },
+  {
+    "Rank": 30,
+    "City": "Distrito Central ",
+    "Country": "Honduras ",
+    "Homicides": 569,
+    "Population": "1,276,738 ",
+    "Homicides per 100000": 44.57
+  },
+  {
+    "Rank": 31,
+    "City": "Durban ",
+    "Country": "South Africa ",
+    "Homicides": "1,727 ",
+    "Population": "3,981,205 ",
+    "Homicides per 100000": 43.38
+  },
+  {
+    "Rank": 32,
+    "City": "Chihuahua ",
+    "Country": "Mexico ",
+    "Homicides": 402,
+    "Population": "937,674 ",
+    "Homicides per 100000": 42.87
+  },
+  {
+    "Rank": 33,
+    "City": "Rio Branco ",
+    "Country": "Brazil ",
+    "Homicides": 173,
+    "Population": "413,418 ",
+    "Homicides per 100000": 41.85
+  },
+  {
+    "Rank": 34,
+    "City": "San Pedro Sula ",
+    "Country": "Honduras ",
+    "Homicides": 330,
+    "Population": "801,259 ",
+    "Homicides per 100000": 41.19
+  },
+  {
+    "Rank": 35,
+    "City": "Colima (AM) ",
+    "Country": "Mexico ",
+    "Homicides": 135,
+    "Population": "328,471 ",
+    "Homicides per 100000": 41.1
+  },
+  {
+    "Rank": 36,
+    "City": "Maceio ",
+    "Country": "Brazil ",
+    "Homicides": 404,
+    "Population": "1,025,360 ",
+    "Homicides per 100000": 39.4
+  },
+  {
+    "Rank": 37,
+    "City": "Reafe ",
+    "Country": "Brazil ",
+    "Homicides": "1,549 ",
+    "Population": "4,023,725 ",
+    "Homicides per 100000": 38.5
+  },
+  {
+    "Rank": 38,
+    "City": "Cucuta (AM) ",
+    "Country": "Colombia ",
+    "Homicides": 325,
+    "Population": "861,000 ",
+    "Homicides per 100000": 37.75
+  },
+  {
+    "Rank": 39,
+    "City": "San Juan ",
+    "Country": "Puerto Rico ",
+    "Homicides": 120,
+    "Population": "318,441 ",
+    "Homicides per 100000": 37.68
+  },
+  {
+    "Rank": 40,
+    "City": "Cali (AM) ",
+    "Country": "Colombia ",
+    "Homicides": 987,
+    "Population": "2,627,939 ",
+    "Homicides per 100000": 37.56
+  },
+  {
+    "Rank": 41,
+    "City": "Johannesburg ",
+    "Country": "South Africa ",
+    "Homicides": "2,182 ",
+    "Population": "5,866,550 ",
+    "Homicides per 100000": 37.19
+  },
+  {
+    "Rank": 42,
+    "City": "Barquisimeto ",
+    "Country": "Venezuela ",
+    "Homicides": 402,
+    "Population": "1,095,161 ",
+    "Homicides per 100000": 36.71
+  },
+  {
+    "Rank": 43,
+    "City": "Caruaru ",
+    "Country": "Brazil ",
+    "Homicides": 133,
+    "Population": "365,278 ",
+    "Homicides per 100000": 36.41
+  },
+  {
+    "Rank": 44,
+    "City": "Benito Juarez ",
+    "Country": "Mexico ",
+    "Homicides": 331,
+    "Population": "911,503 ",
+    "Homicides per 100000": 36.31
+  },
+  {
+    "Rank": 45,
+    "City": "Victoria ",
+    "Country": "Mexico ",
+    "Homicides": 124,
+    "Population": "349,688 ",
+    "Homicides per 100000": 35.46
+  },
+  {
+    "Rank": 46,
+    "City": "Natal ",
+    "Country": "Brazil ",
+    "Homicides": 475,
+    "Population": "1,353,713 ",
+    "Homicides per 100000": 35.09
+  },
+  {
+    "Rank": 47,
+    "City": "Leon (AM) ",
+    "Country": "Mexico ",
+    "Homicides": 697,
+    "Population": "1,987,335 ",
+    "Homicides per 100000": 35.07
+  },
+  {
+    "Rank": 48,
+    "City": "Teresina ",
+    "Country": "Brazil ",
+    "Homicides": 302,
+    "Population": "868,075 ",
+    "Homicides per 100000": 34.79
+  },
+  {
+    "Rank": 49,
+    "City": "Minatitian (AM) ",
+    "Country": "Mexico ",
+    "Homicides": 109,
+    "Population": "314,348 ",
+    "Homicides per 100000": 34.67
+  },
+  {
+    "Rank": 50,
+    "City": "Valencia ",
+    "Country": "Venezuela ",
+    "Homicides": 448,
+    "Population": "1,292,985 ",
+    "Homicides per 100000": 34.65
+  }
+]
