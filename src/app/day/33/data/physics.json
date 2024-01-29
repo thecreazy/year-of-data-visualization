@@ -1,0 +1,2252 @@
+[
+  {
+    "year": "2023",
+    "name": "Ferenc",
+    "surname": "Krausz",
+    "gender": "Male",
+    "citizenship": "Hungary",
+    "secondCitizenship": "",
+    "born": "1962",
+    "affiliation": "Max Planck Institute of Quantum Optics, Garching and Ludwig-Maximilians-Universität München, Germany"
+  },
+  {
+    "year": "2023",
+    "name": "Anne",
+    "surname": "L'Huillier",
+    "gender": "Female",
+    "citizenship": "France",
+    "secondCitizenship": "Sweden",
+    "born": "1958",
+    "affiliation": "Lund University, Sweden"
+  },
+  {
+    "year": "2023",
+    "name": "Pierre",
+    "surname": "Agostini",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "The Ohio State University, Columbus, USA"
+  },
+  {
+    "year": "2022",
+    "name": "Alain",
+    "surname": "Aspect",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1947",
+    "affiliation": "Institut d’Optique Graduate School – Université Paris-Saclay, Paris, France; École Polytechnique, Palaiseau, France "
+  },
+  {
+    "year": "2022",
+    "name": "John Francis",
+    "surname": "Clauser",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "J.F. Clauser &amp; Assoc., Walnut Creek, CA, USA "
+  },
+  {
+    "year": "2022",
+    "name": "Anton",
+    "surname": "Zeilinger",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1945",
+    "affiliation": "University of Vienna, Vienna, Austria; Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences, Vienna, Austria "
+  },
+  {
+    "year": "2021",
+    "name": "Syukuro",
+    "surname": "Manabe",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "Princeton University, USA"
+  },
+  {
+    "year": "2021",
+    "name": "Klaus",
+    "surname": "Hasselmann",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "Max Planck Institute for Meteorology, Hamburg, Germany"
+  },
+  {
+    "year": "2021",
+    "name": "Giorgio",
+    "surname": "Parisi",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1948",
+    "affiliation": "Sapienza University of Rome, Italy"
+  },
+  {
+    "year": "2020",
+    "name": "Roger",
+    "surname": "Penrose",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "University of Oxford, Oxford, United Kingdom "
+  },
+  {
+    "year": "2020",
+    "name": "Reinhard",
+    "surname": "Genzel",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1952",
+    "affiliation": "University of California, Berkeley, CA, USA, Max Planck Institute for Extraterrestrial Physics, Garching, Germany "
+  },
+  {
+    "year": "2020",
+    "name": "Andrea",
+    "surname": "Ghez",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1965",
+    "affiliation": "University of California, Los Angeles, CA, USA "
+  },
+  {
+    "year": "2019",
+    "name": "Phillip James Edwin (Jim)",
+    "surname": "Peebles",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "United States",
+    "born": "1935",
+    "affiliation": "Princeton University, Princeton, NJ, USA "
+  },
+  {
+    "year": "2019",
+    "name": "Michel",
+    "surname": "Mayor",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "University of Geneva, Geneva, Switzerland "
+  },
+  {
+    "year": "2019",
+    "name": "Didier",
+    "surname": "Queloz",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1966",
+    "affiliation": "University of Cambridge, Cambridge, United Kingdom, University of Geneva, Geneva, Switzerland "
+  },
+  {
+    "year": "2018",
+    "name": "Arthur",
+    "surname": "Ashkin",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "Bell Laboratories, Holmdel, NJ, USA"
+  },
+  {
+    "year": "2018",
+    "name": "Gérard",
+    "surname": "Mourou",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "École Polytechnique, Palaiseau, France , University of Michigan, Ann Arbor, MI, USA"
+  },
+  {
+    "year": "2018",
+    "name": "Donna",
+    "surname": "Strickland",
+    "gender": "Female",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1959",
+    "affiliation": "University of Waterloo, Waterloo, Canada"
+  },
+  {
+    "year": "2017",
+    "name": "Rainer",
+    "surname": "Weiss",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1932",
+    "affiliation": "LIGO/VIRGO Collaboration, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA"
+  },
+  {
+    "year": "2017",
+    "name": "Barry C.",
+    "surname": "Barish",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "LIGO/VIRGO Collaboration, California Institute of Technology (Caltech), Pasadena, CA, USA"
+  },
+  {
+    "year": "2017",
+    "name": "Kip S.",
+    "surname": "Thorne",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1940",
+    "affiliation": "LIGO/VIRGO Collaboration, California Institute of Technology (Caltech), Pasadena, CA, USA"
+  },
+  {
+    "year": "2016",
+    "name": "David James",
+    "surname": "Thouless",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1934",
+    "affiliation": "University of Washington, Seattle, WA, USA"
+  },
+  {
+    "year": "2016",
+    "name": "Frederick Duncan M.",
+    "surname": "Haldane",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "United States",
+    "born": "1951",
+    "affiliation": "Princeton University, Princeton, NJ, USA"
+  },
+  {
+    "year": "2016",
+    "name": "John Michael",
+    "surname": "Kosterlitz",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "United States",
+    "born": "1942",
+    "affiliation": "Brown University, Providence, RI, USA"
+  },
+  {
+    "year": "2015",
+    "name": "Arthur B.",
+    "surname": "McDonald",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1943",
+    "affiliation": "Queen's University, Kingston, Canada."
+  },
+  {
+    "year": "2015",
+    "name": "Takaaki",
+    "surname": "Kajita",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1959",
+    "affiliation": "University of Tokyo, Kashiwa, Japan."
+  },
+  {
+    "year": "2014",
+    "name": "Isamu",
+    "surname": "Akasaki",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "Meijo University, Nagoya, Japan; Nagoya University, Nagoya, Japan."
+  },
+  {
+    "year": "2014",
+    "name": "Hiroshi",
+    "surname": "Amano",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1960",
+    "affiliation": "Nagoya University, Nagoya, Japan."
+  },
+  {
+    "year": "2014",
+    "name": "Shuji",
+    "surname": "Nakamura",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "United States",
+    "born": "1954",
+    "affiliation": "University of California, Santa Barbara, CA, USA."
+  },
+  {
+    "year": "2013",
+    "name": "François",
+    "surname": "Englert",
+    "gender": "Male",
+    "citizenship": "Belgium",
+    "secondCitizenship": "",
+    "born": "1932",
+    "affiliation": "Université Libre de Bruxelles, Brussels, Belgium"
+  },
+  {
+    "year": "2013",
+    "name": "Peter W.",
+    "surname": "Higgs",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "University of Edinburgh, Edinburgh, United Kingdom"
+  },
+  {
+    "year": "2012",
+    "name": "Serge",
+    "surname": "Haroche",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "Collège de France and École Normale Supérieure, Paris, France"
+  },
+  {
+    "year": "2012",
+    "name": "David J.",
+    "surname": "Wineland",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "National Institute of Standards and Technology and University of Colorado, Boulder, CO, USA"
+  },
+  {
+    "year": "2011",
+    "name": "Saul",
+    "surname": "Perlmutter",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1959",
+    "affiliation": "Lawrence Berkeley National Laboratory and University of California"
+  },
+  {
+    "year": "2011",
+    "name": "Brian P.",
+    "surname": "Schmidt",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1967",
+    "affiliation": "Australian National University"
+  },
+  {
+    "year": "2011",
+    "name": "Adam G.",
+    "surname": "Riess",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1969",
+    "affiliation": "Johns Hopkins University and  Space Telescope Science Institute"
+  },
+  {
+    "year": "2010",
+    "name": "Andre",
+    "surname": "Geim",
+    "gender": "Male",
+    "citizenship": "Russia",
+    "secondCitizenship": "",
+    "born": "1958",
+    "affiliation": "University of Manchester"
+  },
+  {
+    "year": "2010",
+    "name": "Konstantin",
+    "surname": "Novoselov",
+    "gender": "Male",
+    "citizenship": "Russia",
+    "secondCitizenship": "",
+    "born": "1974",
+    "affiliation": "University of Manchester"
+  },
+  {
+    "year": "2009",
+    "name": "Willard S.",
+    "surname": "Boyle",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "Bell Laboratories"
+  },
+  {
+    "year": "2009",
+    "name": "Charles K.",
+    "surname": "Kao",
+    "gender": "Male",
+    "citizenship": "China",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "Chinese University of Hong Kong"
+  },
+  {
+    "year": "2009",
+    "name": "George E.",
+    "surname": "Smith",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1930",
+    "affiliation": "Bell Laboratories"
+  },
+  {
+    "year": "2008",
+    "name": "Makoto",
+    "surname": "Kobayashi",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "High Energy Accelerator Research Organization (KEK)"
+  },
+  {
+    "year": "2008",
+    "name": "Toshihide",
+    "surname": "Maskawa",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1940",
+    "affiliation": "Yukawa Institute for Theoretical Physics (YITP), Kyoto University"
+  },
+  {
+    "year": "2008",
+    "name": "Yoichiro",
+    "surname": "Nambu",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1921",
+    "affiliation": "Enrico Fermi Institute, University of Chicago"
+  },
+  {
+    "year": "2007",
+    "name": "Albert",
+    "surname": "Fert",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1938",
+    "affiliation": "Université Paris-Sud"
+  },
+  {
+    "year": "2007",
+    "name": "Peter",
+    "surname": "Grünberg",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1939",
+    "affiliation": "Forschungszentrum Jülich"
+  },
+  {
+    "year": "2006",
+    "name": "John C.",
+    "surname": "Mather",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1946",
+    "affiliation": "NASA Goddard Space Flight Center"
+  },
+  {
+    "year": "2006",
+    "name": "George F.",
+    "surname": "Smoot",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1945",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "2005",
+    "name": "Roy J.",
+    "surname": "Glauber",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "2005",
+    "name": "John L.",
+    "surname": "Hall",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1934",
+    "affiliation": "University of Colorado, JILA"
+  },
+  {
+    "year": "2005",
+    "name": "Theodor W.",
+    "surname": "Hänsch",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "Max-Planck-Institut für Quantenoptik"
+  },
+  {
+    "year": "2004",
+    "name": "David J.",
+    "surname": "Gross",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "University of California, Kavli Institute for Theoretical Physics"
+  },
+  {
+    "year": "2004",
+    "name": "H. David",
+    "surname": "Politzer",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1949",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "2004",
+    "name": "Frank",
+    "surname": "Wilczek",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1951",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "2003",
+    "name": "Alexei A.",
+    "surname": "Abrikosov",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "Russia",
+    "born": "1928",
+    "affiliation": "Argonne National Laboratory"
+  },
+  {
+    "year": "2003",
+    "name": "Vitaly L.",
+    "surname": "Ginzburg",
+    "gender": "Male",
+    "citizenship": "Russia",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "P.N. Lebedev Physical Institute"
+  },
+  {
+    "year": "2003",
+    "name": "Anthony J.",
+    "surname": "Leggett",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "United States",
+    "born": "1938",
+    "affiliation": "University of Illinois"
+  },
+  {
+    "year": "2002",
+    "name": "Raymond",
+    "surname": "Davis Jr.",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1914",
+    "affiliation": "University of Pennsylvania"
+  },
+  {
+    "year": "2002",
+    "name": "Riccardo",
+    "surname": "Giacconi",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "Associated Universities Inc."
+  },
+  {
+    "year": "2002",
+    "name": "Masatoshi",
+    "surname": "Koshiba",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "University of Tokyo"
+  },
+  {
+    "year": "2001",
+    "name": "Eric A.",
+    "surname": "Cornell",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1961",
+    "affiliation": "University of Colorado, JILA"
+  },
+  {
+    "year": "2001",
+    "name": "Wolfgang",
+    "surname": "Ketterle",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1957",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "2001",
+    "name": "Carl E.",
+    "surname": "Wieman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1951",
+    "affiliation": "University of Colorado, JILA"
+  },
+  {
+    "year": "2000",
+    "name": "Zhores I.",
+    "surname": "Alferov",
+    "gender": "Male",
+    "citizenship": "Russia",
+    "secondCitizenship": "",
+    "born": "1930",
+    "affiliation": "A.F. Ioffe Physico-Technical Institute"
+  },
+  {
+    "year": "2000",
+    "name": "Jack S.",
+    "surname": "Kilby",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1923",
+    "affiliation": "Texas Instruments"
+  },
+  {
+    "year": "2000",
+    "name": "Herbert",
+    "surname": "Kroemer",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1928",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1999",
+    "name": "Gerardus",
+    "surname": "'t Hooft",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1946",
+    "affiliation": "Utrecht University"
+  },
+  {
+    "year": "1999",
+    "name": "Martinus J.G.",
+    "surname": "Veltman",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": ""
+  },
+  {
+    "year": "1998",
+    "name": "Robert B.",
+    "surname": "Laughlin",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1950",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1998",
+    "name": "Horst L.",
+    "surname": "Störmer",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1949",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1998",
+    "name": "Daniel C.",
+    "surname": "Tsui",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1939",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1997",
+    "name": "Steven",
+    "surname": "Chu",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1948",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1997",
+    "name": "Claude",
+    "surname": "Cohen-Tannoudji",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "Collège de France"
+  },
+  {
+    "year": "1997",
+    "name": "William D.",
+    "surname": "Phillips",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1948",
+    "affiliation": "National Institute of Standards and Technology"
+  },
+  {
+    "year": "1996",
+    "name": "David M.",
+    "surname": "Lee",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "Cornell University"
+  },
+  {
+    "year": "1996",
+    "name": "Douglas D.",
+    "surname": "Osheroff",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1945",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1996",
+    "name": "Robert C.",
+    "surname": "Richardson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1937",
+    "affiliation": "Cornell University"
+  },
+  {
+    "year": "1995",
+    "name": "Martin L.",
+    "surname": "Perl",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1927",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1995",
+    "name": "Frederick",
+    "surname": "Reines",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1994",
+    "name": "Bertram N.",
+    "surname": "Brockhouse",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "McMaster University"
+  },
+  {
+    "year": "1994",
+    "name": "Clifford G.",
+    "surname": "Shull",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1993",
+    "name": "Russell A.",
+    "surname": "Hulse",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1950",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1993",
+    "name": "Joseph H.",
+    "surname": "Taylor Jr.",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1992",
+    "name": "Georges",
+    "surname": "Charpak",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "CERN"
+  },
+  {
+    "year": "1991",
+    "name": "Pierre-Gilles",
+    "surname": "de Gennes",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1932",
+    "affiliation": "Collège de France"
+  },
+  {
+    "year": "1990",
+    "name": "Jerome I.",
+    "surname": "Friedman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1930",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1990",
+    "name": "Henry W.",
+    "surname": "Kendall",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1990",
+    "name": "Richard E.",
+    "surname": "Taylor",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1989",
+    "name": "Hans G.",
+    "surname": "Dehmelt",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "University of Washington"
+  },
+  {
+    "year": "1989",
+    "name": "Wolfgang",
+    "surname": "Paul",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1913",
+    "affiliation": "University of Bonn"
+  },
+  {
+    "year": "1989",
+    "name": "Norman F.",
+    "surname": "Ramsey",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1988",
+    "name": "Leon M.",
+    "surname": "Lederman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "Fermi National Accelerator Laboratory"
+  },
+  {
+    "year": "1988",
+    "name": "Melvin",
+    "surname": "Schwartz",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1932",
+    "affiliation": "Digital Pathways, Inc."
+  },
+  {
+    "year": "1988",
+    "name": "Jack",
+    "surname": "Steinberger",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1921",
+    "affiliation": "CERN"
+  },
+  {
+    "year": "1987",
+    "name": "J. Georg",
+    "surname": "Bednorz",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1950",
+    "affiliation": "IBM Zurich Research Laboratory"
+  },
+  {
+    "year": "1987",
+    "name": "K. Alex",
+    "surname": "Müller",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1927",
+    "affiliation": "IBM Zurich Research Laboratory"
+  },
+  {
+    "year": "1986",
+    "name": "Gerd",
+    "surname": "Binnig",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1947",
+    "affiliation": "IBM Zurich Research Laboratory"
+  },
+  {
+    "year": "1986",
+    "name": "Heinrich",
+    "surname": "Rohrer",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "IBM Zurich Research Laboratory"
+  },
+  {
+    "year": "1986",
+    "name": "Ernst",
+    "surname": "Ruska",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "Fritz-Haber-Institut der Max-Planck-Gesellschaft"
+  },
+  {
+    "year": "1985",
+    "name": "Klaus",
+    "surname": "von Klitzing",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1943",
+    "affiliation": "Max-Planck-Institut für Festkörperforschung"
+  },
+  {
+    "year": "1984",
+    "name": "Carlo",
+    "surname": "Rubbia",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1934",
+    "affiliation": "CERN"
+  },
+  {
+    "year": "1984",
+    "name": "Simon",
+    "surname": "van der Meer",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "CERN"
+  },
+  {
+    "year": "1983",
+    "name": "Subramanyan",
+    "surname": "Chandrasekhar",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1910",
+    "affiliation": "University of Chicago"
+  },
+  {
+    "year": "1983",
+    "name": "William A.",
+    "surname": "Fowler",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1911",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1982",
+    "name": "Kenneth G.",
+    "surname": "Wilson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "Cornell University"
+  },
+  {
+    "year": "1981",
+    "name": "Nicolaas",
+    "surname": "Bloembergen",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1920",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1981",
+    "name": "Arthur L.",
+    "surname": "Schawlow",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1921",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1981",
+    "name": "Kai M.",
+    "surname": "Siegbahn",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "Uppsala University"
+  },
+  {
+    "year": "1980",
+    "name": "James",
+    "surname": "Cronin",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "University of Chicago"
+  },
+  {
+    "year": "1980",
+    "name": "Val",
+    "surname": "Fitch",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1923",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1979",
+    "name": "Sheldon",
+    "surname": "Glashow",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1932",
+    "affiliation": "Harvard University, Lyman Laboratory"
+  },
+  {
+    "year": "1979",
+    "name": "Abdus",
+    "surname": "Salam",
+    "gender": "Male",
+    "citizenship": "Pakistan",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "Imperial College"
+  },
+  {
+    "year": "1979",
+    "name": "Steven",
+    "surname": "Weinberg",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1978",
+    "name": "Pyotr",
+    "surname": "Kapitsa",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1894",
+    "affiliation": "Academy of Sciences"
+  },
+  {
+    "year": "1978",
+    "name": "Arno",
+    "surname": "Penzias",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "Bell Laboratories"
+  },
+  {
+    "year": "1978",
+    "name": "Robert Woodrow",
+    "surname": "Wilson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "Bell Laboratories"
+  },
+  {
+    "year": "1977",
+    "name": "Philip W.",
+    "surname": "Anderson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1923",
+    "affiliation": "Bell Telephone Laboratories"
+  },
+  {
+    "year": "1977",
+    "name": "Sir Nevill F.",
+    "surname": "Mott",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1977",
+    "name": "John H.",
+    "surname": "van Vleck",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1976",
+    "name": "Burton",
+    "surname": "Richter",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "Stanford Linear Accelerator Center"
+  },
+  {
+    "year": "1976",
+    "name": "Samuel C.C.",
+    "surname": "Ting",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1975",
+    "name": "Aage N.",
+    "surname": "Bohr",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "Niels Bohr Institute"
+  },
+  {
+    "year": "1975",
+    "name": "Ben R.",
+    "surname": "Mottelson",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "Nordita"
+  },
+  {
+    "year": "1975",
+    "name": "James",
+    "surname": "Rainwater",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1917",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1974",
+    "name": "Antony",
+    "surname": "Hewish",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1974",
+    "name": "Martin",
+    "surname": "Ryle",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1973",
+    "name": "Leo",
+    "surname": "Esaki",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "IBM Thomas J. Watson Research Center"
+  },
+  {
+    "year": "1973",
+    "name": "Ivar",
+    "surname": "Giaever",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "General Electric Company"
+  },
+  {
+    "year": "1973",
+    "name": "Brian D.",
+    "surname": "Josephson",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1940",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1972",
+    "name": "John",
+    "surname": "Bardeen",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1908",
+    "affiliation": "University of Illinois"
+  },
+  {
+    "year": "1972",
+    "name": "Leon N.",
+    "surname": "Cooper",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1930",
+    "affiliation": "Brown University"
+  },
+  {
+    "year": "1972",
+    "name": "Robert",
+    "surname": "Schrieffer",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "University of Pennsylvania"
+  },
+  {
+    "year": "1971",
+    "name": "Dennis",
+    "surname": "Gabor",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1900",
+    "affiliation": "Imperial College"
+  },
+  {
+    "year": "1970",
+    "name": "Hannes",
+    "surname": "Alfvén",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1908",
+    "affiliation": "Royal Institute of Technology"
+  },
+  {
+    "year": "1970",
+    "name": "Louis",
+    "surname": "Néel",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1904",
+    "affiliation": "University of Grenoble"
+  },
+  {
+    "year": "1969",
+    "name": "Murray",
+    "surname": "Gell-Mann",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1968",
+    "name": "Luis",
+    "surname": "Alvarez",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1911",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1967",
+    "name": "Hans",
+    "surname": "Bethe",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "Cornell University"
+  },
+  {
+    "year": "1966",
+    "name": "Alfred",
+    "surname": "Kastler",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1902",
+    "affiliation": "École Normale Supérieure"
+  },
+  {
+    "year": "1965",
+    "name": "Richard P.",
+    "surname": "Feynman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1965",
+    "name": "Julian",
+    "surname": "Schwinger",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1965",
+    "name": "Sin-Itiro",
+    "surname": "Tomonaga",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "Tokyo University of Education"
+  },
+  {
+    "year": "1964",
+    "name": "Nicolay G.",
+    "surname": "Basov",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "P.N. Lebedev Physical Institute"
+  },
+  {
+    "year": "1964",
+    "name": "Aleksandr M.",
+    "surname": "Prokhorov",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "P.N. Lebedev Physical Institute"
+  },
+  {
+    "year": "1964",
+    "name": "Charles H.",
+    "surname": "Townes",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1963",
+    "name": "Maria",
+    "surname": "Goeppert-Mayer",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1963",
+    "name": "J. Hans D.",
+    "surname": "Jensen",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1907",
+    "affiliation": "University of Heidelberg"
+  },
+  {
+    "year": "1963",
+    "name": "Eugene",
+    "surname": "Wigner",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1902",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1962",
+    "name": "Lev",
+    "surname": "Landau",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1908",
+    "affiliation": "Academy of Sciences"
+  },
+  {
+    "year": "1961",
+    "name": "Robert",
+    "surname": "Hofstadter",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1961",
+    "name": "Rudolf",
+    "surname": "Mössbauer",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "Technical University"
+  },
+  {
+    "year": "1960",
+    "name": "Donald A.",
+    "surname": "Glaser",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1959",
+    "name": "Owen",
+    "surname": "Chamberlain",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1920",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1959",
+    "name": "Emilio",
+    "surname": "Segrè",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1958",
+    "name": "Pavel A.",
+    "surname": "Cherenkov",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1904",
+    "affiliation": "P.N. Lebedev Physical Institute"
+  },
+  {
+    "year": "1958",
+    "name": "Il´ja M.",
+    "surname": "Frank",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1908",
+    "affiliation": "University of Moscow"
+  },
+  {
+    "year": "1958",
+    "name": "Igor Y.",
+    "surname": "Tamm",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1895",
+    "affiliation": "University of Moscow"
+  },
+  {
+    "year": "1957",
+    "name": "Tsung-Dao",
+    "surname": "Lee",
+    "gender": "Male",
+    "citizenship": "China",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1957",
+    "name": "Chen Ning",
+    "surname": "Yang",
+    "gender": "Male",
+    "citizenship": "China",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "Institute for Advanced Study"
+  },
+  {
+    "year": "1956",
+    "name": "John",
+    "surname": "Bardeen",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1908",
+    "affiliation": "University of Illinois"
+  },
+  {
+    "year": "1956",
+    "name": "Walter H.",
+    "surname": "Brattain",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1902",
+    "affiliation": "Bell Telephone Laboratories"
+  },
+  {
+    "year": "1956",
+    "name": "William B.",
+    "surname": "Shockley",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1910",
+    "affiliation": "Semiconductor Laboratory of Beckman Instruments, Inc."
+  },
+  {
+    "year": "1955",
+    "name": "Polykarp",
+    "surname": "Kusch",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1911",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1955",
+    "name": "Willis E.",
+    "surname": "Lamb",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1913",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1954",
+    "name": "Max",
+    "surname": "Born",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1882",
+    "affiliation": "Edinburgh University"
+  },
+  {
+    "year": "1954",
+    "name": "Walther",
+    "surname": "Bothe",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1891",
+    "affiliation": "University of Heidelberg"
+  },
+  {
+    "year": "1953",
+    "name": "Frits",
+    "surname": "Zernike",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1888",
+    "affiliation": "Groningen University"
+  },
+  {
+    "year": "1952",
+    "name": "Felix",
+    "surname": "Bloch",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1952",
+    "name": "E. M.",
+    "surname": "Purcell",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1912",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1951",
+    "name": "John",
+    "surname": "Cockcroft",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1897",
+    "affiliation": "Atomic Energy Research Establishment"
+  },
+  {
+    "year": "1951",
+    "name": "Ernest T.S.",
+    "surname": "Walton",
+    "gender": "Male",
+    "citizenship": "Ireland",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "Trinity College"
+  },
+  {
+    "year": "1950",
+    "name": "Cecil",
+    "surname": "Powell",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "Bristol University"
+  },
+  {
+    "year": "1949",
+    "name": "Hideki",
+    "surname": "Yukawa",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1907",
+    "affiliation": "Kyoto Imperial University"
+  },
+  {
+    "year": "1948",
+    "name": "Patrick M.S.",
+    "surname": "Blackett",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1897",
+    "affiliation": "Victoria University"
+  },
+  {
+    "year": "1947",
+    "name": "Edward V.",
+    "surname": "Appleton",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1892",
+    "affiliation": "Department of Scientific and Industrial Research"
+  },
+  {
+    "year": "1946",
+    "name": "Percy W.",
+    "surname": "Bridgman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1882",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1945",
+    "name": "Wolfgang",
+    "surname": "Pauli",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1900",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1944",
+    "name": "Isidor Isaac",
+    "surname": "Rabi",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1898",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1943",
+    "name": "Otto",
+    "surname": "Stern",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1888",
+    "affiliation": "Carnegie Institute of Technology"
+  },
+  {
+    "year": "1939",
+    "name": "Ernest",
+    "surname": "Lawrence",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1901",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "1938",
+    "name": "Enrico",
+    "surname": "Fermi",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1901",
+    "affiliation": "Rome University"
+  },
+  {
+    "year": "1937",
+    "name": "Clinton",
+    "surname": "Davisson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1881",
+    "affiliation": "Bell Telephone Laboratories"
+  },
+  {
+    "year": "1937",
+    "name": "George Paget",
+    "surname": "Thomson",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1892",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1936",
+    "name": "Carl D.",
+    "surname": "Anderson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1936",
+    "name": "Victor F.",
+    "surname": "Hess",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1883",
+    "affiliation": "Innsbruck University"
+  },
+  {
+    "year": "1935",
+    "name": "James",
+    "surname": "Chadwick",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1891",
+    "affiliation": "Liverpool University"
+  },
+  {
+    "year": "1933",
+    "name": "Paul A.M.",
+    "surname": "Dirac",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1902",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1933",
+    "name": "Erwin",
+    "surname": "Schrödinger",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1887",
+    "affiliation": "Berlin University"
+  },
+  {
+    "year": "1932",
+    "name": "Werner",
+    "surname": "Heisenberg",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1901",
+    "affiliation": "Leipzig University"
+  },
+  {
+    "year": "1930",
+    "name": "Venkata",
+    "surname": "Raman",
+    "gender": "Male",
+    "citizenship": "India",
+    "secondCitizenship": "",
+    "born": "1888",
+    "affiliation": "Calcutta University"
+  },
+  {
+    "year": "1929",
+    "name": "Louis",
+    "surname": "de Broglie",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1892",
+    "affiliation": "Sorbonne University, Institut Henri Poincaré"
+  },
+  {
+    "year": "1928",
+    "name": "Owen Willans",
+    "surname": "Richardson",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1879",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1927",
+    "name": "Arthur H.",
+    "surname": "Compton",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1892",
+    "affiliation": "University of Chicago"
+  },
+  {
+    "year": "1927",
+    "name": "C.T.R.",
+    "surname": "Wilson",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1869",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1926",
+    "name": "Jean Baptiste",
+    "surname": "Perrin",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1870",
+    "affiliation": "Sorbonne University"
+  },
+  {
+    "year": "1925",
+    "name": "James",
+    "surname": "Franck",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1882",
+    "affiliation": "Goettingen University"
+  },
+  {
+    "year": "1925",
+    "name": "Gustav",
+    "surname": "Hertz",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1887",
+    "affiliation": "Halle University"
+  },
+  {
+    "year": "1924",
+    "name": "Manne",
+    "surname": "Siegbahn",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1886",
+    "affiliation": "Uppsala University"
+  },
+  {
+    "year": "1923",
+    "name": "Robert A.",
+    "surname": "Millikan",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1868",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1922",
+    "name": "Niels",
+    "surname": "Bohr",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1885",
+    "affiliation": "Copenhagen University"
+  },
+  {
+    "year": "1921",
+    "name": "Albert",
+    "surname": "Einstein",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "Switzerland",
+    "born": "1879",
+    "affiliation": "Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik"
+  },
+  {
+    "year": "1920",
+    "name": "Charles Edouard",
+    "surname": "Guillaume",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1861",
+    "affiliation": "Bureau International des Poids et Mesures"
+  },
+  {
+    "year": "1919",
+    "name": "Johannes",
+    "surname": "Stark",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1874",
+    "affiliation": "Greifswald University"
+  },
+  {
+    "year": "1918",
+    "name": "Max",
+    "surname": "Planck",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1858",
+    "affiliation": "Berlin University"
+  },
+  {
+    "year": "1917",
+    "name": "Charles Glover",
+    "surname": "Barkla",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1877",
+    "affiliation": "Edinburgh University"
+  },
+  {
+    "year": "1915",
+    "name": "William",
+    "surname": "Bragg",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1862",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1915",
+    "name": "Lawrence",
+    "surname": "Bragg",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1890",
+    "affiliation": "Victoria University"
+  },
+  {
+    "year": "1914",
+    "name": "Max",
+    "surname": "von Laue",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1879",
+    "affiliation": "Frankfurt-on-the-Main University"
+  },
+  {
+    "year": "1913",
+    "name": "Heike Kamerlingh",
+    "surname": "Onnes",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1853",
+    "affiliation": "Leiden University"
+  },
+  {
+    "year": "1912",
+    "name": "Gustaf",
+    "surname": "Dalén",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1869",
+    "affiliation": "Swedish Gas-Accumulator Co."
+  },
+  {
+    "year": "1911",
+    "name": "Wilhelm",
+    "surname": "Wien",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1864",
+    "affiliation": "Würzburg University"
+  },
+  {
+    "year": "1910",
+    "name": "Johannes Diderik",
+    "surname": "van der Waals",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1837",
+    "affiliation": "Amsterdam University"
+  },
+  {
+    "year": "1909",
+    "name": "Ferdinand",
+    "surname": "Braun",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1850",
+    "affiliation": "Strasbourg University"
+  },
+  {
+    "year": "1909",
+    "name": "Guglielmo",
+    "surname": "Marconi",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1874",
+    "affiliation": "Marconi Wireless Telegraph Co. Ltd."
+  },
+  {
+    "year": "1908",
+    "name": "Gabriel",
+    "surname": "Lippmann",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1845",
+    "affiliation": "Sorbonne University"
+  },
+  {
+    "year": "1907",
+    "name": "Albert A.",
+    "surname": "Michelson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1852",
+    "affiliation": "University of Chicago"
+  },
+  {
+    "year": "1906",
+    "name": "J.J.",
+    "surname": "Thomson",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1856",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1905",
+    "name": "Philipp",
+    "surname": "Lenard",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1862",
+    "affiliation": "Kiel University"
+  },
+  {
+    "year": "1904",
+    "name": "John William Strutt (Lord)",
+    "surname": "Rayleigh",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1842",
+    "affiliation": "Royal Institution of Great Britain"
+  },
+  {
+    "year": "1903",
+    "name": "Henri",
+    "surname": "Becquerel",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1852",
+    "affiliation": "École Polytechnique"
+  },
+  {
+    "year": "1903",
+    "name": "Pierre",
+    "surname": "Curie",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1859",
+    "affiliation": "École municipale de physique et de chimie industrielles"
+  },
+  {
+    "year": "1903",
+    "name": "Marie",
+    "surname": "Curie",
+    "gender": "Female",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1867",
+    "affiliation": "Sorbonne University"
+  },
+  {
+    "year": "1902",
+    "name": "Hendrik A.",
+    "surname": "Lorentz",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1853",
+    "affiliation": "Leiden University"
+  },
+  {
+    "year": "1902",
+    "name": "Pieter",
+    "surname": "Zeeman",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1865",
+    "affiliation": "Amsterdam University"
+  },
+  {
+    "year": "1901",
+    "name": "Wilhelm Conrad",
+    "surname": "Röntgen",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1845",
+    "affiliation": "Munich University"
+  }
+]

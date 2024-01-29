@@ -1,0 +1,1202 @@
+[
+  {
+    "year": "2023",
+    "name": "Jon",
+    "surname": "Fosse",
+    "gender": "Male",
+    "citizenship": "Norway",
+    "secondCitizenship": "",
+    "born": "1959",
+    "remarks": ""
+  },
+  {
+    "year": "2022",
+    "name": "Annie",
+    "surname": "Ernaux",
+    "gender": "Female",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1940",
+    "remarks": ""
+  },
+  {
+    "year": "2021",
+    "name": "Abdulrazak",
+    "surname": "Gurnah",
+    "gender": "Male",
+    "citizenship": "Tanzania",
+    "secondCitizenship": "United Kingdom",
+    "born": "1948",
+    "remarks": ""
+  },
+  {
+    "year": "2020",
+    "name": "Louise",
+    "surname": "Glück",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1943",
+    "remarks": ""
+  },
+  {
+    "year": "2019",
+    "name": "Peter",
+    "surname": "Handke",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1942",
+    "remarks": ""
+  },
+  {
+    "year": "2018",
+    "name": "Olga",
+    "surname": "Tokarczuk",
+    "gender": "Female",
+    "citizenship": "Poland",
+    "secondCitizenship": "",
+    "born": "1962",
+    "remarks": "Awarded in 2019"
+  },
+  {
+    "year": "2017",
+    "name": "Ishiguro",
+    "surname": "Kazuo",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1954",
+    "remarks": ""
+  },
+  {
+    "year": "2016",
+    "name": "Bob",
+    "surname": "Dylan",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1941",
+    "remarks": ""
+  },
+  {
+    "year": "2015",
+    "name": "Svetlana",
+    "surname": "Alexievich",
+    "gender": "Female",
+    "citizenship": "Ukraine",
+    "secondCitizenship": "",
+    "born": "1948",
+    "remarks": ""
+  },
+  {
+    "year": "2014",
+    "name": "Patrick",
+    "surname": "Modiano",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1945",
+    "remarks": ""
+  },
+  {
+    "year": "2013",
+    "name": "Alice",
+    "surname": "Munro",
+    "gender": "Female",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1931",
+    "remarks": ""
+  },
+  {
+    "year": "2012",
+    "name": "Mo",
+    "surname": "Yan",
+    "gender": "Male",
+    "citizenship": "China",
+    "secondCitizenship": "",
+    "born": "1955",
+    "remarks": ""
+  },
+  {
+    "year": "2011",
+    "name": "Tomas",
+    "surname": "Tranströmer",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1931",
+    "remarks": ""
+  },
+  {
+    "year": "2010",
+    "name": "Mario",
+    "surname": "Vargas Llosa",
+    "gender": "Male",
+    "citizenship": "Peru",
+    "secondCitizenship": "",
+    "born": "1936",
+    "remarks": ""
+  },
+  {
+    "year": "2009",
+    "name": "Herta",
+    "surname": "Müller",
+    "gender": "Female",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1953",
+    "remarks": ""
+  },
+  {
+    "year": "2008",
+    "name": "Jean-Marie Gustave",
+    "surname": "Le Clézio",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "Mauritius",
+    "born": "1940",
+    "remarks": ""
+  },
+  {
+    "year": "2007",
+    "name": "Doris",
+    "surname": "Lessing",
+    "gender": "Female",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1919",
+    "remarks": ""
+  },
+  {
+    "year": "2006",
+    "name": "Orhan",
+    "surname": "Pamuk",
+    "gender": "Male",
+    "citizenship": "Turkey",
+    "secondCitizenship": "",
+    "born": "1952",
+    "remarks": ""
+  },
+  {
+    "year": "2005",
+    "name": "Harold",
+    "surname": "Pinter",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1930",
+    "remarks": ""
+  },
+  {
+    "year": "2004",
+    "name": "Elfriede",
+    "surname": "Jelinek",
+    "gender": "Female",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1946",
+    "remarks": ""
+  },
+  {
+    "year": "2003",
+    "name": "J.M.",
+    "surname": "Coetzee",
+    "gender": "Male",
+    "citizenship": "South Africa",
+    "secondCitizenship": "",
+    "born": "1940",
+    "remarks": ""
+  },
+  {
+    "year": "2002",
+    "name": "Imre",
+    "surname": "Kertész",
+    "gender": "Male",
+    "citizenship": "Hungary",
+    "secondCitizenship": "",
+    "born": "1929",
+    "remarks": ""
+  },
+  {
+    "year": "2001",
+    "name": "V.S.",
+    "surname": "Naipaul",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1932",
+    "remarks": ""
+  },
+  {
+    "year": "2000",
+    "name": "Gao",
+    "surname": "Xingjian",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1940",
+    "remarks": ""
+  },
+  {
+    "year": "1999",
+    "name": "Günter",
+    "surname": "Grass",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1927",
+    "remarks": ""
+  },
+  {
+    "year": "1998",
+    "name": "José",
+    "surname": "Saramago",
+    "gender": "Male",
+    "citizenship": "Portugal",
+    "secondCitizenship": "",
+    "born": "1922",
+    "remarks": ""
+  },
+  {
+    "year": "1997",
+    "name": "Dario",
+    "surname": "Fo",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1926",
+    "remarks": ""
+  },
+  {
+    "year": "1996",
+    "name": "Wislawa",
+    "surname": "Szymborska",
+    "gender": "Female",
+    "citizenship": "Poland",
+    "secondCitizenship": "",
+    "born": "1923",
+    "remarks": ""
+  },
+  {
+    "year": "1995",
+    "name": "Seamus",
+    "surname": "Heaney",
+    "gender": "Male",
+    "citizenship": "Ireland",
+    "secondCitizenship": "",
+    "born": "1939",
+    "remarks": ""
+  },
+  {
+    "year": "1994",
+    "name": "Kenzaburo",
+    "surname": "Oe",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1935",
+    "remarks": ""
+  },
+  {
+    "year": "1993",
+    "name": "Toni",
+    "surname": "Morrison",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "remarks": ""
+  },
+  {
+    "year": "1992",
+    "name": "Derek",
+    "surname": "Walcott",
+    "gender": "Male",
+    "citizenship": "Saint Lucia",
+    "secondCitizenship": "",
+    "born": "1930",
+    "remarks": ""
+  },
+  {
+    "year": "1991",
+    "name": "Nadine",
+    "surname": "Gordimer",
+    "gender": "Female",
+    "citizenship": "South Africa",
+    "secondCitizenship": "",
+    "born": "1923",
+    "remarks": ""
+  },
+  {
+    "year": "1990",
+    "name": "Octavio",
+    "surname": "Paz",
+    "gender": "Male",
+    "citizenship": "Mexico",
+    "secondCitizenship": "",
+    "born": "1914",
+    "remarks": ""
+  },
+  {
+    "year": "1989",
+    "name": "Camilo José",
+    "surname": "Cela",
+    "gender": "Male",
+    "citizenship": "Spain",
+    "secondCitizenship": "",
+    "born": "1916",
+    "remarks": ""
+  },
+  {
+    "year": "1988",
+    "name": "Naguib",
+    "surname": "Mahfouz",
+    "gender": "Male",
+    "citizenship": "Egypt",
+    "secondCitizenship": "",
+    "born": "1911",
+    "remarks": ""
+  },
+  {
+    "year": "1987",
+    "name": "Joseph",
+    "surname": "Brodsky",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1940",
+    "remarks": ""
+  },
+  {
+    "year": "1986",
+    "name": "Wole",
+    "surname": "Soyinka",
+    "gender": "Male",
+    "citizenship": "Nigeria",
+    "secondCitizenship": "",
+    "born": "1934",
+    "remarks": ""
+  },
+  {
+    "year": "1985",
+    "name": "Claude",
+    "surname": "Simon",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1913",
+    "remarks": ""
+  },
+  {
+    "year": "1984",
+    "name": "Jaroslav",
+    "surname": "Seifert",
+    "gender": "Male",
+    "citizenship": "Czechoslovakia",
+    "secondCitizenship": "",
+    "born": "1901",
+    "remarks": ""
+  },
+  {
+    "year": "1983",
+    "name": "William",
+    "surname": "Golding",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1911",
+    "remarks": ""
+  },
+  {
+    "year": "1982",
+    "name": "Gabriel García",
+    "surname": "Márquez",
+    "gender": "Male",
+    "citizenship": "Colombia",
+    "secondCitizenship": "",
+    "born": "1928",
+    "remarks": ""
+  },
+  {
+    "year": "1981",
+    "name": "Elias",
+    "surname": "Canetti",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1905",
+    "remarks": ""
+  },
+  {
+    "year": "1980",
+    "name": "Czeslaw",
+    "surname": "Milosz",
+    "gender": "Male",
+    "citizenship": "Poland",
+    "secondCitizenship": "United States",
+    "born": "1911",
+    "remarks": ""
+  },
+  {
+    "year": "1979",
+    "name": "Odysseus",
+    "surname": "Elytis",
+    "gender": "Male",
+    "citizenship": "Greece",
+    "secondCitizenship": "",
+    "born": "1911",
+    "remarks": ""
+  },
+  {
+    "year": "1978",
+    "name": "Isaac Bashevis",
+    "surname": "Singer",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1904",
+    "remarks": ""
+  },
+  {
+    "year": "1977",
+    "name": "Vicente",
+    "surname": "Aleixandre",
+    "gender": "Male",
+    "citizenship": "Spain",
+    "secondCitizenship": "",
+    "born": "1898",
+    "remarks": ""
+  },
+  {
+    "year": "1976",
+    "name": "Saul",
+    "surname": "Bellow",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "remarks": ""
+  },
+  {
+    "year": "1975",
+    "name": "Eugenio",
+    "surname": "Montale",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1896",
+    "remarks": ""
+  },
+  {
+    "year": "1974",
+    "name": "Eyvind",
+    "surname": "Johnson",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1900",
+    "remarks": ""
+  },
+  {
+    "year": "1974",
+    "name": "Harry",
+    "surname": "Martinson",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1904",
+    "remarks": ""
+  },
+  {
+    "year": "1973",
+    "name": "Patrick",
+    "surname": "White",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1912",
+    "remarks": ""
+  },
+  {
+    "year": "1972",
+    "name": "Heinrich",
+    "surname": "Böll",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1917",
+    "remarks": ""
+  },
+  {
+    "year": "1971",
+    "name": "Pablo",
+    "surname": "Neruda",
+    "gender": "Male",
+    "citizenship": "Chile",
+    "secondCitizenship": "",
+    "born": "1904",
+    "remarks": ""
+  },
+  {
+    "year": "1970",
+    "name": "Alexandr",
+    "surname": "Solzhenitsyn",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1918",
+    "remarks": ""
+  },
+  {
+    "year": "1969",
+    "name": "Samuel",
+    "surname": "Beckett",
+    "gender": "Male",
+    "citizenship": "Ireland",
+    "secondCitizenship": "",
+    "born": "1906",
+    "remarks": ""
+  },
+  {
+    "year": "1968",
+    "name": "Yasunari",
+    "surname": "Kawabata",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1899",
+    "remarks": ""
+  },
+  {
+    "year": "1967",
+    "name": "Miguel Angel",
+    "surname": "Asturias",
+    "gender": "Male",
+    "citizenship": "Guatemala",
+    "secondCitizenship": "",
+    "born": "1899",
+    "remarks": ""
+  },
+  {
+    "year": "1966",
+    "name": "Samuel",
+    "surname": "Agnon",
+    "gender": "Male",
+    "citizenship": "Israel",
+    "secondCitizenship": "",
+    "born": "1888",
+    "remarks": ""
+  },
+  {
+    "year": "1966",
+    "name": "Nelly",
+    "surname": "Sachs",
+    "gender": "Female",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1891",
+    "remarks": ""
+  },
+  {
+    "year": "1965",
+    "name": "Mikhail",
+    "surname": "Sholokhov",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1905",
+    "remarks": ""
+  },
+  {
+    "year": "1964",
+    "name": "Jean-Paul",
+    "surname": "Sartre",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1905",
+    "remarks": "Declined the prize"
+  },
+  {
+    "year": "1963",
+    "name": "Giorgos",
+    "surname": "Seferis",
+    "gender": "Male",
+    "citizenship": "Greece",
+    "secondCitizenship": "",
+    "born": "1900",
+    "remarks": ""
+  },
+  {
+    "year": "1962",
+    "name": "John",
+    "surname": "Steinbeck",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1902",
+    "remarks": ""
+  },
+  {
+    "year": "1961",
+    "name": "Ivo",
+    "surname": "Andric",
+    "gender": "Male",
+    "citizenship": "Yugoslavia",
+    "secondCitizenship": "",
+    "born": "1892",
+    "remarks": ""
+  },
+  {
+    "year": "1960",
+    "name": "Saint-John",
+    "surname": "Perse",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1887",
+    "remarks": ""
+  },
+  {
+    "year": "1959",
+    "name": "Salvatore",
+    "surname": "Quasimodo",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1901",
+    "remarks": ""
+  },
+  {
+    "year": "1958",
+    "name": "Boris",
+    "surname": "Pasternak",
+    "gender": "Male",
+    "citizenship": "Soviet Union",
+    "secondCitizenship": "",
+    "born": "1890",
+    "remarks": "Forced to decline"
+  },
+  {
+    "year": "1957",
+    "name": "Albert",
+    "surname": "Camus",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1913",
+    "remarks": ""
+  },
+  {
+    "year": "1956",
+    "name": "Juan Ramón",
+    "surname": "Jiménez",
+    "gender": "Male",
+    "citizenship": "Spain",
+    "secondCitizenship": "",
+    "born": "1881",
+    "remarks": ""
+  },
+  {
+    "year": "1955",
+    "name": "Halldór",
+    "surname": "Laxness",
+    "gender": "Male",
+    "citizenship": "Iceland",
+    "secondCitizenship": "",
+    "born": "1902",
+    "remarks": ""
+  },
+  {
+    "year": "1954",
+    "name": "Ernest",
+    "surname": "Hemingway",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1899",
+    "remarks": ""
+  },
+  {
+    "year": "1953",
+    "name": "Winston",
+    "surname": "Churchill",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1874",
+    "remarks": ""
+  },
+  {
+    "year": "1952",
+    "name": "François",
+    "surname": "Mauriac",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1885",
+    "remarks": ""
+  },
+  {
+    "year": "1951",
+    "name": "Pär",
+    "surname": "Lagerkvist",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1891",
+    "remarks": ""
+  },
+  {
+    "year": "1950",
+    "name": "Bertrand",
+    "surname": "Russell",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1872",
+    "remarks": ""
+  },
+  {
+    "year": "1949",
+    "name": "William",
+    "surname": "Faulkner",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1897",
+    "remarks": ""
+  },
+  {
+    "year": "1948",
+    "name": "T.S.",
+    "surname": "Eliot",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1888",
+    "remarks": ""
+  },
+  {
+    "year": "1947",
+    "name": "André",
+    "surname": "Gide",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1869",
+    "remarks": ""
+  },
+  {
+    "year": "1946",
+    "name": "Hermann",
+    "surname": "Hesse",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1877",
+    "remarks": ""
+  },
+  {
+    "year": "1945",
+    "name": "Gabriela",
+    "surname": "Mistral",
+    "gender": "Female",
+    "citizenship": "Chile",
+    "secondCitizenship": "",
+    "born": "1889",
+    "remarks": ""
+  },
+  {
+    "year": "1944",
+    "name": "Johannes V.",
+    "surname": "Jensen",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1873",
+    "remarks": ""
+  },
+  {
+    "year": "1939",
+    "name": "Frans Eemil",
+    "surname": "Sillanpää",
+    "gender": "Male",
+    "citizenship": "Finland",
+    "secondCitizenship": "",
+    "born": "1888",
+    "remarks": ""
+  },
+  {
+    "year": "1938",
+    "name": "Pearl",
+    "surname": "Buck",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1892",
+    "remarks": ""
+  },
+  {
+    "year": "1937",
+    "name": "Roger",
+    "surname": "Martin du Gard",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1881",
+    "remarks": ""
+  },
+  {
+    "year": "1936",
+    "name": "Eugene",
+    "surname": "O'Neill",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1888",
+    "remarks": ""
+  },
+  {
+    "year": "1934",
+    "name": "Luigi",
+    "surname": "Pirandello",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1867",
+    "remarks": ""
+  },
+  {
+    "year": "1933",
+    "name": "Ivan",
+    "surname": "Bunin",
+    "gender": "Male",
+    "citizenship": "Stateless",
+    "secondCitizenship": "",
+    "born": "1870",
+    "remarks": "Formerly Russian"
+  },
+  {
+    "year": "1932",
+    "name": "John",
+    "surname": "Galsworthy",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1867",
+    "remarks": ""
+  },
+  {
+    "year": "1931",
+    "name": "Erik Axel",
+    "surname": "Karlfeldt",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1864",
+    "remarks": ""
+  },
+  {
+    "year": "1930",
+    "name": "Sinclair",
+    "surname": "Lewis",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1885",
+    "remarks": ""
+  },
+  {
+    "year": "1929",
+    "name": "Thomas",
+    "surname": "Mann",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1875",
+    "remarks": ""
+  },
+  {
+    "year": "1928",
+    "name": "Sigrid",
+    "surname": "Undset",
+    "gender": "Female",
+    "citizenship": "Norway",
+    "secondCitizenship": "",
+    "born": "1882",
+    "remarks": ""
+  },
+  {
+    "year": "1927",
+    "name": "Henri",
+    "surname": "Bergson",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1859",
+    "remarks": ""
+  },
+  {
+    "year": "1926",
+    "name": "Grazia",
+    "surname": "Deledda",
+    "gender": "Female",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1871",
+    "remarks": ""
+  },
+  {
+    "year": "1925",
+    "name": "George Bernard",
+    "surname": "Shaw",
+    "gender": "Male",
+    "citizenship": "Ireland",
+    "secondCitizenship": "",
+    "born": "1856",
+    "remarks": ""
+  },
+  {
+    "year": "1924",
+    "name": "Wladyslaw",
+    "surname": "Reymont",
+    "gender": "Male",
+    "citizenship": "Poland",
+    "secondCitizenship": "",
+    "born": "1867",
+    "remarks": ""
+  },
+  {
+    "year": "1923",
+    "name": "William Butler",
+    "surname": "Yeats",
+    "gender": "Male",
+    "citizenship": "Ireland",
+    "secondCitizenship": "",
+    "born": "1865",
+    "remarks": ""
+  },
+  {
+    "year": "1922",
+    "name": "Jacinto",
+    "surname": "Benavente",
+    "gender": "Male",
+    "citizenship": "Spain",
+    "secondCitizenship": "",
+    "born": "1866",
+    "remarks": ""
+  },
+  {
+    "year": "1921",
+    "name": "Anatole",
+    "surname": "France",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1844",
+    "remarks": ""
+  },
+  {
+    "year": "1920",
+    "name": "Knut",
+    "surname": "Hamsun",
+    "gender": "Male",
+    "citizenship": "Norway",
+    "secondCitizenship": "",
+    "born": "1859",
+    "remarks": ""
+  },
+  {
+    "year": "1919",
+    "name": "Carl",
+    "surname": "Spitteler",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1845",
+    "remarks": ""
+  },
+  {
+    "year": "1917",
+    "name": "Karl",
+    "surname": "Gjellerup",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1857",
+    "remarks": ""
+  },
+  {
+    "year": "1917",
+    "name": "Henrik",
+    "surname": "Pontoppidan",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1857",
+    "remarks": ""
+  },
+  {
+    "year": "1916",
+    "name": "Verner",
+    "surname": "von Heidenstam",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1859",
+    "remarks": ""
+  },
+  {
+    "year": "1915",
+    "name": "Romain",
+    "surname": "Rolland",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1866",
+    "remarks": ""
+  },
+  {
+    "year": "1913",
+    "name": "Rabindranath",
+    "surname": "Tagore",
+    "gender": "Male",
+    "citizenship": "India",
+    "secondCitizenship": "",
+    "born": "1861",
+    "remarks": ""
+  },
+  {
+    "year": "1912",
+    "name": "Gerhart",
+    "surname": "Hauptmann",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1862",
+    "remarks": ""
+  },
+  {
+    "year": "1911",
+    "name": "Maurice",
+    "surname": "Maeterlinck",
+    "gender": "Male",
+    "citizenship": "Belgium",
+    "secondCitizenship": "",
+    "born": "1862",
+    "remarks": ""
+  },
+  {
+    "year": "1910",
+    "name": "Paul",
+    "surname": "Heyse",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1830",
+    "remarks": ""
+  },
+  {
+    "year": "1909",
+    "name": "Selma",
+    "surname": "Lagerlöf",
+    "gender": "Female",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1858",
+    "remarks": ""
+  },
+  {
+    "year": "1908",
+    "name": "Rudolf",
+    "surname": "Eucken",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1846",
+    "remarks": ""
+  },
+  {
+    "year": "1907",
+    "name": "Rudyard",
+    "surname": "Kipling",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1865",
+    "remarks": ""
+  },
+  {
+    "year": "1906",
+    "name": "Giosuè",
+    "surname": "Carducci",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1835",
+    "remarks": ""
+  },
+  {
+    "year": "1905",
+    "name": "Henryk",
+    "surname": "Sienkiewicz",
+    "gender": "Male",
+    "citizenship": "Poland",
+    "secondCitizenship": "",
+    "born": "1846",
+    "remarks": ""
+  },
+  {
+    "year": "1904",
+    "name": "José",
+    "surname": "Echegaray",
+    "gender": "Male",
+    "citizenship": "Spain",
+    "secondCitizenship": "",
+    "born": "1832",
+    "remarks": ""
+  },
+  {
+    "year": "1904",
+    "name": "Frédéric",
+    "surname": "Mistral",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1830",
+    "remarks": ""
+  },
+  {
+    "year": "1903",
+    "name": "Bjørnstjerne",
+    "surname": "Bjørnson",
+    "gender": "Male",
+    "citizenship": "Norway",
+    "secondCitizenship": "",
+    "born": "1832",
+    "remarks": ""
+  },
+  {
+    "year": "1902",
+    "name": "Theodor",
+    "surname": "Mommsen",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1817",
+    "remarks": ""
+  },
+  {
+    "year": "1901",
+    "name": "Sully",
+    "surname": "Prudhomme",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1839",
+    "remarks": ""
+  }
+]

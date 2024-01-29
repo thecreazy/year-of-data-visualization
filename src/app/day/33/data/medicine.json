@@ -1,0 +1,2272 @@
+[
+  {
+    "year": "2023",
+    "name": "Drew",
+    "surname": "Weissman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1959",
+    "affiliation": "Perelman School of Medicine at the University of Pennsylvania, USA"
+  },
+  {
+    "year": "2023",
+    "name": "Katalin",
+    "surname": "Karikó",
+    "gender": "Female",
+    "citizenship": "Hungary",
+    "secondCitizenship": "",
+    "born": "1955",
+    "affiliation": "Szeged University, Hungary and Perelman School of Medicine at the University of Pennsylvania, USA"
+  },
+  {
+    "year": "2022",
+    "name": "Svante",
+    "surname": "Pääbo",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1955",
+    "affiliation": "Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany; Okinawa Institute of Science and Technology, Okinawa, Japan "
+  },
+  {
+    "year": "2021",
+    "name": "David",
+    "surname": "Julius",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1955",
+    "affiliation": "University of California, San Francisco, CA, USA"
+  },
+  {
+    "year": "2021",
+    "name": "Ardem",
+    "surname": "Patapoutian",
+    "gender": "Male",
+    "citizenship": "Lebanon",
+    "secondCitizenship": "United States",
+    "born": "1967",
+    "affiliation": "Howard Hughes Medical Institute, Scripps Research, La Jolla, CA, USA "
+  },
+  {
+    "year": "2020",
+    "name": "Harvey James",
+    "surname": "Alter",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1935",
+    "affiliation": "National Institutes of Health, Bethesda, MD, USA "
+  },
+  {
+    "year": "2020",
+    "name": "Michael",
+    "surname": "Houghton",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1949",
+    "affiliation": "University of Alberta, Edmonton, Canada "
+  },
+  {
+    "year": "2020",
+    "name": "Charles Moen",
+    "surname": "Rice",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1952",
+    "affiliation": "Rockefeller University, New York, NY, USA "
+  },
+  {
+    "year": "2019",
+    "name": "William G.",
+    "surname": "Kaelin Jr",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1957",
+    "affiliation": "Howard Hughes Medical Institute, Chevy Chase, MD, USA, Dana-Farber Cancer Institute, Brigham and Women’s Hospital, and Harvard Medical, Boston, MA, USA "
+  },
+  {
+    "year": "2019",
+    "name": "Peter John",
+    "surname": "Ratcliffe",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1954",
+    "affiliation": "University of Oxford, Oxford, United Kingdom, Francis Crick Institute, London, United Kingdom "
+  },
+  {
+    "year": "2019",
+    "name": "Gregg Leonard",
+    "surname": "Semenza",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1956",
+    "affiliation": "Johns Hopkins University, Baltimore, MD, USA "
+  },
+  {
+    "year": "2018",
+    "name": "James P.",
+    "surname": "Allison",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1948",
+    "affiliation": "University of Texas MD Anderson Cancer Center, Houston, TX, USA , Parker Institute for Cancer Immunotherapy, San Francisco, CA, USA"
+  },
+  {
+    "year": "2018",
+    "name": "Tasuku",
+    "surname": "Honjo",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "Kyoto University, Kyoto, Japan"
+  },
+  {
+    "year": "2017",
+    "name": "Jeffrey C.",
+    "surname": "Hall",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1945",
+    "affiliation": "University of Maine, Maine, ME, USA"
+  },
+  {
+    "year": "2017",
+    "name": "Michael",
+    "surname": "Rosbash",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "Brandeis University, Waltham, MA, USA, Howard Hughes Medical Institute"
+  },
+  {
+    "year": "2017",
+    "name": "Michael W.",
+    "surname": "Young",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1949",
+    "affiliation": "Rockefeller University, New York, NY, USA"
+  },
+  {
+    "year": "2016",
+    "name": "Yoshinori",
+    "surname": "Ohsumi",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1945",
+    "affiliation": "Tokyo Institute of Technology, Japan"
+  },
+  {
+    "year": "2015",
+    "name": "William C.",
+    "surname": "Campbell",
+    "gender": "Male",
+    "citizenship": "Ireland",
+    "secondCitizenship": "",
+    "born": "1930",
+    "affiliation": "Drew University, Madison, NJ, USA."
+  },
+  {
+    "year": "2015",
+    "name": "Satoshi",
+    "surname": "Ōmura",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1935",
+    "affiliation": "Kitasato University, Tokyo, Japan."
+  },
+  {
+    "year": "2015",
+    "name": "Youyou",
+    "surname": "Tu",
+    "gender": "Female",
+    "citizenship": "China",
+    "secondCitizenship": "",
+    "born": "1930",
+    "affiliation": "China Academy of Traditional Chinese Medicine, Beijing, China."
+  },
+  {
+    "year": "2014",
+    "name": "John",
+    "surname": "O'Keefe",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1939",
+    "affiliation": "University College, London, United Kingdom."
+  },
+  {
+    "year": "2014",
+    "name": "May-Britt",
+    "surname": "Moser",
+    "gender": "Female",
+    "citizenship": "Norway",
+    "secondCitizenship": "",
+    "born": "1963",
+    "affiliation": "Centre for Neural Computation, Trondheim, Norway."
+  },
+  {
+    "year": "2014",
+    "name": "Edvard",
+    "surname": "Moser",
+    "gender": "Male",
+    "citizenship": "Norway",
+    "secondCitizenship": "",
+    "born": "1962",
+    "affiliation": "Kavli Institute for Systems Neuroscience, Trondheim, Norway."
+  },
+  {
+    "year": "2013",
+    "name": "James E.",
+    "surname": "Rothman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1950",
+    "affiliation": "Yale University, New Haven, CT, USA."
+  },
+  {
+    "year": "2013",
+    "name": "Randy W.",
+    "surname": "Schekman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1948",
+    "affiliation": "University of California, Berkeley, CA, USA. Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+  },
+  {
+    "year": "2013",
+    "name": "Thomas C.",
+    "surname": "Südhof",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "United Sates",
+    "born": "1955",
+    "affiliation": "Stanford University, Stanford, CA, USA, Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+  },
+  {
+    "year": "2012",
+    "name": "Sir John B.",
+    "surname": "Gurdon",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "Gurdon Institute, Cambridge, United Kingdom."
+  },
+  {
+    "year": "2012",
+    "name": "Shinya",
+    "surname": "Yamanaka",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1962",
+    "affiliation": "University Kyoto, Japan, and Gladstone Institutes, San Francisco, C, USA"
+  },
+  {
+    "year": "2011",
+    "name": "Bruce A.",
+    "surname": "Beutler",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1957",
+    "affiliation": "The Scripps Research Institute and University of Texas Southwestern Medical Center at Dallas"
+  },
+  {
+    "year": "2011",
+    "name": "Jules A.",
+    "surname": "Hoffmann",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "CNRS (Centre national de la recherche scientifique)"
+  },
+  {
+    "year": "2011",
+    "name": "Ralph M.",
+    "surname": "Steinman",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1943",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "2010",
+    "name": "Robert G.",
+    "surname": "Edwards",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "2009",
+    "name": "Elizabeth H.",
+    "surname": "Blackburn",
+    "gender": "Female",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1948",
+    "affiliation": "University of California"
+  },
+  {
+    "year": "2009",
+    "name": "Carol W.",
+    "surname": "Greider",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1961",
+    "affiliation": "Johns Hopkins University School of Medicine"
+  },
+  {
+    "year": "2009",
+    "name": "Jack W.",
+    "surname": "Szostak",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1952",
+    "affiliation": "Harvard Medical School; Massachusetts General Hospital"
+  },
+  {
+    "year": "2008",
+    "name": "Françoise",
+    "surname": "Barré-Sinoussi",
+    "gender": "Female",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1947",
+    "affiliation": "Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur"
+  },
+  {
+    "year": "2008",
+    "name": "Luc",
+    "surname": "Montagnier",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1932",
+    "affiliation": "World Foundation for AIDS Research and Prevention"
+  },
+  {
+    "year": "2008",
+    "name": "Harald",
+    "surname": "zur Hausen",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "German Cancer Research Centre"
+  },
+  {
+    "year": "2007",
+    "name": "Mario R.",
+    "surname": "Capecchi",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1937",
+    "affiliation": "University of Utah"
+  },
+  {
+    "year": "2007",
+    "name": "Sir Martin J.",
+    "surname": "Evans",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "Cardiff University"
+  },
+  {
+    "year": "2007",
+    "name": "Oliver",
+    "surname": "Smithies",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "University of North Carolina"
+  },
+  {
+    "year": "2006",
+    "name": "Andrew Z.",
+    "surname": "Fire",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1959",
+    "affiliation": "Stanford University School of Medicine"
+  },
+  {
+    "year": "2006",
+    "name": "Craig C.",
+    "surname": "Mello",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1960",
+    "affiliation": "University of Massachusetts Medical School"
+  },
+  {
+    "year": "2005",
+    "name": "Barry J.",
+    "surname": "Marshall",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1951",
+    "affiliation": "University of Western Australia"
+  },
+  {
+    "year": "2005",
+    "name": "J. Robin",
+    "surname": "Warren",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1937",
+    "affiliation": ""
+  },
+  {
+    "year": "2004",
+    "name": "Richard",
+    "surname": "Axel",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1946",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "2004",
+    "name": "Linda B.",
+    "surname": "Buck",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1947",
+    "affiliation": "Fred Hutchinson Cancer Research Center"
+  },
+  {
+    "year": "2003",
+    "name": "Paul C.",
+    "surname": "Lauterbur",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "University of Illinois"
+  },
+  {
+    "year": "2003",
+    "name": "Sir Peter",
+    "surname": "Mansfield",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1933",
+    "affiliation": "University of Nottingham, School of Physics and Astronomy"
+  },
+  {
+    "year": "2002",
+    "name": "Sydney",
+    "surname": "Brenner",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1927",
+    "affiliation": "The Molecular Sciences Institute"
+  },
+  {
+    "year": "2002",
+    "name": "H. Robert",
+    "surname": "Horvitz",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1947",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "2002",
+    "name": "John E.",
+    "surname": "Sulston",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "The Wellcome Trust Sanger Institute"
+  },
+  {
+    "year": "2001",
+    "name": "Leland H.",
+    "surname": "Hartwell",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1939",
+    "affiliation": "Fred Hutchinson Cancer Research Center"
+  },
+  {
+    "year": "2001",
+    "name": "Tim",
+    "surname": "Hunt",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1943",
+    "affiliation": "Imperial Cancer Research Fund"
+  },
+  {
+    "year": "2001",
+    "name": "Sir Paul",
+    "surname": "Nurse",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1949",
+    "affiliation": "Imperial Cancer Research Fund"
+  },
+  {
+    "year": "2000",
+    "name": "Arvid",
+    "surname": "Carlsson",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1923",
+    "affiliation": "Göteborg University"
+  },
+  {
+    "year": "2000",
+    "name": "Paul",
+    "surname": "Greengard",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "2000",
+    "name": "Eric R.",
+    "surname": "Kandel",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1999",
+    "name": "Günter",
+    "surname": "Blobel",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "1998",
+    "name": "Robert F.",
+    "surname": "Furchgott",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "SUNY Health Science Center"
+  },
+  {
+    "year": "1998",
+    "name": "Louis J.",
+    "surname": "Ignarro",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "University of California School of Medicine"
+  },
+  {
+    "year": "1998",
+    "name": "Ferid",
+    "surname": "Murad",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "University of Texas Medical School at Houston"
+  },
+  {
+    "year": "1997",
+    "name": "Stanley B.",
+    "surname": "Prusiner",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "University of California School of Medicine"
+  },
+  {
+    "year": "1996",
+    "name": "Peter C.",
+    "surname": "Doherty",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1940",
+    "affiliation": "St. Jude Children's Research Hospital"
+  },
+  {
+    "year": "1996",
+    "name": "Rolf M.",
+    "surname": "Zinkernagel",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "University of Zurich, Institute of Experimental Immunology"
+  },
+  {
+    "year": "1995",
+    "name": "Edward B.",
+    "surname": "Lewis",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1995",
+    "name": "Christiane",
+    "surname": "Nüsslein-Volhard",
+    "gender": "Female",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "Max-Planck-Institut für Entwicklungsbiologie"
+  },
+  {
+    "year": "1995",
+    "name": "Eric F.",
+    "surname": "Wieschaus",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1947",
+    "affiliation": "Princeton University"
+  },
+  {
+    "year": "1994",
+    "name": "Alfred G.",
+    "surname": "Gilman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "University of Texas Southwestern Medical Center at Dallas"
+  },
+  {
+    "year": "1994",
+    "name": "Martin",
+    "surname": "Rodbell",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "National Institute of Environmental Health Sciences"
+  },
+  {
+    "year": "1993",
+    "name": "Richard J.",
+    "surname": "Roberts",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1943",
+    "affiliation": "New England Biolabs"
+  },
+  {
+    "year": "1993",
+    "name": "Phillip A.",
+    "surname": "Sharp",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "Massachusetts Institute of Technology (MIT), Center for Cancer Research"
+  },
+  {
+    "year": "1992",
+    "name": "Edmond H.",
+    "surname": "Fischer",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "United States",
+    "born": "1920",
+    "affiliation": "University of Washington"
+  },
+  {
+    "year": "1992",
+    "name": "Edwin G.",
+    "surname": "Krebs",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "University of Washington"
+  },
+  {
+    "year": "1991",
+    "name": "Erwin",
+    "surname": "Neher",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1944",
+    "affiliation": "Max-Planck-Institut für Biophysikalische Chemie"
+  },
+  {
+    "year": "1991",
+    "name": "Bert",
+    "surname": "Sakmann",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1942",
+    "affiliation": "Max-Planck-Institut für medizinische Forschung"
+  },
+  {
+    "year": "1990",
+    "name": "Joseph E.",
+    "surname": "Murray",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1919",
+    "affiliation": "Brigham and Women's Hospital"
+  },
+  {
+    "year": "1990",
+    "name": "E. Donnall",
+    "surname": "Thomas",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1920",
+    "affiliation": "Fred Hutchinson Cancer Research Center"
+  },
+  {
+    "year": "1989",
+    "name": "J. Michael",
+    "surname": "Bishop",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1936",
+    "affiliation": "University of California School of Medicine"
+  },
+  {
+    "year": "1989",
+    "name": "Harold E.",
+    "surname": "Varmus",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1939",
+    "affiliation": "University of California School of Medicine"
+  },
+  {
+    "year": "1988",
+    "name": "Sir James W.",
+    "surname": "Black",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "London University, King's College Hospital Medical School"
+  },
+  {
+    "year": "1988",
+    "name": "Gertrude B.",
+    "surname": "Elion",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "Wellcome Research Laboratories"
+  },
+  {
+    "year": "1988",
+    "name": "George H.",
+    "surname": "Hitchings",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "Wellcome Research Laboratories"
+  },
+  {
+    "year": "1987",
+    "name": "Susumu",
+    "surname": "Tonegawa",
+    "gender": "Male",
+    "citizenship": "Japan",
+    "secondCitizenship": "",
+    "born": "1939",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1986",
+    "name": "Stanley",
+    "surname": "Cohen",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "Vanderbilt University School of Medicine"
+  },
+  {
+    "year": "1986",
+    "name": "Rita",
+    "surname": "Levi-Montalcini",
+    "gender": "Female",
+    "citizenship": "Italy",
+    "secondCitizenship": "United States",
+    "born": "1909",
+    "affiliation": "Institute of Cell Biology of the C.N.R"
+  },
+  {
+    "year": "1985",
+    "name": "Michael S.",
+    "surname": "Brown",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1941",
+    "affiliation": "University of Texas Southwestern Medical Center at Dallas"
+  },
+  {
+    "year": "1985",
+    "name": "Joseph L.",
+    "surname": "Goldstein",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1940",
+    "affiliation": "University of Texas Southwestern Medical Center at Dallas"
+  },
+  {
+    "year": "1984",
+    "name": "Niels K.",
+    "surname": "Jerne",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1911",
+    "affiliation": "Basel Institute for Immunology"
+  },
+  {
+    "year": "1984",
+    "name": "Georges J.F.",
+    "surname": "Köhler",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1946",
+    "affiliation": "Basel Institute for Immunology"
+  },
+  {
+    "year": "1984",
+    "name": "César",
+    "surname": "Milstein",
+    "gender": "Male",
+    "citizenship": "Argentina",
+    "secondCitizenship": "United Kingdom",
+    "born": "1927",
+    "affiliation": "MRC Laboratory of Molecular Biology"
+  },
+  {
+    "year": "1983",
+    "name": "Barbara",
+    "surname": "McClintock",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1902",
+    "affiliation": "Cold Spring Harbor Laboratory"
+  },
+  {
+    "year": "1982",
+    "name": "Sune K.",
+    "surname": "Bergström",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "Karolinska Institutet"
+  },
+  {
+    "year": "1982",
+    "name": "Bengt I.",
+    "surname": "Samuelsson",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1934",
+    "affiliation": "Karolinska Institutet"
+  },
+  {
+    "year": "1982",
+    "name": "John R.",
+    "surname": "Vane",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1927",
+    "affiliation": "The Wellcome Research Laboratories"
+  },
+  {
+    "year": "1981",
+    "name": "David H.",
+    "surname": "Hubel",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "Harvard Medical School"
+  },
+  {
+    "year": "1981",
+    "name": "Roger W.",
+    "surname": "Sperry",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1913",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1981",
+    "name": "Torsten N.",
+    "surname": "Wiesel",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "Harvard Medical School"
+  },
+  {
+    "year": "1980",
+    "name": "Baruj",
+    "surname": "Benacerraf",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1920",
+    "affiliation": "Harvard Medical School"
+  },
+  {
+    "year": "1980",
+    "name": "Jean",
+    "surname": "Dausset",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "Université de Paris, Laboratoire Immuno-Hématologie"
+  },
+  {
+    "year": "1980",
+    "name": "George D.",
+    "surname": "Snell",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "Jackson Laboratory"
+  },
+  {
+    "year": "1979",
+    "name": "Allan M.",
+    "surname": "Cormack",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "Tufts University"
+  },
+  {
+    "year": "1979",
+    "name": "Godfrey N.",
+    "surname": "Hounsfield",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1919",
+    "affiliation": "Central Research Laboratories, EMI"
+  },
+  {
+    "year": "1978",
+    "name": "Werner",
+    "surname": "Arber",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "Biozentrum der Universität"
+  },
+  {
+    "year": "1978",
+    "name": "Daniel",
+    "surname": "Nathans",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1928",
+    "affiliation": "Johns Hopkins University School of Medicine"
+  },
+  {
+    "year": "1978",
+    "name": "Hamilton O.",
+    "surname": "Smith",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1931",
+    "affiliation": "Johns Hopkins University School of Medicine"
+  },
+  {
+    "year": "1977",
+    "name": "Roger",
+    "surname": "Guillemin",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1924",
+    "affiliation": "The Salk Institute"
+  },
+  {
+    "year": "1977",
+    "name": "Andrew V.",
+    "surname": "Schally",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1926",
+    "affiliation": "Veterans Administration Hospital"
+  },
+  {
+    "year": "1977",
+    "name": "Rosalyn",
+    "surname": "Yalow",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1921",
+    "affiliation": "Veterans Administration Hospital"
+  },
+  {
+    "year": "1976",
+    "name": "Baruch S.",
+    "surname": "Blumberg",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "The Institute for Cancer Research"
+  },
+  {
+    "year": "1976",
+    "name": "D. Carleton",
+    "surname": "Gajdusek",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1923",
+    "affiliation": "National Institutes of Health"
+  },
+  {
+    "year": "1975",
+    "name": "David",
+    "surname": "Baltimore",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1938",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1975",
+    "name": "Renato",
+    "surname": "Dulbecco",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1914",
+    "affiliation": "Imperial Cancer Research Fund Laboratory"
+  },
+  {
+    "year": "1975",
+    "name": "Howard M.",
+    "surname": "Temin",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1934",
+    "affiliation": "University of Wisconsin"
+  },
+  {
+    "year": "1974",
+    "name": "Albert",
+    "surname": "Claude",
+    "gender": "Male",
+    "citizenship": "Belgium",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Université Catholique de Louvain"
+  },
+  {
+    "year": "1974",
+    "name": "Christian",
+    "surname": "de Duve",
+    "gender": "Male",
+    "citizenship": "Belgium",
+    "secondCitizenship": "",
+    "born": "1917",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "1974",
+    "name": "George E.",
+    "surname": "Palade",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1912",
+    "affiliation": "Yale University, School of Medicine"
+  },
+  {
+    "year": "1973",
+    "name": "Konrad",
+    "surname": "Lorenz",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "österreichische Akademie der Wissenschaften, Institut für vergleichende Verhaltensforschung"
+  },
+  {
+    "year": "1973",
+    "name": "Nikolaas",
+    "surname": "Tinbergen",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1907",
+    "affiliation": "University of Oxford"
+  },
+  {
+    "year": "1973",
+    "name": "Karl Ritter",
+    "surname": "von Frisch",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "Germany",
+    "born": "1886",
+    "affiliation": "Zoologisches Institut der Universität München"
+  },
+  {
+    "year": "1972",
+    "name": "Gerald M.",
+    "surname": "Edelman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1929",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "1972",
+    "name": "Rodney R.",
+    "surname": "Porter",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1917",
+    "affiliation": "University of Oxford"
+  },
+  {
+    "year": "1971",
+    "name": "Earl W.",
+    "surname": "Sutherland, Jr.",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "Vanderbilt University"
+  },
+  {
+    "year": "1970",
+    "name": "Julius",
+    "surname": "Axelrod",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1912",
+    "affiliation": "National Institutes of Health"
+  },
+  {
+    "year": "1970",
+    "name": "Sir Bernard",
+    "surname": "Katz",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1911",
+    "affiliation": "University College"
+  },
+  {
+    "year": "1970",
+    "name": "Ulf",
+    "surname": "von Euler",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "Karolinska Institutet"
+  },
+  {
+    "year": "1969",
+    "name": "Max",
+    "surname": "Delbrück",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1969",
+    "name": "Alfred D.",
+    "surname": "Hershey",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1908",
+    "affiliation": "Carnegie Institution of Washington"
+  },
+  {
+    "year": "1969",
+    "name": "Salvador E.",
+    "surname": "Luria",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1912",
+    "affiliation": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "year": "1968",
+    "name": "Robert W.",
+    "surname": "Holley",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "Cornell University"
+  },
+  {
+    "year": "1968",
+    "name": "H. Gobind",
+    "surname": "Khorana",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1922",
+    "affiliation": "University of Wisconsin"
+  },
+  {
+    "year": "1968",
+    "name": "Marshall W.",
+    "surname": "Nirenberg",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1927",
+    "affiliation": "National Institutes of Health"
+  },
+  {
+    "year": "1967",
+    "name": "Ragnar",
+    "surname": "Granit",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1900",
+    "affiliation": "Karolinska Institutet"
+  },
+  {
+    "year": "1967",
+    "name": "Haldan K.",
+    "surname": "Hartline",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "1967",
+    "name": "George",
+    "surname": "Wald",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1966",
+    "name": "Charles B.",
+    "surname": "Huggins",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1901",
+    "affiliation": "University of Chicago, Ben May Laboratory for Cancer Research"
+  },
+  {
+    "year": "1966",
+    "name": "Peyton",
+    "surname": "Rous",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1879",
+    "affiliation": "Rockefeller University"
+  },
+  {
+    "year": "1965",
+    "name": "François",
+    "surname": "Jacob",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1920",
+    "affiliation": "Institut Pasteur"
+  },
+  {
+    "year": "1965",
+    "name": "André",
+    "surname": "Lwoff",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1902",
+    "affiliation": "Institut Pasteur"
+  },
+  {
+    "year": "1965",
+    "name": "Jacques",
+    "surname": "Monod",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1910",
+    "affiliation": "Institut Pasteur"
+  },
+  {
+    "year": "1964",
+    "name": "Konrad",
+    "surname": "Bloch",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1912",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1964",
+    "name": "Feodor",
+    "surname": "Lynen",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1911",
+    "affiliation": "Max-Planck-Institut für Zellchemie"
+  },
+  {
+    "year": "1963",
+    "name": "Sir John",
+    "surname": "Eccles",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "Australian National University"
+  },
+  {
+    "year": "1963",
+    "name": "Alan L.",
+    "surname": "Hodgkin",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1914",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1963",
+    "name": "Andrew F.",
+    "surname": "Huxley",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1917",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1962",
+    "name": "Francis",
+    "surname": "Crick",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "MRC Laboratory of Molecular Biology"
+  },
+  {
+    "year": "1962",
+    "name": "James",
+    "surname": "Watson",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1928",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1962",
+    "name": "Maurice",
+    "surname": "Wilkins",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "New Zealand",
+    "born": "1916",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1961",
+    "name": "Georg",
+    "surname": "von Békésy",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1960",
+    "name": "Sir Frank Macfarlane",
+    "surname": "Burnet",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Walter and Eliza Hall Institute for Medical Research"
+  },
+  {
+    "year": "1960",
+    "name": "Peter",
+    "surname": "Medawar",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "University College"
+  },
+  {
+    "year": "1959",
+    "name": "Arthur",
+    "surname": "Kornberg",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1918",
+    "affiliation": "Stanford University"
+  },
+  {
+    "year": "1959",
+    "name": "Severo",
+    "surname": "Ochoa",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1905",
+    "affiliation": "New York University, College of Medicine"
+  },
+  {
+    "year": "1958",
+    "name": "George",
+    "surname": "Beadle",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1958",
+    "name": "Joshua",
+    "surname": "Lederberg",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1925",
+    "affiliation": "University of Wisconsin"
+  },
+  {
+    "year": "1958",
+    "name": "Edward",
+    "surname": "Tatum",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1909",
+    "affiliation": "Rockefeller Institute for Medical Research"
+  },
+  {
+    "year": "1957",
+    "name": "Daniel",
+    "surname": "Bovet",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1907",
+    "affiliation": "Istituto Superiore di Sanità (Chief Institute of Public Health)"
+  },
+  {
+    "year": "1956",
+    "name": "André F.",
+    "surname": "Cournand",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1895",
+    "affiliation": "Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital"
+  },
+  {
+    "year": "1956",
+    "name": "Werner",
+    "surname": "Forssmann",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1904",
+    "affiliation": "Mainz University"
+  },
+  {
+    "year": "1956",
+    "name": "Dickinson W.",
+    "surname": "Richards",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1895",
+    "affiliation": "Columbia University"
+  },
+  {
+    "year": "1955",
+    "name": "Hugo",
+    "surname": "Theorell",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1903",
+    "affiliation": "Nobel Medical Institute"
+  },
+  {
+    "year": "1954",
+    "name": "John F.",
+    "surname": "Enders",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1897",
+    "affiliation": "Harvard Medical School"
+  },
+  {
+    "year": "1954",
+    "name": "Frederick C.",
+    "surname": "Robbins",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1916",
+    "affiliation": "Western Reserve University"
+  },
+  {
+    "year": "1954",
+    "name": "Thomas H.",
+    "surname": "Weller",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1915",
+    "affiliation": "Research Division of Infectious Diseases, Children's Medical Center"
+  },
+  {
+    "year": "1953",
+    "name": "Hans",
+    "surname": "Krebs",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1900",
+    "affiliation": "Sheffield University"
+  },
+  {
+    "year": "1953",
+    "name": "Fritz",
+    "surname": "Lipmann",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Massachusetts General Hospital"
+  },
+  {
+    "year": "1952",
+    "name": "Selman A.",
+    "surname": "Waksman",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1888",
+    "affiliation": "Rutgers University"
+  },
+  {
+    "year": "1951",
+    "name": "Max",
+    "surname": "Theiler",
+    "gender": "Male",
+    "citizenship": "South Africa",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Laboratories of the Division of Physiology or Medicine and Public Health, Rockefeller Foundation"
+  },
+  {
+    "year": "1950",
+    "name": "Philip S.",
+    "surname": "Hench",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1896",
+    "affiliation": "Mayo Clinic"
+  },
+  {
+    "year": "1950",
+    "name": "Edward C.",
+    "surname": "Kendall",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1886",
+    "affiliation": "Mayo Clinic"
+  },
+  {
+    "year": "1950",
+    "name": "Tadeus",
+    "surname": "Reichstein",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1897",
+    "affiliation": "Basel University"
+  },
+  {
+    "year": "1949",
+    "name": "Walter",
+    "surname": "Hess",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1881",
+    "affiliation": "University of Zurich"
+  },
+  {
+    "year": "1949",
+    "name": "Egas",
+    "surname": "Moniz",
+    "gender": "Male",
+    "citizenship": "Portugal",
+    "secondCitizenship": "",
+    "born": "1874",
+    "affiliation": "University of Lisbon"
+  },
+  {
+    "year": "1948",
+    "name": "Paul",
+    "surname": "Müller",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1899",
+    "affiliation": "Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.)"
+  },
+  {
+    "year": "1947",
+    "name": "Gerty",
+    "surname": "Cori",
+    "gender": "Female",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1896",
+    "affiliation": "Washington University"
+  },
+  {
+    "year": "1947",
+    "name": "Carl",
+    "surname": "Cori",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1896",
+    "affiliation": "Washington University"
+  },
+  {
+    "year": "1947",
+    "name": "Bernardo",
+    "surname": "Houssay",
+    "gender": "Male",
+    "citizenship": "Argentina",
+    "secondCitizenship": "",
+    "born": "1887",
+    "affiliation": "Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine)"
+  },
+  {
+    "year": "1946",
+    "name": "Hermann J.",
+    "surname": "Muller",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1890",
+    "affiliation": "Indiana University"
+  },
+  {
+    "year": "1945",
+    "name": "Ernst B.",
+    "surname": "Chain",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1906",
+    "affiliation": "University of Oxford"
+  },
+  {
+    "year": "1945",
+    "name": "Sir Alexander",
+    "surname": "Fleming",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1881",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1945",
+    "name": "Sir Howard",
+    "surname": "Florey",
+    "gender": "Male",
+    "citizenship": "Australia",
+    "secondCitizenship": "",
+    "born": "1898",
+    "affiliation": "University of Oxford"
+  },
+  {
+    "year": "1944",
+    "name": "Joseph",
+    "surname": "Erlanger",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1874",
+    "affiliation": "Washington University"
+  },
+  {
+    "year": "1944",
+    "name": "Herbert S.",
+    "surname": "Gasser",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1888",
+    "affiliation": "Rockefeller Institute for Medical Research"
+  },
+  {
+    "year": "1943",
+    "name": "Henrik",
+    "surname": "Dam",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1895",
+    "affiliation": "Polytechnic Institute"
+  },
+  {
+    "year": "1943",
+    "name": "Edward A.",
+    "surname": "Doisy",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1893",
+    "affiliation": "Saint Louis University"
+  },
+  {
+    "year": "1939",
+    "name": "Gerhard",
+    "surname": "Domagk",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1895",
+    "affiliation": "Munster University"
+  },
+  {
+    "year": "1938",
+    "name": "Corneille",
+    "surname": "Heymans",
+    "gender": "Male",
+    "citizenship": "Belgium",
+    "secondCitizenship": "",
+    "born": "1892",
+    "affiliation": "Ghent University"
+  },
+  {
+    "year": "1937",
+    "name": "Albert",
+    "surname": "Szent-Györgyi",
+    "gender": "Male",
+    "citizenship": "Hungary",
+    "secondCitizenship": "",
+    "born": "1893",
+    "affiliation": "Szeged University"
+  },
+  {
+    "year": "1936",
+    "name": "Sir Henry",
+    "surname": "Dale",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1875",
+    "affiliation": "National Institute for Medical Research"
+  },
+  {
+    "year": "1936",
+    "name": "Otto",
+    "surname": "Loewi",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1873",
+    "affiliation": "Graz University"
+  },
+  {
+    "year": "1935",
+    "name": "Hans",
+    "surname": "Spemann",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1869",
+    "affiliation": "University of Freiburg im Breisgau"
+  },
+  {
+    "year": "1934",
+    "name": "George R.",
+    "surname": "Minot",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1885",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1934",
+    "name": "William P.",
+    "surname": "Murphy",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1892",
+    "affiliation": "Harvard University"
+  },
+  {
+    "year": "1934",
+    "name": "George H.",
+    "surname": "Whipple",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1878",
+    "affiliation": "Rochester University"
+  },
+  {
+    "year": "1933",
+    "name": "Thomas H.",
+    "surname": "Morgan",
+    "gender": "Male",
+    "citizenship": "United States",
+    "secondCitizenship": "",
+    "born": "1866",
+    "affiliation": "California Institute of Technology (Caltech)"
+  },
+  {
+    "year": "1932",
+    "name": "Edgar",
+    "surname": "Adrian",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1889",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1932",
+    "name": "Sir Charles",
+    "surname": "Sherrington",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1857",
+    "affiliation": "University of Oxford"
+  },
+  {
+    "year": "1931",
+    "name": "Otto",
+    "surname": "Warburg",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1883",
+    "affiliation": "Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie"
+  },
+  {
+    "year": "1930",
+    "name": "Karl",
+    "surname": "Landsteiner",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1868",
+    "affiliation": "Rockefeller Institute for Medical Research"
+  },
+  {
+    "year": "1929",
+    "name": "Christiaan",
+    "surname": "Eijkman",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1858",
+    "affiliation": "Utrecht University"
+  },
+  {
+    "year": "1929",
+    "name": "Sir Frederick",
+    "surname": "Hopkins",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1861",
+    "affiliation": "University of Cambridge"
+  },
+  {
+    "year": "1928",
+    "name": "Charles",
+    "surname": "Nicolle",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1866",
+    "affiliation": ""
+  },
+  {
+    "year": "1927",
+    "name": "Julius",
+    "surname": "Wagner-Jauregg",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1857",
+    "affiliation": "Vienna University"
+  },
+  {
+    "year": "1926",
+    "name": "Johannes",
+    "surname": "Fibiger",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1867",
+    "affiliation": "Copenhagen University"
+  },
+  {
+    "year": "1924",
+    "name": "Willem",
+    "surname": "Einthoven",
+    "gender": "Male",
+    "citizenship": "Netherlands",
+    "secondCitizenship": "",
+    "born": "1860",
+    "affiliation": "Leiden University"
+  },
+  {
+    "year": "1923",
+    "name": "Frederick G.",
+    "surname": "Banting",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1891",
+    "affiliation": "University of Toronto"
+  },
+  {
+    "year": "1923",
+    "name": "John",
+    "surname": "Macleod",
+    "gender": "Male",
+    "citizenship": "Canada",
+    "secondCitizenship": "",
+    "born": "1876",
+    "affiliation": "University of Toronto"
+  },
+  {
+    "year": "1922",
+    "name": "Archibald V.",
+    "surname": "Hill",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1886",
+    "affiliation": "London University"
+  },
+  {
+    "year": "1922",
+    "name": "Otto",
+    "surname": "Meyerhof",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1884",
+    "affiliation": "Kiel University"
+  },
+  {
+    "year": "1920",
+    "name": "August",
+    "surname": "Krogh",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1874",
+    "affiliation": "Copenhagen University"
+  },
+  {
+    "year": "1919",
+    "name": "Jules",
+    "surname": "Bordet",
+    "gender": "Male",
+    "citizenship": "Belgium",
+    "secondCitizenship": "",
+    "born": "1870",
+    "affiliation": "Brussels University"
+  },
+  {
+    "year": "1914",
+    "name": "Robert",
+    "surname": "Bárány",
+    "gender": "Male",
+    "citizenship": "Austria",
+    "secondCitizenship": "",
+    "born": "1876",
+    "affiliation": "Vienna University"
+  },
+  {
+    "year": "1913",
+    "name": "Charles",
+    "surname": "Richet",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1850",
+    "affiliation": "Sorbonne University"
+  },
+  {
+    "year": "1912",
+    "name": "Alexis",
+    "surname": "Carrel",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1873",
+    "affiliation": "Rockefeller Institute for Medical Research"
+  },
+  {
+    "year": "1911",
+    "name": "Allvar",
+    "surname": "Gullstrand",
+    "gender": "Male",
+    "citizenship": "Sweden",
+    "secondCitizenship": "",
+    "born": "1862",
+    "affiliation": "Uppsala University"
+  },
+  {
+    "year": "1910",
+    "name": "Albrecht",
+    "surname": "Kossel",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1853",
+    "affiliation": "University of Heidelberg"
+  },
+  {
+    "year": "1909",
+    "name": "Theodor",
+    "surname": "Kocher",
+    "gender": "Male",
+    "citizenship": "Switzerland",
+    "secondCitizenship": "",
+    "born": "1841",
+    "affiliation": "Berne University"
+  },
+  {
+    "year": "1908",
+    "name": "Paul",
+    "surname": "Ehrlich",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1854",
+    "affiliation": "Königliches Institut für experimentelle Therapie"
+  },
+  {
+    "year": "1908",
+    "name": "Ilya",
+    "surname": "Mechnikov",
+    "gender": "Male",
+    "citizenship": "Russia",
+    "secondCitizenship": "",
+    "born": "1845",
+    "affiliation": "Institut Pasteur"
+  },
+  {
+    "year": "1907",
+    "name": "Alphonse",
+    "surname": "Laveran",
+    "gender": "Male",
+    "citizenship": "France",
+    "secondCitizenship": "",
+    "born": "1845",
+    "affiliation": "Institut Pasteur"
+  },
+  {
+    "year": "1906",
+    "name": "Camillo",
+    "surname": "Golgi",
+    "gender": "Male",
+    "citizenship": "Italy",
+    "secondCitizenship": "",
+    "born": "1843",
+    "affiliation": "Pavia University"
+  },
+  {
+    "year": "1906",
+    "name": "Santiago",
+    "surname": "Ramón y Cajal",
+    "gender": "Male",
+    "citizenship": "Spain",
+    "secondCitizenship": "",
+    "born": "1852",
+    "affiliation": "Madrid University"
+  },
+  {
+    "year": "1905",
+    "name": "Robert",
+    "surname": "Koch",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1843",
+    "affiliation": "Institute for Infectious Diseases"
+  },
+  {
+    "year": "1904",
+    "name": "Ivan",
+    "surname": "Pavlov",
+    "gender": "Male",
+    "citizenship": "Russia",
+    "secondCitizenship": "",
+    "born": "1849",
+    "affiliation": "Military Medical Academy"
+  },
+  {
+    "year": "1903",
+    "name": "Niels Ryberg",
+    "surname": "Finsen",
+    "gender": "Male",
+    "citizenship": "Denmark",
+    "secondCitizenship": "",
+    "born": "1860",
+    "affiliation": "Finsen Medical Light Institute"
+  },
+  {
+    "year": "1902",
+    "name": "Ronald",
+    "surname": "Ross",
+    "gender": "Male",
+    "citizenship": "United Kingdom",
+    "secondCitizenship": "",
+    "born": "1857",
+    "affiliation": "University College"
+  },
+  {
+    "year": "1901",
+    "name": "Emil",
+    "surname": "von Behring",
+    "gender": "Male",
+    "citizenship": "Germany",
+    "secondCitizenship": "",
+    "born": "1854",
+    "affiliation": "Marburg University"
+  }
+]
