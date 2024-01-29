@@ -37,7 +37,8 @@ const Page34 = () => {
       </section>
       <section id='barcellona-vs-madrid' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Percentage of population increase compared to 2013-Q3 by country
+          Percentage government gross debt increase compared to 2013-Q3 by
+          country
         </h3>
         <div className='mb-[20px] flex h-[640px] w-full justify-center max-md:h-[500px] max-xl:h-[640px]'>
           <ChartJSBar
