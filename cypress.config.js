@@ -10,7 +10,6 @@ module.exports = defineConfig({
   viewportWidth: 1366,
   viewportHeight: 800,
   video: true,
-  videoCompression: true,
   videosFolder: './public/videos',
   e2e: {
     setupNodeEvents(on, config) {},

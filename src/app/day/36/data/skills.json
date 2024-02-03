@@ -1,0 +1,142 @@
+[
+  {
+    "skill_abr": "PRCH",
+    "skill_name": "Purchasing"
+  },
+  {
+    "skill_abr": "SUPL",
+    "skill_name": "Supply Chain"
+  },
+  {
+    "skill_abr": "PR",
+    "skill_name": "Public Relations"
+  },
+  {
+    "skill_abr": "SCI",
+    "skill_name": "Science"
+  },
+  {
+    "skill_abr": "STRA",
+    "skill_name": "Strategy/Planning"
+  },
+  {
+    "skill_abr": "WRT",
+    "skill_name": "Writing/Editing"
+  },
+  {
+    "skill_abr": "QA",
+    "skill_name": "Quality Assurance"
+  },
+  {
+    "skill_abr": "DIST",
+    "skill_name": "Distribution"
+  },
+  {
+    "skill_abr": "PROD",
+    "skill_name": "Production"
+  },
+  {
+    "skill_abr": "PRJM",
+    "skill_name": "Project Management"
+  },
+  {
+    "skill_abr": "ADVR",
+    "skill_name": "Advertising"
+  },
+  {
+    "skill_abr": "RSCH",
+    "skill_name": "Research"
+  },
+  {
+    "skill_abr": "HR",
+    "skill_name": "Human Resources"
+  },
+  {
+    "skill_abr": "LGL",
+    "skill_name": "Legal"
+  },
+  {
+    "skill_abr": "PRDM",
+    "skill_name": "Product Management"
+  },
+  {
+    "skill_abr": "MRKT",
+    "skill_name": "Marketing"
+  },
+  {
+    "skill_abr": "EDU",
+    "skill_name": "Education"
+  },
+  {
+    "skill_abr": "TRNG",
+    "skill_name": "Training"
+  },
+  {
+    "skill_abr": "ANLS",
+    "skill_name": "Analyst"
+  },
+  {
+    "skill_abr": "FIN",
+    "skill_name": "Finance"
+  },
+  {
+    "skill_abr": "SALE",
+    "skill_name": "Sales"
+  },
+  {
+    "skill_abr": "BD",
+    "skill_name": "Business Development"
+  },
+  {
+    "skill_abr": "MGMT",
+    "skill_name": "Management"
+  },
+  {
+    "skill_abr": "MNFC",
+    "skill_name": "Manufacturing"
+  },
+  {
+    "skill_abr": "GENB",
+    "skill_name": "General Business"
+  },
+  {
+    "skill_abr": "CUST",
+    "skill_name": "Customer Service"
+  },
+  {
+    "skill_abr": "ENG",
+    "skill_name": "Engineering"
+  },
+  {
+    "skill_abr": "OTHR",
+    "skill_name": "Other"
+  },
+  {
+    "skill_abr": "CNSL",
+    "skill_name": "Consulting"
+  },
+  {
+    "skill_abr": "ACCT",
+    "skill_name": "Accounting/Auditing"
+  },
+  {
+    "skill_abr": "HCPR",
+    "skill_name": "Health Care Provider"
+  },
+  {
+    "skill_abr": "DSGN",
+    "skill_name": "Design"
+  },
+  {
+    "skill_abr": "ART",
+    "skill_name": "Art/Creative"
+  },
+  {
+    "skill_abr": "IT",
+    "skill_name": "Information Technology"
+  },
+  {
+    "skill_abr": "ADM",
+    "skill_name": "Administrative"
+  }
+]
