@@ -2,15 +2,12 @@
 
 import { ResponsiveChoropleth } from '@nivo/geo';
 
-import countries from '../../../utils/geojson/countries.json';
+import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
-const NivoChoropleth = ({
-  data,
-  colors,
-  valueFormat,
-  domain = [0, 100],
-  unknownColor = '#666666',
-}) => {
+import countries from '../../../../utils/geojson/bologna.json';
+
+const NivoBolognaChoropleth = ({ data, colors, valueFormat, domain }) => {
+  const { isSmallScreen } = useScreenDetect();
   return (
     <ResponsiveChoropleth
       data={data}
@@ -18,22 +15,22 @@ const NivoChoropleth = ({
       margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
       colors={colors}
       domain={domain}
-      unknownColor={unknownColor}
-      label='properties.name'
+      unknownColor='#666666'
+      label='id'
       valueFormat={valueFormat}
-      projectionTranslation={[0.5, 0.5]}
+      projectionScale={63100}
+      projectionTranslation={isSmallScreen ? [-20, 106.5] : [-9.2, 137.5]}
       projectionRotation={[0, 0, 0]}
-      enableGraticule={true}
-      graticuleLineColor='#dddddd'
+      enableGraticule={false}
       borderWidth={0.5}
       borderColor='#152538'
       legends={[
         {
-          anchor: 'bottom-left',
+          anchor: isSmallScreen ? 'top' : 'bottom-left',
           direction: 'column',
           justify: true,
-          translateX: 20,
-          translateY: -100,
+          translateX: isSmallScreen ? 0 : 20,
+          translateY: isSmallScreen ? 0 : -100,
           itemsSpacing: 0,
           itemWidth: 94,
           itemHeight: 18,
@@ -56,4 +53,4 @@ const NivoChoropleth = ({
   );
 };
 
-export default NivoChoropleth;
+export default NivoBolognaChoropleth;

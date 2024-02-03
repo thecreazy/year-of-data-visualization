@@ -6,7 +6,7 @@ import Select from 'react-select';
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
-import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
+import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth/Choropleth';
 import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
 
 import { infos } from './config';

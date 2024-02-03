@@ -1,7 +1,7 @@
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
-import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
+import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth/Choropleth';
 import NivoLine from '@internal/components/Charts/Nivo/Line';
 import NivoPie from '@internal/components/Charts/Nivo/Pie';
 

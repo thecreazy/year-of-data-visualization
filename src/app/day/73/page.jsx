@@ -2,7 +2,7 @@ import dayjs from 'dayjs';
 
 import './page.css';
 
-import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth';
+import NivoChoropleth from '@internal/components/Charts/Nivo/Choropleth/Choropleth';
 import NivoGeoMap from '@internal/components/Charts/Nivo/GeoMap';
 import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
 

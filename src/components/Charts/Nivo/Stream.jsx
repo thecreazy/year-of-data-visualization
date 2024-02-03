@@ -13,6 +13,8 @@ const NivoStream = ({
   legend = [],
   valueFormat,
   indexBy = 'id',
+  offsetType = 'expand',
+  axisBottomTickRotation = '45',
 }) => {
   const { isSmallScreen } = useScreenDetect();
   let formatFunction = null;
@@ -31,7 +33,9 @@ const NivoStream = ({
         orient: 'bottom',
         tickSize: isSmallScreen ? 1 : 5,
         tickPadding: 5,
-        tickRotation: isSmallScreen ? 45 : 45,
+        tickRotation: isSmallScreen
+          ? axisBottomTickRotation
+          : axisBottomTickRotation,
         legend: '',
         legendOffset: 36,
         format: (val) => {
@@ -54,7 +58,7 @@ const NivoStream = ({
       }}
       enableGridX={true}
       enableGridY={false}
-      offsetType='expand'
+      offsetType={offsetType}
       colors={colors}
       fillOpacity={0.85}
       borderColor={{ theme: 'background' }}

@@ -1,7 +1,7 @@
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
-import NivoItalyChoropleth from '@internal/components/Charts/Nivo/ItalianChrorepleth';
+import NivoItalyChoropleth from '@internal/components/Charts/Nivo/Choropleth/ItalianChrorepleth';
 import ReactChartsLine from '@internal/components/Charts/ReactCharts/Line';
 import Legend from '@internal/components/Legend/Legend';
 
