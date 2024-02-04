@@ -33,6 +33,11 @@ const NivoPie = ({
   showTotal = false,
   colors,
   arcLabelsTextColor,
+  borderWidth = 1,
+  borderColor = {
+    from: 'color',
+    modifiers: [['darker', 0.2]],
+  },
 }) => {
   const { isSmallScreen } = useScreenDetect();
   return (
@@ -44,11 +49,8 @@ const NivoPie = ({
       cornerRadius={3}
       activeInnerRadiusOffset={3}
       activeOuterRadiusOffset={8}
-      borderWidth={1}
-      borderColor={{
-        from: 'color',
-        modifiers: [['darker', 0.2]],
-      }}
+      borderWidth={borderWidth}
+      borderColor={borderColor}
       arcLinkLabelsSkipAngle={13}
       arcLinkLabelsTextColor='#333333'
       arcLinkLabelsThickness={2}

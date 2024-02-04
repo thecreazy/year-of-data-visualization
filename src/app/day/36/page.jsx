@@ -82,7 +82,7 @@ const Page36 = () => {
           </div>
         </div>
       </section>
-      <section id='split' className='mt-2'>
+      <section id='split-remote' className='mt-2'>
         <div className='flex flex-row flex-wrap max-md:h-fit max-md:py-4 justify-center'>
           <div className='stats-radar basis-full h-[400px]'>
             <p className='text-center font-bold mb-4 mt-20'>Remote frendly</p>

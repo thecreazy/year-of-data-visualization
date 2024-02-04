@@ -3,7 +3,6 @@ import dynamic from 'next/dynamic';
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
-import NivoBolognaChoropleth from '@internal/components/Charts/Nivo/Choropleth/Bologna';
 import NivoLine from '@internal/components/Charts/Nivo/Line';
 import NivoStream from '@internal/components/Charts/Nivo/Stream';
 
