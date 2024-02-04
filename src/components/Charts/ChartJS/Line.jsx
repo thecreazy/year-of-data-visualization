@@ -13,6 +13,8 @@ import {
 import { useEffect, useState } from 'react';
 import { Line } from 'react-chartjs-2';
 
+import { getRaceAnimation } from './utils/raceAnimation';
+
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -28,11 +30,15 @@ const ChartJSLine = ({
   data,
   legend = false,
   noAspectRation = false,
+  animation,
+  animationDuration = 300,
 }) => {
   const [updated, setUpdate] = useState(false);
+
   useEffect(() => {
     setUpdate(true);
   }, []);
+
   const dataSet = {
     labels,
     datasets: data,
@@ -53,6 +59,10 @@ const ChartJSLine = ({
   if (noAspectRation) {
     options.maintainAspectRatio = false;
     options.aspectRatio = 0;
+  }
+
+  if (animation === 'race') {
+    options.animation = getRaceAnimation(animationDuration, data.length);
   }
 
   return <Line options={options} data={dataSet} redraw={updated} />;
