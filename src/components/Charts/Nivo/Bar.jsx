@@ -29,6 +29,8 @@ const NivoBar = ({
   },
   xtickRotation = 0,
   enableLabel = true,
+  borderColor,
+  borderWidth,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
@@ -81,10 +83,13 @@ const NivoBar = ({
     formatY = (value) => `${value}$`;
   }
 
+  const layers = ['grid', 'axes', 'bars', 'markers', 'legends', 'annotations'];
+
   return (
     <ResponsiveBar
       data={data}
       valueFormat={formatY}
+      layers={layers}
       keys={keys}
       indexBy={indexBy}
       margin={isSmallScreen ? mobileMargin : margin}
@@ -93,10 +98,15 @@ const NivoBar = ({
       layout={isSmallScreen ? mobileLayout : layout}
       valueScale={valueScale}
       colors={colors}
-      borderColor={{
-        from: 'color',
-        modifiers: [['darker', 1.6]],
-      }}
+      borderColor={
+        borderColor
+          ? borderColor
+          : {
+              from: 'color',
+              modifiers: [['darker', 1.6]],
+            }
+      }
+      borderWidth={borderWidth || null}
       axisTop={xAxis ? xAxisDetail : null}
       axisRight={null}
       axisBottom={xAxisDetail}
