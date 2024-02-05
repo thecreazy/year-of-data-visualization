@@ -136,13 +136,13 @@ export const lastYearDataByRegion = [
     value: Number(infoData.piemonte['23'][0]),
   },
   {
-    id: `Valle d'Aosta/Vallée d'Aoste`,
+    id: `Valle d'Aosta`,
     value: Number(infoData.valleDaosta['23'][0]),
   },
   { id: 'Liguria', value: Number(infoData.liguria['23'][0]) },
   { id: 'Lombardia', value: Number(infoData.lombardia['23'][0]) },
   {
-    id: 'Trentino-Alto Adige/Südtirol',
+    id: 'Trentino-Alto Adige',
     value: Number(infoData.trentino['23'][0]),
   },
   { id: 'Veneto', value: Number(infoData.veneto['23'][0]) },
@@ -169,7 +169,7 @@ export const lastYearComparisonDataByRegion = [
     1999: Number(infoData.piemonte['0'][0]),
   },
   {
-    id: `Valle d'Aosta/Vallée d'Aoste`,
+    id: `Valle d'Aosta`,
     2022: Number(infoData.valleDaosta['23'][0]),
     1999: Number(infoData.valleDaosta['0'][0]),
   },
@@ -185,7 +185,7 @@ export const lastYearComparisonDataByRegion = [
   },
 
   {
-    id: 'Trentino-Alto Adige/Südtirol',
+    id: 'Trentino-Alto Adige',
     2022: Number(infoData.trentino['23'][0]),
     1999: Number(infoData.trentino['0'][0]),
   },

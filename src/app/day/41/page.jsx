@@ -227,7 +227,7 @@ const Page41 = () => {
         </div>
       </section>
       <p className='text-center text-xs'>
-        All data are updated at 01/2024 and taken from{' '}
+        All data are updated at 02/2024 and taken from{' '}
         <a
           className='text-[#014f86] font-bold'
           href='https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset'

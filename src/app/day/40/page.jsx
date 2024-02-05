@@ -80,7 +80,7 @@ const Page40 = () => {
         </div>
       </section>
       <p className='text-center text-xs'>
-        All data are updated at 01/2024 and taken from{' '}
+        All data are updated at 02/2024 and taken from{' '}
         <a
           className='text-[#008C45] font-bold'
           href='https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=156,132,134,136,158,112,111&s=LUR,LE,LP,&sy=2010&ey=2023&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1'
