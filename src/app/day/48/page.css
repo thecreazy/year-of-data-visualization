@@ -1,0 +1,23 @@
+:root {
+  --main-text-color: #012169;
+  --title-text-color: #009739;
+  --middle-text-color: #fedd00;
+  --bg-color: #ffffff;
+}
+#data-48 {
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-48 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-48 .li-title,
+#data-48 .page-title {
+  color: var(--title-text-color);
+}
+
+#data-48 .middle-title {
+  color: var(--middle-text-color);
+}

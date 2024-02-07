@@ -3,14 +3,6 @@ import './notfound.css';
 export default function NotFound() {
   return (
     <>
-      <a
-        href='https://codepen.io/ZonFire99/full/njdls/'
-        class='viewFull'
-        target='_parent'
-      >
-        View in full it looks way better :)
-      </a>
-
       <div class='error'>
         <div class='wrap'>
           <div class='404'>
