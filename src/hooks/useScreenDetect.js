@@ -19,5 +19,6 @@ export const useScreenDetect = () => {
   }, []);
   return {
     isSmallScreen: width <= 650,
+    isMediumScreen: width > 650 && width <= 820,
   };
 };
