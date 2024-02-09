@@ -15,6 +15,8 @@ const NivoScatterPlot = ({
   legends,
   colors,
   showSerieId = false,
+  xFormat,
+  yFormat,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   return (
@@ -28,6 +30,8 @@ const NivoScatterPlot = ({
       axisBottom={axisBottom}
       axisLeft={axisLeft}
       legends={legends}
+      xFormat={xFormat}
+      yFormat={yFormat}
       tooltip={({ node }) => (
         <div
           style={{
@@ -38,7 +42,9 @@ const NivoScatterPlot = ({
           }}
         >
           <strong>{showSerieId ? `${node.serieId}:` : node.id}</strong>
+          <br />
           {` ${axisBottom.legend}:`} <strong>{node.formattedX}</strong>
+          <br />
           {` ${axisLeft.legend}:`} <strong>{node.formattedY}</strong>
         </div>
       )}
