@@ -14,6 +14,7 @@ const NivoScatterPlot = ({
   margin,
   legends,
   colors,
+  showSerieId = false,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   return (
@@ -36,9 +37,9 @@ const NivoScatterPlot = ({
             boxShadow: '2px 2px 5px #958e8e',
           }}
         >
-          <strong>{node.id}</strong>
-          {` ${axisBottom.legend}: ${node.formattedX}`}
-          {` ${axisLeft.legend}: ${node.formattedY}`}
+          <strong>{showSerieId ? `${node.serieId}:` : node.id}</strong>
+          {` ${axisBottom.legend}:`} <strong>{node.formattedX}</strong>
+          {` ${axisLeft.legend}:`} <strong>{node.formattedY}</strong>
         </div>
       )}
     />
