@@ -2,7 +2,6 @@ import dynamic from 'next/dynamic';
 
 import './page.css';
 
-import AntdTable from '@internal/components/Antd/Table';
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
 import NivoPie from '@internal/components/Charts/Nivo/Pie';
 
@@ -25,10 +24,6 @@ import {
 
 const AnimatedNumber = dynamic(
   () => import('../../../components/AnimatedNumber/AnimatedNumber'),
-  { ssr: false }
-);
-const TagCloud = dynamic(
-  () => import('../../../components/TagCloud/TagCloud'),
   { ssr: false }
 );
 

@@ -196,8 +196,8 @@ const Page48 = () => {
             colors={[
               ...new Array(13).fill('#FEDD00bf'),
               ...new Array(2).fill('#009739'),
-              ...new Array(4).fill('#012169'),
-              ...new Array(1).fill('#009739'),
+              ...new Array(5).fill('#012169'),
+              ...new Array(1).fill('#FEDD00bf'),
             ]}
           />
         </div>

@@ -29,6 +29,7 @@
     "@nivo/radar": "^0.84.0",
     "@nivo/radial-bar": "^0.84.0",
     "@nivo/sankey": "^0.84.0",
+    "@nivo/scatterplot": "^0.84.0",
     "@nivo/stream": "^0.84.0",
     "@nivo/treemap": "^0.84.0",
     "@tanstack/react-table": "^8.10.7",

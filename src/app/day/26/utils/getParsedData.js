@@ -106,12 +106,12 @@ const getAgeRange = (val) => {
 export const byArrestAge = rawValues.reduce((acc, curr) => {
   const bday = dayjs(
     `${curr['Date ofBirth'].split('T')[0]}`,
-    'YYY-MM-DD',
+    'YYYY-MM-DD',
     true
   );
   const arrestDay = dayjs(
     `${curr['DateReceived'].split('T')[0]}`,
-    'YYY-MM-DD',
+    'YYYY-MM-DD',
     true
   );
   const years = arrestDay.diff(bday, 'year');
