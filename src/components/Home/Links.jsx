@@ -132,21 +132,23 @@ export default function Links() {
   const todayDay = dayjs().dayOfYear();
   return (
     <ul className='text-center text-2xl'>
-      {Object.keys(metadata).map((day, index) => {
-        if (!metadata[day]) return null;
-        if (Number(day) > todayDay) return null;
-        return (
-          <li key={`day-${day}`} className='pb-4 li-link'>
-            <Link
-              className='font-mono hover:text-neutral-400'
-              href={`/day/${day}`}
-              data-image-url={`/public/screen/${day}.png`}
-            >
-              Day {index + 1} | {metadata[day].title}
-            </Link>
-          </li>
-        );
-      })}
+      {Object.keys(metadata)
+        .reverse()
+        .map((day) => {
+          if (!metadata[day]) return null;
+          if (Number(day) > todayDay) return null;
+          return (
+            <li key={`day-${day}`} className='pb-4 li-link'>
+              <Link
+                className='font-mono hover:text-neutral-400'
+                href={`/day/${day}`}
+                data-image-url={`/public/screen/${day}.png`}
+              >
+                Day {day} | {metadata[day].title}
+              </Link>
+            </li>
+          );
+        })}
     </ul>
   );
 }
