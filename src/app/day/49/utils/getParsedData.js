@@ -4,7 +4,17 @@ import rawData from '../data/values.json';
 
 export const totals = rawCompanies.length;
 
-const formatCompanySize = (type) => type;
+const formatCompanySize = (type) => {
+  if (!type) return '<10 (0)';
+  if (type === 1) return '11 - 50 (1)';
+  if (type === 2) return '51 - 200 (2)';
+  if (type === 3) return '201 - 500 (3)';
+  if (type === 4) return '501 - 1000 (4)';
+  if (type === 5) return '1001 - 5000 (5)';
+  if (type === 6) return '5001 - 10000 (6)';
+  if (type === 7) return '>10001 (7)';
+  return type;
+};
 
 export const byCompanySize = rawCompanies.reduce((acc, curr) => {
   const formattedLabel = formatCompanySize(curr.company_size);
