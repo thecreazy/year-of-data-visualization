@@ -1,4 +1,4 @@
-import { getCountryIsoCode } from '@internal/utils/mapCountries';
+import { getCountryIsoCode } from '@internal/utils/mapgeo';
 
 import rawValues from '../data/values.json';
 

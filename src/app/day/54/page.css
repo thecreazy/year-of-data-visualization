@@ -1,0 +1,24 @@
+:root {
+  --main-text-color: #4f6f52;
+  --bg-color: #eef0e5;
+}
+#data-54 {
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-54 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-54 .ant-table {
+  background: transparent;
+  border: 1px solid var(--main-text-color);
+}
+#data-54 .ant-table-cell {
+  font-weight: 500;
+}
+
+#data-54 .ant-table-row-expand-icon {
+  background: transparent;
+}
