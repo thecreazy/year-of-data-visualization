@@ -2,7 +2,22 @@
 
 import AnimatedNumbers from 'react-animated-numbers';
 
-const AnimatedNumber = ({ number, className = '', size = 50 }) => {
+import { useScreenDetect } from '@internal/hooks/useScreenDetect';
+
+const AnimatedNumber = ({
+  number,
+  className = '',
+  size = 50,
+  mobileSize,
+  tabletSize,
+}) => {
+  const { isSmallScreen, isMediumScreen } = useScreenDetect();
+  console.log(isMediumScreen);
+  const getFontSize = () => {
+    if (isSmallScreen && !!mobileSize) return mobileSize;
+    if (isMediumScreen && !!tabletSize) return tabletSize;
+    return size;
+  };
   return (
     <AnimatedNumbers
       includeComma
@@ -13,7 +28,7 @@ const AnimatedNumber = ({ number, className = '', size = 50 }) => {
       })}
       animateToNumber={number}
       fontStyle={{
-        fontSize: size,
+        fontSize: getFontSize(),
         textAlign: 'center',
       }}
     />
