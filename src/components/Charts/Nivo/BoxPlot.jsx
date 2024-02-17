@@ -6,7 +6,16 @@ import { useEffect, useState } from 'react';
 
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
-const NivoBoxPlot = ({ data, colors }) => {
+const NivoBoxPlot = ({
+  data,
+  colors,
+  layout = 'vertical',
+  mobileMargin = {
+    top: 20,
+    left: 30,
+    bottom: 100,
+  },
+}) => {
   const [chartData, setChartData] = useState([]);
   const { isSmallScreen } = useScreenDetect();
 
@@ -29,16 +38,13 @@ const NivoBoxPlot = ({ data, colors }) => {
     <div className='relative h-full w-full' ref={ref}>
       <ResponsiveBoxPlot
         data={chartData}
+        layout={layout}
         minValue='auto'
         maxValue='auto'
         margin={
           !isSmallScreen
             ? { left: 50, top: 50, bottom: 100, right: 50 }
-            : {
-                top: 20,
-                left: 30,
-                bottom: 100,
-              }
+            : mobileMargin
         }
         subGroupBy='subgroup'
         padding={0.12}
