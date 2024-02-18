@@ -33,7 +33,7 @@ const Page61 = () => {
       <div className='flex flex-row py-16 max-xl:h-fit max-xl:flex-wrap max-xl:py-4'>
         <div className='stats-radar basis-full'>
           <p className='text-center font-mono text-3xl'>
-            Total number of Fueling Stations
+            Average Number of Gallons of Ethanol per Capita in USA
           </p>
           <AnimatedNumber
             number={total}
