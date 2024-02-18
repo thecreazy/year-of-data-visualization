@@ -9,15 +9,13 @@ import NivoScatterPlot from '@internal/components/Charts/Nivo/Scatterplot';
 
 import { infos } from './config';
 import {
-  byClassOutcome,
-  byRound,
-  byWeightClass,
-  outcomes,
+  byAppleProduct,
+  byTitle,
+  byType,
   ratio,
-  top20Fighters,
   total,
-  total20Locations,
-  totalMatchPerYear,
+  totalFrames,
+  totalFramesPerYear,
 } from './utils/getParsedData';
 
 const AnimatedNumber = dynamic(
@@ -25,7 +23,7 @@ const AnimatedNumber = dynamic(
   { ssr: false }
 );
 
-const Page57 = () => {
+const Page58 = () => {
   return (
     <>
       <section id='infos'>
@@ -36,23 +34,35 @@ const Page57 = () => {
       </section>
       <div className='flex flex-row py-8 max-xl:h-fit max-xl:flex-wrap max-xl:py-4'>
         <div className='stats-radar basis-full'>
-          <p className='text-center font-mono text-3xl'>Total UFC Matches</p>
+          <p className='text-center font-mono text-3xl'>
+            Total Product Placement
+          </p>
           <AnimatedNumber
             number={total}
-            className='font-mono w-full text-[#D20A0A] justify-center'
+            className='font-mono w-full text-[#414288] justify-center'
+            size={80}
+          />
+        </div>
+        <div className='stats-radar basis-full'>
+          <p className='text-center font-mono text-3xl'>
+            Total Sponsored Frames
+          </p>
+          <AnimatedNumber
+            number={totalFrames}
+            className='font-mono w-full text-[#414288] justify-center'
             size={80}
           />
         </div>
       </div>
-      <section id='split-class-round' className='mt-2'>
+      <section id='split-type-product' className='mt-2'>
         <div className='flex flex-row flex-wrap max-md:h-fit max-md:py-4 justify-center'>
           <div className='stats-radar basis-1/2 max-md:basis-full h-[400px]'>
-            <p className='text-center font-bold mb-4'>By Weight Class</p>
+            <p className='text-center font-bold mb-4'>Placement by Show Type</p>
             <NivoPie
-              data={byWeightClass}
+              data={byType}
               margin={{ top: 30, left: 30, right: 30, bottom: 30 }}
               mobileMargin={{ top: 50, left: 50, right: 50, bottom: 50 }}
-              colors={['#D20A0Abf', '#624589bf']}
+              colors={['#414288bf', '#682D63bf']}
               arcLabelsTextColor='white'
               borderWidth={2}
               borderColor={{
@@ -62,12 +72,21 @@ const Page57 = () => {
             />
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full h-[400px]'>
-            <p className='text-center font-bold mb-4'>Finished in (rounds)</p>
+            <p className='text-center font-bold mb-4'>Placement by Product</p>
             <NivoPie
-              data={byRound}
+              data={byAppleProduct}
               margin={{ top: 30, left: 30, right: 30, bottom: 30 }}
               mobileMargin={{ top: 50, left: 50, right: 50, bottom: 50 }}
-              colors={['#D20A0Abf', '#624589bf']}
+              colors={[
+                '#414288bf',
+                '#682D63bf',
+                '#5FB49Cbf',
+                '#98DFAFbf',
+                '#DEEFB7bf',
+                '#D0CFECbf',
+                '#FF9F1Cbf',
+                '#A4036Fbf',
+              ]}
               borderWidth={1}
               borderColor={{
                 from: 'color',
@@ -78,17 +97,17 @@ const Page57 = () => {
           </div>
         </div>
       </section>
-      <section id='number-of-matches' className='mt-10 pt-20'>
+      <section id='number-of-frames' className='mt-10 pt-20'>
         <h3 className='py-10 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mt-10'>
-          Number of matches for every year
+          Sponsored Frames per year
         </h3>
         <div className='mb-[20px] flex h-[600px] w-full justify-center max-md:h-[500px] max-xl:h-[600px]'>
           <NivoLine
-            data={totalMatchPerYear}
+            data={totalFramesPerYear}
+            yFormat='.0f'
             xScale={{
               type: 'point',
             }}
-            yFormat='.0f'
             axisBottom={{
               legendOffset: -12,
               tickRotation: 0,
@@ -100,82 +119,27 @@ const Page57 = () => {
               legendOffset: -40,
               legendPosition: 'middle',
             }}
-            colors={['#D20A0A']}
+            colors={['#414288']}
             margin={{ top: 20, right: 20, bottom: 70, left: 40 }}
             mobileMargin={{ top: 20, right: 20, bottom: 100, left: 40 }}
             enablePoints={false}
           />
         </div>
       </section>
-      <section id='outcome-by-class' className='mt-10 '>
-        <h3 className='py-10 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mt-10'>
-          Outcomes Across Different Weight Classes
-        </h3>
-        <div className='mb-[20px] flex h-[600px] w-full justify-center max-md:h-[500px] max-xl:h-[600px]'>
-          <NivoBar
-            data={byClassOutcome}
-            keys={outcomes}
-            indexBy='weightClass'
-            colors={[
-              '#D20A0Abf',
-              '#624589bf',
-              '#9B2B7Dbf',
-              '#C60052bf',
-              '#2F4858bf',
-              '#334C78bf',
-            ]}
-            borderWidth={2}
-            borderColor={{
-              from: 'color',
-              modifiers: [['darker', 1.6]],
-            }}
-            labelTextColor='#fff'
-            margin={{ left: 60, bottom: 130 }}
-            mobileMargin={{ left: 60, bottom: 80 }}
-            mobileLayout='vertical'
-            layout='vertical'
-            xtickRotation={45}
-            groupMode='stacked'
-          />
-        </div>
-      </section>
-      <section id='top-20-fighters' className='mt-10 '>
-        <h3 className='py-10 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mt-10'>
-          Top 21 fighters who have won most fights
-        </h3>
-        <div className='mb-[20px] flex h-[600px] w-full justify-center max-md:h-[500px] max-xl:h-[600px]'>
-          <NivoBar
-            data={top20Fighters}
-            keys={['wins']}
-            indexBy='fighter'
-            colors={['#334C78bf']}
-            borderWidth={2}
-            borderColor={{
-              from: 'color',
-              modifiers: [['darker', 1.6]],
-            }}
-            labelTextColor='#fff'
-            margin={{ left: 60, bottom: 130 }}
-            mobileMargin={{ left: 60, bottom: 80 }}
-            mobileLayout='vertical'
-            layout='vertical'
-            xtickRotation={45}
-          />
-        </div>
-      </section>
-      <section id='f-1-vs-f-2' className='mt-10'>
+      <section id='ratio-year-frame-per-movie' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Fighters number of strikes per match
+          Shows per year and number of movie
         </h3>
         <div className='mb-[20px] flex h-[700px] w-full justify-center max-md:h-[400px] max-xl:h-[500px]'>
           <NivoScatterPlot
             data={ratio}
+            xScale={{ type: 'point', min: 2001 }}
             axisBottom={{
               orient: 'bottom',
               tickSize: 5,
               tickPadding: 5,
               tickRotation: 45,
-              legend: 'Fighter 1 Strikes',
+              legend: 'Year',
               legendPosition: 'middle',
               legendOffset: 40,
             }}
@@ -184,7 +148,7 @@ const Page57 = () => {
               tickSize: 5,
               tickPadding: 5,
               tickRotation: 0,
-              legend: 'Fighter 2 Strikes',
+              legend: 'Sponsored Frames',
               legendPosition: 'middle',
               legendOffset: -60,
             }}
@@ -204,20 +168,20 @@ const Page57 = () => {
                 symbolShape: 'circle',
               },
             ]}
-            colors={['#D20A0Abf']}
+            colors={['#5FB49Cbf']}
           />
         </div>
       </section>
-      <section id='by-country' className='mt-10'>
+      <section id='top-titles' className='mt-10 '>
         <h3 className='py-10 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mt-10'>
-          Top 20 location with more matches
+          Most 20 sponsored Titles
         </h3>
         <div className='mb-[20px] flex h-[600px] w-full justify-center max-md:h-[500px] max-xl:h-[600px]'>
           <NivoBar
-            data={total20Locations}
-            keys={['matches']}
-            indexBy='location'
-            colors={['#624589bf']}
+            data={byTitle}
+            keys={['frames']}
+            indexBy='title'
+            colors={['#414288bf']}
             borderWidth={2}
             borderColor={{
               from: 'color',
@@ -229,14 +193,16 @@ const Page57 = () => {
             mobileLayout='vertical'
             layout='vertical'
             xtickRotation={45}
+            groupMode='stacked'
           />
         </div>
       </section>
+
       <p className='text-center text-xs'>
         All data are updated at 02/2024 and taken from{' '}
         <a
-          className='text-[#624589] font-bold'
-          href='https://www.kaggle.com/datasets/syedanwarafridi/ufc-events-data-till-2023'
+          className='text-[#5FB49C] font-bold'
+          href='https://www.kaggle.com/datasets/mohammadhmozafary/apples-product-placements-in-movies-and-tv-shows'
           rel='noopener noreferrer'
           target='_blank'
         >
@@ -247,4 +213,4 @@ const Page57 = () => {
   );
 };
 
-export default Page57;
+export default Page58;

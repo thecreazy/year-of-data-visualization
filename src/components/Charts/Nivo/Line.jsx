@@ -16,14 +16,14 @@ const NivoLine = ({
   enablePoints = true,
   yScale = { type: 'linear' },
   markers,
-  yFormat,
+  yFormat = '>-.2f',
 }) => {
   const { isSmallScreen } = useScreenDetect();
   const axisBottomFormatedd = {
     ...axisBottom,
     tickRotation: isSmallScreen ? 90 : axisBottom.tickRotation || 0,
   };
-  let formatY = '>-.2f';
+  let formatY = yFormat;
   if (yFormat === 'b') axisLeft.format = (value) => `${value}B$`;
   if (yFormat === 'b') formatY = (value) => `${value}B$`;
   return (
