@@ -22,3 +22,10 @@
 #data-54 .ant-table-row-expand-icon {
   background: transparent;
 }
+
+#data-54 .ant-table-thead {
+  z-index: 9;
+  position: sticky;
+  top: 0;
+  opacity: 1;
+}
