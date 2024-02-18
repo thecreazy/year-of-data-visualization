@@ -12,7 +12,6 @@ const AnimatedNumber = ({
   tabletSize,
 }) => {
   const { isSmallScreen, isMediumScreen } = useScreenDetect();
-  console.log(isMediumScreen);
   const getFontSize = () => {
     if (isSmallScreen && !!mobileSize) return mobileSize;
     if (isMediumScreen && !!tabletSize) return tabletSize;

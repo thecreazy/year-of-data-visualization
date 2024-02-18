@@ -24,7 +24,7 @@ const Page59 = () => {
       </section>
       <section id='ages-distrubution' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mb-20'>
-          Percentage per country
+          Ages per country
         </h3>
         <div className='flex flex-row flex-wrap max-md:h-fit max-md:py-4 justify-center'>
           <div className='stats-radar basis-1/2 max-md:basis-full h-[400px]'>
