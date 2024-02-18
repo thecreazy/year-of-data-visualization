@@ -42,7 +42,7 @@
     "dayjs": "^1.11.10",
     "next": "14.0.3",
     "react": "^18",
-    "react-animated-numbers": "^0.17.1",
+    "react-animated-numbers": "^0.18.0",
     "react-chartjs-2": "^5.2.0",
     "react-charts": "^3.0.0-beta.57",
     "react-dom": "^18",
