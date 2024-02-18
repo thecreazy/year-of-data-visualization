@@ -30,7 +30,7 @@ export const vs1990 = {
       data: continentData.map(
         (el) => ((el['2021'] - el['1990']) / el['2021']) * 100
       ),
-      backgroundColor: rawValues.map((el) => {
+      backgroundColor: continentData.map((el) => {
         const value = ((el['2021'] - el['1990']) / el['2021']) * 100;
         return value > 0 ? '#3a5a40' : '#bc4749';
       }),
