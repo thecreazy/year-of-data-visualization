@@ -1,0 +1,352 @@
+[
+  {
+    "State Name": "New Hampshire",
+    "State Abbreviations": "NH",
+    "Gallons of Ethanol per Capita": 4.83,
+    "Driving Fatalities Involving Alcohol (Percentage)": 33.1,
+    "Excessive Drinking rate (Percentage)": 20.8
+  },
+  {
+    "State Name": "Delaware",
+    "State Abbreviations": "DE",
+    "Gallons of Ethanol per Capita": 4.01,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25,
+    "Excessive Drinking rate (Percentage)": 20.5
+  },
+  {
+    "State Name": "Nevada",
+    "State Abbreviations": "NV",
+    "Gallons of Ethanol per Capita": 3.43,
+    "Driving Fatalities Involving Alcohol (Percentage)": 27.3,
+    "Excessive Drinking rate (Percentage)": 19.5
+  },
+  {
+    "State Name": "Montana",
+    "State Abbreviations": "MT",
+    "Gallons of Ethanol per Capita": 3.32,
+    "Driving Fatalities Involving Alcohol (Percentage)": 46.4,
+    "Excessive Drinking rate (Percentage)": 24.3
+  },
+  {
+    "State Name": "North Dakota",
+    "State Abbreviations": "ND",
+    "Gallons of Ethanol per Capita": 3.26,
+    "Driving Fatalities Involving Alcohol (Percentage)": 41.4,
+    "Excessive Drinking rate (Percentage)": 24.1
+  },
+  {
+    "State Name": "Vermont",
+    "State Abbreviations": "VT",
+    "Gallons of Ethanol per Capita": 3.22,
+    "Driving Fatalities Involving Alcohol (Percentage)": 35.4,
+    "Excessive Drinking rate (Percentage)": 23.2
+  },
+  {
+    "State Name": "Wisconsin",
+    "State Abbreviations": "WI",
+    "Gallons of Ethanol per Capita": 3.11,
+    "Driving Fatalities Involving Alcohol (Percentage)": 35.6,
+    "Excessive Drinking rate (Percentage)": 25.2
+  },
+  {
+    "State Name": "Maine",
+    "State Abbreviations": "ME",
+    "Gallons of Ethanol per Capita": 2.99,
+    "Driving Fatalities Involving Alcohol (Percentage)": 34.4,
+    "Excessive Drinking rate (Percentage)": 22.5
+  },
+  {
+    "State Name": "Colorado",
+    "State Abbreviations": "CO",
+    "Gallons of Ethanol per Capita": 2.97,
+    "Driving Fatalities Involving Alcohol (Percentage)": 34,
+    "Excessive Drinking rate (Percentage)": 20.1
+  },
+  {
+    "State Name": "Wyoming",
+    "State Abbreviations": "WY",
+    "Gallons of Ethanol per Capita": 2.94,
+    "Driving Fatalities Involving Alcohol (Percentage)": 31.8,
+    "Excessive Drinking rate (Percentage)": 20.5
+  },
+  {
+    "State Name": "Minnesota",
+    "State Abbreviations": "MN",
+    "Gallons of Ethanol per Capita": 2.85,
+    "Driving Fatalities Involving Alcohol (Percentage)": 29.9,
+    "Excessive Drinking rate (Percentage)": 23.4
+  },
+  {
+    "State Name": "Alaska",
+    "State Abbreviations": "AK",
+    "Gallons of Ethanol per Capita": 2.83,
+    "Driving Fatalities Involving Alcohol (Percentage)": 36.9,
+    "Excessive Drinking rate (Percentage)": 18.1
+  },
+  {
+    "State Name": "Florida",
+    "State Abbreviations": "FL",
+    "Gallons of Ethanol per Capita": 2.74,
+    "Driving Fatalities Involving Alcohol (Percentage)": 22,
+    "Excessive Drinking rate (Percentage)": 20.2
+  },
+  {
+    "State Name": "Hawaii",
+    "State Abbreviations": "HI",
+    "Gallons of Ethanol per Capita": 2.71,
+    "Driving Fatalities Involving Alcohol (Percentage)": 31.5,
+    "Excessive Drinking rate (Percentage)": 20.7
+  },
+  {
+    "State Name": "Oregon",
+    "State Abbreviations": "OR",
+    "Gallons of Ethanol per Capita": 2.71,
+    "Driving Fatalities Involving Alcohol (Percentage)": 27.9,
+    "Excessive Drinking rate (Percentage)": 21.2
+  },
+  {
+    "State Name": "Rhode Island",
+    "State Abbreviations": "RI",
+    "Gallons of Ethanol per Capita": 2.71,
+    "Driving Fatalities Involving Alcohol (Percentage)": 40.3,
+    "Excessive Drinking rate (Percentage)": 21.7
+  },
+  {
+    "State Name": "Missouri",
+    "State Abbreviations": "MO",
+    "Gallons of Ethanol per Capita": 2.68,
+    "Driving Fatalities Involving Alcohol (Percentage)": 27.6,
+    "Excessive Drinking rate (Percentage)": 19.5
+  },
+  {
+    "State Name": "California",
+    "State Abbreviations": "CA",
+    "Gallons of Ethanol per Capita": 2.63,
+    "Driving Fatalities Involving Alcohol (Percentage)": 27.7,
+    "Excessive Drinking rate (Percentage)": 18.8
+  },
+  {
+    "State Name": "New Jersey",
+    "State Abbreviations": "NJ",
+    "Gallons of Ethanol per Capita": 2.63,
+    "Driving Fatalities Involving Alcohol (Percentage)": 22.8,
+    "Excessive Drinking rate (Percentage)": 16
+  },
+  {
+    "State Name": "Massachusetts",
+    "State Abbreviations": "MA",
+    "Gallons of Ethanol per Capita": 2.62,
+    "Driving Fatalities Involving Alcohol (Percentage)": 30.5,
+    "Excessive Drinking rate (Percentage)": 22.5
+  },
+  {
+    "State Name": "Louisiana",
+    "State Abbreviations": "LA",
+    "Gallons of Ethanol per Capita": 2.59,
+    "Driving Fatalities Involving Alcohol (Percentage)": 31.2,
+    "Excessive Drinking rate (Percentage)": 21.9
+  },
+  {
+    "State Name": "Michigan",
+    "State Abbreviations": "MI",
+    "Gallons of Ethanol per Capita": 2.53,
+    "Driving Fatalities Involving Alcohol (Percentage)": 29.2,
+    "Excessive Drinking rate (Percentage)": 20.5
+  },
+  {
+    "State Name": "Connecticut",
+    "State Abbreviations": "CT",
+    "Gallons of Ethanol per Capita": 2.5,
+    "Driving Fatalities Involving Alcohol (Percentage)": 30.4,
+    "Excessive Drinking rate (Percentage)": 19.2
+  },
+  {
+    "State Name": "Illinois",
+    "State Abbreviations": "IL",
+    "Gallons of Ethanol per Capita": 2.42,
+    "Driving Fatalities Involving Alcohol (Percentage)": 28.8,
+    "Excessive Drinking rate (Percentage)": 22.9
+  },
+  {
+    "State Name": "Texas",
+    "State Abbreviations": "TX",
+    "Gallons of Ethanol per Capita": 2.41,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25.4,
+    "Excessive Drinking rate (Percentage)": 19.6
+  },
+  {
+    "State Name": "Mississippi",
+    "State Abbreviations": "MS",
+    "Gallons of Ethanol per Capita": 2.39,
+    "Driving Fatalities Involving Alcohol (Percentage)": 18.5,
+    "Excessive Drinking rate (Percentage)": 15.9
+  },
+  {
+    "State Name": "Indiana",
+    "State Abbreviations": "IN",
+    "Gallons of Ethanol per Capita": 2.34,
+    "Driving Fatalities Involving Alcohol (Percentage)": 19,
+    "Excessive Drinking rate (Percentage)": 17.7
+  },
+  {
+    "State Name": "Iowa",
+    "State Abbreviations": "IA",
+    "Gallons of Ethanol per Capita": 2.34,
+    "Driving Fatalities Involving Alcohol (Percentage)": 26.8,
+    "Excessive Drinking rate (Percentage)": 24.6
+  },
+  {
+    "State Name": "South Dakota",
+    "State Abbreviations": "SD",
+    "Gallons of Ethanol per Capita": 2.34,
+    "Driving Fatalities Involving Alcohol (Percentage)": 36.1,
+    "Excessive Drinking rate (Percentage)": 24.4
+  },
+  {
+    "State Name": "Pennsylvania",
+    "State Abbreviations": "PA",
+    "Gallons of Ethanol per Capita": 2.32,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25.4,
+    "Excessive Drinking rate (Percentage)": 19.8
+  },
+  {
+    "State Name": "North Carolina",
+    "State Abbreviations": "NC",
+    "Gallons of Ethanol per Capita": 2.31,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25.9,
+    "Excessive Drinking rate (Percentage)": 16.5
+  },
+  {
+    "State Name": "New Mexico",
+    "State Abbreviations": "NM",
+    "Gallons of Ethanol per Capita": 2.3,
+    "Driving Fatalities Involving Alcohol (Percentage)": 29.4,
+    "Excessive Drinking rate (Percentage)": 17.4
+  },
+  {
+    "State Name": "Tennessee",
+    "State Abbreviations": "TN",
+    "Gallons of Ethanol per Capita": 2.3,
+    "Driving Fatalities Involving Alcohol (Percentage)": 23.5,
+    "Excessive Drinking rate (Percentage)": 17.2
+  },
+  {
+    "State Name": "Virginia",
+    "State Abbreviations": "VA",
+    "Gallons of Ethanol per Capita": 2.27,
+    "Driving Fatalities Involving Alcohol (Percentage)": 30.3,
+    "Excessive Drinking rate (Percentage)": 17.3
+  },
+  {
+    "State Name": "Washington",
+    "State Abbreviations": "WA",
+    "Gallons of Ethanol per Capita": 2.26,
+    "Driving Fatalities Involving Alcohol (Percentage)": 32.7,
+    "Excessive Drinking rate (Percentage)": 16.5
+  },
+  {
+    "State Name": "Arizona",
+    "State Abbreviations": "AZ",
+    "Gallons of Ethanol per Capita": 2.24,
+    "Driving Fatalities Involving Alcohol (Percentage)": 22.3,
+    "Excessive Drinking rate (Percentage)": 17.4
+  },
+  {
+    "State Name": "New York",
+    "State Abbreviations": "NY",
+    "Gallons of Ethanol per Capita": 2.22,
+    "Driving Fatalities Involving Alcohol (Percentage)": 20.2,
+    "Excessive Drinking rate (Percentage)": 19
+  },
+  {
+    "State Name": "Nebraska",
+    "State Abbreviations": "NE",
+    "Gallons of Ethanol per Capita": 2.17,
+    "Driving Fatalities Involving Alcohol (Percentage)": 33.2,
+    "Excessive Drinking rate (Percentage)": 23.2
+  },
+  {
+    "State Name": "Maryland",
+    "State Abbreviations": "MD",
+    "Gallons of Ethanol per Capita": 2.15,
+    "Driving Fatalities Involving Alcohol (Percentage)": 28.3,
+    "Excessive Drinking rate (Percentage)": 16
+  },
+  {
+    "State Name": "Kansas",
+    "State Abbreviations": "KS",
+    "Gallons of Ethanol per Capita": 2.12,
+    "Driving Fatalities Involving Alcohol (Percentage)": 19.4,
+    "Excessive Drinking rate (Percentage)": 20
+  },
+  {
+    "State Name": "Kentucky",
+    "State Abbreviations": "KY",
+    "Gallons of Ethanol per Capita": 2.12,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25.5,
+    "Excessive Drinking rate (Percentage)": 18.2
+  },
+  {
+    "State Name": "Ohio",
+    "State Abbreviations": "OH",
+    "Gallons of Ethanol per Capita": 2.12,
+    "Driving Fatalities Involving Alcohol (Percentage)": 32.5,
+    "Excessive Drinking rate (Percentage)": 20.7
+  },
+  {
+    "State Name": "South Carolina",
+    "State Abbreviations": "SC",
+    "Gallons of Ethanol per Capita": 2.12,
+    "Driving Fatalities Involving Alcohol (Percentage)": 32.8,
+    "Excessive Drinking rate (Percentage)": 21.7
+  },
+  {
+    "State Name": "Idaho",
+    "State Abbreviations": "ID",
+    "Gallons of Ethanol per Capita": 2.1,
+    "Driving Fatalities Involving Alcohol (Percentage)": 31.5,
+    "Excessive Drinking rate (Percentage)": 19.6
+  },
+  {
+    "State Name": "Alabama",
+    "State Abbreviations": "AL",
+    "Gallons of Ethanol per Capita": 2.08,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25.9,
+    "Excessive Drinking rate (Percentage)": 14.8
+  },
+  {
+    "State Name": "Arkansas",
+    "State Abbreviations": "AR",
+    "Gallons of Ethanol per Capita": 1.92,
+    "Driving Fatalities Involving Alcohol (Percentage)": 25.7,
+    "Excessive Drinking rate (Percentage)": 15.9
+  },
+  {
+    "State Name": "Georgia",
+    "State Abbreviations": "GA",
+    "Gallons of Ethanol per Capita": 1.91,
+    "Driving Fatalities Involving Alcohol (Percentage)": 20.7,
+    "Excessive Drinking rate (Percentage)": 17.8
+  },
+  {
+    "State Name": "Oklahoma",
+    "State Abbreviations": "OK",
+    "Gallons of Ethanol per Capita": 1.85,
+    "Driving Fatalities Involving Alcohol (Percentage)": 26.8,
+    "Excessive Drinking rate (Percentage)": 14.5
+  },
+  {
+    "State Name": "West Virginia",
+    "State Abbreviations": "WV",
+    "Gallons of Ethanol per Capita": 1.82,
+    "Driving Fatalities Involving Alcohol (Percentage)": 26.1,
+    "Excessive Drinking rate (Percentage)": 15.2
+  },
+  {
+    "State Name": "Utah",
+    "State Abbreviations": "UT",
+    "Gallons of Ethanol per Capita": 1.36,
+    "Driving Fatalities Involving Alcohol (Percentage)": 21.7,
+    "Excessive Drinking rate (Percentage)": 11.9
+  }
+]
