@@ -1,0 +1,15 @@
+[
+  { "year": 2011, "Employees": 3200, "delta": "-" },
+  { "year": 2012, "Employees": 4619, "delta": "+44.39%" },
+  { "year": 2013, "Employees": 6337, "delta": "+37.19%" },
+  { "year": 2014, "Employees": 9199, "delta": "+45.16%" },
+  { "year": 2015, "Employees": 12619, "delta": "+37.96%" },
+  { "year": 2016, "Employees": 17048, "delta": "+34.33%" },
+  { "year": 2017, "Employees": 25105, "delta": "+47.26%" },
+  { "year": 2018, "Employees": 35587, "delta": "+41.75%" },
+  { "year": 2019, "Employees": 44942, "delta": "+26.29%" },
+  { "year": 2020, "Employees": 58604, "delta": "+30.40%" },
+  { "year": 2021, "Employees": 71970, "delta": "+22.81%" },
+  { "year": 2022, "Employees": 86482, "delta": "+20.16%" },
+  { "year": 2023, "Employees": 67317, "delta": "-22.16%" }
+]

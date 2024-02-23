@@ -36,19 +36,30 @@ const ResponsiveTable = ({
         key={headerGroup.id}
         className={`border-b   border-black uppercase text-[${headerColor}]`}
       >
-        {headerGroup.headers.map((header) => (
-          <Th key={header.id} className='p-2 text-left font-medium'>
-            {header.isPlaceholder
-              ? null
-              : flexRender(header.column.columnDef.header, header.getContext())}
-          </Th>
-        ))}
+        {headerGroup.headers.map((header) => {
+          return (
+            <Th
+              key={header.id}
+              className={`p-2 text-${
+                header.column.columnDef.align || 'left'
+              } font-medium`}
+            >
+              {header.isPlaceholder
+                ? null
+                : flexRender(
+                    header.column.columnDef.header,
+                    header.getContext()
+                  )}
+            </Th>
+          );
+        })}
       </Tr>
     );
   };
 
   return (
     <div className='max-lg:overflow-scroll'>
+      <div className='text-right'></div>
       <Table className='w-full table-auto'>
         <Thead>{getHead()}</Thead>
         <Tbody>
@@ -57,14 +68,19 @@ const ResponsiveTable = ({
               key={row.id}
               className={`border-b border-black hover:bg-[${hoverColor}]`}
             >
-              {row.getVisibleCells().map((cell) => (
-                <Td
-                  key={cell.id}
-                  className={`p-2 text-[${bodyColor}] font-bold`}
-                >
-                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                </Td>
-              ))}
+              {row.getVisibleCells().map((cell) => {
+                console.log(cell);
+                return (
+                  <Td
+                    key={cell.id}
+                    className={`p-2 text-[${bodyColor}] text-${
+                      cell.column.columnDef.align || 'left'
+                    } font-bold`}
+                  >
+                    {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                  </Td>
+                );
+              })}
             </Tr>
           ))}
         </Tbody>
