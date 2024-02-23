@@ -96,4 +96,3 @@ Object.keys(lastFiveYearsMontainData).forEach((el) => {
   });
 });
 export const lastFiveYearsData = calculatedFiveData;
-console.log(lastFiveYearsData);

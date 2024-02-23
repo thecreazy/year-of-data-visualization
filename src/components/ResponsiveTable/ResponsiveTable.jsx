@@ -69,7 +69,6 @@ const ResponsiveTable = ({
               className={`border-b border-black hover:bg-[${hoverColor}]`}
             >
               {row.getVisibleCells().map((cell) => {
-                console.log(cell);
                 return (
                   <Td
                     key={cell.id}
