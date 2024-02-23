@@ -1,6 +1,8 @@
 describe('68 page video', () => {
   it('passes', () => {
+    cy.wait(1000);
     cy.visit('/day/68');
+    cy.scrollTo(0, 10, { duration: 2000 });
     cy.wait(3000);
     cy.scrollTo(0, 700, { duration: 2000 });
     cy.wait(1000);
