@@ -55,6 +55,7 @@ const Page9 = () => {
             defaultValue={countries.find((val) => val.value === country)}
             onChange={(c) => setCountry(c.value)}
             options={countries}
+            aria-label='select-country'
           />
         </h3>
         <div className='mb-[20px] flex h-[500px] w-full justify-center max-md:h-[300px] max-xl:h-[400px]'>

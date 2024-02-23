@@ -1,0 +1,32 @@
+describe('21 page video', () => {
+  it('passes', () => {
+    cy.visit('/day/21');
+    cy.wait(1000);
+    cy.scrollTo(0, 220, { duration: 2000 });
+    cy.wait(2400);
+    cy.scrollTo(0, 920, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 1630, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 2850, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 3100, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 3700, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 4400, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 5000, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 5550, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 6350, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 7000, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 9250, { duration: 5000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 10000, { duration: 2000 });
+    cy.wait(2000);
+  });
+});

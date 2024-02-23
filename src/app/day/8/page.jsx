@@ -62,6 +62,7 @@ const Page8 = () => {
             defaultValue={years.find((val) => val.value === year)}
             onChange={(c) => setYear(c.value)}
             options={years}
+            aria-label='select-year'
           />
         </h3>
         <div className='mb-[20px] flex h-[600px] w-full justify-center max-md:h-[500px] max-xl:h-[500px]'>
