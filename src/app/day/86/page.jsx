@@ -13,7 +13,7 @@ import {
   totalData,
 } from './utils/getParsedData';
 
-const Page94 = () => {
+const Page86 = () => {
   return (
     <>
       <section id='infos'>
@@ -24,7 +24,7 @@ const Page94 = () => {
       </section>
       <section id='total' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          World average of amphetamines use in percentage
+          World average of ecstasy use in percentage
         </h3>
         <div className='mb-[20px] flex h-[550px] w-full justify-center max-md:h-[300px] max-xl:h-[500px]'>
           <NivoLine
@@ -54,14 +54,14 @@ const Page94 = () => {
       </section>
       <section id='map' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center mb-20'>
-          World average of amphetamines use in percentage by state
+          World average of ecstasy use in percentage by state
         </h3>
         <div className='mb-[20px] flex h-[400px] w-full justify-center'>
           <NivoChoropleth
             data={byCountry}
             colors={['#ffd6e2', '#e3a8b8', '#c77c8f', '#a94f66', '#8a1e3f']}
             valueFormat='>-.2%'
-            domain={[0, 0.02]}
+            domain={[0, 0.03]}
             legendItemSize={114}
           />
         </div>
@@ -74,7 +74,7 @@ const Page94 = () => {
               data={maleMapData}
               colors={['#e6fffc', '#b6e1dc', '#87c4be', '#54a7a0', '#008a83']}
               valueFormat='>-.2%'
-              domain={[0, 0.02]}
+              domain={[0, 0.03]}
               legendItemSize={114}
             />
           </div>
@@ -84,7 +84,7 @@ const Page94 = () => {
               data={femaleMapData}
               colors={['#ffe7e7', '#ffcacb', '#ffacaf', '#ff8d94', '#ff6b7a']}
               valueFormat='>-.2%'
-              domain={[0, 0.02]}
+              domain={[0, 0.03]}
               legendItemSize={114}
             />
           </div>
@@ -127,4 +127,4 @@ const Page94 = () => {
   );
 };
 
-export default Page94;
+export default Page86;

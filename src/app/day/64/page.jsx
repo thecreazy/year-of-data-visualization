@@ -40,13 +40,13 @@ const Page64 = () => {
               tickSize: 5,
               tickPadding: 5,
               tickRotation: 0,
-              format: '.2s',
+              format: '>-.2%',
               legendOffset: -40,
               legendPosition: 'middle',
             }}
             colors={['#8a1e3f', '#FF6978', '#B1EDE8']}
-            margin={{ top: 20, right: 20, bottom: 70, left: 40 }}
-            mobileMargin={{ top: 20, right: 20, bottom: 100, left: 40 }}
+            margin={{ top: 20, right: 20, bottom: 70, left: 50 }}
+            mobileMargin={{ top: 20, right: 20, bottom: 100, left: 50 }}
             enablePoints={false}
             yFormat='>-.2%'
           />
