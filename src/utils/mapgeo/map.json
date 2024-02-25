@@ -1566,7 +1566,8 @@
     "intermediate-region": "",
     "region-code": "142",
     "sub-region-code": "030",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "second-name": "Republic of Korea"
   },
   {
     "name": "Kuwait",
@@ -1909,7 +1910,8 @@
     "region-code": "150",
     "sub-region-code": "151",
     "intermediate-region-code": "",
-    "second-name": "Moldova"
+    "second-name": "Moldova",
+    "third-name": "Republic of Moldova"
   },
   {
     "name": "Monaco",
@@ -2851,7 +2853,8 @@
     "region-code": "142",
     "sub-region-code": "030",
     "intermediate-region-code": "",
-    "second-name": "Taiwan Province of China"
+    "second-name": "Taiwan Province of China",
+    "third-name": "China, Taiwan Province of China"
   },
   {
     "name": "Tajikistan",
@@ -2983,7 +2986,8 @@
     "region-code": "142",
     "sub-region-code": "145",
     "intermediate-region-code": "",
-    "second-name": "Türkiye, Republic of"
+    "second-name": "Türkiye, Republic of",
+    "third-name": "Türkiye"
   },
   {
     "name": "Turkmenistan",
@@ -3075,7 +3079,8 @@
     "region-code": "150",
     "sub-region-code": "154",
     "intermediate-region-code": "",
-    "second-name": "United Kingdom"
+    "second-name": "United Kingdom",
+    "third-name": "United Kingdom (England and Wales)"
   },
   {
     "name": "United States of America",
@@ -3273,6 +3278,7 @@
     "intermediate-region": "",
     "region-code": "150",
     "sub-region-code": "039",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "second-name": "Kosovo under UNSCR 1244"
   }
 ]

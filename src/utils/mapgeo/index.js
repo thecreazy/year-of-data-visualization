@@ -2,8 +2,8 @@ import italianProvince from './italianProvince.json';
 import countries from './map.json';
 
 export const getCountryIsoCode = (country) => {
-  const found = countries.find(
-    (el) => el.name === country || el['second-name'] === country
+  const found = countries.find((el) =>
+    [el.name, el['second-name'], el['third-name']].includes(country)
   );
   if (found) return found['alpha-3'];
   return null;

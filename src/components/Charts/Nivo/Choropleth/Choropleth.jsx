@@ -10,6 +10,7 @@ const NivoChoropleth = ({
   valueFormat,
   domain = [0, 100],
   unknownColor = '#666666',
+  legendItemSize = 94,
 }) => {
   return (
     <ResponsiveChoropleth
@@ -35,7 +36,7 @@ const NivoChoropleth = ({
           translateX: 20,
           translateY: -100,
           itemsSpacing: 0,
-          itemWidth: 94,
+          itemWidth: legendItemSize,
           itemHeight: 18,
           itemDirection: 'left-to-right',
           itemTextColor: '#393939',

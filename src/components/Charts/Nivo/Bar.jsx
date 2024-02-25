@@ -56,7 +56,7 @@ const NivoBar = ({
     truncateTickAt: truncateTickAt,
   };
 
-  let formatY = undefined;
+  let formatY = yFormat;
   if (yFormat === 'b') {
     formatY = (value) => `${value}B$`;
     yAxisDetail.format = (value) => `${value}B$`;
