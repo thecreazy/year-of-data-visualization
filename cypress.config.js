@@ -4,7 +4,7 @@ const viewport =
   process.env.VIDEO_TYPE === 'youtube'
     ? {
         viewportWidth: 1080,
-        viewportHeight: 1920,
+        viewportHeight: 2006,
       }
     : {
         viewportWidth: 1366,
