@@ -177,6 +177,7 @@
   {
     "nome": "Forlì-Cesena",
     "sigla": "FC",
+    "alternative": "FO",
     "regione": "Emilia-Romagna"
   },
   {
@@ -352,6 +353,7 @@
   {
     "nome": "Pesaro e Urbino",
     "sigla": "PU",
+    "alternative": "PS",
     "regione": "Marche"
   },
   {

@@ -10,13 +10,18 @@ export const getCountryIsoCode = (country) => {
 };
 
 export const getProvinceName = (code) => {
-  const found = italianProvince.find((el) => el.sigla === code);
+  const found = italianProvince.find((el) =>
+    [el.sigla, el.alternative].includes(code)
+  );
   if (found) return found.nome;
   return null;
 };
 
 export const getRegionNameFromProvince = (code) => {
-  const found = italianProvince.find((el) => el.sigla === code);
+  const found = italianProvince.find((el) =>
+    [el.sigla, el.alternative].includes(code)
+  );
+
   if (found) return found.regione;
   return null;
 };

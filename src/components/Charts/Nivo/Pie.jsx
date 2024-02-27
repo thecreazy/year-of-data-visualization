@@ -38,6 +38,7 @@ const NivoPie = ({
     from: 'color',
     modifiers: [['darker', 0.2]],
   },
+  valueFormat,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   return (
@@ -72,6 +73,7 @@ const NivoPie = ({
           : undefined
       }
       colors={colors}
+      valueFormat={valueFormat}
     />
   );
 };

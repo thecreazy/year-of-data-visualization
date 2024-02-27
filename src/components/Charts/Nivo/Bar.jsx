@@ -33,6 +33,7 @@ const NivoBar = ({
   borderWidth,
   minValue,
   labelSkipWidth = 12,
+  labelSkipHeight = 12,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
@@ -114,7 +115,7 @@ const NivoBar = ({
       axisBottom={xAxisDetail}
       axisLeft={yAxisDetail}
       labelSkipWidth={labelSkipWidth}
-      labelSkipHeight={12}
+      labelSkipHeight={labelSkipHeight}
       labelTextColor={
         labelTextColor
           ? labelTextColor

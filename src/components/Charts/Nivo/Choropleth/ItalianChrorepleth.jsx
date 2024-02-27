@@ -6,7 +6,13 @@ import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
 import countries from '../../../../utils/geojson/italy.json';
 
-const NivoItalyChoropleth = ({ data, colors, valueFormat, domain }) => {
+const NivoItalyChoropleth = ({
+  data,
+  colors,
+  valueFormat,
+  domain,
+  legendItemSize = 94,
+}) => {
   const { isSmallScreen } = useScreenDetect();
   return (
     <ResponsiveChoropleth
@@ -32,7 +38,7 @@ const NivoItalyChoropleth = ({ data, colors, valueFormat, domain }) => {
           translateX: isSmallScreen ? 0 : 20,
           translateY: isSmallScreen ? 0 : -100,
           itemsSpacing: 0,
-          itemWidth: 94,
+          itemWidth: legendItemSize,
           itemHeight: 18,
           itemDirection: 'left-to-right',
           itemTextColor: '#393939',
