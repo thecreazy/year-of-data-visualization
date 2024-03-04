@@ -12,6 +12,6 @@ describe('90 page video', () => {
     cy.wait(600);
     cy.scrollTo(0, 6800, { duration: 5000 });
     cy.wait(200);
-    cy.scrollTo(0, 11800, { duration: 5000 });
+    cy.scrollTo(0, 12800, { duration: 6000 });
   });
 });
