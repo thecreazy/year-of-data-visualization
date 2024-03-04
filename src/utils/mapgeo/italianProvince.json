@@ -178,7 +178,8 @@
     "nome": "Forlì-Cesena",
     "sigla": "FC",
     "alternative": "FO",
-    "regione": "Emilia-Romagna"
+    "regione": "Emilia-Romagna",
+    "secondName": "forli'-cesena"
   },
   {
     "nome": "Frosinone",
@@ -326,6 +327,11 @@
     "regione": "Sardegna"
   },
   {
+    "nome": "Sud sardegna",
+    "sigla": "SU",
+    "regione": "Sardegna"
+  },
+  {
     "nome": "Padova",
     "sigla": "PD",
     "regione": "Veneto"
@@ -404,12 +410,14 @@
   {
     "nome": "Reggio di Calabria",
     "sigla": "RC",
-    "regione": "Calabria"
+    "regione": "Calabria",
+    "secondName": "reggio calabria"
   },
   {
     "nome": "Reggio nell'Emilia",
     "sigla": "RE",
-    "regione": "Emilia-Romagna"
+    "regione": "Emilia-Romagna",
+    "secondName": "reggio emilia"
   },
   {
     "nome": "Rieti",

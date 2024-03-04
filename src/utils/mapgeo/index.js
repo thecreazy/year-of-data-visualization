@@ -19,9 +19,15 @@ export const getProvinceName = (code) => {
 
 export const getRegionNameFromProvince = (code) => {
   const found = italianProvince.find((el) =>
-    [el.sigla, el.alternative].includes(code)
+    [
+      el.sigla,
+      el.alternative,
+      el.nome.toLowerCase(),
+      (el.secondName || '').toLowerCase(),
+    ].includes(code)
   );
 
   if (found) return found.regione;
+  console.log(code);
   return null;
 };
