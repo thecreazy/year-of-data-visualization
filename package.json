@@ -16,7 +16,7 @@
     "generate:video:youtube": "CYPRESS_NO_COMMAND_LOG=1 VIDEO_TYPE=youtube cypress run --e2e --headless --no-runner-ui --browser chrome"
   },
   "dependencies": {
-    "@ant-design/charts": "^2.0.1",
+    "@ant-design/charts": "^2.0.3",
     "@kurkle/color": "^0.3.2",
     "@nivo/bar": "^0.84.0",
     "@nivo/boxplot": "^0.84.0",
