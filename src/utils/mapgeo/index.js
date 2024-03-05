@@ -28,6 +28,5 @@ export const getRegionNameFromProvince = (code) => {
   );
 
   if (found) return found.regione;
-  console.log(code);
   return null;
 };

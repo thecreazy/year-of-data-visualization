@@ -1,0 +1,12 @@
+:root {
+  --main-text-color: #5e1675;
+  --bg-color: #ededed;
+}
+#data-70 {
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-70 h2 {
+  font-family: 'Dancing Script', cursive;
+}
