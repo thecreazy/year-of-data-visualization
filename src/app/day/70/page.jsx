@@ -3,9 +3,7 @@ import dynamic from 'next/dynamic';
 import './page.css';
 
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
-import NivoLine from '@internal/components/Charts/Nivo/Line';
 import NivoPie from '@internal/components/Charts/Nivo/Pie';
-import NivoScatterPlot from '@internal/components/Charts/Nivo/Scatterplot';
 
 import { infos } from './config';
 import {
