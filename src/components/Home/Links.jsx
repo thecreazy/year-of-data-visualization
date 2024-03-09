@@ -77,6 +77,7 @@ import { infos as metadata70 } from '../../app/day/70/config';
 import { infos as metadata72 } from '../../app/day/72/config';
 import { infos as metadata73 } from '../../app/day/73/config';
 import { infos as metadata75 } from '../../app/day/75/config';
+import { infos as metadata77 } from '../../app/day/77/config';
 import { infos as metadata79 } from '../../app/day/79/config';
 import { infos as metadata81 } from '../../app/day/81/config';
 import { infos as metadata86 } from '../../app/day/86/config';
@@ -84,7 +85,6 @@ import { infos as metadata87 } from '../../app/day/87/config';
 import { infos as metadata90 } from '../../app/day/90/config';
 import { infos as metadata93 } from '../../app/day/93/config';
 import { infos as metadata94 } from '../../app/day/94/config';
-import { infos as metadata195 } from '../../app/day/195/config';
 import { infos as metadata244 } from '../../app/day/244/config';
 
 const metadata = {
@@ -161,6 +161,7 @@ const metadata = {
   72: metadata72,
   73: metadata73,
   75: metadata75,
+  77: metadata77,
   79: metadata79,
   81: metadata81,
   86: metadata86,
@@ -168,7 +169,7 @@ const metadata = {
   90: metadata90,
   93: metadata93,
   94: metadata94,
-  195: metadata195,
+
   244: metadata244,
 };
 
