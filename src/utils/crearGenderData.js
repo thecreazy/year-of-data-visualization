@@ -25,7 +25,7 @@ export const clearGenderData = (raw) => {
       areaCode: el['area code'],
       country: formatCountry(el.country),
       isocode: el.isocode,
-      year: Number(el.year.replace(/[,]/g, '')),
+      year: Number(`${el.year}`.replace(/[,]/g, '')),
       value: Number(el.value),
       source: el.source,
     };

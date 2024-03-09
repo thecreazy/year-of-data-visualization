@@ -74,6 +74,7 @@ import { infos as metadata67 } from '../../app/day/67/config';
 import { infos as metadata68 } from '../../app/day/68/config';
 import { infos as metadata69 } from '../../app/day/69/config';
 import { infos as metadata70 } from '../../app/day/70/config';
+import { infos as metadata71 } from '../../app/day/71/config';
 import { infos as metadata72 } from '../../app/day/72/config';
 import { infos as metadata73 } from '../../app/day/73/config';
 import { infos as metadata75 } from '../../app/day/75/config';
@@ -158,6 +159,7 @@ const metadata = {
   68: metadata68,
   69: metadata69,
   70: metadata70,
+  71: metadata71,
   72: metadata72,
   73: metadata73,
   75: metadata75,
