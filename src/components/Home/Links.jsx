@@ -82,10 +82,10 @@ import { infos as metadata79 } from '../../app/day/79/config';
 import { infos as metadata81 } from '../../app/day/81/config';
 import { infos as metadata86 } from '../../app/day/86/config';
 import { infos as metadata87 } from '../../app/day/87/config';
+import { infos as metadata88 } from '../../app/day/88/config';
 import { infos as metadata90 } from '../../app/day/90/config';
 import { infos as metadata93 } from '../../app/day/93/config';
 import { infos as metadata94 } from '../../app/day/94/config';
-import { infos as metadata244 } from '../../app/day/244/config';
 
 const metadata = {
   1: metadata1,
@@ -166,11 +166,10 @@ const metadata = {
   81: metadata81,
   86: metadata86,
   87: metadata87,
+  88: metadata88,
   90: metadata90,
   93: metadata93,
   94: metadata94,
-
-  244: metadata244,
 };
 
 dayjs.extend(dayOfYear);
