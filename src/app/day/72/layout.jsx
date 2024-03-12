@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Day 72 | Academy Awards',
-  description: `Analysis of the Academy Awards' Winners and Nominee from 1926 to 2022`,
+  description: `Analysis of the Academy Awards' Winners and Nominee from 1926 to 2023`,
   openGraph: {
     images: [
       {
