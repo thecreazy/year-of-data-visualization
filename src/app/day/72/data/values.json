@@ -86102,5 +86102,997 @@
     "Name": "To Peter Weir, a fearless and consummate filmmaker who has illuminated the human experience with his unique and expansive body of work.",
     "Film": "",
     "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Name": "Bradley Cooper",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Name": "Colman Domingo",
+    "Film": "Rustin",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Name": "Paul Giamatti",
+    "Film": "The Holdovers",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Name": "Cillian Murphy",
+    "Film": "Oppenheimer",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A LEADING ROLE",
+    "Name": "Jeffrey Wright",
+    "Film": "American Fiction",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Name": "Sterling K. Brown",
+    "Film": "American Fiction",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Name": "Robert De Niro",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Name": "Robert Downey Jr.",
+    "Film": "Oppenheimer",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Name": "Ryan Gosling",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTOR IN A SUPPORTING ROLE",
+    "Name": "Mark Ruffalo",
+    "Film": "Poor Things",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Name": "Annette Bening",
+    "Film": "Nyad",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Name": "Lily Gladstone",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Name": "Sandra Hüller",
+    "Film": "Anatomy of a Fall",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Name": "Carey Mulligan",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A LEADING ROLE",
+    "Name": "Emma Stone",
+    "Film": "Poor Things",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Name": "Emily Blunt",
+    "Film": "Oppenheimer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Name": "Danielle Brooks",
+    "Film": "The Color Purple",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Name": "America Ferrera",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Name": "Jodie Foster",
+    "Film": "Nyad",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ACTRESS IN A SUPPORTING ROLE",
+    "Name": "Da'Vine Joy Randolph",
+    "Film": "The Holdovers",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ANIMATED FEATURE FILM",
+    "Name": "Hayao Miyazaki and Toshio Suzuki",
+    "Film": "The Boy and the Heron",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ANIMATED FEATURE FILM",
+    "Name": "Peter Sohn and Denise Ream",
+    "Film": "Elemental",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ANIMATED FEATURE FILM",
+    "Name": "Nick Bruno, Troy Quane, Karen Ryan and Julie Zackary",
+    "Film": "Nimona",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ANIMATED FEATURE FILM",
+    "Name": "Pablo Berger, Ibon Cormenzana, Ignasi Estapé and Sandra Tapia Díaz",
+    "Film": "Robot Dreams",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "ANIMATED FEATURE FILM",
+    "Name": "Kemp Powers, Justin K. Thompson, Phil Lord, Christopher Miller and Amy Pascal",
+    "Film": "Spider-Man: Across the Spider-Verse",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "CINEMATOGRAPHY",
+    "Name": "Edward Lachman",
+    "Film": "El Conde",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "CINEMATOGRAPHY",
+    "Name": "Rodrigo Prieto",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "CINEMATOGRAPHY",
+    "Name": "Matthew Libatique",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "CINEMATOGRAPHY",
+    "Name": "Hoyte van Hoytema",
+    "Film": "Oppenheimer",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "CINEMATOGRAPHY",
+    "Name": "Robbie Ryan",
+    "Film": "Poor Things",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "COSTUME DESIGN",
+    "Name": "Jacqueline Durran",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "COSTUME DESIGN",
+    "Name": "Jacqueline West",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "COSTUME DESIGN",
+    "Name": "Janty Yates and Dave Crossman",
+    "Film": "Napoleon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "COSTUME DESIGN",
+    "Name": "Ellen Mirojnick",
+    "Film": "Oppenheimer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "COSTUME DESIGN",
+    "Name": "Holly Waddington",
+    "Film": "Poor Things",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DIRECTING",
+    "Name": "Justine Triet",
+    "Film": "Anatomy of a Fall",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DIRECTING",
+    "Name": "Martin Scorsese",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DIRECTING",
+    "Name": "Oppenheimer",
+    "Film": "Christopher Nolan",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DIRECTING",
+    "Name": "Poor Things",
+    "Film": "Yorgos Lanthimos",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DIRECTING",
+    "Name": "The Zone of Interest",
+    "Film": "Jonathan Glazer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Feature)",
+    "Name": "Moses Bwayo, Christopher Sharp and John Battsek",
+    "Film": "Bobi Wine: The People's President",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Feature)",
+    "Name": "Maite Alberdi",
+    "Film": "The Eternal Memory",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Feature)",
+    "Name": "Kaouther Ben Hania and Nadim Cheikhrouha",
+    "Film": "Four Daughters",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Feature)",
+    "Name": "Nisha Pahuja, Cornelia Principe and David Oppenheim",
+    "Film": "To Kill a Tiger",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Feature)",
+    "Name": "Mstyslav Chernov, Michelle Mizner and Raney Aronson-Rath",
+    "Film": "20 Days in Mariupol",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Name": "Sheila Nevins and Trish Adlesic",
+    "Film": "The ABCs of Book Banning",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Name": "John Hoffman and Christine Turner",
+    "Film": "The Barber of Little Rock",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Name": "S. Leo Chiang and Jean Tsien",
+    "Film": "Island in Between",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Name": "Ben Proudfoot and Kris Bowers",
+    "Film": "The Last Repair Shop",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "DOCUMENTARY (Short Subject)",
+    "Name": "Sean Wang and Sam Davis",
+    "Film": "Nǎi Nai & Wài Pó",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "FILM EDITING",
+    "Name": "Laurent Sénéchal",
+    "Film": "Anatomy of a Fall",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "FILM EDITING",
+    "Name": "Kevin Tent",
+    "Film": "The Holdovers",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "FILM EDITING",
+    "Name": "Thelma Schoonmaker",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "FILM EDITING",
+    "Name": "Jennifer Lame",
+    "Film": "Oppenheimer",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "FILM EDITING",
+    "Name": "Yorgos Mavropsaridis",
+    "Film": "Poor Things",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Name": "Italy",
+    "Film": "Io Capitano",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Name": "Japan",
+    "Film": "Perfect Days",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Name": "Spain",
+    "Film": "Society of the Snow",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Name": "Germany",
+    "Film": "The Teachers' Lounge",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "INTERNATIONAL FEATURE FILM",
+    "Name": "United Kingdom",
+    "Film": "The Zone of Interest",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Name": "Karen Hartley Thomas, Suzi Battersby and Ashra Kelly-Blue",
+    "Film": "Golda",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Name": "Kazu Hiro, Kay Georgiou and Lori McCoy-Bell",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Name": "Luisa Abel",
+    "Film": "Oppenheimer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Name": "Nadia Stacey, Mark Coulier and Josh Weston",
+    "Film": "Poor Things",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MAKEUP AND HAIRSTYLING",
+    "Name": "Ana López-Puigcerver, David Martí and Montse Ribé",
+    "Film": "Society of the Snow",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Score)",
+    "Name": "Laura Karpman",
+    "Film": "American Fiction",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Score)",
+    "Name": "John Williams",
+    "Film": "Indiana Jones and the Dial of Destiny",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Score)",
+    "Name": "Robbie Robertson",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Score)",
+    "Name": "Ludwig Göransson",
+    "Film": "Oppenheimer",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Score)",
+    "Name": "Jerskin Fendrix",
+    "Film": "Poor Things",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Song)",
+    "Name": "The Fire Inside\": Music and Lyric by Diane Warren",
+    "Film": "Flamin' Hot",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Song)",
+    "Name": "I'm Just Ken\": Music and Lyric by Mark Ronson and Andrew Wyatt",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Song)",
+    "Name": "It Never Went Away\": Music and Lyric by Jon Batiste and Dan Wilson",
+    "Film": "American Symphony",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Song)",
+    "Name": "Wahzhazhe (A Song For My People)\": Music and Lyric by Scott George",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "MUSIC (Original Song)",
+    "Name": "What Was I Made For?\": Music and Lyric by Billie Eilish and Finneas O'Connell",
+    "Film": "Barbie",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Ben LeClair, Nikos Karamigios, Cord Jefferson and Jermaine Johnson, Producers",
+    "Film": "American Fiction",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Marie-Ange Luciani and David Thion, Producers",
+    "Film": "Anatomy of a Fall",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "David Heyman, Margot Robbie, Tom Ackerley and Robbie Brenner, Producers",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Mark Johnson, Producer",
+    "Film": "The Holdovers",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Dan Friedkin, Bradley Thomas, Martin Scorsese and Daniel Lupi, Producers",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning and Kristie Macosko Krieger, Producers",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Emma Thomas, Charles Roven and Christopher Nolan, Producers",
+    "Film": "Oppenheimer",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "David Hinojosa, Christine Vachon and Pamela Koffler, Producers",
+    "Film": "Past Lives",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "Ed Guiney, Andrew Lowe, Yorgos Lanthimos and Emma Stone, Producers",
+    "Film": "Poor Things",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "BEST PICTURE",
+    "Name": "James Wilson, Producer",
+    "Film": "The Zone of Interest",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "PRODUCTION DESIGN",
+    "Name": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "PRODUCTION DESIGN",
+    "Name": "Production Design: Jack Fisk; Set Decoration: Adam Willis",
+    "Film": "Killers of the Flower Moon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "PRODUCTION DESIGN",
+    "Name": "Production Design: Arthur Max; Set Decoration: Elli Griff",
+    "Film": "Napoleon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "PRODUCTION DESIGN",
+    "Name": "Production Design: Ruth De Jong; Set Decoration: Claire Kaufman",
+    "Film": "Oppenheimer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "PRODUCTION DESIGN",
+    "Name": "Production Design: James Price and Shona Heath; Set Decoration: Zsuzsa Mihalek",
+    "Film": "Poor Things",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Animated)",
+    "Name": "Tal Kantor and Amit R. Gicelter",
+    "Film": "Letter to a Pig",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Animated)",
+    "Name": "Jerusha Hess and Jared Hess",
+    "Film": "Ninety-Five Senses",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Animated)",
+    "Name": "Yegane Moghaddam",
+    "Film": "Our Uniform",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Animated)",
+    "Name": "Stéphanie Clément and Marc Rius",
+    "Film": "Pachyderme",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Animated)",
+    "Name": "Dave Mullins and Brad Booker",
+    "Film": "WAR IS OVER! Inspired by the Music of John & Yoko",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Live Action)",
+    "Name": "Misan Harriman and Nicky Bentham",
+    "Film": "The After",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Live Action)",
+    "Name": "Vincent René-Lortie and Samuel Caron",
+    "Film": "Invincible",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Live Action)",
+    "Name": "Lasse Lyskjær Noer and Christian Norlyk",
+    "Film": "Knight of Fortune",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Live Action)",
+    "Name": "Nazrin Choudhury and Sara McFarlane",
+    "Film": "Red, White and Blue",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SHORT FILM (Live Action)",
+    "Name": "Wes Anderson and Steven Rales",
+    "Film": "The Wonderful Story of Henry Sugar",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SOUND",
+    "Name": "Ian Voigt, Erik Aadahl, Ethan Van der Ryn, Tom Ozanich and Dean Zupancic",
+    "Film": "The Creator",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SOUND",
+    "Name": "Steven A. Morrow, Richard King, Jason Ruder, Tom Ozanich and Dean Zupancic",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SOUND",
+    "Name": "Chris Munro, James H. Mather, Chris Burdon and Mark Taylor",
+    "Film": "Mission: Impossible - Dead Reckoning Part One",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SOUND",
+    "Name": "Willie Burton, Richard King, Gary A. Rizzo and Kevin O'Connell",
+    "Film": "Oppenheimer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "SOUND",
+    "Name": "Tarn Willers and Johnnie Burn",
+    "Film": "The Zone of Interest",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "VISUAL EFFECTS",
+    "Name": "Jay Cooper, Ian Comley, Andrew Roberts and Neil Corbould",
+    "Film": "The Creator",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "VISUAL EFFECTS",
+    "Name": "Takashi Yamazaki, Kiyoko Shibuya, Masaki Takahashi and Tatsuji Nojima",
+    "Film": "Godzilla Minus One",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "VISUAL EFFECTS",
+    "Name": "Stephane Ceretti, Alexis Wajsbrot, Guy Williams and Theo Bialek",
+    "Film": "Guardians of the Galaxy Vol. 3",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "VISUAL EFFECTS",
+    "Name": "Alex Wuttke, Simone Coco, Jeff Sutherland and Neil Corbould",
+    "Film": "Mission: Impossible - Dead Reckoning Part One",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "VISUAL EFFECTS",
+    "Name": "Charley Henley, Luc-Ewen Martin-Fenouillet, Simone Coco and Neil Corbould",
+    "Film": "Napoleon",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Adapted Screenplay)",
+    "Name": "Written for the screen by Cord Jefferson",
+    "Film": "American Fiction",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Adapted Screenplay)",
+    "Name": "Written by Greta Gerwig & Noah Baumbach",
+    "Film": "Barbie",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Adapted Screenplay)",
+    "Name": "Written for the screen by Christopher Nolan",
+    "Film": "Oppenheimer",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Adapted Screenplay)",
+    "Name": "Screenplay by Tony McNamara",
+    "Film": "Poor Things",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Adapted Screenplay)",
+    "Name": "Written by Jonathan Glazer",
+    "Film": "The Zone of Interest",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Original Screenplay)",
+    "Name": "Screenplay - Justine Triet and Arthur Harari",
+    "Film": "Anatomy of a Fall",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Original Screenplay)",
+    "Name": "Written by David Hemingson",
+    "Film": "The Holdovers",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Original Screenplay)",
+    "Name": "Written by Bradley Cooper & Josh Singer",
+    "Film": "Maestro",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Original Screenplay)",
+    "Name": "Screenplay by Samy Burch; Story by Samy Burch & Alex Mechanik",
+    "Film": "May December",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "WRITING (Original Screenplay)",
+    "Name": "Written by Celine Song",
+    "Film": "Past Lives",
+    "Status": "Nominee"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "Name": "Michelle Satter",
+    "Film": "",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "HONORARY AWARD",
+    "Name": "To Angela Bassett",
+    "Film": "",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "HONORARY AWARD",
+    "Name": "To Mel Brooks",
+    "Film": "",
+    "Status": "Winner"
+  },
+  {
+    "Film Year": 2023,
+    "Ceremony Year": 2024,
+    "Category": "HONORARY AWARD",
+    "Name": "To Carol Littleton",
+    "Film": "",
+    "Status": "Winner"
   }
 ]
