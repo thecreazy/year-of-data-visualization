@@ -6,6 +6,8 @@ import { format } from 'prettier';
 
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
+import { VerticalLabels } from './layers/VerticalLabels';
+
 const NivoBar = ({
   data,
   keys,
@@ -31,11 +33,14 @@ const NivoBar = ({
   },
   xtickRotation = 0,
   enableLabel = true,
+  enableLabelMobile = true,
   borderColor,
   borderWidth,
   minValue,
   labelSkipWidth = 12,
   labelSkipHeight = 12,
+  verticalLabels = false,
+  noVerticalLabelsMobile = true,
 }) => {
   const { isSmallScreen } = useScreenDetect();
   theme.text.fontSize = isSmallScreen ? 8 : theme.text.fontSize;
@@ -115,6 +120,13 @@ const NivoBar = ({
 
   const layers = ['grid', 'axes', 'bars', 'markers', 'legends', 'annotations'];
 
+  if (isSmallScreen && !noVerticalLabelsMobile) {
+    layers.push(VerticalLabels);
+  }
+  if (!isSmallScreen && verticalLabels) {
+    layers.push(VerticalLabels);
+  }
+
   return (
     <ResponsiveBar
       data={data}
@@ -151,7 +163,7 @@ const NivoBar = ({
               modifiers: [['brighter', 1.6]],
             }
       }
-      enableLabel={enableLabel}
+      enableLabel={isSmallScreen ? enableLabelMobile : enableLabel}
       legends={legend}
       theme={theme}
       minValue={minValue}
