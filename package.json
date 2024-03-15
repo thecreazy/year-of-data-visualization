@@ -38,7 +38,7 @@
     "@vercel/analytics": "^1.2.0",
     "@vercel/speed-insights": "^1.0.10",
     "antd": "^5.14.2",
-    "chart.js": "^4.4.0",
+    "chart.js": "^4.4.2",
     "csvtojson": "^2.0.10",
     "dat.gui": "^0.7.9",
     "dayjs": "^1.11.10",
