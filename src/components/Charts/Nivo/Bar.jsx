@@ -1,6 +1,8 @@
 'use client';
 
 import { ResponsiveBar } from '@nivo/bar';
+import dayjs from 'dayjs';
+import { format } from 'prettier';
 
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 
@@ -56,6 +58,7 @@ const NivoBar = ({
     legendOffset: -40,
     truncateTickAt: truncateTickAt,
   };
+  let tooltip = undefined;
 
   let formatY = yFormat;
   if (yFormat === 'b') {
@@ -84,6 +87,30 @@ const NivoBar = ({
   }
   if (xFormat === '$') {
     formatY = (value) => `${value}$`;
+  }
+  if (xFormat === 'date') {
+    xAxisDetail.format = (el) => {
+      return dayjs(el).format('YYYY-MM-DD');
+    };
+    tooltip = (a) => {
+      return (
+        <div
+          style={{
+            padding: 12,
+            color: 'black',
+            background: 'white',
+          }}
+        >
+          <span style={{ color: a.color }}>
+            {a.id} {' - '} {dayjs(a.indexValue).format('YYYY-MM-DD')}:
+            <b style={{ color: 'black' }}>
+              {'  '}
+              {a.value}
+            </b>
+          </span>
+        </div>
+      );
+    };
   }
 
   const layers = ['grid', 'axes', 'bars', 'markers', 'legends', 'annotations'];
@@ -128,6 +155,7 @@ const NivoBar = ({
       legends={legend}
       theme={theme}
       minValue={minValue}
+      tooltip={tooltip}
     />
   );
 };
