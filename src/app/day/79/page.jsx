@@ -113,7 +113,7 @@ const Page79 = () => {
       </section>
 
       <p className='text-center text-xs'>
-        All data are updated at 02/2024 and taken from{' '}
+        All data are updated at 03/2024 and taken from{' '}
         <a
           className='text-[#FF6978] font-bold'
           href='https://dataunodc.un.org/dp-drug-use-prevalence'

@@ -154,7 +154,7 @@ const Page78 = () => {
         </div>
       </section>
       <p className='text-center text-xs'>
-        All data are updated at 02/2024 and taken from{' '}
+        All data are updated at 03/2024 and taken from{' '}
         <a
           className='text-[#99627a] font-bold'
           href='https://dataunodc.un.org/dp-prisons-persons-entering'
