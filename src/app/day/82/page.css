@@ -1,0 +1,33 @@
+:root {
+  --main-text-color: #291720;
+  --bg-color: #fcf5ed;
+}
+#data-82 {
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
+
+#data-82 h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#data-82 .select_transparent__control {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+#data-82 .select_transparent__single-value {
+  color: var(--main-text-color);
+  font-weight: bold;
+}
+
+#data-82 .select_transparent__dropdown-indicator {
+  color: var(--main-text-color);
+}
+
+#data-82 .select_transparent__option {
+  font-size: 20px;
+}

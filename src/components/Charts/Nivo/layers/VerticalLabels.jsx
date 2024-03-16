@@ -5,7 +5,6 @@ export const VerticalLabels = ({ bars, labelSkipWidth, labelSkipHeight }) => {
         if (width < labelSkipWidth) return null;
         if (height < labelSkipHeight) return null;
         const yPosition = y + height / 2;
-        console.log(yPosition, formattedValue);
         return (
           <text
             key={`${x}.${y}`}
