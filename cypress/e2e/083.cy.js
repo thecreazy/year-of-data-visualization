@@ -1,0 +1,33 @@
+describe('83 page video', () => {
+  it('passes', () => {
+    cy.visit('/day/83');
+    cy.wait(3000);
+    cy.scrollTo(0, 600, { duration: 3000 });
+    cy.scrollTo(0, 1500, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 2250, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 3050, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 3700, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 4400, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 5150, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 5700, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 6100, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 6600, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 7400, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 8100, { duration: 2000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 10550, { duration: 5000 });
+    cy.wait(2000);
+    cy.scrollTo(0, 12400, { duration: 2000 });
+    cy.wait(2000);
+  });
+});
