@@ -1,0 +1,64 @@
+.back-button {
+  color: #222;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 24px;
+  position: relative;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.back-button .bg {
+  background: var(--main-text-color);
+  width: 30px;
+  height: 2px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -1px;
+  opacity: 0;
+
+  -webkit-transition: all 0.3s;
+
+  -o-transition: all 0.3s;
+
+  transition: all 0.3s;
+}
+
+.back-button:hover h2 {
+  opacity: 0.2;
+}
+.back-button:hover .bg {
+  left: 0;
+  opacity: 1;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+}
+
+.back-button .bg:before,
+.back-button .bg:after {
+  content: '';
+  height: 2px;
+  width: 10px;
+  background: var(--main-text-color);
+  position: absolute;
+  left: -2px;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.back-button .bg:before {
+  bottom: 3px;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.back-button .bg:after {
+  top: 3px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
