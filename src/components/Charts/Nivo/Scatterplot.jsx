@@ -15,6 +15,7 @@ const NivoScatterPlot = ({
   legends,
   colors,
   showSerieId = false,
+  showCustomId,
   xFormat,
   yFormat,
 }) => {
@@ -41,7 +42,9 @@ const NivoScatterPlot = ({
             boxShadow: '2px 2px 5px #958e8e',
           }}
         >
-          <strong>{showSerieId ? `${node.serieId}:` : node.id}</strong>
+          {!!showSerieId && <strong>{node.serieId}</strong>}
+          {!!showCustomId && <strong>{node.data[showCustomId]}</strong>}
+          {!showSerieId && !showCustomId && <strong>{node.id}</strong>}
           <br />
           {` ${axisBottom.legend}:`} <strong>{node.formattedX}</strong>
           <br />
