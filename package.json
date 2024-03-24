@@ -9,7 +9,7 @@
     "lint": "next lint",
     "format": "prettier --check --ignore-path .gitignore .",
     "format:fix": "prettier --write --ignore-path .gitignore .",
-    "prepare": "husky install",
+    "prepare": "husky",
     "lint-staged": "lint-staged",
     "serve": "serve out",
     "generate:video": "CYPRESS_NO_COMMAND_LOG=1 cypress run --e2e --headless --no-runner-ui",
