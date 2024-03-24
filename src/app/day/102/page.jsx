@@ -172,7 +172,7 @@ const Page102 = () => {
       </section>
       <section id='ratio-year-song-view' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Song's views per released year
+          Song&apos;s views per released year
         </h3>
         <div className='mb-[20px] flex h-[700px] w-full justify-center max-md:h-[400px] max-xl:h-[500px]'>
           <NivoScatterPlot
@@ -244,7 +244,7 @@ const Page102 = () => {
       </section>
       <section id='tag-cloud' className='mt-10'>
         <h3 className='py-2 font-mono text-3xl max-md:text-2xl text-center flex max-md:flex-col justify-center items-center'>
-          Most relevant song's categories
+          Most relevant song&apos;s categories
         </h3>
         <div className='w-full h-auto flex-row py-4 max-lg:overflow-scroll text-center'>
           <TagCloud data={cloudTag}></TagCloud>
