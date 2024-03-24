@@ -1,6 +1,6 @@
 export const metadata = {
-  title: `Day 89 | Minimum age for legal marriage without parental consent`,
-  description: `Analysis for each country on the difference in legal age for marriage`,
+  title: `Day 89 |orldwide Life expectancy`,
+  description: `Analysis of the life expectancy for each country and comparison with the birth rate`,
   openGraph: {
     images: [
       {
