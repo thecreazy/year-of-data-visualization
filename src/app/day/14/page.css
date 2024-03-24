@@ -9,10 +9,6 @@
   color: var(--main-text-color);
 }
 
-#data-14 h2 {
-  font-family: 'Dancing Script', cursive;
-}
-
 #data-14 .li-title,
 #data-14 .page-title {
   color: var(--title-text-color);

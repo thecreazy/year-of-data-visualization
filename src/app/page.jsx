@@ -10,7 +10,7 @@ const BackgroundAnimation = dynamic(
 
 export default function Home() {
   return (
-    <main className='flex min-h-screen flex-col items-center p-24'>
+    <main className='flex min-h-screen flex-col items-center p-24 max-md:p-10'>
       <BackgroundAnimation />
       <div className='relative z-0 flex place-items-center'>
         <Image

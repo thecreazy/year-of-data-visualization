@@ -7,10 +7,6 @@
   color: var(--main-text-color);
 }
 
-#data-54 h2 {
-  font-family: 'Dancing Script', cursive;
-}
-
 #data-54 .ant-table {
   background: transparent;
   border: 1px solid var(--main-text-color);

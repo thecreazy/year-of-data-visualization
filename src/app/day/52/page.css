@@ -7,10 +7,6 @@
   color: var(--main-text-color);
 }
 
-#data-52 h2 {
-  font-family: 'Dancing Script', cursive;
-}
-
 #data-52 .select_transparent__control {
   background: transparent;
   border: none;

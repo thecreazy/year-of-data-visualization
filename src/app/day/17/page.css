@@ -7,10 +7,6 @@
   color: var(--main-text-color);
 }
 
-#data-17 h2 {
-  font-family: 'Dancing Script', cursive;
-}
-
 #data-17 .top {
   z-index: 1;
 }

@@ -9,6 +9,11 @@
   transition: all 0.3s;
 }
 
+.back-button h2 {
+  font-family: 'Dancing Script', cursive;
+  color: var(--main-text-color);
+}
+
 .back-button .bg {
   background: var(--main-text-color);
   width: 30px;
