@@ -100,6 +100,7 @@ import { infos as metadata93 } from '../../app/day/93/config';
 import { infos as metadata94 } from '../../app/day/94/config';
 import { infos as metadata102 } from '../../app/day/102/config';
 import { infos as metadata103 } from '../../app/day/103/config';
+import { infos as metadata109 } from '../../app/day/109/config';
 
 const metadata = {
   1: metadata1,
@@ -198,6 +199,7 @@ const metadata = {
   94: metadata94,
   102: metadata102,
   103: metadata103,
+  109: metadata109,
 };
 
 dayjs.extend(dayOfYear);

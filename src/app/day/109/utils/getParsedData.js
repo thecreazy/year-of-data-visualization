@@ -34,11 +34,11 @@ export const byGender = rawData.reduce((acc, curr) => {
 }, []);
 
 const formatEmployees = (employee) => {
+  if (employee < 50) return '<50';
   if (employee < 100) return '<100';
   if (employee < 500) return '<500';
   if (employee < 1000) return '<1000';
   if (employee < 10000) return '<10000';
-  if (employee < 25000) return '<25000';
   return '>10000';
 };
 
