@@ -2,20 +2,22 @@ import rawData from '../data/values.json';
 
 export const total = rawData.length;
 
-export const byIndustry = rawData.reduce((acc, curr) => {
-  const formattedValue = curr.Industry;
-  const foundEntry = acc.findIndex((el) => el.industry === formattedValue);
-  if (foundEntry !== -1) {
-    acc[foundEntry].companies += 1;
-  } else {
-    const newEntry = {
-      industry: curr.Industry,
-      companies: 1,
-    };
-    acc.push(newEntry);
-  }
-  return acc;
-}, []);
+export const byIndustry = rawData
+  .reduce((acc, curr) => {
+    const formattedValue = curr.Industry;
+    const foundEntry = acc.findIndex((el) => el.industry === formattedValue);
+    if (foundEntry !== -1) {
+      acc[foundEntry].companies += 1;
+    } else {
+      const newEntry = {
+        industry: curr.Industry,
+        companies: 1,
+      };
+      acc.push(newEntry);
+    }
+    return acc;
+  }, [])
+  .filter((curr) => curr.companies > 10);
 
 export const byGender = rawData.reduce((acc, curr) => {
   const formattedLabel = curr['Ceo gender'] || 'Unknown';

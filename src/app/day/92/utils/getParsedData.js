@@ -58,25 +58,6 @@ export const byEmployees = rawData.reduce((acc, curr) => {
   return acc;
 }, []);
 
-export const byNeighbourhood = rawData
-  .reduce((acc, curr) => {
-    const foundEntry = acc.findIndex(
-      (el) => el.neighbourhood === curr.neighbourhood
-    );
-    if (foundEntry !== -1) {
-      acc[foundEntry].value += 1;
-    } else {
-      const newEntry = {
-        neighbourhood: curr.neighbourhood,
-        value: 1,
-      };
-      acc.push(newEntry);
-    }
-    return acc;
-  }, [])
-  .sort((a, b) => b.value - a.value)
-  .slice(0, 20);
-
 export const ratio = [
   {
     id: 'Companies',
