@@ -28,6 +28,7 @@ export const clearGenderData = (raw) => {
       year: Number(`${el.year}`.replace(/[,]/g, '')),
       value: Number(el.value),
       source: el.source,
+      region: el.region,
     };
   });
 };

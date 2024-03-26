@@ -98,6 +98,7 @@ import { infos as metadata91 } from '../../app/day/91/config';
 import { infos as metadata92 } from '../../app/day/92/config';
 import { infos as metadata93 } from '../../app/day/93/config';
 import { infos as metadata94 } from '../../app/day/94/config';
+import { infos as metadata95 } from '../../app/day/95/config';
 import { infos as metadata102 } from '../../app/day/102/config';
 import { infos as metadata103 } from '../../app/day/103/config';
 import { infos as metadata109 } from '../../app/day/109/config';
