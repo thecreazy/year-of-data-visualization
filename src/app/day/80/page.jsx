@@ -117,7 +117,6 @@ const Page80 = () => {
             margin={{ left: 70, bottom: 50, top: 70 }}
             mobileMargin={{ left: 30, bottom: 50 }}
             mobileLayout='vertical'
-            yFormat='b'
             layout='vertical'
             legend={[
               {
@@ -155,7 +154,7 @@ const Page80 = () => {
         All data are updated at the end of 03/2024 and taken from{' '}
         <a
           className='text-[#484848] font-bold'
-          href='https://finance.yahoo.com/quote/META'
+          href='https://finance.yahoo.com/quote/DIS'
           rel='noopener noreferrer'
           target='_blank'
         >

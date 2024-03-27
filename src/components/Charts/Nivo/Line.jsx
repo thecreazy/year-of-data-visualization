@@ -17,6 +17,7 @@ const NivoLine = ({
   yScale = { type: 'linear' },
   markers,
   yFormat = '>-.2f',
+  enableSlices = 'x',
 }) => {
   const { isSmallScreen } = useScreenDetect();
   const axisBottomFormatedd = {
@@ -26,6 +27,7 @@ const NivoLine = ({
   let formatY = yFormat;
   if (yFormat === 'b') axisLeft.format = (value) => `${value}B$`;
   if (yFormat === 'b') formatY = (value) => `${value}B$`;
+
   return (
     <ResponsiveLine
       data={data}
@@ -46,7 +48,7 @@ const NivoLine = ({
       legends={[]}
       enablePoints={enablePoints}
       markers={markers}
-      enableSlices='x'
+      enableSlices={enableSlices}
     />
   );
 };
