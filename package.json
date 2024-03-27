@@ -25,7 +25,7 @@
     "@nivo/calendar": "^0.84.0",
     "@nivo/geo": "^0.85.1",
     "@nivo/heatmap": "^0.84.0",
-    "@nivo/line": "^0.84.0",
+    "@nivo/line": "^0.85.1",
     "@nivo/pie": "^0.85.1",
     "@nivo/radar": "^0.84.0",
     "@nivo/radial-bar": "^0.84.0",
