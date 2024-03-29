@@ -34,10 +34,58 @@ export const getBasketData = (seasonData, playoffData) => {
     };
   });
 
+  const bumpValuesSeason = seasonData.reduce(
+    (acc, current) => {
+      acc[0].data.push({
+        x: current.season,
+        y: Number(current.pointPercentage),
+      });
+      acc[1].data.push({
+        x: current.season,
+        y: Number(current.freeThrowsPercentage),
+      });
+      acc[2].data.push({
+        x: current.season,
+        y: Number(current['3pointPercentage']),
+      });
+      return acc;
+    },
+    [
+      { id: 'Field Goal %', data: [] },
+      { id: 'Free Throw %', data: [] },
+      { id: '3-Point %', data: [] },
+    ]
+  );
+
+  const bumpValuesPlayoff = playoffData.reduce(
+    (acc, current) => {
+      acc[0].data.push({
+        x: current.season,
+        y: Number(current.pointPercentage),
+      });
+      acc[1].data.push({
+        x: current.season,
+        y: Number(current.freeThrowsPercentage),
+      });
+      acc[2].data.push({
+        x: current.season,
+        y: Number(current['3pointPercentage']),
+      });
+      return acc;
+    },
+    [
+      { id: 'Field Goal %', data: [] },
+      { id: 'Free Throw %', data: [] },
+      { id: '3-Point %', data: [] },
+    ]
+  );
+
   return {
     pointsSesonData,
     pointsPlayoffData,
     radarPlayoffData,
     radarSeasonData,
+    bumpValuesSeason,
+    bumpValuesPlayoff,
   };
 };

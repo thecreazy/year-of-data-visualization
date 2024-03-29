@@ -4,6 +4,7 @@ import './page.css';
 
 import Ball from '@internal/components/Ball';
 import NivoBar from '@internal/components/Charts/Nivo/Bar';
+import NivoBump from '@internal/components/Charts/Nivo/Bump';
 import NivoPercentage from '@internal/components/Charts/Nivo/Percentage';
 import NivoRadar from '@internal/components/Charts/Nivo/Radar';
 import { getBasketData } from '@internal/utils/getBasketData';
@@ -18,10 +19,11 @@ const {
   pointsPlayoffData,
   radarSeasonData,
   radarPlayoffData,
+  bumpValuesSeason,
+  bumpValuesPlayoff,
 } = getBasketData(seasonData, playoffData);
 
 const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
-const Bump = dynamic(() => import('./components/Bump'), { ssr: false });
 
 const Page81 = () => {
   return (
@@ -150,7 +152,50 @@ const Page81 = () => {
         <div className='flex flex-row py-16 max-md:hidden max-md:h-fit max-md:flex-wrap  max-md:py-4'>
           <div className='stats-radar basis-full'>
             <p className='text-center font-mono text-lg'>Trend per year</p>
-            <Bump data={seasonData} />
+            <NivoBump
+              values={bumpValuesSeason}
+              colors={{ scheme: 'spectral' }}
+              lineWidth={3}
+              activeLineWidth={6}
+              inactiveLineWidth={3}
+              pointSize={10}
+              activePointSize={16}
+              inactivePointSize={0}
+              pointColor={{ theme: 'background' }}
+              theme={{
+                grid: {
+                  line: { stroke: '#ababab' },
+                },
+              }}
+              pointBorderWidth={3}
+              activePointBorderWidth={3}
+              axisTop={{
+                tickSize: 5,
+                tickPadding: 5,
+                tickRotation: 0,
+                legend: '',
+                legendPosition: 'middle',
+                legendOffset: -36,
+              }}
+              axisBottom={{
+                tickSize: 5,
+                tickPadding: 5,
+                tickRotation: 0,
+                legend: '',
+                legendPosition: 'middle',
+                legendOffset: 32,
+              }}
+              axisLeft={{
+                tickSize: 5,
+                tickPadding: 5,
+                tickRotation: 0,
+                legend: 'ranking',
+                legendPosition: 'middle',
+                legendOffset: -40,
+              }}
+              margin={{ top: 40, right: 100, bottom: 40, left: 60 }}
+              axisRight={null}
+            />
           </div>
         </div>
         <div className='h-data flex flex-row py-16 max-lg:overflow-scroll'>
@@ -249,7 +294,50 @@ const Page81 = () => {
         <div className='flex flex-row py-16 max-md:hidden max-md:h-fit max-md:flex-wrap  max-md:py-4'>
           <div className='stats-radar basis-full'>
             <p className='text-center font-mono text-lg'>Trend per year</p>
-            <Bump data={playoffData} />
+            <NivoBump
+              values={bumpValuesPlayoff}
+              colors={{ scheme: 'spectral' }}
+              lineWidth={3}
+              activeLineWidth={6}
+              inactiveLineWidth={3}
+              pointSize={10}
+              activePointSize={16}
+              inactivePointSize={0}
+              pointColor={{ theme: 'background' }}
+              theme={{
+                grid: {
+                  line: { stroke: '#ababab' },
+                },
+              }}
+              pointBorderWidth={3}
+              activePointBorderWidth={3}
+              axisTop={{
+                tickSize: 5,
+                tickPadding: 5,
+                tickRotation: 0,
+                legend: '',
+                legendPosition: 'middle',
+                legendOffset: -36,
+              }}
+              axisBottom={{
+                tickSize: 5,
+                tickPadding: 5,
+                tickRotation: 0,
+                legend: '',
+                legendPosition: 'middle',
+                legendOffset: 32,
+              }}
+              axisLeft={{
+                tickSize: 5,
+                tickPadding: 5,
+                tickRotation: 0,
+                legend: 'ranking',
+                legendPosition: 'middle',
+                legendOffset: -40,
+              }}
+              margin={{ top: 40, right: 100, bottom: 40, left: 60 }}
+              axisRight={null}
+            />
           </div>
         </div>
         <div className='flex h-auto flex-row py-16 max-lg:overflow-scroll'>
