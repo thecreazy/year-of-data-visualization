@@ -18,7 +18,7 @@ export default function DayLayout(props) {
             <h2 className='py-2 text-3xl font-bold'>
               Day {children.props.childPropSegment}
             </h2>
-            <span class='bg'></span>
+            <span className='bg'></span>
           </Link>
         </div>
         {children}

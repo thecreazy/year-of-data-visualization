@@ -19,7 +19,6 @@ export const byProfit = rawData
   .reduce((acc, curr) => {
     if (!curr.Profit) return acc;
     const formattedValue = formatPrice(formatNumber(curr.Profit));
-    if (formattedValue === '0B') console.log(curr.Profit);
     const foundEntry = acc.findIndex(
       (el) => el.profit === formattedValue.formatted
     );

@@ -2,7 +2,6 @@
 
 import { ResponsiveBar } from '@nivo/bar';
 import dayjs from 'dayjs';
-import { format } from 'prettier';
 
 import { useScreenDetect } from '@internal/hooks/useScreenDetect';
 

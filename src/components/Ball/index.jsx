@@ -4,10 +4,10 @@ const Ball = () => {
   return (
     <div className='ball-container absolute'>
       <div className='ball'>
-        <div class='basketball-stripes'></div>
-        <div class='basketball-stripes horizontal'></div>
-        <div class='sidestripe-left'></div>
-        <div class='sidestripe-right'></div>
+        <div className='basketball-stripes'></div>
+        <div className='basketball-stripes horizontal'></div>
+        <div className='sidestripe-left'></div>
+        <div className='sidestripe-right'></div>
       </div>
       <div className='shadow'></div>
     </div>

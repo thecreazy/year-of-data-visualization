@@ -2,29 +2,29 @@ import './style.css';
 
 const MusicBars = () => {
   return (
-    <div class='music'>
-      <div class='bars'>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
-        <div class='pixel'></div>
+    <div className='music'>
+      <div className='bars'>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
+        <div className='pixel'></div>
       </div>
     </div>
   );
