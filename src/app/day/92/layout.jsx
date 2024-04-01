@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Day 92 | Public Companies In Spain',
-  description: `Analysis of the public companies in Spain by Employees, Industry and Revenues`,
+  title: 'Day 92 | Public Companies In Italy',
+  description: `Analysis of the public companies in Italy by Employees, Industry and Revenues`,
   openGraph: {
     images: [
       {
