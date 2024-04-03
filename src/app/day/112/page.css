@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+:root {
+  --main-color: #393939;
+  --main-text-color: #552583;
+  --gradient-text-color: #9e71c8;
+  --gradient-bg-color: #250247;
+  --bg-color: #f5ebff;
+}
+
+#data-112 {
+  background-color: var(--bg-color);
+  color: var(--main-color);
+  background: linear-gradient(184deg, #f7f7f7 0%, #f5ebff 100%);
+}
+
+#data-112 {
+  color: var(--main-color);
+}
+
+#data-112 h2,
+#data-112 h1,
+#data-112 span,
+#data-112 h3 {
+  color: var(--main-text-color);
+}
+
+#data-112 span {
+  font-weight: 600;
+}
+
+#data-112 h1,
+#data-112 h3 {
+  color: transparent;
+  background: linear-gradient(
+    to left,
+    var(--main-text-color),
+    var(--gradient-text-color)
+  );
+  background-size: 1000px 100%;
+  animation: bg 15s linear infinite;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+#data-112 .stats-percentage {
+  height: 250px;
+}
+
+#data-112 .stats-radar {
+  height: 500px;
+}
+
+#data-112 .background {
+  position: fixed;
+  top: -1000px;
+  left: -519px;
+  right: 0;
+  bottom: 0;
+  font-family: Cabin Sketch;
+  font-size: 120px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100vh;
+  width: 150vw;
+  opacity: 0.1;
+  transform: rotate(327deg);
+}
+
+#data-112 .logo-background {
+  position: fixed;
+  top: 0;
+  opacity: 0.1;
+}
