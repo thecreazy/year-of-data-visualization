@@ -20,15 +20,7 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
       nodeColor: '#FDB927',
     },
     {
-      id: 'Philadelphia 76ers',
-      nodeColor: '#FDB927',
-    },
-    {
-      id: 'Denver Nuggets',
-      nodeColor: '#FDB927',
-    },
-    {
-      id: 'Detroit Pistons',
+      id: 'San Antonio Spurs',
       nodeColor: '#FDB927',
     },
     {
@@ -39,15 +31,11 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
 
   let totalSeasons = {
     total: 0,
-    PHI: 0,
-    DEN: 0,
-    DET: 0,
+    SAS: 0,
   };
   let totalPlayoff = {
     total: 0,
-    PHI: 0,
-    DEN: 0,
-    DET: 0,
+    SAS: 0,
   };
   const seasonLinks = dt1.map((el) => {
     totalSeasons.total += Number(el.points);
@@ -74,48 +62,19 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
     ...playoffLinks,
     {
       source: 'Season',
-      target: 'Philadelphia 76ers',
-      value: totalSeasons.PHI,
+      target: 'San Antonio Spurs',
+      value: totalSeasons.SAS,
     },
     {
       source: 'Playoff',
-      target: 'Philadelphia 76ers',
-      value: totalPlayoff.PHI,
+      target: 'San Antonio Spurs',
+      value: totalPlayoff.SAS,
     },
+
     {
-      source: 'Season',
-      target: 'Denver Nuggets',
-      value: totalSeasons.DEN,
-    },
-    {
-      source: 'Playoff',
-      target: 'Denver Nuggets',
-      value: totalPlayoff.DEN,
-    },
-    {
-      source: 'Season',
-      target: 'Detroit Pistons',
-      value: totalSeasons.DET,
-    },
-    {
-      source: 'Playoff',
-      target: 'Detroit Pistons',
-      value: totalPlayoff.DET,
-    },
-    {
-      source: 'Philadelphia 76ers',
+      source: 'San Antonio Spurs',
       target: 'Total Scored',
-      value: totalPlayoff.PHI + totalSeasons.PHI,
-    },
-    {
-      source: 'Denver Nuggets',
-      target: 'Total Scored',
-      value: totalPlayoff.DEN + totalSeasons.DEN,
-    },
-    {
-      source: 'Detroit Pistons',
-      target: 'Total Scored',
-      value: totalPlayoff.DET + totalSeasons.DET,
+      value: totalPlayoff.SAS + totalSeasons.SAS,
     },
   ];
 
@@ -159,12 +118,11 @@ const MyResponsiveSankey = ({ dt1, dt2 }) => {
       }}
       layout='vertical'
       colors={[
-        ...new Array(14).fill('#FFC72C'),
-        '#FF8270',
-        '#D85A8A',
-        '#006BB6',
-        '#0E2240',
-        '#C8102E',
+        ...new Array(19).fill('#ff8200'),
+        '#ef426f',
+        '#00b2a9',
+        '#8a8d8f',
+        '#ff8200',
       ]}
     />
   );

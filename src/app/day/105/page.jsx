@@ -28,36 +28,39 @@ const Sankey = dynamic(() => import('./components/Sankey'), { ssr: false });
 const Page93 = () => {
   return (
     <>
-      <div className='logo-background h-[50vw] w-[50vw]'>
-        <Flag />
-      </div>
       <section id='infos'>
         <h1 className='py-2 font-mono text-4xl font-bold'>
-          Allen Iverson Statistics data
+          Tim Duncan Statistics data
         </h1>
         <p className='py-2 font-mono text-lg'>
-          Allen Iverson played <span>14</span> seasons for <span>4</span> teams,
-          including the 76ers and Nuggets. He averaged <span>26.7</span> points,{' '}
-          <span>6.2</span> assists, <span>3.7</span> rebounds and{' '}
-          <span>2.2</span> steals in <span>914</span> regular-season games. He
-          was selected to play in <span>11</span> All-Star games. He won the
-          Rookie of the Year award and <span>1</span> MVP award. He was inducted
-          into the Hall of Fame in <span>2016</span>.
+          Tim Duncan played <span>19</span> seasons for the Spurs. He averaged{' '}
+          <span>19.0</span> points, <span>10.8</span> rebounds, <span>3.0</span>{' '}
+          assists and <span>2.2</span> blocks in <span>1,392</span>{' '}
+          regular-season games. He was selected to play in <span>15</span>{' '}
+          All-Star games. He won the Rookie of the Year award, <span>2</span>{' '}
+          MVP awards, <span>3</span> Finals MVP awards and <span>5</span> NBA
+          championships. He was inducted into the Hall of Fame in{' '}
+          <span>2020</span>.
         </p>
         <p className='py-2 font-mono text-lg font-bold'>
           <span>Awards:</span>
         </p>
         <ul className='list-disc py-2'>
-          <li>MVP (2001)</li>
-          <li>Rookie Of The Year (1997)</li>
+          <li>5x NBA Champion (1999, 2003, 2005, 2007, 2014)</li>
+          <li>2x MVP (2002, 2003)</li>
+          <li>Rookie Of The Year (1998)</li>
+          <li>3x Finals MVP (1999, 2003, 2005)</li>
           <li>
-            11x All-Star (2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008,
-            2009, 2010)
+            15x All-Star (1998, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007,
+            2008, 2009, 2010, 2011, 2013, 2015)
           </li>
-          <li>3x All-NBA 1st Team (1999, 2001, 2005)</li>
-          <li>3x All-NBA 2nd Team (2000, 2002, 2003)</li>
-          <li>All-NBA 3rd Team (2006)</li>
-          <li>All-Rookie 1st Team (1997)</li>
+          <li>
+            10x All-NBA 1st Team (1998, 1999, 2000, 2001, 2002, 2003, 2004,
+            2005, 2007, 2013)
+          </li>
+          <li>3x All-NBA 2nd Team (2006, 2008, 2009)</li>
+          <li>2x All-NBA 3rd Team (2010, 2015)</li>
+          <li>All-Rookie 1st Team (1998)</li>
         </ul>
       </section>
       <section id='regular-season'>
@@ -69,8 +72,8 @@ const Page93 = () => {
               data={49.9}
               max={100}
               percentage={49.9}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg'>
               Field Goal Percentage
@@ -81,8 +84,8 @@ const Page93 = () => {
               data={88.6}
               max={100}
               percentage={88.6}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
 
             <p className='text-center font-mono text-lg'>
@@ -94,8 +97,8 @@ const Page93 = () => {
               data={38.6}
               max={100}
               percentage={38.6}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg'>3-Point Percentage</p>
           </div>
@@ -104,8 +107,8 @@ const Page93 = () => {
               data={27331}
               max={38995}
               percentage={((27331 / 38995) * 100).toFixed(1)}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg'>Points scored</p>
           </div>
@@ -116,7 +119,7 @@ const Page93 = () => {
             <NivoRadar
               data={radarSeasonData}
               keys={Object.keys(radarSeasonData[0]).slice(1)}
-              colors={['#ED174C', '#006BB6', '#002B5C']}
+              colors={['#ff8200', '#00b2a9', '#ef426f']}
               indexBy='season'
               maxValue={100}
               theme={{
@@ -140,7 +143,7 @@ const Page93 = () => {
               keys={['Points']}
               margin={{ top: 30, bottom: 50, left: 100 }}
               mobileMargin={{ top: 30, bottom: 50, left: 30 }}
-              colors={['#ED174C']}
+              colors={['#ff8200']}
               labelTextColor='white'
             />
           </div>
@@ -150,7 +153,7 @@ const Page93 = () => {
             <p className='text-center font-mono text-lg'>Trend per year</p>
             <NivoBump
               values={bumpValuesSeason}
-              colors={['#ED174C', '#002B5C', '#006BB6']}
+              colors={['#ff8200', '#00b2a9', '#ef426f']}
               lineWidth={3}
               activeLineWidth={6}
               inactiveLineWidth={3}
@@ -207,8 +210,8 @@ const Page93 = () => {
               data={47.6}
               max={100}
               percentage={47.6}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg '>
               Field Goal Percentage
@@ -219,8 +222,8 @@ const Page93 = () => {
               data={86.9}
               max={100}
               percentage={86.9}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg'>
               Free Throw Percentage
@@ -231,8 +234,8 @@ const Page93 = () => {
               data={35.5}
               max={100}
               percentage={35.5}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg max-md:basis-full'>
               3-Point Percentage
@@ -243,8 +246,8 @@ const Page93 = () => {
               data={4878}
               max={8023}
               percentage={((4878 / 8023) * 100).toFixed(1)}
-              colors={['#ED174C']}
-              tracksColor='#006BB6'
+              colors={['#000000']}
+              tracksColor='#ef426f'
             />
             <p className='text-center font-mono text-lg'>Points scored</p>
           </div>
@@ -255,7 +258,7 @@ const Page93 = () => {
             <NivoRadar
               data={radarPlayoffData}
               keys={Object.keys(radarPlayoffData[0]).slice(1)}
-              colors={['#ED174C', '#006BB6', '#002B5C']}
+              colors={['#ff8200', '#00b2a9', '#ef426f']}
               indexBy='season'
               maxValue={100}
               theme={{
@@ -279,7 +282,7 @@ const Page93 = () => {
               keys={['Points']}
               margin={{ top: 30, bottom: 50, left: 100 }}
               mobileMargin={{ top: 30, bottom: 50, left: 30 }}
-              colors={['#ED174C']}
+              colors={['#ff8200']}
               labelTextColor='white'
             />
           </div>
@@ -289,7 +292,7 @@ const Page93 = () => {
             <p className='text-center font-mono text-lg'>Trend per year</p>
             <NivoBump
               values={bumpValuesPlayoff}
-              colors={['#ED174C', '#002B5C', '#006BB6']}
+              colors={['#ff8200', '#00b2a9', '#ef426f']}
               lineWidth={3}
               activeLineWidth={6}
               inactiveLineWidth={3}
@@ -345,10 +348,10 @@ const Page93 = () => {
       </section>
       <Ball />
       <p className='text-center text-xs'>
-        All data are updated at the end of the 2023 and taken from the{' '}
+        All data are updated at 04/2024 and taken from{' '}
         <a
-          className='text-[#ed174c]'
-          href='https://www.nba.com/stats/player/947/career'
+          className='text-[#ff8200]'
+          href='https://www.nba.com/stats/player/1495/career'
           rel='noopener noreferrer'
           target='_blank'
         >

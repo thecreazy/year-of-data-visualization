@@ -1,4 +1,4 @@
 export const infos = {
-  title: `Allen Iverson Statistics`,
-  description: `Allen Iverson played 14 seasons for 4 teams, including the 76ers and Nuggets. He averaged 26.7 points, 6.2 assists, 3.7 rebounds and 2.2 steals in 914 regular-season games. He was selected to play in 11 All-Star games. He won the Rookie of the Year award and 1 MVP award. He was inducted into the Hall of Fame in 2016.`,
+  title: `Tim Duncan Statistics`,
+  description: `Tim Duncan played 19 seasons for the Spurs. He averaged 19.0 points, 10.8 rebounds, 3.0 assists and 2.2 blocks in 1,392 regular-season games. He was selected to play in 15 All-Star games. He won the Rookie of the Year award, 2 MVP awards, 3 Finals MVP awards and 5 NBA championships. He was inducted into the Hall of Fame in 2020.`,
 };
