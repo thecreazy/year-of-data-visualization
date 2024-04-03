@@ -69,9 +69,5 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "serve": "^14.2.1",
     "tailwindcss": "^3.4.1"
-  },
-  "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.{js,css,md}": "prettier --write"
   }
 }
