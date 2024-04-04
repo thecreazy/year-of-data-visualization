@@ -50,7 +50,7 @@ const Page51 = () => {
       <section id='split' className='mt-2'>
         <div className='flex flex-row flex-wrap max-md:h-fit max-md:py-4 justify-center'>
           <div className='stats-radar basis-1/2 max-md:basis-full h-[400px]'>
-            <p className='text-center font-bold mb-4'>By Year</p>
+            <p className='text-center font-bold mb-4'>By Studio</p>
             <NivoPie
               data={byOwnership}
               margin={{ top: 30, left: 30, right: 30, bottom: 30 }}
@@ -71,7 +71,7 @@ const Page51 = () => {
             />
           </div>
           <div className='stats-radar basis-1/2 max-md:basis-full h-[400px]'>
-            <p className='text-center font-bold mb-4'>To 20 Industries</p>
+            <p className='text-center font-bold mb-4'>By Marvel Phase</p>
             <NivoPie
               data={byPhase}
               margin={{ top: 30, left: 30, right: 30, bottom: 30 }}
