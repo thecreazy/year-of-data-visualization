@@ -67,9 +67,9 @@ const Page112 = () => {
         <div className='flex flex-row py-16 max-md:h-fit max-md:flex-wrap max-md:py-4'>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={49.9}
+              data={52.0}
               max={100}
-              percentage={49.9}
+              percentage={52.0}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -79,9 +79,9 @@ const Page112 = () => {
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={88.6}
+              data={84.8}
               max={100}
-              percentage={88.6}
+              percentage={84.8}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -92,9 +92,9 @@ const Page112 = () => {
           </div>
           <div className='stats-percentage basis-1/4  max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={38.6}
+              data={30.3}
               max={100}
-              percentage={38.6}
+              percentage={30.3}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -102,9 +102,9 @@ const Page112 = () => {
           </div>
           <div className='stats-percentage basis-1/4  max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={27331}
+              data={17707}
               max={38995}
-              percentage={((27331 / 38995) * 100).toFixed(1)}
+              percentage={((17707 / 38995) * 100).toFixed(1)}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -205,9 +205,9 @@ const Page112 = () => {
         <div className='flex flex-row py-16 max-md:h-fit max-md:flex-wrap max-md:py-4'>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={47.6}
+              data={50.6}
               max={100}
-              percentage={47.6}
+              percentage={50.6}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -217,9 +217,9 @@ const Page112 = () => {
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={86.9}
+              data={83.8}
               max={100}
-              percentage={86.9}
+              percentage={83.8}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -229,9 +229,9 @@ const Page112 = () => {
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={35.5}
+              data={24.1}
               max={100}
-              percentage={35.5}
+              percentage={24.1}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
@@ -241,9 +241,9 @@ const Page112 = () => {
           </div>
           <div className='stats-percentage basis-1/4 max-md:basis-full max-md:pb-10'>
             <NivoPercentage
-              data={4878}
+              data={3701}
               max={8023}
-              percentage={((4878 / 8023) * 100).toFixed(1)}
+              percentage={((3701 / 8023) * 100).toFixed(1)}
               colors={['#FDB927']}
               tracksColor='#552583'
             />
