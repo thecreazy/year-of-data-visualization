@@ -22,7 +22,7 @@
     "@nivo/boxplot": "^0.84.0",
     "@nivo/bullet": "^0.85.1",
     "@nivo/bump": "^0.85.1",
-    "@nivo/calendar": "^0.84.0",
+    "@nivo/calendar": "^0.85.1",
     "@nivo/geo": "^0.85.1",
     "@nivo/heatmap": "^0.84.0",
     "@nivo/line": "^0.85.1",
