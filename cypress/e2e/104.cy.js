@@ -6,9 +6,9 @@ describe('104 page video', () => {
     cy.wait(2000);
     cy.scrollTo(0, 1450, { duration: 2000 });
     cy.wait(2000);
-    cy.scrollTo(0, 2450, { duration: 2000 });
+    cy.scrollTo(0, 2250, { duration: 2000 });
     cy.wait(2000);
-    cy.scrollTo(0, 3350, { duration: 2000 });
+    cy.scrollTo(0, 3050, { duration: 2000 });
     cy.wait(2000);
     cy.scrollTo(0, 5900, { duration: 2000 });
     cy.wait(2000);
