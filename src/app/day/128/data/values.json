@@ -1,0 +1,4202 @@
+[
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 1549,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 1451,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 3,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 173,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 354,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 253,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 253,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 309,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 2488,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 156,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 45,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDV",
+    "country": "Maldives",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 25,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 629,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 138,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 98,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 3311,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 2066,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 42,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 15,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 4352,
+    "source": "CTS"
+  },
+  {
+    "isocode": "XKX",
+    "country": "Kosovo under UNSCR 1244",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 478,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ZAF",
+    "country": "South Africa",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2014,
+    "value": 1694,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 111,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 1587,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 660,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 2511,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 11,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLR",
+    "country": "Belarus",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 98,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 38,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 166,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 161,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 74,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 361,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 323,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 291,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ESP",
+    "country": "Spain",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 1997,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 370,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 195,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 236,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 2423,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 264,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 36,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDV",
+    "country": "Maldives",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 35,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MEX",
+    "country": "Mexico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 432,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 600,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 163,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 147,
+    "source": "CTS"
+  },
+  {
+    "isocode": "OMN",
+    "country": "Oman",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 1397,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 2081,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 73,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 14,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 2253,
+    "source": "CTS"
+  },
+  {
+    "isocode": "XKX",
+    "country": "Kosovo under UNSCR 1244",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 356,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ZAF",
+    "country": "South Africa",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2015,
+    "value": 1607,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 105,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AND",
+    "country": "Andorra",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 1688,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 835,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AZE",
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 130,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 2483,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 6,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLR",
+    "country": "Belarus",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 167,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 40,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 282,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 124,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 80,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 396,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 597,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 394,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ESP",
+    "country": "Spain",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 1814,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 282,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FRA",
+    "country": "France",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 7644,
+    "source": "MoI/CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 276,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GTM",
+    "country": "Guatemala",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 153,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HND",
+    "country": "Honduras",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 51,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HRV",
+    "country": "Croatia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 456,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HUN",
+    "country": "Hungary",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 523,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 316,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 2321,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 271,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LVA",
+    "country": "Latvia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 333,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 34,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDV",
+    "country": "Maldives",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 28,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MEX",
+    "country": "Mexico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 1082,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NIC",
+    "country": "Nicaragua",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 6,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 455,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 571,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 173,
+    "source": "CTS"
+  },
+  {
+    "isocode": "OMN",
+    "country": "Oman",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PER",
+    "country": "Peru",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 231,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PHL",
+    "country": "Philippines",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 206,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 3071,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 1442,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SAU",
+    "country": "Saudi Arabia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 96,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SLV",
+    "country": "El Salvador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 67,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 74,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 20,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 1757,
+    "source": "CTS"
+  },
+  {
+    "isocode": "XKX",
+    "country": "Kosovo under UNSCR 1244",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 342,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ZAF",
+    "country": "South Africa",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2016,
+    "value": 1488,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 121,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AND",
+    "country": "Andorra",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 3,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1489,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 927,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AZE",
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 140,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 2851,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 10,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLR",
+    "country": "Belarus",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 133,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 55,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CAN",
+    "country": "Canada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 8297,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 752,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHL",
+    "country": "Chile",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 242,
+    "source": "CTS"
+  },
+  {
+    "isocode": "COL",
+    "country": "Colombia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1117,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 94,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 100,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 549,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DEU",
+    "country": "Germany",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 9046,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 2039,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 414,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ESP",
+    "country": "Spain",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1962,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 324,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FRA",
+    "country": "France",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 8969,
+    "source": "MoI/CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 184,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GTM",
+    "country": "Guatemala",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 54,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GUY",
+    "country": "Guyana",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 4,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HND",
+    "country": "Honduras",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 37,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HRV",
+    "country": "Croatia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 372,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HUN",
+    "country": "Hungary",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1634,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 363,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 2294,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LCA",
+    "country": "Saint Lucia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 333,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LVA",
+    "country": "Latvia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 187,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 22,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAR",
+    "country": "Morocco",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 642,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDA",
+    "country": "Republic of Moldova",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 18,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDV",
+    "country": "Maldives",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 30,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MEX",
+    "country": "Mexico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1361,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NIC",
+    "country": "Nicaragua",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 8,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 430,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1106,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 165,
+    "source": "CTS"
+  },
+  {
+    "isocode": "OMN",
+    "country": "Oman",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PAN",
+    "country": "Panama",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 536,
+    "source": "PPR/CTS"
+  },
+  {
+    "isocode": "PER",
+    "country": "Peru",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 186,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PHL",
+    "country": "Philippines",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 206,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 3292,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRI",
+    "country": "Puerto Rico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ROU",
+    "country": "Romania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 532,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1448,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SAU",
+    "country": "Saudi Arabia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 47,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SLV",
+    "country": "El Salvador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 51,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 67,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 27,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 3089,
+    "source": "CTS"
+  },
+  {
+    "isocode": "TLS",
+    "country": "Timor-Leste",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 2,
+    "source": "CTS"
+  },
+  {
+    "isocode": "UKR",
+    "country": "Ukraine",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 346,
+    "source": "DMDB"
+  },
+  {
+    "isocode": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 115,
+    "source": "NGO/CTS"
+  },
+  {
+    "isocode": "XKX",
+    "country": "Kosovo under UNSCR 1244",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 350,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ZAF",
+    "country": "South Africa",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2017,
+    "value": 1221,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 96,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AND",
+    "country": "Andorra",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1481,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1358,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AZE",
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 135,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 2961,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 316,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLR",
+    "country": "Belarus",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 146,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLZ",
+    "country": "Belize",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 5,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 85,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CAN",
+    "country": "Canada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 9094,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 877,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHL",
+    "country": "Chile",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 344,
+    "source": "CTS"
+  },
+  {
+    "isocode": "COL",
+    "country": "Colombia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1619,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 71,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 126,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 683,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DEU",
+    "country": "Germany",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 10386,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1681,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 462,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ESP",
+    "country": "Spain",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1923,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 368,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FRA",
+    "country": "France",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 9374,
+    "source": "MoI/CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 174,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GTM",
+    "country": "Guatemala",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 52,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GUY",
+    "country": "Guyana",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 22,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HND",
+    "country": "Honduras",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 74,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HRV",
+    "country": "Croatia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 275,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HUN",
+    "country": "Hungary",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 476,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 423,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ISR",
+    "country": "Israel",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 192,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 2183,
+    "source": "CTS"
+  },
+  {
+    "isocode": "JAM",
+    "country": "Jamaica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 2,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LCA",
+    "country": "Saint Lucia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 417,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LVA",
+    "country": "Latvia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 194,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 21,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAR",
+    "country": "Morocco",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 733,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDA",
+    "country": "Republic of Moldova",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 15,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MEX",
+    "country": "Mexico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1680,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MNG",
+    "country": "Mongolia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 7,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NIC",
+    "country": "Nicaragua",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 7,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 460,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1471,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 159,
+    "source": "CTS"
+  },
+  {
+    "isocode": "OMN",
+    "country": "Oman",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PAN",
+    "country": "Panama",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 131,
+    "source": "PPR/CTS"
+  },
+  {
+    "isocode": "PER",
+    "country": "Peru",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 119,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PHL",
+    "country": "Philippines",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 247,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 4681,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRT",
+    "country": "Portugal",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 158,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRY",
+    "country": "Paraguay",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 25,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ROU",
+    "country": "Romania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 545,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 1543,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SAU",
+    "country": "Saudi Arabia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 25,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SLV",
+    "country": "El Salvador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 58,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 70,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 27,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 2292,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SYR",
+    "country": "Syrian Arab Republic",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 49,
+    "source": "CTS"
+  },
+  {
+    "isocode": "THA",
+    "country": "Thailand",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 23614,
+    "source": "CTS"
+  },
+  {
+    "isocode": "UKR",
+    "country": "Ukraine",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 291,
+    "source": "DMDB"
+  },
+  {
+    "isocode": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 56,
+    "source": "NGO/CTS"
+  },
+  {
+    "isocode": "XKX",
+    "country": "Kosovo under UNSCR 1244",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2018,
+    "value": 277,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 96,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AND",
+    "country": "Andorra",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 5,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ARE",
+    "country": "United Arab Emirates",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 35,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1457,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1859,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AZE",
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 140,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 3713,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 274,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 14,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLR",
+    "country": "Belarus",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 89,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLZ",
+    "country": "Belize",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 3,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 144,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CAN",
+    "country": "Canada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 10363,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1485,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHL",
+    "country": "Chile",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 337,
+    "source": "CTS"
+  },
+  {
+    "isocode": "COL",
+    "country": "Colombia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1772,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 107,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 106,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 765,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DEU",
+    "country": "Germany",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 16019,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1601,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 388,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ESP",
+    "country": "Spain",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 2040,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 480,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FRA",
+    "country": "France",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 10632,
+    "source": "MoI/CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 102,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GTM",
+    "country": "Guatemala",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 45,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GUY",
+    "country": "Guyana",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 7,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HND",
+    "country": "Honduras",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 90,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HRV",
+    "country": "Croatia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 401,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HUN",
+    "country": "Hungary",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 336,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 514,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ISR",
+    "country": "Israel",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 147,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 2322,
+    "source": "CTS"
+  },
+  {
+    "isocode": "JAM",
+    "country": "Jamaica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LCA",
+    "country": "Saint Lucia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 418,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LVA",
+    "country": "Latvia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 245,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 30,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDA",
+    "country": "Republic of Moldova",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 12,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MEX",
+    "country": "Mexico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 3302,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MMR",
+    "country": "Myanmar",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 208,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MNG",
+    "country": "Mongolia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 6,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NIC",
+    "country": "Nicaragua",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 2,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 570,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1044,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 167,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PAN",
+    "country": "Panama",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 35,
+    "source": "PPR/CTS"
+  },
+  {
+    "isocode": "PER",
+    "country": "Peru",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 88,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PHL",
+    "country": "Philippines",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 243,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 14709,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRT",
+    "country": "Portugal",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 261,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRY",
+    "country": "Paraguay",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 15,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ROU",
+    "country": "Romania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 711,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 1643,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SAU",
+    "country": "Saudi Arabia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 13,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SLV",
+    "country": "El Salvador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 69,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 91,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SUR",
+    "country": "Suriname",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 50,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 17,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 3314,
+    "source": "CTS"
+  },
+  {
+    "isocode": "THA",
+    "country": "Thailand",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 25016,
+    "source": "CTS"
+  },
+  {
+    "isocode": "UKR",
+    "country": "Ukraine",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 306,
+    "source": "DMDB"
+  },
+  {
+    "isocode": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 72,
+    "source": "NGO/CTS"
+  },
+  {
+    "isocode": "XKX",
+    "country": "Kosovo under UNSCR 1244",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2019,
+    "value": 40,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 96,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ARE",
+    "country": "United Arab Emirates",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 26,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1491,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1917,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AZE",
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 149,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 3313,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 238,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 14,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLZ",
+    "country": "Belize",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 2,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 135,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CAN",
+    "country": "Canada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 10762,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1669,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHL",
+    "country": "Chile",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 269,
+    "source": "CTS"
+  },
+  {
+    "isocode": "COL",
+    "country": "Colombia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1751,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 95,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 164,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 666,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DEU",
+    "country": "Germany",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 23157,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1901,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 392,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ESP",
+    "country": "Spain",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1846,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 874,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FRA",
+    "country": "France",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 11416,
+    "source": "MoI/CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 104,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 3,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GTM",
+    "country": "Guatemala",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 43,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GUY",
+    "country": "Guyana",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 12,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HND",
+    "country": "Honduras",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 30,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HRV",
+    "country": "Croatia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 360,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HUN",
+    "country": "Hungary",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 371,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 458,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ISR",
+    "country": "Israel",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 127,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 2515,
+    "source": "CTS"
+  },
+  {
+    "isocode": "JAM",
+    "country": "Jamaica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "JOR",
+    "country": "Jordan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 54,
+    "source": "MNS"
+  },
+  {
+    "isocode": "JPN",
+    "country": "Japan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 6230,
+    "source": "MoI"
+  },
+  {
+    "isocode": "LCA",
+    "country": "Saint Lucia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 482,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LVA",
+    "country": "Latvia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 224,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 15,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAR",
+    "country": "Morocco",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 68,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MDA",
+    "country": "Republic of Moldova",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 6,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MEX",
+    "country": "Mexico",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 2831,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MNG",
+    "country": "Mongolia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 3,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MUS",
+    "country": "Mauritius",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 171,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 455,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1259,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 213,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PAN",
+    "country": "Panama",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 46,
+    "source": "PPR/CTS"
+  },
+  {
+    "isocode": "PER",
+    "country": "Peru",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 134,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 6539,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRT",
+    "country": "Portugal",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 499,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRY",
+    "country": "Paraguay",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 10,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ROU",
+    "country": "Romania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 878,
+    "source": "CTS"
+  },
+  {
+    "isocode": "RUS",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 1297,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SLV",
+    "country": "El Salvador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 50,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 107,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SUR",
+    "country": "Suriname",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 69,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 22,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 4954,
+    "source": "CTS"
+  },
+  {
+    "isocode": "THA",
+    "country": "Thailand",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 28338,
+    "source": "CTS"
+  },
+  {
+    "isocode": "UKR",
+    "country": "Ukraine",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 212,
+    "source": "DMDB"
+  },
+  {
+    "isocode": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2020,
+    "value": 84,
+    "source": "NGO/CTS"
+  },
+  {
+    "isocode": "ALB",
+    "country": "Albania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 183,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ARE",
+    "country": "United Arab Emirates",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 22,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUS",
+    "country": "Australia",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 1599,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AUT",
+    "country": "Austria",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 2115,
+    "source": "CTS"
+  },
+  {
+    "isocode": "AZE",
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 141,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BEL",
+    "country": "Belgium",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 2814,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BHS",
+    "country": "Bahamas",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 305,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 19,
+    "source": "CTS"
+  },
+  {
+    "isocode": "BLZ",
+    "country": "Belize",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 4,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CAN",
+    "country": "Canada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 12309,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHE",
+    "country": "Switzerland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 1570,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CHL",
+    "country": "Chile",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 351,
+    "source": "CTS"
+  },
+  {
+    "isocode": "COL",
+    "country": "Colombia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 2162,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CRI",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 100,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CYP",
+    "country": "Cyprus",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 178,
+    "source": "CTS"
+  },
+  {
+    "isocode": "CZE",
+    "country": "Czechia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 709,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DEU",
+    "country": "Germany",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 44722,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DMA",
+    "country": "Dominica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "DNK",
+    "country": "Denmark",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 2125,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ECU",
+    "country": "Ecuador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 495,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FIN",
+    "country": "Finland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 765,
+    "source": "CTS"
+  },
+  {
+    "isocode": "FRA",
+    "country": "France",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 12437,
+    "source": "MoI/CTS"
+  },
+  {
+    "isocode": "GRC",
+    "country": "Greece",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 114,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GRD",
+    "country": "Grenada",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 2,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GTM",
+    "country": "Guatemala",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 164,
+    "source": "CTS"
+  },
+  {
+    "isocode": "GUY",
+    "country": "Guyana",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 35,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HND",
+    "country": "Honduras",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 599,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HRV",
+    "country": "Croatia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 499,
+    "source": "CTS"
+  },
+  {
+    "isocode": "HUN",
+    "country": "Hungary",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 496,
+    "source": "CTS"
+  },
+  {
+    "isocode": "IRL",
+    "country": "Ireland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 512,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ISR",
+    "country": "Israel",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 152,
+    "source": "CTS"
+  },
+  {
+    "isocode": "ITA",
+    "country": "Italy",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 2566,
+    "source": "CTS"
+  },
+  {
+    "isocode": "JAM",
+    "country": "Jamaica",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LCA",
+    "country": "Saint Lucia",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 0,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LTU",
+    "country": "Lithuania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 350,
+    "source": "CTS"
+  },
+  {
+    "isocode": "LVA",
+    "country": "Latvia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 292,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 17,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MAR",
+    "country": "Morocco",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 14,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MNG",
+    "country": "Mongolia",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 3,
+    "source": "CTS"
+  },
+  {
+    "isocode": "MUS",
+    "country": "Mauritius",
+    "region": "Africa",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 188,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NLD",
+    "country": "Netherlands",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 455,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NOR",
+    "country": "Norway",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 1744,
+    "source": "CTS"
+  },
+  {
+    "isocode": "NZL",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 199,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PAN",
+    "country": "Panama",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 21,
+    "source": "PPR/CTS"
+  },
+  {
+    "isocode": "PER",
+    "country": "Peru",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 183,
+    "source": "CTS"
+  },
+  {
+    "isocode": "POL",
+    "country": "Poland",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 5680,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRT",
+    "country": "Portugal",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 473,
+    "source": "CTS"
+  },
+  {
+    "isocode": "PRY",
+    "country": "Paraguay",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 4,
+    "source": "CTS"
+  },
+  {
+    "isocode": "QAT",
+    "country": "Qatar",
+    "region": "Asia",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 9,
+    "source": "MoI"
+  },
+  {
+    "isocode": "ROU",
+    "country": "Romania",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 961,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SLV",
+    "country": "El Salvador",
+    "region": "Americas",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 36,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SRB",
+    "country": "Serbia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 195,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SVK",
+    "country": "Slovakia",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 17,
+    "source": "CTS"
+  },
+  {
+    "isocode": "SWE",
+    "country": "Sweden",
+    "region": "Europe",
+    "sex": "Total",
+    "age": "Total",
+    "year": 2021,
+    "value": 6202,
+    "source": "CTS"
+  }
+]
