@@ -45,6 +45,7 @@
     "keyword-extractor": "^0.0.28",
     "leaflet": "^1.9.4",
     "next": "^14.1.4",
+    "posthog-js": "^1.118.1",
     "react": "^18",
     "react-animated-numbers": "^0.18.0",
     "react-chartjs-2": "^5.2.0",

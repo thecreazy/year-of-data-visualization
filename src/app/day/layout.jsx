@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import posthog from 'posthog-js';
 
 import { Marvel } from '@internal/components/Marvel/Marvel';
 
@@ -12,6 +13,7 @@ import './layout.css';
 
 export default function DayLayout(props) {
   const pathname = usePathname();
+
   const { children } = props;
   const day = pathname.split('/')[2];
   return (
@@ -22,7 +24,12 @@ export default function DayLayout(props) {
       {day === '112' && <Flag112 />}
       <div className='container mx-auto py-8 relative'>
         <div className='back-button'>
-          <Link href='/'>
+          <Link
+            href='/'
+            onClick={() => {
+              posthog.capture('back-home', { from: day });
+            }}
+          >
             <h2 className='py-2 text-3xl font-bold'>Day {day}</h2>
             <span className='bg'></span>
           </Link>

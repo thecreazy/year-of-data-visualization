@@ -6,6 +6,7 @@ import Script from 'next/script';
 import Footer from '@internal/components/Footer/Footer';
 
 import './globals.css';
+import { CSPostHogProvider } from './providers';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -108,12 +109,14 @@ export default function RootLayout({ children }) {
         <meta name='msapplication-TileImage' content='/ms-icon-144x144.png' />
         <meta name='theme-color' content='#ffffff' />
       </head>
-      <body className={inter.className}>
-        {children}
-        <Analytics />
-        <SpeedInsights />
-        <Footer />
-      </body>
+      <CSPostHogProvider>
+        <body className={inter.className}>
+          {children}
+          <Analytics />
+          <SpeedInsights />
+          <Footer />
+        </body>
+      </CSPostHogProvider>
     </html>
   );
 }
