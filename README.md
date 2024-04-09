@@ -43,6 +43,12 @@ npm run dev
 // -> go to localhost:3000
 ```
 
+#### .env
+
+.env is needed only if u want to configure:
+
+- posthog connection
+
 ### Production
 
 The project, since is done in Next.js, is generating static files from the React Components
@@ -65,7 +71,7 @@ Deploy done using Vercel integration
 
 ## License
 
-YODV is under free open source [_Apache License Version 2.0_](https://github.com/thecrezy/year-of-data-visualization/blob/master/LICENSE.txt).
+YODV is under free open source [_Apache License Version 2.0_](https://github.com/thecreazy/year-of-data-visualization/blob/master/LICENSE.txt).
 
 ---
 
