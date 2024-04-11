@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://yodv.canellariccardo.it
+
+# Sitemaps
+Sitemap: https://yodv.canellariccardo.it/sitemap.xml
