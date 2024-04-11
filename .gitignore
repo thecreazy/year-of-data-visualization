@@ -40,3 +40,7 @@ next-env.d.ts
 bin/*.json
 result.json
 .heapprofile
+
+robots.txt
+sitemap.xml
+sitemap-0.xml
