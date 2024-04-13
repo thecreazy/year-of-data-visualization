@@ -1,5 +1,6 @@
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import dynamic from 'next/dynamic';
 import { Inter } from 'next/font/google';
 import Script from 'next/script';
 
@@ -7,6 +8,10 @@ import Footer from '@internal/components/Footer/Footer';
 
 import './globals.css';
 import { CSPostHogProvider } from './providers';
+
+const GA4Tags = dynamic(() => import('../components/Home/GA4Tags'), {
+  ssr: false,
+});
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -111,6 +116,7 @@ export default function RootLayout({ children }) {
       </head>
       <CSPostHogProvider>
         <body className={inter.className}>
+          <GA4Tags />
           {children}
           <Analytics />
           <SpeedInsights />

@@ -58,7 +58,8 @@
     "react-super-responsive-table": "^5.2.2",
     "react-tagcloud": "^2.3.3",
     "three": "^0.163.0",
-    "vivus": "^0.4.6"
+    "vivus": "^0.4.6",
+    "web-vitals": "^3.5.2"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
