@@ -29,7 +29,7 @@
     "@nivo/line": "^0.85.1",
     "@nivo/pie": "^0.85.1",
     "@nivo/radar": "^0.85.1",
-    "@nivo/radial-bar": "^0.84.0",
+    "@nivo/radial-bar": "^0.85.1",
     "@nivo/sankey": "^0.84.0",
     "@nivo/scatterplot": "^0.85.1",
     "@nivo/stream": "^0.84.0",
