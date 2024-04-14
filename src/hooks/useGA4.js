@@ -13,12 +13,11 @@ export default function useGA4() {
     });
   }
   useEffect(() => {
-    if (!window.gtag) return;
     onCLS(sendToGoogleAnalytics);
     onFID(sendToGoogleAnalytics);
     onLCP(sendToGoogleAnalytics);
     onINP(sendToGoogleAnalytics);
     onTTFB(sendToGoogleAnalytics);
     onFCP(sendToGoogleAnalytics);
-  }, [window.gtag]);
+  }, []);
 }
