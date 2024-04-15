@@ -38,7 +38,7 @@
     "@uidotdev/usehooks": "^2.4.1",
     "@vercel/analytics": "^1.2.2",
     "@vercel/speed-insights": "^1.0.10",
-    "antd": "^5.14.2",
+    "antd": "^5.16.2",
     "chart.js": "^4.4.2",
     "csvtojson": "^2.0.10",
     "dat.gui": "^0.7.9",
