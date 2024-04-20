@@ -45,7 +45,7 @@
     "dayjs": "^1.11.10",
     "keyword-extractor": "^0.0.28",
     "leaflet": "^1.9.4",
-    "next": "^14.1.4",
+    "next": "^14.2.2",
     "next-sitemap": "^4.2.3",
     "posthog-js": "^1.118.1",
     "react": "^18",
