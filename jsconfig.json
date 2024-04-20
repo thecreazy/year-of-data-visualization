@@ -3,5 +3,6 @@
     "paths": {
       "@internal/*": ["./src/*"]
     }
-  }
+  },
+  "exclude": ["node_modules", "./src/*.json"]
 }

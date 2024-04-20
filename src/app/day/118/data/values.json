@@ -1,0 +1,2714 @@
+[
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1,
+    "OBS_FLAG": "d"
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": "d"
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AL",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -6.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 4.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "AT",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 4.3,
+    "OBS_FLAG": "b"
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 3.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 7.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BA",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -5.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "BE",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1.4,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 7.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "BG",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -2.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 5.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CH",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -6.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": -1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 6.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 5.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 5.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 5.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 9.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 5.1,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "CY",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 5.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 5.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -5.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 3.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "CZ",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 0.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.8,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "DE",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.3,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 0.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "DK",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 5.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 3.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 7.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": -0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EE",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -7.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": -0.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": -0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 1.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -9.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 8.4,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 5.6,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "EL",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -11.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.4,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 5.8,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "ES",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -0.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -5.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 3.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "EU27_2020",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": -0.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FI",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 0.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -7.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.4,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "FR",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.7,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -0.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": -0.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -8.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 13.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 6.3,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "HR",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 4.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 4.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 5.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -4.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 7.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "HU",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.9,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 8.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 24.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 9.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 8.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 5.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": 6.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 15.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 9.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IE",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 4.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 4.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 6.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 4.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -6.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 5.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 8.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IS",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 4.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 0,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 1.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 8.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "IT",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 3.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 3.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 3.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 4.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": 0,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LT",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 7.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LU",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -1.1,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 0.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "LV",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 3.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 4.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 5.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -15.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 13,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 6.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "ME",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 6,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 3.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -4.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 4.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "MK",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1,
+    "OBS_FLAG": "e"
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 4.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 5.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 7.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 9.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 10.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 7.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 7.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -8.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 12.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 8.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "MT",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 5.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -0.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 1.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4.3,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "NL",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.1,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 1.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "NO",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 3.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 4.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 5.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 5.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 5.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PL",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 0.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -4.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 3.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -8.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 5.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 6.8,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "PT",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2.3,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 4.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 8.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 3.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 5.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4.1,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "RO",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2.1,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": -1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 1.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -0.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 7.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "RS",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -0.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 1.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 4.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 2.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 6.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SE",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": -0.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": -2.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": -1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 2.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 4.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 3.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -4.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 8.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SI",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 0.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 2.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 5.2,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 2.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 2.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -3.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 4.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "SK",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 1.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 4.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 8.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 4.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 6.1,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 3.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 7.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 0.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": 1.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 11.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 5.5,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "TR",
+    "TIME_PERIOD": 2023,
+    "OBS_VALUE": 4.5,
+    "OBS_FLAG": "p"
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE": 1.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE": 5.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE": 3.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE": 5.9,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE": 5.6,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE": 4.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE": 3.4,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE": 4.8,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE": -5.3,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE": 10.7,
+    "OBS_FLAG": ""
+  },
+  {
+    "geo": "XK",
+    "TIME_PERIOD": 2022,
+    "OBS_VALUE": 4.3,
+    "OBS_FLAG": ""
+  }
+]

@@ -9,6 +9,12 @@ export const getCountryIsoCode = (country) => {
   return null;
 };
 
+export const getCountryNameFromIso2 = (countryCode) => {
+  const found = countries.find((el) => [el['alpha-2']].includes(countryCode));
+  if (found) return found.name;
+  return countryCode;
+};
+
 export const getProvinceName = (code) => {
   const found = italianProvince.find((el) =>
     [el.sigla, el.alternative].includes(code)

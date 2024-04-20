@@ -18,6 +18,7 @@ const NivoLine = ({
   markers,
   yFormat = '>-.2f',
   enableSlices = 'x',
+  legend = [],
 }) => {
   const { isSmallScreen } = useScreenDetect();
   const axisBottomFormatedd = {
@@ -45,7 +46,7 @@ const NivoLine = ({
       colors={colors}
       lineWidth={2}
       useMesh={true}
-      legends={[]}
+      legends={legend}
       enablePoints={enablePoints}
       markers={markers}
       enableSlices={enableSlices}
