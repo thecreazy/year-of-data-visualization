@@ -1,5 +1,4 @@
 import dynamic from 'next/dynamic';
-import { format } from 'prettier';
 
 import './page.css';
 
@@ -11,7 +10,6 @@ import {
   byCountry,
   byIndustries,
   byValutation,
-  byYear,
   ratio,
   totals,
 } from './utils/getParsedData';
@@ -20,10 +18,6 @@ const AnimatedNumber = dynamic(
   () => import('../../../components/AnimatedNumber/AnimatedNumber'),
   { ssr: false }
 );
-
-const Leaflet = dynamic(() => import('../../../components/Map/Leaflet'), {
-  ssr: false,
-});
 
 const Page115 = () => {
   return (
