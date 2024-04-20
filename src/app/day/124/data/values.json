@@ -1,0 +1,2585 @@
+[
+  {
+    "nome": "Adria - Ariano Polesine",
+    "Provincia": "Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 15.22,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.024681, 12.085620"
+  },
+  {
+    "nome": "Affi - Garda",
+    "Provincia": "Verona",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 11.29,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.389684, 10.916290"
+  },
+  {
+    "nome": "Agrigento Bassa - Porto Empedocle Succursale",
+    "Provincia": "Agrigento",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 10.08,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.319225, 13.587954"
+  },
+  {
+    "nome": "Agrigento Centrale - Agrigento Bassa - Margonia - Licata",
+    "Provincia": "Agrigento",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 63.77,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.309017, 13.584882"
+  },
+  {
+    "nome": "Airasca - Moretta - Saluzzo",
+    "Provincia": "Torino - Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 33.37,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.927990, 7.483560"
+  },
+  {
+    "nome": "Albano Laziale - Cecchina (ex FSR) - Campoleone",
+    "Provincia": "Roma - Latina",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.33,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.726494, 12.658135"
+  },
+  {
+    "nome": "Alcamo Diramazione - Trapani",
+    "Provincia": "Trapani",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 47.12,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.978390, 12.917357"
+  },
+  {
+    "nome": "Alcantara - Randazzo",
+    "Provincia": "Messina - Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 37.04,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.822041, 15.251120"
+  },
+  {
+    "nome": "Alghero S. Agostino - Alghero Porto",
+    "Provincia": "Sassari",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 1.55,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.575027, 8.322190"
+  },
+  {
+    "nome": "Ancona - Ancona Marittima",
+    "Provincia": "Ancona",
+    "Regione": "Marche",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 1.72,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.606834, 13.498078"
+  },
+  {
+    "nome": "Aosta - Prè S. Didier",
+    "Provincia": "Aosta",
+    "Regione": "Valle d'Aosta",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 31.37,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.734135, 7.322270"
+  },
+  {
+    "nome": "Archi - Atessa",
+    "Provincia": "Chieti",
+    "Regione": "Abruzzo",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 15.07,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "42.083, 14.383"
+  },
+  {
+    "nome": "Arezzo - Sansepolcro (FAC) - Umbertide (FAC) - Fossato di Vico (FAC)",
+    "Provincia": "Arezzo - Perugia",
+    "Regione": "Toscana - Umbria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 133.53,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "43.461109, 11.875720"
+  },
+  {
+    "nome": "Asciano - Monte Antico",
+    "Provincia": "Siena - Grosseto",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 51.21,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "43.234791, 11.577910"
+  },
+  {
+    "nome": "Asti - Castagnole delle Lanze",
+    "Provincia": "Asti",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 20.13,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.895378, 8.208580"
+  },
+  {
+    "nome": "Atena (FCL) - Marsico Nuovo",
+    "Provincia": "Salerno - Potenza",
+    "Regione": "Campania - Basilicata",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 26.76,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.456534, 15.536726"
+  },
+  {
+    "nome": "Bagnolo in Piano - Carpi",
+    "Provincia": "Reggio Emilia -Modena",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 18.75,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.763908, 10.674389"
+  },
+  {
+    "nome": "Barco - Montecchio Emilia",
+    "Provincia": "Reggio Emilia",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 3.66,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.694698, 10.499130"
+  },
+  {
+    "nome": "Bastia Mondovì - Mondovì - Cuneo",
+    "Provincia": "Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 42,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.439816, 7.892884"
+  },
+  {
+    "nome": "Bergamo (FVB) - Piazza Brembana",
+    "Provincia": "Bergamo",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 40.66,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.694893, 9.66996"
+  },
+  {
+    "nome": "Bergamo (FVS) - Ponte Nossa - Clusone",
+    "Provincia": "Bergamo",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 32.99,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.690521, 9.674802"
+  },
+  {
+    "nome": "Bettole di Varese - Ghirla - Luino Lago",
+    "Provincia": "Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 24.95,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.830399, 8.828970"
+  },
+  {
+    "nome": "Biella (FEB) - Ponte Cervo - Balma",
+    "Provincia": "Biella",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.32,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.564478, 8.056301"
+  },
+  {
+    "nome": "Biella (FEB) - Ponte Cervo - Castellazzo - Valle Mosso",
+    "Provincia": "Biella",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 19.29,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.564478, 8.056301"
+  },
+  {
+    "nome": "Bivio Bellavista - Bellavista - Nasisi",
+    "Provincia": "Taranto",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 10,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.518862, 17.173987"
+  },
+  {
+    "nome": "Bivio Carpenedo - Bivio Trivignano",
+    "Provincia": "Venezia",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.55,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.519750910188336, 12.26947591205595"
+  },
+  {
+    "nome": "Bivio Giarratana - Vizzini Campagna",
+    "Provincia": "Ragusa - Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 27.5,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.050128, 14.798643"
+  },
+  {
+    "nome": "Bolzano - Bivio per l'Oltradige - S. Antonio",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 17.39,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.496609, 11.358271"
+  },
+  {
+    "nome": "Bolzano Piazza Walter - Bolzano Stazione - L'Assunta",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 5.12,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.498352, 11.354771"
+  },
+  {
+    "nome": "Bosco Redole - Benevento",
+    "Provincia": "Campobasso -Benevento",
+    "Regione": "Molise - Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 66.32,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.447883, 14.592439"
+  },
+  {
+    "nome": "Bra - Bastia Mondovì - Ceva",
+    "Provincia": "Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 49.98,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.693642, 7.849260"
+  },
+  {
+    "nome": "Bribano - Agordo",
+    "Provincia": "Belluno",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 28.3,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.095577, 12.086502"
+  },
+  {
+    "nome": "Bricherasio - Barge",
+    "Provincia": "Torino - Belluno",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 11.54,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.825504, 7.304283"
+  },
+  {
+    "nome": "Brindisi - Brindisi Marittima",
+    "Provincia": "Brindisi",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 1.66,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.63396990299225,17.939429880025273"
+  },
+  {
+    "nome": "Brunico - Campo Tures",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 15.23,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "46.79607635945514, 11.933106582007406"
+  },
+  {
+    "nome": "Budrio - Massalombarda",
+    "Provincia": "Bologna - Ravenna",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 26.24,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.533863476648825, 11.528535018862245"
+  },
+  {
+    "nome": "Busca - Dronero",
+    "Provincia": "Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.53,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.52041479592787, 7.484456877185606"
+  },
+  {
+    "nome": "Caltagirone - Gela",
+    "Provincia": "Catania - Caltanissetta",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 45.11,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.229175636763195, 14.527842637526053"
+  },
+  {
+    "nome": "Cancello - Torre Annunziata Centrale",
+    "Provincia": "Caserta - Napoli",
+    "Regione": "Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 30.93,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "40.994167455629274, 14.419642281339607"
+  },
+  {
+    "nome": "Cantalupo - Nizza Monferrato - Castagnole delle Lanze - Alba",
+    "Provincia": "Rieti - Asti",
+    "Regione": "Lombardia - Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 59.63,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.57817561672548, 8.979563179480223"
+  },
+  {
+    "nome": "Carnia - Villa Santina",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 19.32,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "46.373791711303824, 13.133285541350615"
+  },
+  {
+    "nome": "Carrara Avenza - Carrara S. Martino",
+    "Provincia": "Massa - Carrara",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.44,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.04979665137631, 10.061788137341496"
+  },
+  {
+    "nome": "Castegnato - Passirano Superiore - Iseo (vecchia)",
+    "Provincia": "Brescia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 15.01,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.58642381126825, 10.086422375464966"
+  },
+  {
+    "nome": "Castel Bolognese (FVSN) - Riolo Bagni",
+    "Provincia": "Ravenna",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 9.32,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.32529892318269, 11.80398708658474"
+  },
+  {
+    "nome": "Castellammare di Stabia - Gragnano",
+    "Provincia": "Napoli",
+    "Regione": "Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.75,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "40.70137545143341, 14.483445507920047"
+  },
+  {
+    "nome": "Castellanza (vecchia) - Valmorea - Mendrisio (CH)",
+    "Provincia": "Varese - Como",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 36.34,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.61332702931964, 8.894007167170273"
+  },
+  {
+    "nome": "Castellazzo - Masserano",
+    "Provincia": "Alessandria - Biella",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 5.5,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.57656797478928, 8.186645988406065"
+  },
+  {
+    "nome": "Castelraimondo - Camerino",
+    "Provincia": "Macerata",
+    "Regione": "Marche",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 11.56,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "43.20966140406693, 13.057203404226025"
+  },
+  {
+    "nome": "Castelvetrano - Magazzolo - Porto Empedocle - Agrigento Bassa",
+    "Provincia": "Trapani - Agrigento",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 132.42,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.683572049209616, 12.798620418573645"
+  },
+  {
+    "nome": "Bertiolo - Castions - Palmanova - S. Vito al Torre - (Mariano del Friuli) - (Gorizia Savogna)",
+    "Provincia": "Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 3.83,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.49331115342687, 15.089870041872288"
+  },
+  {
+    "nome": "Bivio Orba - Cantalupo - Felizzano",
+    "Provincia": "Alessandria",
+    "Regione": "Piemonte",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 21,
+    "Stato": "Misto",
+    "Geolocalizzazione": ""
+  },
+  {
+    "nome": "Bronte - Cuccovia",
+    "Provincia": "Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": "Informazione assente",
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": ""
+  },
+  {
+    "nome": "Canicatti' - Riesi - (S. Michele di Ganzaria)",
+    "Provincia": "Agrigento - Caltassinetta",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 92,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.359597121796114, 13.855371332143152"
+  },
+  {
+    "nome": "Cormons - Mariano del Friuli - Redipuglia",
+    "Provincia": "Gorizia",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 12.5,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.95509160732752, 13.466332468854958"
+  },
+  {
+    "nome": "Ferrandina (FS) - Matera La Martella - (Matera Venusio)",
+    "Provincia": "Matera",
+    "Regione": "Basilicata",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 29.25,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.51656971780414, 16.474801617416578"
+  },
+  {
+    "nome": "Formigine - Pavullo",
+    "Provincia": "Modena",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 39.4,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": ""
+  },
+  {
+    "nome": "Kaggera - Salemi",
+    "Provincia": "Trapani",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 26,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.9393782549642, 12.856732107859875"
+  },
+  {
+    "nome": "Leonforte - Nicosia",
+    "Provincia": "Enna",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 24,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.64077795158185, 14.39724882463548"
+  },
+  {
+    "nome": "Majano - Udine",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 28.2,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "46.220209715395, 13.066812948045197"
+  },
+  {
+    "nome": "Mirandola (FS) - Mirandola (SEFTA) - Rolo Novi Fabbrico",
+    "Provincia": "Modena - Verona",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 26.11,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.89163040795127, 11.111421845188865"
+  },
+  {
+    "nome": "Palermo Lolli - Camporeale - (Salaparuta)",
+    "Provincia": "Palermo",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 85.25,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "38.12408715133356, 13.346096104793773"
+  },
+  {
+    "nome": "Roma Nomentana (vecchia) - Roma S. Pietro",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 12.8,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.932592744963515, 12.523326997819854"
+  },
+  {
+    "nome": "S. Stefano di Camastra - Reitano - (Mistretta)",
+    "Provincia": "Messina",
+    "Regione": "Sicilia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": "Informazione assente",
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": ""
+  },
+  {
+    "nome": "Sant'Arcangelo di Romagna - S. Leo - Auditore Casinina - Urbino",
+    "Provincia": "Rimini - Urbino",
+    "Regione": "Emilia-Romagna - Marche",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 67.5,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.06991459506206, 12.454239304486006"
+  },
+  {
+    "nome": "Teglio Veneto - Bertiolo - Campoformido - (Udine)",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 41.1,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.80996050055361, 12.858854780190267"
+  },
+  {
+    "nome": "Udine - Castions",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Incompiuta",
+    "Lunghezza in Km": 17.9,
+    "Stato": "Misto",
+    "Geolocalizzazione": ""
+  },
+  {
+    "nome": "Albacina - Fabriano",
+    "Provincia": "Ancona",
+    "Regione": "Marche",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 8.11,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "43.345888799502745, 12.986270690268613"
+  },
+  {
+    "nome": "Andora - Bordighera",
+    "Provincia": "Savona",
+    "Regione": "Liguria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 49.39,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "43.96063304066698, 8.13883708255503"
+  },
+  {
+    "nome": "Anzio Colonia - Nettuno (vecchia)",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.12,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.46190977783572, 12.616112287873747"
+  },
+  {
+    "nome": "Arcola - Romito - Sarzana",
+    "Provincia": "Spezia",
+    "Regione": "Liguria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 4.6,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.11880602347086, 9.914617811395965"
+  },
+  {
+    "nome": "Ascea - S. Mauro la Bruca",
+    "Provincia": "Salerno",
+    "Regione": "Campania",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 14.42,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.14120311801313, 15.172312240098037"
+  },
+  {
+    "nome": "Bari Centrale - Bitetto Palo del Colle - Acquaviva delle Fonti",
+    "Provincia": "Bari",
+    "Regione": "Puglia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 40.31,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.11841477539106, 16.868423292248117"
+  },
+  {
+    "nome": "Bolotana - Tirso - Iscra - Orotelli",
+    "Provincia": "Nuoro",
+    "Regione": "Sardegna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 19.32,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.31120852293897, 8.963300241954776"
+  },
+  {
+    "nome": "Bolzano - Ponte d'Adige",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.28,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.49761512961002, 11.358096781537936"
+  },
+  {
+    "nome": "Bolzano Novarese - Gozzano (vecchia) - Borgomanero",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 7.58,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.76092861145595, 8.440706628305037"
+  },
+  {
+    "nome": "Bondeno - Senetica di Bondeno",
+    "Provincia": "Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 6.23,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.90239118479666, 11.41091050286949"
+  },
+  {
+    "nome": "Bonorva - Campeda",
+    "Provincia": "Sassari",
+    "Regione": "Sardegna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 16.43,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.41921386612468, 8.76086261365811"
+  },
+  {
+    "nome": "Campofelice - Fiumetorto",
+    "Provincia": "Palermo",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 9.5,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.99257298580462, 13.8767655700835"
+  },
+  {
+    "nome": "Cardano - Prato Tires - Ponte Gardena",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 19.45,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.495293626502296, 11.391598081666462"
+  },
+  {
+    "nome": "Carini - Cinisi Terrasini",
+    "Provincia": "Palermo",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 11.48,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "38.14875348613567, 13.187180305447717"
+  },
+  {
+    "nome": "Carruba - Guardia Mangano S. Venerina -Acireale - Catania Ognina - Catania Centrale",
+    "Provincia": "Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 26.25,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.68937014704674, 15.191395512008706"
+  },
+  {
+    "nome": "Cavi - Riva Trigoso - Framura - Monterosso - Vernazza - Corniglia - Manarola",
+    "Provincia": "La Spezia",
+    "Regione": "Liguria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 38.61,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.28067230157526, 9.391164907737581"
+  },
+  {
+    "nome": "Cefalù - Lascari",
+    "Provincia": "Palermo",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 9.39,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "38.03306678703985, 14.019388980843948"
+  },
+  {
+    "nome": "Cernusco Merate - Olgiate Calco Brivio - Airuno - Calolziocorte Olginate",
+    "Provincia": "Lecco",
+    "Regione": "Lombardia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 13.54,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.794914866867494, 9.433678336222856"
+  },
+  {
+    "nome": "Citerno Taro - Solignano - Berceto",
+    "Provincia": "Parma",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 13.23,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.63629035727268, 10.03438397115707"
+  },
+  {
+    "nome": "Colle Isarco - Terme del Brennero",
+    "Provincia": "Bolzano",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.64,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "46.9754891647478, 11.480628271460104"
+  },
+  {
+    "nome": "Domegliara S. Ambrogio - Dolce'",
+    "Provincia": "Verona",
+    "Regione": "Veneto",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 9.94,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.54387252219841, 10.823664469093929"
+  },
+  {
+    "nome": "Ferrara - Gaibanella",
+    "Provincia": "Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 9.79,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.842994072864535, 11.603218753903532"
+  },
+  {
+    "nome": "Galliate - Novara Nord (vecchia)",
+    "Provincia": "Novara",
+    "Regione": "Lombardia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 6.62,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.45339894767963, 8.62227260286916"
+  },
+  {
+    "nome": "Genova Pegli - Genova Voltri",
+    "Provincia": "Genova",
+    "Regione": "Liguria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 4.78,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.426323297308016, 8.816775925552495"
+  },
+  {
+    "nome": "Genova Voltri - Genova Vesima - Cogoleto - Savona Letimbro - Savona Parco Doria - Finale Ligure Marina",
+    "Provincia": "Genova - Savona",
+    "Regione": "Liguria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 51.95,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.42897405789383, 8.75669548914776"
+  },
+  {
+    "nome": "Gioia del Colle - Palagiano Mottola",
+    "Provincia": "Bari - Taranto",
+    "Regione": "Puglia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 39.92,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.79783461593593, 16.916728890671433"
+  },
+  {
+    "nome": "Maerne di Martellago - Venezia Mestre",
+    "Provincia": "Venezia",
+    "Regione": "Veneto",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 7.5,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.51512729152614, 12.15073942667179"
+  },
+  {
+    "nome": "Marinella - Venusio",
+    "Provincia": "Bari - Matera",
+    "Regione": "Puglia - Basilicata",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.15,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.99928272984662, 9.553630726535914"
+  },
+  {
+    "nome": "Messina Scalo - Villafranca Tirrena Saponara - Rometta Messinese - Pace del Mela - S. Filippo S. Lucia - Terme Vigliatore - Novara Montalbano Furnari",
+    "Provincia": "Messina",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 51.4,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "38.16948316569072, 15.550275934729592"
+  },
+  {
+    "nome": "Milano Rogoredo - Locate Triulzi",
+    "Provincia": "Milano",
+    "Regione": "Lombardia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 8.47,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.4337244974307, 9.238434153895348"
+  },
+  {
+    "nome": "Montalto Rose - Castiglione Cosentino - Cosenza (vecchia)",
+    "Provincia": "Cosenza",
+    "Regione": "Calabria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.8,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.407259721521825, 16.24708314020208"
+  },
+  {
+    "nome": "Montecarotto Castelbellino - Castelplanio Cupramontana",
+    "Provincia": "Ancona",
+    "Regione": "Marche",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.89,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "43.500341903711686, 13.148131898010112"
+  },
+  {
+    "nome": "Montesilvano - Pescara Centrale (vecchia) - Pescara Porta Nuova - Francavilla al Mare",
+    "Provincia": "Pescara - Chieti",
+    "Regione": "Abruzzo",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 16.11,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.518089462335986, 14.150720005577096"
+  },
+  {
+    "nome": "Narni Amelia - Nera Montoro",
+    "Provincia": "Terni",
+    "Regione": "Umbria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 6.89,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.531491889911706, 12.519565270917518"
+  },
+  {
+    "nome": "Nogara - Ostiglia (vecchia) - Poggio Rusco - Mirandola - S. Felice sul Panaro - Crevalcore - S. Giovanni in Persiceto (vecchia) - Tavernelle Emilia",
+    "Provincia": "Verona - Mantova - Modena - Bologna",
+    "Regione": "Veneto - Lombardia - Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 71.1,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.18029652595541, 11.06902852856208"
+  },
+  {
+    "nome": "Occhiobello - Ferrara",
+    "Provincia": "Rovigo",
+    "Regione": "Veneto - Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 7.17,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.89951527133119, 11.621375469089669"
+  },
+  {
+    "nome": "Oniferi - Prato Sardo",
+    "Provincia": "Nuoro",
+    "Regione": "Sardegna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.1,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "40.31826714514245, 9.170130938274683"
+  },
+  {
+    "nome": "Pabillonis - S. Gavino - Sanluri Stato",
+    "Provincia": "Medio Campidano (Sud Sardegna)",
+    "Regione": "Sardegna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 14.15,
+    "Stato": "Misto",
+    "Geolocalizzazione": "39.59528824886413, 8.720029752038727"
+  },
+  {
+    "nome": "Paola - Castiglione Cosentino",
+    "Provincia": "Cosenza",
+    "Regione": "Calabria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 28.13,
+    "Stato": "Misto",
+    "Geolocalizzazione": "39.313434399256316, 16.045784870640432"
+  },
+  {
+    "nome": "Ponte Casalduni - Benevento - Apice S. Arcangelo Bonito",
+    "Provincia": "Benevento - Avellino",
+    "Regione": "Campania",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 28.8,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.21421505352653, 14.696409326525671"
+  },
+  {
+    "nome": "Prosecco - Poggioreale Campagna - Sezana (SLO)",
+    "Provincia": "Trieste",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 10.92,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.71550307354592, 13.754390984160034"
+  },
+  {
+    "nome": "Rescaldina (vecchia) - Castellanza",
+    "Provincia": "Milano - Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.47,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.62245355426404, 8.946524522983216"
+  },
+  {
+    "nome": "Ripalta - S. Severo",
+    "Provincia": "Foggia",
+    "Regione": "Puglia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 30.37,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.86046, 15.28084"
+  },
+  {
+    "nome": "Roccapalumba Alia - Lercara Bassa - Castronovo di Sicilia",
+    "Provincia": "Palermo",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 15.35,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.7940604966792, 13.67397718139651"
+  },
+  {
+    "nome": "Roma Casilina - Ciampino (SFM) - Galleria di Ciampino",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.47,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.820798137396466, 12.58963751876138"
+  },
+  {
+    "nome": "Roma Mandrione - Acqua Acetosa",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.23,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.876075459455414, 12.537303130842513"
+  },
+  {
+    "nome": "Roma Tor di Quinto - Roma Grottarossa - Roma Labaro Castel Giubileo - Roma La Celsa",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.45,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.95050556849267, 12.489691540541148"
+  },
+  {
+    "nome": "Rovittello - Linguaglossa",
+    "Provincia": "Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 10.4,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.85618704286095, 15.095249778452237"
+  },
+  {
+    "nome": "Rubiera - Modena",
+    "Provincia": "Reggio Emilia",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.65,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.65621915644022, 10.780217542575844"
+  },
+  {
+    "nome": "S. Angelo in Formis (vecchia) - Caiazzo - Villa Ortensia (vecchia)",
+    "Provincia": "Caserta",
+    "Regione": "Campania",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 19.27,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.12054520251887, 14.248481354121134"
+  },
+  {
+    "nome": "S. Giorgio - Arcone - Olmedo",
+    "Provincia": "Sassari",
+    "Regione": "Sardegna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 11.6,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.69076738875237, 8.466980099744067"
+  },
+  {
+    "nome": "S. Marco Roggiano - Mongrassano Cervicati",
+    "Provincia": "Cosenza",
+    "Regione": "Calabria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 10.45,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.6053190237149, 16.208681942584526"
+  },
+  {
+    "nome": "S. Nicola Arcella - Marcellina Verbicaro Orsomarso",
+    "Provincia": "Cosenza",
+    "Regione": "Calabria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 12.11,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.85110293339247, 15.792883414018103"
+  },
+  {
+    "nome": "S. Severo - Portone Perrone - S. Nicandro Garganico - Cagnano Varano",
+    "Provincia": "Foggia",
+    "Regione": "Puglia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 49.48,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.684695141133545, 15.392592522824309"
+  },
+  {
+    "nome": "Saronno - Ceriano Laghetto",
+    "Provincia": "Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 4.07,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.625664229691665, 9.030827142897214"
+  },
+  {
+    "nome": "Scalilli - Adrano Nord",
+    "Provincia": "Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 15.58,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.596005499305335, 14.87460959889749"
+  },
+  {
+    "nome": "Settingiano - Catanzaro (vecchia) - Catanzaro Lido",
+    "Provincia": "Cosenza",
+    "Regione": "Calabria",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 16.92,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "38.90432141478312, 16.510518984965888"
+  },
+  {
+    "nome": "Soliera Modenese - Modena",
+    "Provincia": "Modena",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 8.69,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.722541125162756, 10.906110557286675"
+  },
+  {
+    "nome": "Sottocastello Tai - Perarolo di Cadore",
+    "Provincia": "Belluno",
+    "Regione": "Veneto",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 8.1,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "46.38609937276397, 12.352585828514123"
+  },
+  {
+    "nome": "Targia - Siracusa",
+    "Provincia": "Siracusa",
+    "Regione": "Sicilia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 9.59,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "37.08261642815647, 15.29634189843365"
+  },
+  {
+    "nome": "Terralba - Genova Quarto dei Mille - Genova Nervi - Bogliasco",
+    "Provincia": "Oristano",
+    "Regione": "Sardegna",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 9.37,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.40563336447726, 8.957185074569956"
+  },
+  {
+    "nome": "Tollo Canosa Sannita - Ortona - S. Vito Lanciano - Casalbordino Pollutri - Porto di Vasto - Vasto S. Salvo - S. Salvo",
+    "Provincia": "Chieti",
+    "Regione": "Abruzzo",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 54.87,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.39406646151851, 14.340104797679993"
+  },
+  {
+    "nome": "Tricesimo S. Pelagio - Tarcento - Artegna - Gemona del Friuli - Venzone - Carnia - Pontebba - Tarvisio Centrale - Thörl Maglern (A)",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 86.84,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.15915430465682, 13.234823899669642"
+  },
+  {
+    "nome": "Troia - Cervaro - Foggia",
+    "Provincia": "Foggia",
+    "Regione": "Puglia",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 26.54,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.36468440161769, 15.31695453036047"
+  },
+  {
+    "nome": "Verona Porta Nuova Scalo - Dossobuono",
+    "Provincia": "Verona",
+    "Regione": "Veneto",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 5.98,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.429049244919234, 10.982904347936927"
+  },
+  {
+    "nome": "Villafranca Bagnone - Aulla - S. Stefano Magra",
+    "Provincia": "Massa - Carrara",
+    "Regione": "Toscana",
+    "Tipologia": "Variante di tracciato",
+    "Lunghezza in Km": 18.01,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.29436250329745, 9.948487630284976"
+  },
+  {
+    "nome": "Catania Porto - Catania FS - Catania Borgo",
+    "Provincia": "Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 3.84,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.501663872157096, 15.094608494069396"
+  },
+  {
+    "nome": "Cava Carbonara - Cava Manara",
+    "Provincia": "Pavia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.11,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.14699567983305, 9.071539998867838"
+  },
+  {
+    "nome": "Cavallermaggiore - Moretta",
+    "Provincia": "Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 15.27,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.708228926325795, 7.6917138675292485"
+  },
+  {
+    "nome": "Cavezzo Villafranca - S. Felice sul Panaro (SEFTA) - Finale Emilia",
+    "Provincia": "Modena",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 20.13,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.83300196795293, 11.051335108339979"
+  },
+  {
+    "nome": "Centocelle - S. Cesareo - Fiuggi Centro - Vico nel Lazio - Frosinone Scalo (SFV) - Frosinone Città",
+    "Provincia": "Roma - Frosinone",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 106.5,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.87482170784089, 12.562536175993857"
+  },
+  {
+    "nome": "Cerignola Campagna - Cerignola",
+    "Provincia": "Foggia",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 6.98,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.265386438844104, 15.903652330706873"
+  },
+  {
+    "nome": "Cervignano del Friuli - Pontile per Grado",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.33,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.82381494337127, 13.342778196239149"
+  },
+  {
+    "nome": "Ceva - Ormea",
+    "Provincia": "Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 35.43,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.38966883692808, 8.031663043218103"
+  },
+  {
+    "nome": "Chieti Stazione - Chieti Citta'",
+    "Provincia": "Chieti",
+    "Regione": "Abruzzo",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.76,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "42.356779772609556, 14.139395906742068"
+  },
+  {
+    "nome": "Chiusa - Plan Val Gardena",
+    "Provincia": "Bolzano - Alto Adige",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 31.39,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.64255448431321, 11.572620640555696"
+  },
+  {
+    "nome": "Chivasso - Asti",
+    "Provincia": "Torino - Asti",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 51.32,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.193403860225374, 7.889528538634518"
+  },
+  {
+    "nome": "Cividale del Friuli - Stupizza - Caporetto (Kobarid) (SLO)",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 27.8,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.095010877866244, 13.423894835885791"
+  },
+  {
+    "nome": "Codola - Sarno",
+    "Provincia": "Salerno",
+    "Regione": "Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 7.77,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.76747962953367, 14.665711208259635"
+  },
+  {
+    "nome": "Cremona Porta Milano - Soresina Citta' - Rovato Borgo",
+    "Provincia": "Cremona - Brescia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 65.02,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.14243597337703, 10.006496237540803"
+  },
+  {
+    "nome": "Crocetta (FAS) - Ortona Marina",
+    "Provincia": "Chieti",
+    "Regione": "Abruzzo",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 38.32,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.1995285941461, 14.331260870161305"
+  },
+  {
+    "nome": "Crotone Città - Crotone Scalo - Petilia Policastro",
+    "Provincia": "Crotone",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 40.67,
+    "Stato": "Misto",
+    "Geolocalizzazione": "39.07786216995961, 17.12514845873286"
+  },
+  {
+    "nome": "Cuneo Gesso - Borgo S. Dalmazzo",
+    "Provincia": "Cuneo",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.05,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.39438094447098, 7.5558462002779665"
+  },
+  {
+    "nome": "Decima - S. Giovanni in Persiceto",
+    "Provincia": "Bologna",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.17,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.70834564251522, 11.228601730162659"
+  },
+  {
+    "nome": "Dermulo (FEAA) - Mendola",
+    "Provincia": "Trento",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 23.55,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.33757357490036, 11.063116221537296"
+  },
+  {
+    "nome": "Desenzano del Garda Sirmione - Desenzano Porto",
+    "Provincia": "Brescia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 3.57,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.46273709329811, 10.536422708052744"
+  },
+  {
+    "nome": "Dittaino - Caltagirone (vecchia)",
+    "Provincia": "Enna - Catania",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 71.15,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.56461207110997, 14.462483957938062"
+  },
+  {
+    "nome": "Dittaino - Leonforte",
+    "Provincia": "Enna",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 14.71,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.56461207110997, 14.462483957938062"
+  },
+  {
+    "nome": "Dobbiaco (SFD) - Calalzo FS (SFD)",
+    "Provincia": "Bolzano - Belluno",
+    "Regione": "Trentino-Alto Adige - Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 64.91,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.724650788699584, 12.225616199885014"
+  },
+  {
+    "nome": "Dossobuono - Isola della Scala",
+    "Provincia": "Verona",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 17.03,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.392363778829534, 10.914785590073745"
+  },
+  {
+    "nome": "Ellera Corciano - Tavernelle Val Nestore",
+    "Provincia": "Perugia",
+    "Regione": "Umbria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 21.16,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.09465266460376, 12.318546871244806"
+  },
+  {
+    "nome": "Fano - Fermignano - Urbino",
+    "Provincia": "Pesaro e Urbino",
+    "Regione": "Marche",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 48.75,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.84281927667645, 13.024608138608185"
+  },
+  {
+    "nome": "Fermignano - Fabriano",
+    "Provincia": "Pesaro e Urbino - Ancona",
+    "Regione": "Marche",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 73.77,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "43.68072595197182, 12.642694050897935"
+  },
+  {
+    "nome": "Ferrara - Copparo",
+    "Provincia": "Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 18.98,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.84288526112995, 11.603703305362746"
+  },
+  {
+    "nome": "Filaga - Palazzo Adriano",
+    "Provincia": "Palermo",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.75,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.701087054295876, 13.477143119550375"
+  },
+  {
+    "nome": "Fiuggi Città - Fiuggi Centro - Fiuggi Fonte",
+    "Provincia": "Frosinone",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.87,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.803749380044614, 13.221915199952681"
+  },
+  {
+    "nome": "Follonica (FMF) - Massa Marittima",
+    "Provincia": "Grosseto",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 24.36,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "42.92651243232944, 10.755733438562867"
+  },
+  {
+    "nome": "Frugarolo (FVO) - Basaluzzo",
+    "Provincia": "Alessandria",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.89,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "44.84170818897509, 8.682088467733733"
+  },
+  {
+    "nome": "Gairo - Jerzu",
+    "Provincia": "Nuoro",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.71,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "39.85758346685421, 9.465152722864868"
+  },
+  {
+    "nome": "Gemona del Friuli - Pinzano - Maniago",
+    "Provincia": "Udine - Pordenone",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 41.9,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.2744428666091, 13.128434415027955"
+  },
+  {
+    "nome": "Ghirla - Ponte Tresa",
+    "Provincia": "Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 9.89,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.923162562344665, 8.82127039416419"
+  },
+  {
+    "nome": "Gioia Tauro (FC) - Cinquefrondi",
+    "Provincia": "Reggio Calabria",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 31.74,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "38.42289221620682, 15.896349949062667"
+  },
+  {
+    "nome": "Gioia Tauro (FC) - Palmi (FC) - Sinopoli S. Procopio",
+    "Provincia": "Reggio Calabria",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 26.28,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "38.42289221620682, 15.896349949062667"
+  },
+  {
+    "nome": "Giuncarico - Ribolla",
+    "Provincia": "Grosseto",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.03,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.91525526346961, 11.008719062124728"
+  },
+  {
+    "nome": "Gozzano - Alzo",
+    "Provincia": "Novara",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 7.4,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.74071102445067, 8.438216631904153"
+  },
+  {
+    "nome": "Grandate Breccia - Malnate",
+    "Provincia": "Como - Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 17.87,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.78153531025971, 9.05575877054652"
+  },
+  {
+    "nome": "Grignasco - Coggiola Portula",
+    "Provincia": "Novara - Biella",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 14.5,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.682969750022544, 8.333853061056727"
+  },
+  {
+    "nome": "Isili - Sarcidano - Sorgono",
+    "Provincia": "Cagliari - Oristano - Nuoro",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 83.1,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "39.73809525491539, 9.112376589303034"
+  },
+  {
+    "nome": "L'Aquila (SIA) - Capitignano",
+    "Provincia": "L'Aquila",
+    "Regione": "Abruzzo",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 31.14,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.35297613277464, 13.382173064707441"
+  },
+  {
+    "nome": "Lagonegro (FCL) - Spezzano Albanese Terme (FCL)",
+    "Provincia": "Potenza - Cosenza",
+    "Regione": "Basilicata - Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 104.75,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.12002631578758, 15.761786485015397"
+  },
+  {
+    "nome": "Lercara Bassa - Filaga - Magazzolo",
+    "Provincia": "Palermo - Agrigento",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 67.19,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.73772991396124, 13.633010657087494"
+  },
+  {
+    "nome": "Livorno Calambrone - Colle Salvetti",
+    "Provincia": "Livorno",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.2,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.58478312280283, 10.32683711810525"
+  },
+  {
+    "nome": "Lonigo - Lonigo Citta'",
+    "Provincia": "Vicenza",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.92,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.388495587943474, 11.387279585244759"
+  },
+  {
+    "nome": "Lucca - Pontedera Bagni di Casciana",
+    "Provincia": "Lucca",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 25.26,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.83743179610899, 10.506155322306604"
+  },
+  {
+    "nome": "Macomer (FDS) - Bosa",
+    "Provincia": "Nuoro - Oristano",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 48.1,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "40.26881761298473, 8.772123221250064"
+  },
+  {
+    "nome": "Mandas - Gairo - Arbatax",
+    "Provincia": "Cagliari - Nuoro",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 159.39,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "39.65998242141635, 9.132307580592864"
+  },
+  {
+    "nome": "Mandela Sambuci - Subiaco",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 22.71,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.01703272887235, 12.922892773123328"
+  },
+  {
+    "nome": "Manfredonia - Manfredonia Citta'",
+    "Provincia": "Foggia",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 0.7,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.62313782110616, 15.907459109866421"
+  },
+  {
+    "nome": "Margherita di Savoia Ofantino - Margherita di Savoia",
+    "Provincia": "Barletta-Andria-Trani",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 4.25,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.37279097989247, 16.153894047852212"
+  },
+  {
+    "nome": "Margonia - Canicatti'",
+    "Provincia": "Agrigento",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.47,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.298125056001105, 13.77713715990447"
+  },
+  {
+    "nome": "Marina di Gioiosa - Mammola",
+    "Provincia": "Reggio Calabria",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 14.51,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "38.30135294547307, 16.328802365833063"
+  },
+  {
+    "nome": "Marina di S. Vito - Crocetta - Archi - Castel di Sangro (FAS)",
+    "Provincia": "L'Aquila - Chieti",
+    "Regione": "Abruzzo",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 102.6,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "42.307277485517616, 14.448022531221433"
+  },
+  {
+    "nome": "Marzi - Soveria Mannelli",
+    "Provincia": "Cosenza - Catanzaro",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 31.5,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.1683527567793, 16.30432247019734"
+  },
+  {
+    "nome": "Massalombarda (SAF) - Imola (SAF) - Fontanelice",
+    "Provincia": "Ravenna - Bologna",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 34.14,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.44695915051254, 11.832624000495704"
+  },
+  {
+    "nome": "Matera - Ferrandina (FCL) - Pisticci (FCL) - Montalbano Jonico",
+    "Provincia": "Matera",
+    "Regione": "Basilicata",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 65.36,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.66628500424058, 16.60131304896186"
+  },
+  {
+    "nome": "Menaggio - Porlezza",
+    "Provincia": "Como",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.24,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.017469627380095, 9.23630314344803"
+  },
+  {
+    "nome": "Mezzocorona - Mezzolombardo",
+    "Provincia": "Trento",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 2.61,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "46.20756992258715, 11.128282553740341"
+  },
+  {
+    "nome": "Modena (SEFTA) - Cavezzo Villafranca - Mirandola (SEFTA)",
+    "Provincia": "Modena",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 33.33,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.63477097918516, 10.93085798389035"
+  },
+  {
+    "nome": "Modena (SEFTA) - Spilamberto - Vignola",
+    "Provincia": "Modena",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 24.91,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "44.63477097918516, 10.93085798389035"
+  },
+  {
+    "nome": "Modena - Crevalcore - Decima - Porotto",
+    "Provincia": "Modena - Bologna - Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 59.5,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.65432035605839, 10.930650677554333"
+  },
+  {
+    "nome": "Montepulciano Stazione - Montepulciano Citta'",
+    "Provincia": "Siena",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 10.33,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.13534558719284, 11.856867293515482"
+  },
+  {
+    "nome": "Monti - Luras",
+    "Provincia": "Sassari",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 28.26,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.8297638569824, 9.322726769457452"
+  },
+  {
+    "nome": "Mortara - Casale Monferrato - Asti",
+    "Provincia": "Pavia - Alessandria -Asti",
+    "Regione": "Lombardia - Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 73.45,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.25218256580609, 8.731741578072095"
+  },
+  {
+    "nome": "Motta S. Anastasia - Regalbuto",
+    "Provincia": "Catania - Enna",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 52.77,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.460628283379435, 14.93701520415559"
+  },
+  {
+    "nome": "Napoli Piazza Carlo III - Biforcazione - Capua (CFMI)",
+    "Provincia": "Napoli - Caserta",
+    "Regione": "Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 43.15,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.86179085635509, 14.2652320010691"
+  },
+  {
+    "nome": "Nasisi - Taranto Arsenale",
+    "Provincia": "Taranto",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 18.29,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.50872334418107, 17.257946101635014"
+  },
+  {
+    "nome": "Noto - Pachino",
+    "Provincia": "Siracusa",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 27.03,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "36.88265250494669, 15.074574051576604"
+  },
+  {
+    "nome": "Ora Val di Fiemme - Predazzo",
+    "Provincia": "Bolzano - Trento",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 50.5,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "46.36087231990462, 11.296834235207971"
+  },
+  {
+    "nome": "Orbetello - Porto S. Stefano",
+    "Provincia": "Grosseto",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.34,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "42.450595885466825, 11.248781552484637"
+  },
+  {
+    "nome": "Orte - Fabrica di Roma - Capranica Sutri - Civitavecchia",
+    "Provincia": "Viterbo - Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 85.69,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.43752449174661, 12.408667881100223"
+  },
+  {
+    "nome": "Ostellato - Porto Garibaldi",
+    "Provincia": "Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 27.99,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "44.74794174066472, 11.934476033962033"
+  },
+  {
+    "nome": "Padova Borgo Magno - Piazzola sul Brenta (FPP) - Carmignano Ospitale di Brenta (FPP)",
+    "Provincia": "Padova",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 27.7,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.41736052616366, 11.880264052196999"
+  },
+  {
+    "nome": "Palazzolo sull'Oglio - Paratico Sarnico",
+    "Provincia": "Brescia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 9.65,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.6024599492475, 9.89498997347919"
+  },
+  {
+    "nome": "Palermo S. Erasmo - S. Carlo - Burgio",
+    "Provincia": "Palermo - Agrigento",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 112.29,
+    "Stato": "Misto",
+    "Geolocalizzazione": "38.110889579081, 13.378566788983749"
+  },
+  {
+    "nome": "Palmanova - S. Giorgio di Nogaro",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 11.39,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.90690099772702, 13.296638877542918"
+  },
+  {
+    "nome": "Palo Cerveteri - Ladispoli",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 2.3,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.93928356119035, 12.10257923824005"
+  },
+  {
+    "nome": "Parco Leonardo - Fiumicino Città",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 5.77,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.78836448177492, 12.270405983841972"
+  },
+  {
+    "nome": "Pedace - S. Giovanni in Fiore",
+    "Provincia": "Cosenza",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 67.08,
+    "Stato": "Misto",
+    "Geolocalizzazione": "39.26926758004021, 16.323636164574364"
+  },
+  {
+    "nome": "Pescolanciano - Agnone",
+    "Provincia": "Isernia",
+    "Regione": "Molise",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 37.47,
+    "Stato": "Informazione assente",
+    "Geolocalizzazione": "41.67895819192521, 14.341412910939225"
+  },
+  {
+    "nome": "Piacenza Barriera Roma - Bettola",
+    "Provincia": "Piacenza",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 32.73,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.052069712935285, 9.70608272127654"
+  },
+  {
+    "nome": "Pinerolo - Bricherasio - Torre Pellice",
+    "Provincia": "Torino",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 16.45,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.88765935733549, 7.337409563615528"
+  },
+  {
+    "nome": "Pineta di Pescara - Pescara Centrale (FPP) - Penne",
+    "Provincia": "Pescara",
+    "Regione": "Abruzzo",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 39.63,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.44602465247599, 14.24690120360342"
+  },
+  {
+    "nome": "Pinzano - Casarsa",
+    "Provincia": "Pordenone",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 28.55,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.179451018421005, 12.950531510895754"
+  },
+  {
+    "nome": "Piovene Rocchette - Asiago",
+    "Provincia": "Vicenza",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 21.19,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.767061840080224, 11.430951507682318"
+  },
+  {
+    "nome": "Pisa (ACIT) - Livorno Accademia Navale",
+    "Provincia": "Pisa - Livorno",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 32.64,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.71091479289911, 10.397454994334472"
+  },
+  {
+    "nome": "Pisa Centrale - Pisa Aeroporto",
+    "Provincia": "Pisa",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 2.07,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "43.70848336763407, 10.398472869602031"
+  },
+  {
+    "nome": "Poggibonsi S. Gimignano - Colle Val D'Elsa",
+    "Provincia": "Siena",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 7.76,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "43.46806002873958, 11.149404796463823"
+  },
+  {
+    "nome": "Ponte Tresa - Luino Lago",
+    "Provincia": "Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 12.23,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.96536271699761, 8.85882713741385"
+  },
+  {
+    "nome": "Porto S. Giorgio - Amandola",
+    "Provincia": "Fermo",
+    "Regione": "Marche",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 56.96,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "43.1784825340456, 13.797491108482292"
+  },
+  {
+    "nome": "Portomaggiore - Dogato",
+    "Provincia": "Ferrara",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.15,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.69670023668975, 11.799774589785896"
+  },
+  {
+    "nome": "Potenza Inferiore Scalo - Laurenzana",
+    "Provincia": "Potenza",
+    "Regione": "Basilicata",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 42.5,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.62811732044203, 15.802803328510183"
+  },
+  {
+    "nome": "Pracchia (FAP) - Mammiano",
+    "Provincia": "Pistoia",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 16.57,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.05508605734313, 10.906797648758014"
+  },
+  {
+    "nome": "Pugliano - Funicolare Inferiore",
+    "Provincia": "Napoli",
+    "Regione": "Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 7.65,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.81147427051888, 14.351975760008205"
+  },
+  {
+    "nome": "Reggio S. Croce - Boretto",
+    "Provincia": "Reggio Emilia",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 26.07,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.70800095947767, 10.64256119012503"
+  },
+  {
+    "nome": "Renate Veduggio - Romano' Fornaci",
+    "Provincia": "Monza e Brianza",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 3.85,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.72838425428751, 9.279971255364089"
+  },
+  {
+    "nome": "Rezzato (FRV) - Vobarno Ferriera",
+    "Provincia": "Brescia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 25.99,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.50285789339849, 10.311654687079068"
+  },
+  {
+    "nome": "Rimini - Coriano Cerasolo - S. Marino (RSM)",
+    "Provincia": "Rimini",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 32.04,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.064071015219355, 12.573850065909227"
+  },
+  {
+    "nome": "Rimini Centrale - Novafeltria",
+    "Provincia": "Rimini",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 33.23,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.06200283467277, 12.574241535620272"
+  },
+  {
+    "nome": "Rivarolo - Castellamonte",
+    "Provincia": "Torino",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 7.17,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.32846507001621, 7.726335081256786"
+  },
+  {
+    "nome": "Rocchetta S. Antonio Lacedonia - Avellino",
+    "Provincia": "Foggia - Potenza -Avellino",
+    "Regione": "Puglia - Basilicata -Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 118.72,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.07908167600149, 15.550216116236115"
+  },
+  {
+    "nome": "Romagnano Sesia - Grignasco - Varallo Sesia",
+    "Provincia": "Novara - Varese",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 25.09,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.6301692097386, 8.384821491997707"
+  },
+  {
+    "nome": "Rovereto (RAR) - Mori Stazione - Riva del Garda",
+    "Provincia": "Trento",
+    "Regione": "Trentino-Alto Adige",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 28.54,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.89098044428632, 11.0338864925627"
+  },
+  {
+    "nome": "S. Antonio Mantovano - Peschiera (FMP)",
+    "Provincia": "Mantova - Verona",
+    "Regione": "Lombardia - Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 33.91,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.187542377446796, 10.785929607963082"
+  },
+  {
+    "nome": "S. Carlo - S. Ninfa - Castelvetrano",
+    "Provincia": "Palermo - Agrigento - Trapani",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 73.32,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.62751473442817, 13.254327267852306"
+  },
+  {
+    "nome": "S. Cesareo - Frascati Citta'",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 15.17,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.82294701692513, 12.79850566128307"
+  },
+  {
+    "nome": "S. Ellero (FSS) - Saltino",
+    "Provincia": "Firenze",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 7.93,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.742219327693626, 11.469956899276053"
+  },
+  {
+    "nome": "S. Gavino (SMM) - Sciria",
+    "Provincia": "Medio Campidano (Sud Sardegna)",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 18.2,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.5549203396215, 8.765371515646935"
+  },
+  {
+    "nome": "S. Giovanni Suergiu - Iglesias (FMS)",
+    "Provincia": "Carbonia-Iglesias (Sud Sardegna)",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 33.13,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.10675933009038, 8.526147168441566"
+  },
+  {
+    "nome": "S. Nicola di Melfi - Spinazzola - Gravina in Puglia - Altamura - Gioia del Colle",
+    "Provincia": "Potenza - Salerno - Barletta-Andria-Trani - Bari",
+    "Regione": "Basilicata - Campania - Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 127.08,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "41.08416195298944, 15.675863351986237"
+  },
+  {
+    "nome": "S. Ninfa - Salemi",
+    "Provincia": "Trapani",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 9.49,
+    "Stato": "Misto",
+    "Geolocalizzazione": "37.769459732452, 12.898230900056186"
+  },
+  {
+    "nome": "S. Spirito Lido - S. Spirito Stazione (FSAI) - Bitonto (FSAI)",
+    "Provincia": "Bari",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.2,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.160227429606884, 16.746350884414703"
+  },
+  {
+    "nome": "S. Stefano Magra - Sarzana",
+    "Provincia": "Spezia",
+    "Regione": "Liguria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 6.52,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "44.15730555643105, 9.915419068715003"
+  },
+  {
+    "nome": "S. Vito al Tagliamento - Motta di Livenza",
+    "Provincia": "Pordenone - Treviso",
+    "Regione": "Friuli-Venezia Giulia - Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 26.79,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.91300043762813, 12.85178108427167"
+  },
+  {
+    "nome": "Sacile - Vittorio Sant'Andrea",
+    "Provincia": "Pordenone - Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 17,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.94913930527435, 12.498348568476906"
+  },
+  {
+    "nome": "Saline di Volterra Pomarance - Volterra",
+    "Provincia": "Pisa",
+    "Regione": "Toscana",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 8.05,
+    "Stato": "Misto",
+    "Geolocalizzazione": "43.36048183491705, 10.809592584252181"
+  },
+  {
+    "nome": "Santhià - Rovasenda Alta - Romagnano Sesia - Borgomanero - Arona",
+    "Provincia": "Vercelli - Novara",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 65.01,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.36437858565743, 8.18006171568308"
+  },
+  {
+    "nome": "Sarcidano - Villamar - Sanluri Stato - Villacidro",
+    "Provincia": "Cagliari - Medio Campidano (Sud Sardegna)",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 64.04,
+    "Stato": "Misto",
+    "Geolocalizzazione": "39.761950742978655, 9.114197447599855"
+  },
+  {
+    "nome": "Sassari - Luras - Palau Marina",
+    "Provincia": "Sassari",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 150.2,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "40.729663694577475, 8.554412063349746"
+  },
+  {
+    "nome": "Schio - Piovene Rocchette",
+    "Provincia": "Vicenza",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 10.51,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.7105929599467, 11.35741122004807"
+  },
+  {
+    "nome": "Schio - Torrebelvicino",
+    "Provincia": "Vicenza",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 3.77,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.7105929599467, 11.35741122004807"
+  },
+  {
+    "nome": "Sicignano degli Alburni - Atena (FS) - Lagonegro",
+    "Provincia": "Salerno - Potenza",
+    "Regione": "Campania - Basilicata",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 78.25,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "40.6060239379542, 15.290936254200844"
+  },
+  {
+    "nome": "Siliqua (FMS) - S. Giovanni Suergiu - Calasetta",
+    "Provincia": "Cagliari (Sud Sardegna) - Carbonia-Iglesias",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 79.27,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "39.29710564971408, 8.813079038822417"
+  },
+  {
+    "nome": "Siracusa Nuova - Bivio Giarratana - Ragusa (SAFS)",
+    "Provincia": "Siracusa",
+    "Regione": "Sicilia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 96.53,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "37.058174596857384, 15.230005202895375"
+  },
+  {
+    "nome": "Soverato (FCL) - Chiaravalle Centrale",
+    "Provincia": "Catanzaro",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 22.95,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "38.684574375807195, 16.549496470824995"
+  },
+  {
+    "nome": "Sparanise - Sessa Superiore - Minturno Scauri - Formia - Gaeta",
+    "Provincia": "Caserta - Latina",
+    "Regione": "Campania - Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 59.17,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.18600523828388, 14.093027011436538"
+  },
+  {
+    "nome": "Spilamberto - Bazzano",
+    "Provincia": "Modena - Bologna",
+    "Regione": "Emilia-Romagna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 6.75,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.531352757116544, 11.025074485350437"
+  },
+  {
+    "nome": "Spinazzola - Spinazzola Citta'",
+    "Provincia": "Barletta-Andria-Trani",
+    "Regione": "Puglia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 1.49,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "40.95378860257498, 16.087154007503642"
+  },
+  {
+    "nome": "Spoleto F.S. - Norcia",
+    "Provincia": "Perugia",
+    "Regione": "Umbria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 50.99,
+    "Stato": "Misto",
+    "Geolocalizzazione": "42.748493465551874, 12.736356399991264"
+  },
+  {
+    "nome": "Stresa Ferrovia - Mottarone",
+    "Provincia": "Verbano-Cusio-Ossola",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 9.86,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.88511053625552, 8.531804663177608"
+  },
+  {
+    "nome": "Sulmona - Castel di Sangro - Carpinone",
+    "Provincia": "L'Aquila - Isernia",
+    "Regione": "Abruzzo - Molise",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 118.1,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "42.06120720933133, 13.907534045796863"
+  },
+  {
+    "nome": "Susa (MCR) - Bar Cenisio - St. Michel de Maurienne(MCR) (F)",
+    "Provincia": "Torino",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 77.85,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.13869393370927, 7.052726237688034"
+  },
+  {
+    "nome": "Susegana - Montebelluna",
+    "Provincia": "Treviso",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 19.04,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.821240275103875, 12.257686710302533"
+  },
+  {
+    "nome": "Tarvisio Centrale - Fusine Laghi - Jesenice (SLO)",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 38.48,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.51110368627747, 13.603743179747953"
+  },
+  {
+    "nome": "Telese Cerreto - Telese Bagni",
+    "Provincia": "Benevento",
+    "Regione": "Campania",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 1.57,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.21194236557509, 14.525793544250035"
+  },
+  {
+    "nome": "Thiene - Piovene Rocchette - Arsiero",
+    "Provincia": "Vicenza",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 18.43,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.70005552938809, 11.476592047506283"
+  },
+  {
+    "nome": "Tirso - Chilivani",
+    "Provincia": "Sassari",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 78.57,
+    "Stato": "Misto",
+    "Geolocalizzazione": "40.3238844948375, 9.037382694800819"
+  },
+  {
+    "nome": "Treviso Centrale - Camposampiero - Piazzola Campo S. Martino - Grisignano di Zocco - Legnago - Ostiglia (vecchia)",
+    "Provincia": "Treviso - Mantova",
+    "Regione": "Veneto - Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 116,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.66019543557905, 12.245159288882679"
+  },
+  {
+    "nome": "Trieste Barcola - Trieste Campo Marzio",
+    "Provincia": "Trieste",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 5,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.672297393860774, 13.757276702729662"
+  },
+  {
+    "nome": "Trieste Campomarzio (vecchia) - Muggia - Parenzo (HR)",
+    "Provincia": "Trieste",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 122.99,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "45.64651248191348, 13.75523882763245"
+  },
+  {
+    "nome": "Trieste Campomarzio (vecchia) - Poggioreale del Carso - Kreplje (SLO)",
+    "Provincia": "Trieste",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 22.1,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.64651248191348, 13.75523882763245"
+  },
+  {
+    "nome": "Trieste Campomarzio (vecchia) - S. Elia - Hrpelje Kozina (SLO)",
+    "Provincia": "Trieste",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 19.61,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.64651248191348, 13.75523882763245"
+  },
+  {
+    "nome": "Velletri - Colleferro Segni Paliano",
+    "Provincia": "Roma",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 23.33,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.6824474100662, 12.780641644044923"
+  },
+  {
+    "nome": "Velletri - Sezze Romano - Sonnino - Priverno Fossanova - Terracina",
+    "Provincia": "Roma - Latina",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 80.8,
+    "Stato": "Misto",
+    "Geolocalizzazione": "41.6824474100662, 12.780641644044923"
+  },
+  {
+    "nome": "Verbania Intra - Premeno",
+    "Provincia": "Verbano-Cusio-Ossola",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.34,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.93355711882222, 8.572768806100783"
+  },
+  {
+    "nome": "Vercelli - Casale Popolo",
+    "Provincia": "Vercelli - Alessandria",
+    "Regione": "Piemonte",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 19.22,
+    "Stato": "Abbandonato",
+    "Geolocalizzazione": "45.32984031906924, 8.416811988676427"
+  },
+  {
+    "nome": "Verona Porta S. Giorgio -Domegliara (SAER) - Affi - Caprino Veronese",
+    "Provincia": "Verona",
+    "Regione": "Veneto",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 34.11,
+    "Stato": "Misto",
+    "Geolocalizzazione": "45.4502245020144, 10.996296701864944"
+  },
+  {
+    "nome": "Vibo Valentia - Mileto",
+    "Provincia": "Vibo Valentia",
+    "Regione": "Calabria",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 27.88,
+    "Stato": "Misto",
+    "Geolocalizzazione": "38.71364025668018, 16.12029642129401"
+  },
+  {
+    "nome": "Vico nel Lazio - Guarcino",
+    "Provincia": "Frosinone",
+    "Regione": "Lazio",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 3.43,
+    "Stato": "Riqualificato",
+    "Geolocalizzazione": "41.77426496881174, 13.320866581804513"
+  },
+  {
+    "nome": "Villa Santina - Comeglians",
+    "Provincia": "Udine",
+    "Regione": "Friuli-Venezia Giulia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 13.89,
+    "Stato": "Misto",
+    "Geolocalizzazione": "46.41365351271832, 12.921810682547173"
+  },
+  {
+    "nome": "Villamar - Ales",
+    "Provincia": "Medio Campidano (Sud Sardegna) - Oristano",
+    "Regione": "Sardegna",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 26.24,
+    "Stato": "Misto",
+    "Geolocalizzazione": "39.62044827419125, 8.957791087168712"
+  },
+  {
+    "nome": "Voghera (FAA) - Varzi",
+    "Provincia": "Pavia",
+    "Regione": "Lombardia",
+    "Tipologia": "Chiusa al traffico",
+    "Lunghezza in Km": 32.37,
+    "Stato": "Misto",
+    "Geolocalizzazione": "44.99786404229146, 9.008515527983032"
+  }
+]

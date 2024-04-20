@@ -1,0 +1,8 @@
+:root {
+  --main-text-color: #233d4d;
+  --bg-color: #efefef;
+}
+#data-124 {
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+}
