@@ -1,0 +1,77 @@
+[
+  {
+    "year": 2009,
+    "Employees": 284000,
+    "delta": "-"
+  },
+  {
+    "year": 2010,
+    "Employees": 288000,
+    "delta": "+1.41%"
+  },
+  {
+    "year": 2011,
+    "Employees": 282000,
+    "delta": "-2.08%"
+  },
+  {
+    "year": 2012,
+    "Employees": 267000,
+    "delta": "-5.32%"
+  },
+  {
+    "year": 2013,
+    "Employees": 242000,
+    "delta": "-9.36%"
+  },
+  {
+    "year": 2014,
+    "Employees": 224000,
+    "delta": "-7.44%"
+  },
+  {
+    "year": 2015,
+    "Employees": 213000,
+    "delta": "-4.91%"
+  },
+  {
+    "year": 2016,
+    "Employees": 208000,
+    "delta": "-2.35%"
+  },
+  {
+    "year": 2017,
+    "Employees": 209000,
+    "delta": "+0.48%"
+  },
+  {
+    "year": 2018,
+    "Employees": 204000,
+    "delta": "-2.39%"
+  },
+  {
+    "year": 2019,
+    "Employees": 208000,
+    "delta": "+1.96%"
+  },
+  {
+    "year": 2020,
+    "Employees": 213000,
+    "delta": "+2.40%"
+  },
+  {
+    "year": 2021,
+    "Employees": 208000,
+    "delta": "-2.35%"
+  },
+  {
+    "year": 2022,
+    "Employees": 217000,
+    "delta": "+4.33%"
+  },
+  {
+    "year": 2023,
+    "Employees": 213000,
+    "delta": "-1.84%"
+  }
+]
