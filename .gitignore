@@ -40,3 +40,6 @@ next-env.d.ts
 bin/*.json
 result.json
 .heapprofile
+
+# Sentry Config File
+.sentryclirc
