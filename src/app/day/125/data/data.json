@@ -1,0 +1,6544 @@
+{
+  "meta": {
+    "schema": "https://raw.githubusercontent.com/sdmx-twg/sdmx-json/master/data-message/tools/schemas/1.0/sdmx-json-data-schema.json",
+    "id": "IREF000925",
+    "prepared": "2024-05-03T18:09:15Z",
+    "test": true,
+    "contentLanguages": ["it", "en"],
+    "sender": {
+      "id": "NOT_CONFIGURED",
+      "name": "unknown",
+      "names": {
+        "it": "unknown"
+      }
+    }
+  },
+  "data": {
+    "dataSets": [
+      {
+        "action": "Information",
+        "links": [
+          {
+            "urn": "urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=IT1:DCIS_SEPARAZFIG1(1.0)",
+            "rel": "DataStructure"
+          }
+        ],
+        "annotations": [0, 1, 2, 3, 4, 5, 6, 7],
+        "series": {
+          "0:0:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["74038"],
+              "1": ["78314"],
+              "2": ["76369"],
+              "3": ["76838"],
+              "4": ["73891"],
+              "5": ["58562"],
+              "6": ["74646"]
+            }
+          },
+          "0:0:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["17668"],
+              "1": ["21297"],
+              "2": ["22092"],
+              "3": ["22087"],
+              "4": ["23583"],
+              "5": ["21355"],
+              "6": ["23267"]
+            }
+          },
+          "0:0:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["91706"],
+              "1": ["99611"],
+              "2": ["98461"],
+              "3": ["98925"],
+              "4": ["97474"],
+              "5": ["79917"],
+              "6": ["97913"]
+            }
+          },
+          "0:0:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["66037"],
+              "1": ["74457"],
+              "2": ["74760"],
+              "3": ["79186"],
+              "4": ["76221"],
+              "5": ["61468"],
+              "6": ["76130"]
+            }
+          },
+          "0:0:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["62806"],
+              "1": ["69879"],
+              "2": ["69357"],
+              "3": ["74146"],
+              "4": ["70707"],
+              "5": ["56064"],
+              "6": ["70892"]
+            }
+          },
+          "0:0:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["3231"],
+              "1": ["4578"],
+              "2": ["5403"],
+              "3": ["5040"],
+              "4": ["5514"],
+              "5": ["5403"],
+              "6": ["5238"]
+            }
+          },
+          "0:1:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["19216"],
+              "1": ["21313"],
+              "2": ["20192"],
+              "3": ["20890"],
+              "4": ["19316"],
+              "5": ["15155"],
+              "6": ["18569"]
+            }
+          },
+          "0:1:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4901"],
+              "1": ["6227"],
+              "2": ["6343"],
+              "3": ["6576"],
+              "4": ["6932"],
+              "5": ["5738"],
+              "6": ["6212"]
+            }
+          },
+          "0:1:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["24117"],
+              "1": ["27540"],
+              "2": ["26535"],
+              "3": ["27466"],
+              "4": ["26248"],
+              "5": ["20893"],
+              "6": ["24781"]
+            }
+          },
+          "0:1:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["17791"],
+              "1": ["21133"],
+              "2": ["20447"],
+              "3": ["22311"],
+              "4": ["20523"],
+              "5": ["16411"],
+              "6": ["19101"]
+            }
+          },
+          "0:1:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["16873"],
+              "1": ["19921"],
+              "2": ["18962"],
+              "3": ["20895"],
+              "4": ["19045"],
+              "5": ["15066"],
+              "6": ["17872"]
+            }
+          },
+          "0:1:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["918"],
+              "1": ["1212"],
+              "2": ["1485"],
+              "3": ["1416"],
+              "4": ["1478"],
+              "5": ["1345"],
+              "6": ["1230"]
+            }
+          },
+          "0:2:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5296"],
+              "1": ["5476"],
+              "2": ["5391"],
+              "3": ["6206"],
+              "4": ["5389"],
+              "5": ["4534"],
+              "6": ["5297"]
+            }
+          },
+          "0:2:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1277"],
+              "1": ["1774"],
+              "2": ["1882"],
+              "3": ["2014"],
+              "4": ["2166"],
+              "5": ["1638"],
+              "6": ["1766"]
+            }
+          },
+          "0:2:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6573"],
+              "1": ["7250"],
+              "2": ["7273"],
+              "3": ["8220"],
+              "4": ["7555"],
+              "5": ["6172"],
+              "6": ["7063"]
+            }
+          },
+          "0:2:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4587"],
+              "1": ["5267"],
+              "2": ["5285"],
+              "3": ["6736"],
+              "4": ["5713"],
+              "5": ["4696"],
+              "6": ["5305"]
+            }
+          },
+          "0:2:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4404"],
+              "1": ["5025"],
+              "2": ["4897"],
+              "3": ["6228"],
+              "4": ["5251"],
+              "5": ["4313"],
+              "6": ["4994"]
+            }
+          },
+          "0:2:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["184"],
+              "1": ["242"],
+              "2": ["387"],
+              "3": ["508"],
+              "4": ["463"],
+              "5": ["383"],
+              "6": ["311"]
+            }
+          },
+          "0:3:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["153"],
+              "1": ["182"],
+              "2": ["146"],
+              "3": ["161"],
+              "4": ["173"],
+              "5": ["109"],
+              "6": ["160"]
+            }
+          },
+          "0:3:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["64"],
+              "1": ["58"],
+              "2": ["58"],
+              "3": ["49"],
+              "4": ["72"],
+              "5": ["51"],
+              "6": ["48"]
+            }
+          },
+          "0:3:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["217"],
+              "1": ["240"],
+              "2": ["204"],
+              "3": ["210"],
+              "4": ["245"],
+              "5": ["160"],
+              "6": ["208"]
+            }
+          },
+          "0:3:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["163"],
+              "1": ["185"],
+              "2": ["186"],
+              "3": ["168"],
+              "4": ["193"],
+              "5": ["116"],
+              "6": ["170"]
+            }
+          },
+          "0:3:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["151"],
+              "1": ["176"],
+              "2": ["170"],
+              "3": ["166"],
+              "4": ["189"],
+              "5": ["112"],
+              "6": ["168"]
+            }
+          },
+          "0:3:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["12"],
+              "1": ["9"],
+              "2": ["16"],
+              "3": ["2"],
+              "4": ["4"],
+              "5": ["4"],
+              "6": ["2"]
+            }
+          },
+          "0:4:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2186"],
+              "1": ["2579"],
+              "2": ["2373"],
+              "3": ["2370"],
+              "4": ["2198"],
+              "5": ["1719"],
+              "6": ["1957"]
+            }
+          },
+          "0:4:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["567"],
+              "1": ["628"],
+              "2": ["656"],
+              "3": ["633"],
+              "4": ["704"],
+              "5": ["672"],
+              "6": ["716"]
+            }
+          },
+          "0:4:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2753"],
+              "1": ["3207"],
+              "2": ["3029"],
+              "3": ["3003"],
+              "4": ["2902"],
+              "5": ["2391"],
+              "6": ["2673"]
+            }
+          },
+          "0:4:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1850"],
+              "1": ["2316"],
+              "2": ["2119"],
+              "3": ["2201"],
+              "4": ["2055"],
+              "5": ["1711"],
+              "6": ["1774"]
+            }
+          },
+          "0:4:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1761"],
+              "1": ["2169"],
+              "2": ["1972"],
+              "3": ["2078"],
+              "4": ["1929"],
+              "5": ["1577"],
+              "6": ["1628"]
+            }
+          },
+          "0:4:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["89"],
+              "1": ["147"],
+              "2": ["148"],
+              "3": ["123"],
+              "4": ["127"],
+              "5": ["134"],
+              "6": ["146"]
+            }
+          },
+          "0:5:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["11581"],
+              "1": ["13076"],
+              "2": ["12282"],
+              "3": ["12153"],
+              "4": ["11556"],
+              "5": ["8793"],
+              "6": ["11155"]
+            }
+          },
+          "0:5:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2993"],
+              "1": ["3767"],
+              "2": ["3747"],
+              "3": ["3880"],
+              "4": ["3990"],
+              "5": ["3377"],
+              "6": ["3682"]
+            }
+          },
+          "0:5:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["14574"],
+              "1": ["16843"],
+              "2": ["16029"],
+              "3": ["16033"],
+              "4": ["15546"],
+              "5": ["12170"],
+              "6": ["14837"]
+            }
+          },
+          "0:5:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["11190"],
+              "1": ["13365"],
+              "2": ["12858"],
+              "3": ["13206"],
+              "4": ["12561"],
+              "5": ["9888"],
+              "6": ["11853"]
+            }
+          },
+          "0:5:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["10558"],
+              "1": ["12551"],
+              "2": ["11923"],
+              "3": ["12422"],
+              "4": ["11676"],
+              "5": ["9064"],
+              "6": ["11082"]
+            }
+          },
+          "0:5:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["633"],
+              "1": ["814"],
+              "2": ["934"],
+              "3": ["784"],
+              "4": ["885"],
+              "5": ["824"],
+              "6": ["771"]
+            }
+          },
+          "0:6:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["13100"],
+              "1": ["13308"],
+              "2": ["13447"],
+              "3": ["12715"],
+              "4": ["12604"],
+              "5": ["10807"],
+              "6": ["11925"]
+            }
+          },
+          "0:6:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["3824"],
+              "1": ["4264"],
+              "2": ["4309"],
+              "3": ["4352"],
+              "4": ["4442"],
+              "5": ["3823"],
+              "6": ["3986"]
+            }
+          },
+          "0:6:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["16924"],
+              "1": ["17572"],
+              "2": ["17756"],
+              "3": ["17067"],
+              "4": ["17046"],
+              "5": ["14630"],
+              "6": ["15911"]
+            }
+          },
+          "0:6:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["12063"],
+              "1": ["12983"],
+              "2": ["13482"],
+              "3": ["13036"],
+              "4": ["12980"],
+              "5": ["11077"],
+              "6": ["12030"]
+            }
+          },
+          "0:6:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["11530"],
+              "1": ["12216"],
+              "2": ["12646"],
+              "3": ["12275"],
+              "4": ["12155"],
+              "5": ["10339"],
+              "6": ["11281"]
+            }
+          },
+          "0:6:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["533"],
+              "1": ["767"],
+              "2": ["837"],
+              "3": ["761"],
+              "4": ["825"],
+              "5": ["738"],
+              "6": ["749"]
+            }
+          },
+          "0:7:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["529"],
+              "1": ["555"],
+              "2": ["484"],
+              "3": ["491"],
+              "4": ["520"],
+              "5": ["443"],
+              "6": ["457"]
+            }
+          },
+          "0:7:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["105"],
+              "1": ["118"],
+              "2": ["134"],
+              "3": ["145"],
+              "4": ["135"],
+              "5": ["120"],
+              "6": ["97"]
+            }
+          },
+          "0:7:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["634"],
+              "1": ["673"],
+              "2": ["618"],
+              "3": ["636"],
+              "4": ["655"],
+              "5": ["563"],
+              "6": ["554"]
+            }
+          },
+          "0:7:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["584"],
+              "1": ["639"],
+              "2": ["527"],
+              "3": ["491"],
+              "4": ["609"],
+              "5": ["557"],
+              "6": ["494"]
+            }
+          },
+          "0:7:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["582"],
+              "1": ["625"],
+              "2": ["514"],
+              "3": ["480"],
+              "4": ["597"],
+              "5": ["547"],
+              "6": ["492"]
+            }
+          },
+          "0:7:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2"],
+              "1": ["14"],
+              "2": ["13"],
+              "3": ["11"],
+              "4": ["12"],
+              "5": ["10"],
+              "6": ["2"]
+            }
+          },
+          "0:8:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["585"],
+              "1": ["635"],
+              "2": ["710"],
+              "3": ["562"],
+              "4": ["654"],
+              "5": ["423"],
+              "6": ["709"]
+            }
+          },
+          "0:8:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["149"],
+              "1": ["155"],
+              "2": ["145"],
+              "3": ["146"],
+              "4": ["134"],
+              "5": ["134"],
+              "6": ["130"]
+            }
+          },
+          "0:8:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["734"],
+              "1": ["790"],
+              "2": ["855"],
+              "3": ["708"],
+              "4": ["788"],
+              "5": ["557"],
+              "6": ["839"]
+            }
+          },
+          "0:8:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["578"],
+              "1": ["652"],
+              "2": ["749"],
+              "3": ["581"],
+              "4": ["706"],
+              "5": ["403"],
+              "6": ["805"]
+            }
+          },
+          "0:8:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["562"],
+              "1": ["631"],
+              "2": ["739"],
+              "3": ["572"],
+              "4": ["699"],
+              "5": ["398"],
+              "6": ["798"]
+            }
+          },
+          "0:8:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["15"],
+              "1": ["22"],
+              "2": ["10"],
+              "3": ["9"],
+              "4": ["7"],
+              "5": ["5"],
+              "6": ["7"]
+            }
+          },
+          "0:9:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5054"],
+              "1": ["5336"],
+              "2": ["5570"],
+              "3": ["5233"],
+              "4": ["4959"],
+              "5": ["4497"],
+              "6": ["4915"]
+            }
+          },
+          "0:9:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1583"],
+              "1": ["1814"],
+              "2": ["1805"],
+              "3": ["1779"],
+              "4": ["1792"],
+              "5": ["1592"],
+              "6": ["1701"]
+            }
+          },
+          "0:9:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6637"],
+              "1": ["7150"],
+              "2": ["7375"],
+              "3": ["7012"],
+              "4": ["6751"],
+              "5": ["6089"],
+              "6": ["6616"]
+            }
+          },
+          "0:9:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4680"],
+              "1": ["5336"],
+              "2": ["5553"],
+              "3": ["5412"],
+              "4": ["5051"],
+              "5": ["4524"],
+              "6": ["4848"]
+            }
+          },
+          "0:9:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4405"],
+              "1": ["4920"],
+              "2": ["5116"],
+              "3": ["5032"],
+              "4": ["4680"],
+              "5": ["4191"],
+              "6": ["4493"]
+            }
+          },
+          "0:9:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["275"],
+              "1": ["416"],
+              "2": ["436"],
+              "3": ["380"],
+              "4": ["371"],
+              "5": ["333"],
+              "6": ["355"]
+            }
+          },
+          "0:10:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1565"],
+              "1": ["1341"],
+              "2": ["1521"],
+              "3": ["1409"],
+              "4": ["1366"],
+              "5": ["1127"],
+              "6": ["1263"]
+            }
+          },
+          "0:10:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["425"],
+              "1": ["507"],
+              "2": ["546"],
+              "3": ["578"],
+              "4": ["524"],
+              "5": ["461"],
+              "6": ["473"]
+            }
+          },
+          "0:10:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1990"],
+              "1": ["1848"],
+              "2": ["2067"],
+              "3": ["1987"],
+              "4": ["1890"],
+              "5": ["1588"],
+              "6": ["1736"]
+            }
+          },
+          "0:10:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1458"],
+              "1": ["1382"],
+              "2": ["1565"],
+              "3": ["1499"],
+              "4": ["1458"],
+              "5": ["1229"],
+              "6": ["1302"]
+            }
+          },
+          "0:10:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1371"],
+              "1": ["1241"],
+              "2": ["1424"],
+              "3": ["1354"],
+              "4": ["1304"],
+              "5": ["1086"],
+              "6": ["1154"]
+            }
+          },
+          "0:10:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["86"],
+              "1": ["141"],
+              "2": ["141"],
+              "3": ["145"],
+              "4": ["154"],
+              "5": ["143"],
+              "6": ["148"]
+            }
+          },
+          "0:11:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5367"],
+              "1": ["5441"],
+              "2": ["5162"],
+              "3": ["5020"],
+              "4": ["5105"],
+              "5": ["4317"],
+              "6": ["4581"]
+            }
+          },
+          "0:11:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1562"],
+              "1": ["1670"],
+              "2": ["1679"],
+              "3": ["1704"],
+              "4": ["1857"],
+              "5": ["1516"],
+              "6": ["1585"]
+            }
+          },
+          "0:11:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6929"],
+              "1": ["7111"],
+              "2": ["6841"],
+              "3": ["6724"],
+              "4": ["6962"],
+              "5": ["5833"],
+              "6": ["6166"]
+            }
+          },
+          "0:11:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4764"],
+              "1": ["4974"],
+              "2": ["5089"],
+              "3": ["5053"],
+              "4": ["5157"],
+              "5": ["4364"],
+              "6": ["4582"]
+            }
+          },
+          "0:11:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4609"],
+              "1": ["4799"],
+              "2": ["4853"],
+              "3": ["4837"],
+              "4": ["4876"],
+              "5": ["4117"],
+              "6": ["4345"]
+            }
+          },
+          "0:11:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["155"],
+              "1": ["175"],
+              "2": ["236"],
+              "3": ["216"],
+              "4": ["281"],
+              "5": ["247"],
+              "6": ["237"]
+            }
+          },
+          "0:12:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1114"],
+              "1": ["1190"],
+              "2": ["1194"],
+              "3": ["1053"],
+              "4": ["1174"],
+              "5": ["866"],
+              "6": ["1166"]
+            }
+          },
+          "0:12:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["254"],
+              "1": ["273"],
+              "2": ["279"],
+              "3": ["291"],
+              "4": ["269"],
+              "5": ["254"],
+              "6": ["227"]
+            }
+          },
+          "0:12:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1368"],
+              "1": ["1463"],
+              "2": ["1473"],
+              "3": ["1344"],
+              "4": ["1443"],
+              "5": ["1120"],
+              "6": ["1393"]
+            }
+          },
+          "0:12:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1162"],
+              "1": ["1291"],
+              "2": ["1276"],
+              "3": ["1072"],
+              "4": ["1315"],
+              "5": ["960"],
+              "6": ["1299"]
+            }
+          },
+          "0:12:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1144"],
+              "1": ["1256"],
+              "2": ["1253"],
+              "3": ["1052"],
+              "4": ["1296"],
+              "5": ["945"],
+              "6": ["1290"]
+            }
+          },
+          "0:12:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["17"],
+              "1": ["36"],
+              "2": ["23"],
+              "3": ["20"],
+              "4": ["19"],
+              "5": ["15"],
+              "6": ["9"]
+            }
+          },
+          "0:13:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["16408"],
+              "1": ["15316"],
+              "2": ["15048"],
+              "3": ["15166"],
+              "4": ["14458"],
+              "5": ["11240"],
+              "6": ["14305"]
+            }
+          },
+          "0:13:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["3974"],
+              "1": ["5074"],
+              "2": ["5246"],
+              "3": ["4945"],
+              "4": ["5453"],
+              "5": ["5430"],
+              "6": ["5814"]
+            }
+          },
+          "0:13:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["20382"],
+              "1": ["20390"],
+              "2": ["20294"],
+              "3": ["20111"],
+              "4": ["19911"],
+              "5": ["16670"],
+              "6": ["20119"]
+            }
+          },
+          "0:13:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["13606"],
+              "1": ["14043"],
+              "2": ["14328"],
+              "3": ["15155"],
+              "4": ["14416"],
+              "5": ["11541"],
+              "6": ["14480"]
+            }
+          },
+          "0:13:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["13018"],
+              "1": ["13118"],
+              "2": ["13127"],
+              "3": ["14028"],
+              "4": ["13197"],
+              "5": ["10311"],
+              "6": ["13288"]
+            }
+          },
+          "0:13:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["588"],
+              "1": ["925"],
+              "2": ["1201"],
+              "3": ["1127"],
+              "4": ["1218"],
+              "5": ["1230"],
+              "6": ["1191"]
+            }
+          },
+          "0:14:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4703"],
+              "1": ["4526"],
+              "2": ["4345"],
+              "3": ["4274"],
+              "4": ["4146"],
+              "5": ["3076"],
+              "6": ["4207"]
+            }
+          },
+          "0:14:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1258"],
+              "1": ["1514"],
+              "2": ["1618"],
+              "3": ["1821"],
+              "4": ["1873"],
+              "5": ["1648"],
+              "6": ["1720"]
+            }
+          },
+          "0:14:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5961"],
+              "1": ["6040"],
+              "2": ["5963"],
+              "3": ["6095"],
+              "4": ["6019"],
+              "5": ["4724"],
+              "6": ["5927"]
+            }
+          },
+          "0:14:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["3925"],
+              "1": ["4126"],
+              "2": ["4188"],
+              "3": ["4611"],
+              "4": ["4297"],
+              "5": ["3340"],
+              "6": ["4291"]
+            }
+          },
+          "0:14:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["3710"],
+              "1": ["3765"],
+              "2": ["3687"],
+              "3": ["4082"],
+              "4": ["3721"],
+              "5": ["2735"],
+              "6": ["3759"]
+            }
+          },
+          "0:14:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["215"],
+              "1": ["361"],
+              "2": ["501"],
+              "3": ["529"],
+              "4": ["575"],
+              "5": ["605"],
+              "6": ["532"]
+            }
+          },
+          "0:15:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1035"],
+              "1": ["1252"],
+              "2": ["920"],
+              "3": ["1240"],
+              "4": ["1137"],
+              "5": ["940"],
+              "6": ["1123"]
+            }
+          },
+          "0:15:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["289"],
+              "1": ["339"],
+              "2": ["288"],
+              "3": ["252"],
+              "4": ["283"],
+              "5": ["310"],
+              "6": ["295"]
+            }
+          },
+          "0:15:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1324"],
+              "1": ["1591"],
+              "2": ["1208"],
+              "3": ["1492"],
+              "4": ["1420"],
+              "5": ["1250"],
+              "6": ["1418"]
+            }
+          },
+          "0:15:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["962"],
+              "1": ["1247"],
+              "2": ["945"],
+              "3": ["1218"],
+              "4": ["1135"],
+              "5": ["921"],
+              "6": ["1207"]
+            }
+          },
+          "0:15:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["898"],
+              "1": ["1175"],
+              "2": ["876"],
+              "3": ["1165"],
+              "4": ["1083"],
+              "5": ["833"],
+              "6": ["1122"]
+            }
+          },
+          "0:15:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["64"],
+              "1": ["72"],
+              "2": ["69"],
+              "3": ["53"],
+              "4": ["52"],
+              "5": ["88"],
+              "6": ["85"]
+            }
+          },
+          "0:16:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1762"],
+              "1": ["1789"],
+              "2": ["1977"],
+              "3": ["1908"],
+              "4": ["1933"],
+              "5": ["1557"],
+              "6": ["1748"]
+            }
+          },
+          "0:16:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["419"],
+              "1": ["438"],
+              "2": ["428"],
+              "3": ["433"],
+              "4": ["431"],
+              "5": ["368"],
+              "6": ["449"]
+            }
+          },
+          "0:16:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2181"],
+              "1": ["2227"],
+              "2": ["2405"],
+              "3": ["2341"],
+              "4": ["2364"],
+              "5": ["1925"],
+              "6": ["2197"]
+            }
+          },
+          "0:16:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1464"],
+              "1": ["1721"],
+              "2": ["1955"],
+              "3": ["1725"],
+              "4": ["1891"],
+              "5": ["1529"],
+              "6": ["1720"]
+            }
+          },
+          "0:16:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1417"],
+              "1": ["1664"],
+              "2": ["1884"],
+              "3": ["1681"],
+              "4": ["1839"],
+              "5": ["1493"],
+              "6": ["1671"]
+            }
+          },
+          "0:16:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["48"],
+              "1": ["57"],
+              "2": ["71"],
+              "3": ["44"],
+              "4": ["51"],
+              "5": ["36"],
+              "6": ["49"]
+            }
+          },
+          "0:17:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["8908"],
+              "1": ["7749"],
+              "2": ["7806"],
+              "3": ["7744"],
+              "4": ["7242"],
+              "5": ["5667"],
+              "6": ["7227"]
+            }
+          },
+          "0:17:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2008"],
+              "1": ["2783"],
+              "2": ["2912"],
+              "3": ["2439"],
+              "4": ["2866"],
+              "5": ["3104"],
+              "6": ["3350"]
+            }
+          },
+          "0:17:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["10916"],
+              "1": ["10532"],
+              "2": ["10718"],
+              "3": ["10183"],
+              "4": ["10108"],
+              "5": ["8771"],
+              "6": ["10577"]
+            }
+          },
+          "0:17:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["7254"],
+              "1": ["6949"],
+              "2": ["7240"],
+              "3": ["7602"],
+              "4": ["7093"],
+              "5": ["5751"],
+              "6": ["7262"]
+            }
+          },
+          "0:17:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6993"],
+              "1": ["6514"],
+              "2": ["6679"],
+              "3": ["7100"],
+              "4": ["6554"],
+              "5": ["5250"],
+              "6": ["6736"]
+            }
+          },
+          "0:17:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["260"],
+              "1": ["436"],
+              "2": ["561"],
+              "3": ["501"],
+              "4": ["539"],
+              "5": ["501"],
+              "6": ["526"]
+            }
+          },
+          "0:18:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["16501"],
+              "1": ["18596"],
+              "2": ["18626"],
+              "3": ["19047"],
+              "4": ["18342"],
+              "5": ["13736"],
+              "6": ["20117"]
+            }
+          },
+          "0:18:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["3369"],
+              "1": ["3974"],
+              "2": ["4139"],
+              "3": ["4224"],
+              "4": ["4521"],
+              "5": ["4129"],
+              "6": ["4929"]
+            }
+          },
+          "0:18:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["19870"],
+              "1": ["22570"],
+              "2": ["22765"],
+              "3": ["23271"],
+              "4": ["22863"],
+              "5": ["17865"],
+              "6": ["25046"]
+            }
+          },
+          "0:18:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["15095"],
+              "1": ["17576"],
+              "2": ["18037"],
+              "3": ["19459"],
+              "4": ["18927"],
+              "5": ["14313"],
+              "6": ["20550"]
+            }
+          },
+          "0:18:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["14318"],
+              "1": ["16423"],
+              "2": ["16855"],
+              "3": ["18401"],
+              "4": ["17745"],
+              "5": ["13220"],
+              "6": ["19412"]
+            }
+          },
+          "0:18:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["776"],
+              "1": ["1153"],
+              "2": ["1182"],
+              "3": ["1059"],
+              "4": ["1182"],
+              "5": ["1093"],
+              "6": ["1138"]
+            }
+          },
+          "0:19:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1550"],
+              "1": ["1886"],
+              "2": ["1756"],
+              "3": ["1795"],
+              "4": ["1842"],
+              "5": ["1225"],
+              "6": ["1930"]
+            }
+          },
+          "0:19:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["354"],
+              "1": ["382"],
+              "2": ["343"],
+              "3": ["386"],
+              "4": ["420"],
+              "5": ["342"],
+              "6": ["370"]
+            }
+          },
+          "0:19:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1904"],
+              "1": ["2268"],
+              "2": ["2099"],
+              "3": ["2181"],
+              "4": ["2262"],
+              "5": ["1567"],
+              "6": ["2300"]
+            }
+          },
+          "0:19:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1394"],
+              "1": ["1499"],
+              "2": ["1348"],
+              "3": ["1826"],
+              "4": ["1803"],
+              "5": ["1336"],
+              "6": ["1934"]
+            }
+          },
+          "0:19:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1334"],
+              "1": ["1426"],
+              "2": ["1269"],
+              "3": ["1768"],
+              "4": ["1754"],
+              "5": ["1274"],
+              "6": ["1896"]
+            }
+          },
+          "0:19:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["60"],
+              "1": ["73"],
+              "2": ["79"],
+              "3": ["59"],
+              "4": ["49"],
+              "5": ["62"],
+              "6": ["38"]
+            }
+          },
+          "0:20:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["294"],
+              "1": ["332"],
+              "2": ["403"],
+              "3": ["319"],
+              "4": ["390"],
+              "5": ["276"],
+              "6": ["411"]
+            }
+          },
+          "0:20:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["76"],
+              "1": ["73"],
+              "2": ["100"],
+              "3": ["82"],
+              "4": ["85"],
+              "5": ["71"],
+              "6": ["86"]
+            }
+          },
+          "0:20:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["370"],
+              "1": ["405"],
+              "2": ["503"],
+              "3": ["401"],
+              "4": ["475"],
+              "5": ["347"],
+              "6": ["497"]
+            }
+          },
+          "0:20:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["318"],
+              "1": ["337"],
+              "2": ["386"],
+              "3": ["301"],
+              "4": ["356"],
+              "5": ["290"],
+              "6": ["423"]
+            }
+          },
+          "0:20:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["280"],
+              "1": ["299"],
+              "2": ["354"],
+              "3": ["274"],
+              "4": ["338"],
+              "5": ["264"],
+              "6": ["393"]
+            }
+          },
+          "0:20:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["38"],
+              "1": ["38"],
+              "2": ["32"],
+              "3": ["27"],
+              "4": ["18"],
+              "5": ["26"],
+              "6": ["31"]
+            }
+          },
+          "0:21:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["7410"],
+              "1": ["7997"],
+              "2": ["7706"],
+              "3": ["7752"],
+              "4": ["7514"],
+              "5": ["5663"],
+              "6": ["8690"]
+            }
+          },
+          "0:21:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1505"],
+              "1": ["1762"],
+              "2": ["1875"],
+              "3": ["1995"],
+              "4": ["2144"],
+              "5": ["1944"],
+              "6": ["2535"]
+            }
+          },
+          "0:21:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["8915"],
+              "1": ["9759"],
+              "2": ["9581"],
+              "3": ["9747"],
+              "4": ["9658"],
+              "5": ["7607"],
+              "6": ["11225"]
+            }
+          },
+          "0:21:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6751"],
+              "1": ["7649"],
+              "2": ["7650"],
+              "3": ["8182"],
+              "4": ["7999"],
+              "5": ["5984"],
+              "6": ["9041"]
+            }
+          },
+          "0:21:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6444"],
+              "1": ["7138"],
+              "2": ["7204"],
+              "3": ["7697"],
+              "4": ["7453"],
+              "5": ["5470"],
+              "6": ["8514"]
+            }
+          },
+          "0:21:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["307"],
+              "1": ["511"],
+              "2": ["446"],
+              "3": ["485"],
+              "4": ["546"],
+              "5": ["514"],
+              "6": ["527"]
+            }
+          },
+          "0:22:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4854"],
+              "1": ["5503"],
+              "2": ["5984"],
+              "3": ["6118"],
+              "4": ["5521"],
+              "5": ["4258"],
+              "6": ["5681"]
+            }
+          },
+          "0:22:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["914"],
+              "1": ["1138"],
+              "2": ["1217"],
+              "3": ["1147"],
+              "4": ["1256"],
+              "5": ["1236"],
+              "6": ["1312"]
+            }
+          },
+          "0:22:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5768"],
+              "1": ["6641"],
+              "2": ["7201"],
+              "3": ["7265"],
+              "4": ["6777"],
+              "5": ["5494"],
+              "6": ["6993"]
+            }
+          },
+          "0:22:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4346"],
+              "1": ["5411"],
+              "2": ["5858"],
+              "3": ["6038"],
+              "4": ["5604"],
+              "5": ["4389"],
+              "6": ["5693"]
+            }
+          },
+          "0:22:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["4103"],
+              "1": ["5069"],
+              "2": ["5432"],
+              "3": ["5769"],
+              "4": ["5271"],
+              "5": ["4074"],
+              "6": ["5376"]
+            }
+          },
+          "0:22:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["244"],
+              "1": ["341"],
+              "2": ["426"],
+              "3": ["269"],
+              "4": ["333"],
+              "5": ["315"],
+              "6": ["318"]
+            }
+          },
+          "0:23:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["625"],
+              "1": ["696"],
+              "2": ["540"],
+              "3": ["584"],
+              "4": ["550"],
+              "5": ["451"],
+              "6": ["649"]
+            }
+          },
+          "0:23:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["116"],
+              "1": ["126"],
+              "2": ["139"],
+              "3": ["135"],
+              "4": ["141"],
+              "5": ["139"],
+              "6": ["133"]
+            }
+          },
+          "0:23:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["741"],
+              "1": ["822"],
+              "2": ["679"],
+              "3": ["719"],
+              "4": ["691"],
+              "5": ["590"],
+              "6": ["782"]
+            }
+          },
+          "0:23:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["606"],
+              "1": ["700"],
+              "2": ["595"],
+              "3": ["604"],
+              "4": ["605"],
+              "5": ["487"],
+              "6": ["653"]
+            }
+          },
+          "0:23:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["596"],
+              "1": ["663"],
+              "2": ["542"],
+              "3": ["552"],
+              "4": ["548"],
+              "5": ["437"],
+              "6": ["595"]
+            }
+          },
+          "0:23:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["10"],
+              "1": ["37"],
+              "2": ["53"],
+              "3": ["52"],
+              "4": ["57"],
+              "5": ["50"],
+              "6": ["58"]
+            }
+          },
+          "0:24:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1768"],
+              "1": ["2182"],
+              "2": ["2237"],
+              "3": ["2479"],
+              "4": ["2525"],
+              "5": ["1863"],
+              "6": ["2756"]
+            }
+          },
+          "0:24:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["404"],
+              "1": ["493"],
+              "2": ["465"],
+              "3": ["479"],
+              "4": ["475"],
+              "5": ["397"],
+              "6": ["493"]
+            }
+          },
+          "0:24:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2172"],
+              "1": ["2675"],
+              "2": ["2702"],
+              "3": ["2958"],
+              "4": ["3000"],
+              "5": ["2260"],
+              "6": ["3249"]
+            }
+          },
+          "0:24:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1678"],
+              "1": ["1980"],
+              "2": ["2200"],
+              "3": ["2507"],
+              "4": ["2559"],
+              "5": ["1827"],
+              "6": ["2806"]
+            }
+          },
+          "0:24:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1561"],
+              "1": ["1828"],
+              "2": ["2055"],
+              "3": ["2341"],
+              "4": ["2381"],
+              "5": ["1701"],
+              "6": ["2639"]
+            }
+          },
+          "0:24:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["117"],
+              "1": ["152"],
+              "2": ["146"],
+              "3": ["166"],
+              "4": ["179"],
+              "5": ["126"],
+              "6": ["167"]
+            }
+          },
+          "0:25:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["8813"],
+              "1": ["9781"],
+              "2": ["9056"],
+              "3": ["9020"],
+              "4": ["9171"],
+              "5": ["7624"],
+              "6": ["9730"]
+            }
+          },
+          "0:25:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1600"],
+              "1": ["1758"],
+              "2": ["2055"],
+              "3": ["1990"],
+              "4": ["2235"],
+              "5": ["2235"],
+              "6": ["2326"]
+            }
+          },
+          "0:25:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["10413"],
+              "1": ["11539"],
+              "2": ["11111"],
+              "3": ["11010"],
+              "4": ["11406"],
+              "5": ["9859"],
+              "6": ["12056"]
+            }
+          },
+          "0:25:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["7482"],
+              "1": ["8721"],
+              "2": ["8466"],
+              "3": ["9225"],
+              "4": ["9376"],
+              "5": ["8126"],
+              "6": ["9969"]
+            }
+          },
+          "0:25:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["7066"],
+              "1": ["8201"],
+              "2": ["7767"],
+              "3": ["8548"],
+              "4": ["8565"],
+              "5": ["7128"],
+              "6": ["9039"]
+            }
+          },
+          "0:25:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["416"],
+              "1": ["520"],
+              "2": ["699"],
+              "3": ["677"],
+              "4": ["811"],
+              "5": ["998"],
+              "6": ["930"]
+            }
+          },
+          "0:26:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["6765"],
+              "1": ["7372"],
+              "2": ["6794"],
+              "3": ["6723"],
+              "4": ["6868"],
+              "5": ["5569"],
+              "6": ["7414"]
+            }
+          },
+          "0:26:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1232"],
+              "1": ["1356"],
+              "2": ["1652"],
+              "3": ["1586"],
+              "4": ["1787"],
+              "5": ["1879"],
+              "6": ["1893"]
+            }
+          },
+          "0:26:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["7997"],
+              "1": ["8728"],
+              "2": ["8446"],
+              "3": ["8309"],
+              "4": ["8655"],
+              "5": ["7448"],
+              "6": ["9307"]
+            }
+          },
+          "0:26:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5857"],
+              "1": ["6824"],
+              "2": ["6678"],
+              "3": ["7028"],
+              "4": ["7273"],
+              "5": ["6227"],
+              "6": ["7829"]
+            }
+          },
+          "0:26:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["5479"],
+              "1": ["6324"],
+              "2": ["6005"],
+              "3": ["6385"],
+              "4": ["6496"],
+              "5": ["5275"],
+              "6": ["6960"]
+            }
+          },
+          "0:26:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["378"],
+              "1": ["500"],
+              "2": ["673"],
+              "3": ["643"],
+              "4": ["777"],
+              "5": ["953"],
+              "6": ["869"]
+            }
+          },
+          "0:27:0:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2048"],
+              "1": ["2409"],
+              "2": ["2262"],
+              "3": ["2297"],
+              "4": ["2303"],
+              "5": ["2055"],
+              "6": ["2316"]
+            }
+          },
+          "0:27:1:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["368"],
+              "1": ["402"],
+              "2": ["403"],
+              "3": ["404"],
+              "4": ["448"],
+              "5": ["356"],
+              "6": ["433"]
+            }
+          },
+          "0:27:2:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["2416"],
+              "1": ["2811"],
+              "2": ["2665"],
+              "3": ["2701"],
+              "4": ["2751"],
+              "5": ["2411"],
+              "6": ["2749"]
+            }
+          },
+          "0:27:3:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1625"],
+              "1": ["1897"],
+              "2": ["1788"],
+              "3": ["2197"],
+              "4": ["2103"],
+              "5": ["1899"],
+              "6": ["2140"]
+            }
+          },
+          "0:27:4:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["1587"],
+              "1": ["1877"],
+              "2": ["1762"],
+              "3": ["2164"],
+              "4": ["2070"],
+              "5": ["1854"],
+              "6": ["2079"]
+            }
+          },
+          "0:27:5:0:0:0:0:0:0:0:0:0:0": {
+            "attributes": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "annotations": [],
+            "observations": {
+              "0": ["38"],
+              "1": ["20"],
+              "2": ["26"],
+              "3": ["34"],
+              "4": ["34"],
+              "5": ["45"],
+              "6": ["61"]
+            }
+          }
+        }
+      }
+    ],
+    "structure": {
+      "name": "Principali dati",
+      "names": {
+        "it": "Principali dati",
+        "en": "Data summary"
+      },
+      "dimensions": {
+        "dataset": [],
+        "series": [
+          {
+            "id": "FREQ",
+            "name": "Frequenza",
+            "names": {
+              "it": "Frequenza",
+              "en": "Frequency"
+            },
+            "keyPosition": 0,
+            "roles": ["FREQ"],
+            "values": [
+              {
+                "id": "A",
+                "order": 0,
+                "name": "annuale",
+                "names": {
+                  "it": "annuale",
+                  "en": "annual"
+                }
+              }
+            ],
+            "annotations": [8]
+          },
+          {
+            "id": "REF_AREA",
+            "name": "Territorio",
+            "names": {
+              "it": "Territorio",
+              "en": "Territory"
+            },
+            "keyPosition": 1,
+            "roles": ["REF_AREA"],
+            "values": [
+              {
+                "id": "IT",
+                "order": 1,
+                "name": "Italia",
+                "names": {
+                  "it": "Italia",
+                  "en": "Italy"
+                },
+                "annotations": [9]
+              },
+              {
+                "id": "ITC",
+                "order": 4,
+                "name": "Nord-ovest",
+                "names": {
+                  "it": "Nord-ovest",
+                  "en": "Nord-ovest"
+                },
+                "parent": "IT",
+                "annotations": [10]
+              },
+              {
+                "id": "ITC1",
+                "order": 5,
+                "name": "Piemonte",
+                "names": {
+                  "it": "Piemonte",
+                  "en": "Piemonte"
+                },
+                "parent": "ITC",
+                "annotations": [11]
+              },
+              {
+                "id": "ITC2",
+                "order": 7,
+                "name": "Valle d'Aosta / Vallée d'Aoste",
+                "names": {
+                  "it": "Valle d'Aosta / Vallée d'Aoste",
+                  "en": "Valle d'Aosta / Vallée d'Aoste"
+                },
+                "parent": "ITC",
+                "annotations": [12]
+              },
+              {
+                "id": "ITC3",
+                "order": 9,
+                "name": "Liguria",
+                "names": {
+                  "it": "Liguria",
+                  "en": "Liguria"
+                },
+                "parent": "ITC",
+                "annotations": [13]
+              },
+              {
+                "id": "ITC4",
+                "order": 11,
+                "name": "Lombardia",
+                "names": {
+                  "it": "Lombardia",
+                  "en": "Lombardia"
+                },
+                "parent": "ITC",
+                "annotations": [14]
+              },
+              {
+                "id": "ITD",
+                "order": 13,
+                "name": "Nord-est",
+                "names": {
+                  "it": "Nord-est",
+                  "en": "Nord-est"
+                },
+                "parent": "IT",
+                "annotations": [15]
+              },
+              {
+                "id": "ITD1",
+                "order": 20,
+                "name": "Provincia Autonoma Bolzano / Bozen",
+                "names": {
+                  "it": "Provincia Autonoma Bolzano / Bozen",
+                  "en": "Provincia Autonoma Bolzano / Bozen"
+                },
+                "parent": "ITD",
+                "annotations": [16]
+              },
+              {
+                "id": "ITD2",
+                "order": 23,
+                "name": "Provincia Autonoma Trento",
+                "names": {
+                  "it": "Provincia Autonoma Trento",
+                  "en": "Provincia Autonoma Trento"
+                },
+                "parent": "ITD",
+                "annotations": [17]
+              },
+              {
+                "id": "ITD3",
+                "order": 26,
+                "name": "Veneto",
+                "names": {
+                  "it": "Veneto",
+                  "en": "Veneto"
+                },
+                "parent": "ITD",
+                "annotations": [18]
+              },
+              {
+                "id": "ITD4",
+                "order": 29,
+                "name": "Friuli-Venezia Giulia",
+                "names": {
+                  "it": "Friuli-Venezia Giulia",
+                  "en": "Friuli-Venezia Giulia"
+                },
+                "parent": "ITD",
+                "annotations": [19]
+              },
+              {
+                "id": "ITD5",
+                "order": 34,
+                "name": "Emilia-Romagna",
+                "names": {
+                  "it": "Emilia-Romagna",
+                  "en": "Emilia-Romagna"
+                },
+                "parent": "ITD",
+                "annotations": [20]
+              },
+              {
+                "id": "ITDA",
+                "order": 15,
+                "name": "Trentino Alto Adige / Südtirol",
+                "names": {
+                  "it": "Trentino Alto Adige / Südtirol",
+                  "en": "Trentino Alto Adige / Südtirol"
+                },
+                "parent": "ITD",
+                "annotations": [21]
+              },
+              {
+                "id": "ITE",
+                "order": 18,
+                "name": "Centro",
+                "names": {
+                  "it": "Centro",
+                  "en": "Centro (I)"
+                },
+                "parent": "IT",
+                "annotations": [22]
+              },
+              {
+                "id": "ITE1",
+                "order": 39,
+                "name": "Toscana",
+                "names": {
+                  "it": "Toscana",
+                  "en": "Toscana"
+                },
+                "parent": "ITE",
+                "annotations": [23]
+              },
+              {
+                "id": "ITE2",
+                "order": 44,
+                "name": "Umbria",
+                "names": {
+                  "it": "Umbria",
+                  "en": "Umbria"
+                },
+                "parent": "ITE",
+                "annotations": [24]
+              },
+              {
+                "id": "ITE3",
+                "order": 46,
+                "name": "Marche",
+                "names": {
+                  "it": "Marche",
+                  "en": "Marche"
+                },
+                "parent": "ITE",
+                "annotations": [25]
+              },
+              {
+                "id": "ITE4",
+                "order": 50,
+                "name": "Lazio",
+                "names": {
+                  "it": "Lazio",
+                  "en": "Lazio"
+                },
+                "parent": "ITE",
+                "annotations": [26]
+              },
+              {
+                "id": "ITF",
+                "order": 24,
+                "name": "Sud",
+                "names": {
+                  "it": "Sud",
+                  "en": "Sud"
+                },
+                "parent": "IT",
+                "annotations": [27]
+              },
+              {
+                "id": "ITF1",
+                "order": 53,
+                "name": "Abruzzo",
+                "names": {
+                  "it": "Abruzzo",
+                  "en": "Abruzzo"
+                },
+                "parent": "ITF",
+                "annotations": [28]
+              },
+              {
+                "id": "ITF2",
+                "order": 56,
+                "name": "Molise",
+                "names": {
+                  "it": "Molise",
+                  "en": "Molise"
+                },
+                "parent": "ITF",
+                "annotations": [29]
+              },
+              {
+                "id": "ITF3",
+                "order": 59,
+                "name": "Campania",
+                "names": {
+                  "it": "Campania",
+                  "en": "Campania"
+                },
+                "parent": "ITF",
+                "annotations": [30]
+              },
+              {
+                "id": "ITF4",
+                "order": 62,
+                "name": "Puglia",
+                "names": {
+                  "it": "Puglia",
+                  "en": "Puglia"
+                },
+                "parent": "ITF",
+                "annotations": [31]
+              },
+              {
+                "id": "ITF5",
+                "order": 65,
+                "name": "Basilicata",
+                "names": {
+                  "it": "Basilicata",
+                  "en": "Basilicata"
+                },
+                "parent": "ITF",
+                "annotations": [32]
+              },
+              {
+                "id": "ITF6",
+                "order": 71,
+                "name": "Calabria",
+                "names": {
+                  "it": "Calabria",
+                  "en": "Calabria"
+                },
+                "parent": "ITF",
+                "annotations": [33]
+              },
+              {
+                "id": "ITG",
+                "order": 27,
+                "name": "Isole",
+                "names": {
+                  "it": "Isole",
+                  "en": "Isole"
+                },
+                "parent": "IT",
+                "annotations": [34]
+              },
+              {
+                "id": "ITG1",
+                "order": 76,
+                "name": "Sicilia",
+                "names": {
+                  "it": "Sicilia",
+                  "en": "Sicilia"
+                },
+                "parent": "ITG",
+                "annotations": [35]
+              },
+              {
+                "id": "ITG2",
+                "order": 79,
+                "name": "Sardegna",
+                "names": {
+                  "it": "Sardegna",
+                  "en": "Sardegna"
+                },
+                "parent": "ITG",
+                "annotations": [36]
+              }
+            ],
+            "annotations": [37]
+          },
+          {
+            "id": "DATA_TYPE",
+            "name": "Indicatore",
+            "names": {
+              "it": "Indicatore",
+              "en": "Indicator"
+            },
+            "keyPosition": 2,
+            "roles": ["DATA_TYPE"],
+            "values": [
+              {
+                "id": "NCC",
+                "order": 163,
+                "name": "separazioni concesse dal tribunale",
+                "names": {
+                  "it": "separazioni concesse dal tribunale",
+                  "en": "separations granted by civil court"
+                },
+                "annotations": [38]
+              },
+              {
+                "id": "NCS",
+                "order": 164,
+                "name": "separazioni consensuali extragiudiziali",
+                "names": {
+                  "it": "separazioni consensuali extragiudiziali",
+                  "en": "extrajudicial consensual separations"
+                },
+                "annotations": [39]
+              },
+              {
+                "id": "NGS",
+                "order": 162,
+                "name": "separazioni concesse",
+                "names": {
+                  "it": "separazioni concesse",
+                  "en": "granted separations"
+                },
+                "annotations": [40]
+              },
+              {
+                "id": "NMCHUCS",
+                "order": 189,
+                "name": "figli minori affidati nelle separazioni",
+                "names": {
+                  "it": "figli minori affidati nelle separazioni",
+                  "en": "minor children under custody in separations"
+                },
+                "annotations": [41]
+              },
+              {
+                "id": "NMCHUCS_C",
+                "order": 190,
+                "name": "figli minori affidati nelle separazioni concesse dal tribunale",
+                "names": {
+                  "it": "figli minori affidati nelle separazioni concesse dal tribunale",
+                  "en": "minor children under custody in separations granted by civil court"
+                },
+                "annotations": [42]
+              },
+              {
+                "id": "NMCHUCS_E",
+                "order": 191,
+                "name": "figli minori affidati nelle separazioni consensuali extragiudiziali",
+                "names": {
+                  "it": "figli minori affidati nelle separazioni consensuali extragiudiziali",
+                  "en": "minor children under custody in extrajudicial consensual separations"
+                },
+                "annotations": [43]
+              }
+            ],
+            "annotations": [44]
+          },
+          {
+            "id": "JUDICIAL_SEPARATION",
+            "name": "Tipo di separazione giudiziale",
+            "names": {
+              "it": "Tipo di separazione giudiziale",
+              "en": "Type of judicial separation"
+            },
+            "keyPosition": 3,
+            "roles": ["JUDICIAL_SEPARATION"],
+            "values": [
+              {
+                "id": "TOT",
+                "order": 4,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                }
+              }
+            ],
+            "annotations": [45]
+          },
+          {
+            "id": "TYPE_PROCEED",
+            "name": "Modalità di esaurimento",
+            "names": {
+              "it": "Modalità di esaurimento",
+              "en": "Type of proceedings"
+            },
+            "keyPosition": 4,
+            "roles": ["TYPE_PROCEED"],
+            "values": [
+              {
+                "id": "TOT",
+                "order": 4,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                }
+              }
+            ],
+            "annotations": [46]
+          },
+          {
+            "id": "MARRIAGE_RITE",
+            "name": "Rito di celebrazione del matrimonio",
+            "names": {
+              "it": "Rito di celebrazione del matrimonio",
+              "en": "Rite of marriage celebration"
+            },
+            "keyPosition": 5,
+            "roles": ["MARRIAGE_RITE"],
+            "values": [
+              {
+                "id": "ALL",
+                "order": 2,
+                "name": "tutte le voci",
+                "names": {
+                  "it": "tutte le voci",
+                  "en": "all items"
+                }
+              }
+            ],
+            "annotations": [47]
+          },
+          {
+            "id": "MARRIAGE_DURATION",
+            "name": "Durata del matrimonio",
+            "names": {
+              "it": "Durata del matrimonio",
+              "en": "Marriage duration"
+            },
+            "keyPosition": 6,
+            "roles": ["MARRIAGE_DURATION"],
+            "values": [
+              {
+                "id": "TOTAL",
+                "order": 140,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                },
+                "annotations": [48]
+              }
+            ],
+            "annotations": [49]
+          },
+          {
+            "id": "YEAR_MARRIAGE",
+            "name": "Anno di matrimonio",
+            "names": {
+              "it": "Anno di matrimonio",
+              "en": "Year of marriage"
+            },
+            "keyPosition": 7,
+            "roles": ["YEAR_MARRIAGE"],
+            "values": [
+              {
+                "id": "ALL",
+                "order": 3553,
+                "name": "tutte le voci",
+                "names": {
+                  "it": "tutte le voci",
+                  "en": "all items"
+                },
+                "annotations": [50]
+              }
+            ],
+            "annotations": [51]
+          },
+          {
+            "id": "Y_CHILDREN_IN_CUSTODY",
+            "name": "Con figli affidati",
+            "names": {
+              "it": "Con figli affidati",
+              "en": "With children in custody"
+            },
+            "keyPosition": 8,
+            "roles": ["Y_CHILDREN_IN_CUSTODY"],
+            "values": [
+              {
+                "id": "9",
+                "order": 3,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                },
+                "annotations": [52]
+              }
+            ],
+            "annotations": [53]
+          },
+          {
+            "id": "NUMBER_OF_CHILDREN",
+            "name": "Numero di figli",
+            "names": {
+              "it": "Numero di figli",
+              "en": "Number of children"
+            },
+            "keyPosition": 9,
+            "roles": ["NUMBER_OF_CHILDREN"],
+            "values": [
+              {
+                "id": "TOT",
+                "order": 178,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                }
+              }
+            ],
+            "annotations": [54]
+          },
+          {
+            "id": "AGE_CHILDREN_IN_CUSTODY",
+            "name": "Età dei figli affidati",
+            "names": {
+              "it": "Età dei figli affidati",
+              "en": "Age of children in custody"
+            },
+            "keyPosition": 10,
+            "roles": ["AGE_CHILDREN_IN_CUSTODY"],
+            "values": [
+              {
+                "id": "Y_UN17",
+                "order": 80,
+                "name": "fino a 17 anni",
+                "names": {
+                  "it": "fino a 17 anni",
+                  "en": "until 17 years"
+                },
+                "annotations": [55]
+              }
+            ],
+            "annotations": [56]
+          },
+          {
+            "id": "NUMBER_OF_CHILD_CUSTODY",
+            "name": "Numero di figli affidati",
+            "names": {
+              "it": "Numero di figli affidati",
+              "en": "Number of children in custody"
+            },
+            "keyPosition": 11,
+            "roles": ["NUMBER_OF_CHILD_CUSTODY"],
+            "values": [
+              {
+                "id": "TOT",
+                "order": 178,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                }
+              }
+            ],
+            "annotations": [57]
+          },
+          {
+            "id": "TYPE_OF_CUSTODY",
+            "name": "Tipo di affidamento",
+            "names": {
+              "it": "Tipo di affidamento",
+              "en": "Type of custody"
+            },
+            "keyPosition": 12,
+            "roles": ["TYPE_OF_CUSTODY"],
+            "values": [
+              {
+                "id": "TOT",
+                "order": 4,
+                "name": "totale",
+                "names": {
+                  "it": "totale",
+                  "en": "total"
+                }
+              }
+            ],
+            "annotations": [58]
+          }
+        ],
+        "observation": [
+          {
+            "id": "TIME_PERIOD",
+            "name": "Tempo",
+            "names": {
+              "it": "Tempo",
+              "en": "Time"
+            },
+            "keyPosition": 13,
+            "roles": ["TIME_PERIOD"],
+            "values": [
+              {
+                "start": "2015-01-01T00:00:00Z",
+                "end": "2015-12-31T23:59:59Z",
+                "id": "2015",
+                "name": "2015",
+                "names": {
+                  "it": "2015"
+                }
+              },
+              {
+                "start": "2016-01-01T00:00:00Z",
+                "end": "2016-12-31T23:59:59Z",
+                "id": "2016",
+                "name": "2016",
+                "names": {
+                  "it": "2016"
+                }
+              },
+              {
+                "start": "2017-01-01T00:00:00Z",
+                "end": "2017-12-31T23:59:59Z",
+                "id": "2017",
+                "name": "2017",
+                "names": {
+                  "it": "2017"
+                }
+              },
+              {
+                "start": "2018-01-01T00:00:00Z",
+                "end": "2018-12-31T23:59:59Z",
+                "id": "2018",
+                "name": "2018",
+                "names": {
+                  "it": "2018"
+                }
+              },
+              {
+                "start": "2019-01-01T00:00:00Z",
+                "end": "2019-12-31T23:59:59Z",
+                "id": "2019",
+                "name": "2019",
+                "names": {
+                  "it": "2019"
+                }
+              },
+              {
+                "start": "2020-01-01T00:00:00Z",
+                "end": "2020-12-31T23:59:59Z",
+                "id": "2020",
+                "name": "2020",
+                "names": {
+                  "it": "2020"
+                }
+              },
+              {
+                "start": "2021-01-01T00:00:00Z",
+                "end": "2021-12-31T23:59:59Z",
+                "id": "2021",
+                "name": "2021",
+                "names": {
+                  "it": "2021"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "attributes": {
+        "dataSet": [
+          {
+            "id": "NOTE_DS",
+            "name": "Nota del dataset",
+            "names": {
+              "it": "Nota del dataset",
+              "en": "Dataset note"
+            },
+            "roles": ["NOTE_DS"],
+            "relationship": {
+              "none": {}
+            },
+            "values": [],
+            "annotations": [59]
+          }
+        ],
+        "series": [
+          {
+            "id": "NOTE_REF_AREA",
+            "name": "Territorio",
+            "names": {
+              "it": "Territorio",
+              "en": "Territory"
+            },
+            "roles": ["NOTE_REF_AREA"],
+            "relationship": {
+              "dimensions": ["REF_AREA"]
+            },
+            "values": [],
+            "annotations": [60]
+          },
+          {
+            "id": "NOTE_DATA_TYPE",
+            "name": "Indicatore",
+            "names": {
+              "it": "Indicatore",
+              "en": "Indicator"
+            },
+            "roles": ["NOTE_DATA_TYPE"],
+            "relationship": {
+              "dimensions": ["DATA_TYPE"]
+            },
+            "values": [],
+            "annotations": [61]
+          },
+          {
+            "id": "NOTE_JUDICIAL_SEPARATION",
+            "name": "Tipo di separazione giudiziale",
+            "names": {
+              "it": "Tipo di separazione giudiziale",
+              "en": "Type of judicial separation"
+            },
+            "roles": ["NOTE_JUDICIAL_SEPARATION"],
+            "relationship": {
+              "dimensions": ["JUDICIAL_SEPARATION"]
+            },
+            "values": [],
+            "annotations": [62]
+          },
+          {
+            "id": "NOTE_TYPE_PROCEED",
+            "name": "Modalità di esaurimento",
+            "names": {
+              "it": "Modalità di esaurimento",
+              "en": "Type of proceedings"
+            },
+            "roles": ["NOTE_TYPE_PROCEED"],
+            "relationship": {
+              "dimensions": ["TYPE_PROCEED"]
+            },
+            "values": [],
+            "annotations": [63]
+          },
+          {
+            "id": "NOTE_MARRIAGE_RITE",
+            "name": "Rito di celebrazione del matrimonio",
+            "names": {
+              "it": "Rito di celebrazione del matrimonio",
+              "en": "Rite of marriage celebration"
+            },
+            "roles": ["NOTE_MARRIAGE_RITE"],
+            "relationship": {
+              "dimensions": ["MARRIAGE_RITE"]
+            },
+            "values": [],
+            "annotations": [64]
+          },
+          {
+            "id": "NOTE_MARRIAGE_DURATION",
+            "name": "Durata del matrimonio",
+            "names": {
+              "it": "Durata del matrimonio",
+              "en": "Marriage duration"
+            },
+            "roles": ["NOTE_MARRIAGE_DURATION"],
+            "relationship": {
+              "dimensions": ["MARRIAGE_DURATION"]
+            },
+            "values": [],
+            "annotations": [65]
+          },
+          {
+            "id": "NOTE_YEAR_MARRIAGE",
+            "name": "Anno di matrimonio",
+            "names": {
+              "it": "Anno di matrimonio",
+              "en": "Year of marriage"
+            },
+            "roles": ["NOTE_YEAR_MARRIAGE"],
+            "relationship": {
+              "dimensions": ["YEAR_MARRIAGE"]
+            },
+            "values": [],
+            "annotations": [66]
+          },
+          {
+            "id": "NOTE_Y_CHILDREN_IN_CUSTODY",
+            "name": "Con figli affidati",
+            "names": {
+              "it": "Con figli affidati",
+              "en": "With children in custody"
+            },
+            "roles": ["NOTE_Y_CHILDREN_IN_CUSTODY"],
+            "relationship": {
+              "dimensions": ["Y_CHILDREN_IN_CUSTODY"]
+            },
+            "values": [],
+            "annotations": [67]
+          },
+          {
+            "id": "NOTE_NUMBER_OF_CHILDREN",
+            "name": "Numero di figli",
+            "names": {
+              "it": "Numero di figli",
+              "en": "Number of children"
+            },
+            "roles": ["NOTE_NUMBER_OF_CHILDREN"],
+            "relationship": {
+              "dimensions": ["NUMBER_OF_CHILDREN"]
+            },
+            "values": [],
+            "annotations": [68]
+          },
+          {
+            "id": "NOTE_AGE_CHILDREN_IN_CUSTODY",
+            "name": "Età dei figli affidati",
+            "names": {
+              "it": "Età dei figli affidati",
+              "en": "Age of children in custody"
+            },
+            "roles": ["NOTE_AGE_CHILDREN_IN_CUSTODY"],
+            "relationship": {
+              "dimensions": ["AGE_CHILDREN_IN_CUSTODY"]
+            },
+            "values": [],
+            "annotations": [69]
+          },
+          {
+            "id": "NOTE_NUMBER_OF_CHILD_CUSTODY",
+            "name": "Numero di figli affidati",
+            "names": {
+              "it": "Numero di figli affidati",
+              "en": "Number of children in custody"
+            },
+            "roles": ["NOTE_NUMBER_OF_CHILD_CUSTODY"],
+            "relationship": {
+              "dimensions": ["NUMBER_OF_CHILD_CUSTODY"]
+            },
+            "values": [],
+            "annotations": [70]
+          },
+          {
+            "id": "NOTE_TYPE_OF_CUSTODY",
+            "name": "Tipo di affidamento",
+            "names": {
+              "it": "Tipo di affidamento",
+              "en": "Type of custody"
+            },
+            "roles": ["NOTE_TYPE_OF_CUSTODY"],
+            "relationship": {
+              "dimensions": ["TYPE_OF_CUSTODY"]
+            },
+            "values": [],
+            "annotations": [71]
+          },
+          {
+            "id": "BASE_PER",
+            "name": "Anno base",
+            "names": {
+              "it": "Anno base",
+              "en": "Base year"
+            },
+            "roles": ["BASE_PER"],
+            "relationship": {
+              "dimensions": ["DATA_TYPE"]
+            },
+            "values": [],
+            "annotations": [72]
+          },
+          {
+            "id": "UNIT_MEAS",
+            "name": "Unità di misura",
+            "names": {
+              "it": "Unità di misura",
+              "en": "Measure unit"
+            },
+            "roles": ["UNIT_MEAS"],
+            "relationship": {
+              "dimensions": ["DATA_TYPE"]
+            },
+            "values": [],
+            "annotations": [73]
+          },
+          {
+            "id": "UNIT_MULT",
+            "name": "Unità di moltiplicazione",
+            "names": {
+              "it": "Unità di moltiplicazione",
+              "en": "Multiplication unit"
+            },
+            "roles": ["UNIT_MULT"],
+            "relationship": {
+              "dimensions": ["DATA_TYPE"]
+            },
+            "values": [],
+            "annotations": [74]
+          }
+        ],
+        "observation": [
+          {
+            "id": "OBS_STATUS",
+            "name": "Stato dell'osservazione",
+            "names": {
+              "it": "Stato dell'osservazione",
+              "en": "Observation status"
+            },
+            "roles": ["OBS_STATUS"],
+            "relationship": {
+              "primaryMeasure": "OBS_VALUE"
+            },
+            "values": [],
+            "annotations": [75]
+          }
+        ]
+      },
+      "annotations": [
+        {
+          "id": "NOT_DISPLAYED",
+          "title": "JUDICIAL_SEPARATION,TYPE_PROCEED,MARRIAGE_RITE,MARRIAGE_DURATION,YEAR_MARRIAGE,Y_CHILDREN_IN_CUSTODY,NUMBER_OF_CHILD_CUSTODY,AGE_CHILDREN_IN_CUSTODY,NUMBER_OF_CHILDREN,TYPE_OF_CUSTODY,NOTE_JUDICIAL_SEPARATION,NOTE_TYPE_PROCEED,NOTE_MARRIAGE_RITE,NOTE_MARRIAGE_DURATION,NOTE_YEAR_MARRIAGE,NOTE_Y_CHILDREN_IN_CUSTODY,NOTE_AGE_CHILDREN_IN_CUSTODY,NOTE_NUMBER_OF_CHILDREN,NOTE_NUMBER_OF_CHILD_CUSTODY,NOTE_TYPE_OF_CUSTODY",
+          "type": "NOT_DISPLAYED"
+        },
+        {
+          "id": "LAYOUT_ROW",
+          "title": "REF_AREA",
+          "type": "LAYOUT_ROW"
+        },
+        {
+          "id": "LAYOUT_COLUMN",
+          "title": "DATA_TYPE",
+          "type": "LAYOUT_COLUMN"
+        },
+        {
+          "id": "LAYOUT_FILTER",
+          "title": "FREQ,JUDICIAL_SEPARATION,TYPE_PROCEED,MARRIAGE_RITE,MARRIAGE_DURATION,YEAR_MARRIAGE,Y_CHILDREN_IN_CUSTODY,NUMBER_OF_CHILDREN,AGE_CHILDREN_IN_CUSTODY,NUMBER_OF_CHILD_CUSTODY,TYPE_OF_CUSTODY,TIME_PERIOD",
+          "type": "LAYOUT_FILTER"
+        },
+        {
+          "id": "METADATA_URL",
+          "title": "METADATA_URL",
+          "type": "METADATA_URL",
+          "text": "https://esploradati.istat.it/RefMeta/template/GenericMetadataTemplate.html?nodeId=DW&metadataSetId=MDS_DIFF_REPORT&reportId=DCIS_SEPARAZFIG1&lang=it&BaseUrlMDA=https://esploradati.istat.it/METADATA_API",
+          "texts": {
+            "it": "https://esploradati.istat.it/RefMeta/template/GenericMetadataTemplate.html?nodeId=DW&metadataSetId=MDS_DIFF_REPORT&reportId=DCIS_SEPARAZFIG1&lang=it&BaseUrlMDA=https://esploradati.istat.it/METADATA_API",
+            "en": "https://esploradati.istat.it/RefMeta/template/GenericMetadataTemplate.html?nodeId=DW&metadataSetId=MDS_DIFF_REPORT&reportId=DCIS_SEPARAZFIG1&lang=en&BaseUrlMDA=https://esploradati.istat.it/METADATA_API"
+          }
+        },
+        {
+          "id": "DDBDataflow",
+          "title": "851859858F7F55E81C027BB3764D67E3",
+          "type": "DDBDataflow"
+        },
+        {
+          "id": "LAST_UPDATE",
+          "title": "2024-03-08T11:57:22.451Z",
+          "type": "LAST_UPDATE"
+        },
+        {
+          "id": "BL_DCIS_SEPARAZFIG1_51869465DF",
+          "title": "51869465DFA262742FBD910A10D29DDE",
+          "type": "AssociatedCube"
+        },
+        {
+          "type": "ORDER",
+          "text": "7",
+          "texts": {
+            "it": "7",
+            "en": "7"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "2",
+          "texts": {
+            "it": "2",
+            "en": "2"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "8",
+          "texts": {
+            "it": "8",
+            "en": "8"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "9",
+          "texts": {
+            "it": "9",
+            "en": "9"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "1478",
+          "texts": {
+            "it": "1478",
+            "en": "1478"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "1572",
+          "texts": {
+            "it": "1572",
+            "en": "1572"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "1841",
+          "texts": {
+            "it": "1841",
+            "en": "1841"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "3769",
+          "texts": {
+            "it": "3769",
+            "en": "3769"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "3773",
+          "texts": {
+            "it": "3773",
+            "en": "3773"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "3893",
+          "texts": {
+            "it": "3893",
+            "en": "3893"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "4162",
+          "texts": {
+            "it": "4162",
+            "en": "4162"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "4838",
+          "texts": {
+            "it": "4838",
+            "en": "4838"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "5118",
+          "texts": {
+            "it": "5118",
+            "en": "5118"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "3770",
+          "texts": {
+            "it": "3770",
+            "en": "3770"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "5561",
+          "texts": {
+            "it": "5561",
+            "en": "5561"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "5563",
+          "texts": {
+            "it": "5563",
+            "en": "5563"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "5929",
+          "texts": {
+            "it": "5929",
+            "en": "5929"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "6044",
+          "texts": {
+            "it": "6044",
+            "en": "6044"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "6377",
+          "texts": {
+            "it": "6377",
+            "en": "6377"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "6817",
+          "texts": {
+            "it": "6817",
+            "en": "6817"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "6818",
+          "texts": {
+            "it": "6818",
+            "en": "6818"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "7194",
+          "texts": {
+            "it": "7194",
+            "en": "7194"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "7345",
+          "texts": {
+            "it": "7345",
+            "en": "7345"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "7971",
+          "texts": {
+            "it": "7971",
+            "en": "7971"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "8301",
+          "texts": {
+            "it": "8301",
+            "en": "8301"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "8464",
+          "texts": {
+            "it": "8464",
+            "en": "8464"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "9006",
+          "texts": {
+            "it": "9006",
+            "en": "9006"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "9007",
+          "texts": {
+            "it": "9007",
+            "en": "9007"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "9483",
+          "texts": {
+            "it": "9483",
+            "en": "9483"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "5",
+          "texts": {
+            "it": "5",
+            "en": "5"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "188",
+          "texts": {
+            "it": "188",
+            "en": "169"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "189",
+          "texts": {
+            "it": "189",
+            "en": "170"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "187",
+          "texts": {
+            "it": "187",
+            "en": "168"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "214",
+          "texts": {
+            "it": "214",
+            "en": "195"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "215",
+          "texts": {
+            "it": "215",
+            "en": "196"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "216",
+          "texts": {
+            "it": "216",
+            "en": "197"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "28",
+          "texts": {
+            "it": "28",
+            "en": "28"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "45",
+          "texts": {
+            "it": "45",
+            "en": "45"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "82",
+          "texts": {
+            "it": "82",
+            "en": "82"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "59",
+          "texts": {
+            "it": "59",
+            "en": "59"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "144",
+          "texts": {
+            "it": "144",
+            "en": "144"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "58",
+          "texts": {
+            "it": "58",
+            "en": "58"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "3670",
+          "texts": {
+            "it": "3670",
+            "en": "3669"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "187",
+          "texts": {
+            "it": "187",
+            "en": "187"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "6",
+          "texts": {
+            "it": "6",
+            "en": "6"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "89",
+          "texts": {
+            "it": "89",
+            "en": "89"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "64",
+          "texts": {
+            "it": "64",
+            "en": "64"
+          }
+        },
+        {
+          "id": "ORDER",
+          "title": "ORDER",
+          "type": "ORDER",
+          "text": "80",
+          "texts": {
+            "it": "80"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "5",
+          "texts": {
+            "it": "5",
+            "en": "5"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "63",
+          "texts": {
+            "it": "63",
+            "en": "63"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "81",
+          "texts": {
+            "it": "81",
+            "en": "81"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "10",
+          "texts": {
+            "it": "10",
+            "en": "10"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "2",
+          "texts": {
+            "it": "2",
+            "en": "2"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "121",
+          "texts": {
+            "it": "121",
+            "en": "121"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "138",
+          "texts": {
+            "it": "138",
+            "en": "138"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "175",
+          "texts": {
+            "it": "175",
+            "en": "175"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "152",
+          "texts": {
+            "it": "152",
+            "en": "152"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "151",
+          "texts": {
+            "it": "151",
+            "en": "151"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "188",
+          "texts": {
+            "it": "188",
+            "en": "188"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "182",
+          "texts": {
+            "it": "182",
+            "en": "182"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "157",
+          "texts": {
+            "it": "157",
+            "en": "157"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "98",
+          "texts": {
+            "it": "98",
+            "en": "98"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "156",
+          "texts": {
+            "it": "156",
+            "en": "156"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "174",
+          "texts": {
+            "it": "174",
+            "en": "174"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "11",
+          "texts": {
+            "it": "11",
+            "en": "11"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "12",
+          "texts": {
+            "it": "12",
+            "en": "12"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "13",
+          "texts": {
+            "it": "13",
+            "en": "13"
+          }
+        },
+        {
+          "type": "ORDER",
+          "text": "9",
+          "texts": {
+            "it": "9",
+            "en": "9"
+          }
+        }
+      ]
+    }
+  }
+}
