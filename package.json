@@ -35,7 +35,7 @@
     "@nivo/stream": "^0.84.0",
     "@nivo/treemap": "^0.85.1",
     "@sentry/nextjs": "^7.111.0",
-    "@tanstack/react-table": "^8.13.2",
+    "@tanstack/react-table": "^8.17.0",
     "@uidotdev/usehooks": "^2.4.1",
     "@vercel/analytics": "^1.2.2",
     "@vercel/speed-insights": "^1.0.10",
